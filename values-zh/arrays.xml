@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu_change_photo">
+        <item>@string/take_photo</item>
+        <item>@string/pick_photo</item>
+    </string-array>
+    <string-array name="max_number">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="location_names">
+        <item>@string/auto_language</item>
+        <item>Austria (AT)</item>
+        <item>Australia (AU)</item>
+        <item>Bulgaria (BG)</item>
+        <item>Egypt (EG)</item>
+        <item>Israel (IL)</item>
+        <item>Spain (ES)</item>
+        <item>Czech Republic (CZ)</item>
+        <item>Denmark (DK)</item>
+        <item>Switzerland (CH)</item>
+        <item>Germany (DE)</item>
+        <item>Liechtenstein (LI)</item>
+        <item>Greece (GR)</item>
+        <item>Canada (CA)</item>
+        <item>Britain (GB)</item>
+        <item>Ireland (IE)</item>
+        <item>India (IN)</item>
+        <item>New Zealand (NZ)</item>
+        <item>Singapore(SG)</item>
+        <item>United States (US)</item>
+        <item>South Africa (ZA)</item>
+        <item>Finland (FI)</item>
+        <item>France (FR)</item>
+        <item>Croatia (HR)</item>
+        <item>Hungary (HU)</item>
+        <item>Indonesia (ID)</item>
+        <item>Italy (IT)</item>
+        <item>Japan (JP)</item>
+        <item>Korean (KR)</item>
+        <item>Lithuania (LT)</item>
+        <item>Latvia (LV)</item>
+        <item>Norway (NO)</item>
+        <item>Belgium (BE)</item>
+        <item>Netherlands (NL)</item>
+        <item>Brazil (BR)</item>
+        <item>Poland (PL)</item>
+        <item>Portugal (PT)</item>
+        <item>Romania (RO)</item>
+        <item>Russia (RU)</item>
+        <item>Slovakia (SK)</item>
+        <item>Slovenia (SI)</item>
+        <item>Serbian (RS)</item>
+        <item>Sweden (SE)</item>
+        <item>Thailand (TH)</item>
+        <item>Philippines (PH)</item>
+        <item>Turkey (TR)</item>
+        <item>Ukraine (UA)</item>
+        <item>Vietnam (VN)</item>
+        <item>Hong Kong (HK)</item>
+        <item>Taiwan (TW)</item>
+        <item>中華人民共和國 (CN)</item>
+    </string-array>
+    <string-array name="profile_gender_array">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+    <string-array name="menu_share">
+        <item>新浪微博</item>
+        <item>騰訊微博</item>
+    </string-array>
+
+    <!-- Device Info params infomation -->
+    <string-array name="device">
+        <item>品牌</item>
+        <item>型號</item>
+        <item>設備串號</item>
+    </string-array>
+    <string-array name="dev_os">
+        <item>Android版本</item>
+        <item>Android SDK版本</item>
+        <item>內核</item>
+    </string-array>
+    <string-array name="dev_power">
+        <item>電量</item>
+        <item>溫度(℃)</item>
+    </string-array>
+    <string-array name="dev_cpu">
+        <item>CPU型號</item>
+        <item>核心數</item>
+        <item>頻率</item>
+    </string-array>
+    <string-array name="dev_gpu">
+        <item>GPU渲染器</item>
+        <item>供應商</item>
+        <item>GPU版本</item>
+        <item>解析度</item>
+        <item>螢幕尺寸</item>
+        <item>材質</item>
+        <item>螢幕密度</item>
+        <item>多點觸控</item>
+    </string-array>
+    <string-array name="dev_surface">
+        <item>重量</item>
+        <item>規格</item>
+        <item>顏色</item>
+    </string-array>
+    <string-array name="dev_transfer">
+        <item>GPS</item>
+        <item>WIFI</item>
+        <item>藍牙</item>
+    </string-array>
+    <string-array name="dev_storager">
+        <item>機身容量</item>
+        <item>運行記憶體</item>
+        <item>內置SD卡容量</item>
+        <item>外置SD卡容量</item>
+    </string-array>
+    <string-array name="dev_net">
+        <item>模式</item>
+        <item>網路介面</item>
+    </string-array>
+    <string-array name="dev_camera">
+        <item>後置攝像頭</item>
+        <item>前置攝像頭</item>
+        <item>視頻</item>
+        <item>拍照</item>
+        <item>感應器</item>
+    </string-array>
+    <string-array name="dev_others">
+        <item>方向感應器</item>
+        <item>重力感應器</item>
+        <item>加速度感應器</item>
+        <item>光照感應器</item>
+        <item>電子羅盤</item>
+        <item>距離感應器</item>
+        <item>陀螺儀感應器</item>
+        <item>設備溫度感應器</item>
+        <item>壓力感應器</item>
+        <item>空氣溫度感應器</item>
+        <item>濕度感應器</item>
+        <item>線性加速度感應器</item>
+        <item>旋轉向量感應器</item>
+    </string-array>
+    <string-array name="dev_basic">
+        <item>品牌</item>
+        <item>型號</item>
+        <item>Android版本</item>
+        <item>CPU型號</item>
+        <item>GPU渲染器</item>
+        <item>解析度</item>
+        <item>主攝像頭</item>
+        <item>設備串號</item>
+    </string-array>
+
+</resources>
