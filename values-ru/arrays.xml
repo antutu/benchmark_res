@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+<string-array name="menu_change_photo">
+    <item>@string/take_photo</item>
+    <item>@string/pick_photo</item>
+</string-array>
+<string-array name="max_number">
+<item>10</item><item>20</item>
+<item>30</item></string-array>
+<string-array name="location_names">
+<item>@string/auto_language</item>
+<item>Австрия (AT)</item>
+<item>Австралия (AU)</item>
+<item>Болгария (BG)</item>
+<item>Египет (EG)</item>
+<item>Израиль (IL)</item>
+<item>Испания (ES)</item>
+<item>Чешская Республика (CZ)</item>
+<item>Дания (DK)</item>
+<item>Швейцария (CH)</item>
+<item>Германия (DE)</item>
+<item>Лихтенштейн (LI)</item>
+<item>Греция (GR)</item>
+<item>Канада (CA)</item>
+<item>Великобритания (GB)</item>
+<item>Ирландия (IE)</item>
+<item>Индия (IN)</item>
+<item>Новая Зеландия (NZ)</item>
+<item>Сингапур (SG)</item>
+<item>США (US)</item>
+<item>ЮАР (ZA)</item>
+<item>Финляндия (FI)</item>
+<item>Франция (FR)</item>
+<item>Хорватия (HR)</item>
+<item>Венгрия (HU)</item>
+<item>Индонезия (ID)</item>
+<item>Италия (IT)</item>
+<item>Япония (JP)</item>
+<item>Корея (KR)</item>
+<item>Литва (LT)</item>
+<item>Латвия (LV)</item>
+<item>Норвегия (NO)</item>
+<item>Бельгия (BE)</item>
+<item>Голландия (NL)</item>
+<item>Бразилия (BR)</item>
+<item>Польша (PL)</item>
+<item>Португалия (PT)</item>
+<item>Румыния (RO)</item>
+<item>Россия (RU)</item>
+<item>Словакия (SK)</item>
+<item>Словения (SI)</item>
+<item>Сербия (RS)</item>
+<item>Швеция (SE)</item>
+<item>Тайланд (TH)</item>
+<item>Филиппины (PH)</item>
+<item>Турция (TR)</item>
+<item>Украина (UA)</item>
+<item>Вьетнам (VN)</item>
+<item>Гонконг (HK)</item>
+<item>Тайвань (TW)</item>
+<item>Китай (CN)</item>
+</string-array>
+<string-array name="profile_gender_array">
+<item>Мужской</item>
+<item>Женский</item>
+</string-array>
+<string-array name="menu_share">
+<item>Сина-Вейбо</item>
+<item>Трансенд-Вейбо</item>
+</string-array>
+<string-array name="device">
+<item>Торговая Марка</item>
+<item>Модель Устройствa</item>
+<item>IMEI</item></string-array>
+<string-array name="dev_os">
+<item>Версия Андроида</item>
+<item>Версия Андроида SDK</item>
+<item>Ядро</item>
+</string-array>
+<string-array name="dev_power">
+<item>Уровень Батареи</item>
+<item>Температура (℃)</item>
+</string-array>
+<string-array name="dev_cpu">
+<item>Модель</item>
+<item>Ядра</item>
+<item>Частота</item>
+</string-array>
+<string-array name="dev_gpu">
+<item>Графический процессор</item>
+<item>Продавец</item>
+<item>Версия GPU</item>
+<item>Разрешение</item>
+<item>Размер</item>
+<item>Материал</item>
+<item>Плотность</item>
+<item>Мультитач</item>
+</string-array>
+<string-array name="dev_surface">
+<item>Вес</item>
+<item>Параметры</item>
+<item>Цвет</item>
+</string-array>
+<string-array name="dev_transfer">
+<item>GPS</item>
+<item>WIFI</item>
+<item>Bluetooth</item>
+</string-array>
+<string-array name="dev_storager">
+<item>Память</item>
+<item>ЗУПВ (RAM)</item>
+<item>Внутренняя СД Карта</item>
+<item>Внешняя СД Карта</item>
+</string-array>
+<string-array name="dev_net">
+<item>Выбор</item>
+<item>Доступ</item>
+</string-array>
+<string-array name="dev_camera">
+<item>Задняя Камера</item>
+<item>Фронтальная Камера</item>
+<item>Параметры Видео</item>
+<item>Фотография</item>
+<item>Датчик</item>
+</string-array>
+<string-array name="dev_others">
+<item>Датчик Направления</item>
+<item>Гравитационный Датчик</item>
+<item>Датчик Приближённости</item>
+<item>Датчик Освещённости</item>
+<item>Компас</item>
+<item>Датчик Дистанции</item>
+<item>Датчик Гироскопа</item>
+<item>Датчик Температуры</item>
+<item>Датчик Давления</item>
+<item>Датчик Окружающей Температуры</item>
+<item>Датчик Относительной Влажности</item>
+<item>Датчик Линейного Ускорения</item>
+<item>Датчик Векторного Вращения</item>
+</string-array>
+<string-array name="dev_basic">
+<item>Марка</item>
+<item>Модель</item>
+<item>Оперативная Система</item>
+<item>Модель ЦП</item>
+<item>Модель GPU</item>
+<item>Разрешение</item>
+<item>Задняя Камера</item>
+<item>IMEI</item>
+</string-array>
+</resources>
