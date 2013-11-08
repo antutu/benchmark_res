@@ -25,6 +25,7 @@
     <string name="start_str">Test</string>
     <string name="full_test">Full Test</string>
     <string name="custom_test">Custom Test</string>
+    <string name="show_scores">Show</string>
     <string name="btn_detail">Details</string>
     <string name="stop_str">STOP</string>
     <string name="Phone">Phone model:</string>
@@ -158,6 +159,21 @@
     <string name="invalid_nk_name">Nick name error</string>
     <string name="cmp_result">Details</string>
     <string name="server_error">Server error</string>
+    
+    <string name="score_amazing">Amazing</string>
+    <string name="score_great">Great</string>
+    <string name="score_good_job">Good Job</string>
+    <string name="score_good">Good</string>
+    <string name="score_haha">Ha Ha</string>
+    <string name="score_tried">Really tried</string>
+    
+    <string name="device_level_6">You are the one</string>
+    <string name="device_level_5">You have the best device</string>
+    <string name="device_level_4">More tests, more confidence</string>
+    <string name="device_level_3">Test for courage</string>
+    <string name="device_level_2">Try Benchmark</string>
+    <string name="device_level_1">Make an effort</string>
+    <string name="start_test">Start</string>
     
     <string name="nickname_null">Nick name can not be empty</string>
     <string name="nickname_invalid">Nick name is too long</string>

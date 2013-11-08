@@ -29,6 +29,7 @@
     <string name="save">保 存</string>
     <string name="load_fail">載入資料失敗\n\n請檢查網路連結是否可用!</string>
     <string name="network_error">請檢查網路連接</string>
+    <string name="show_scores">炫耀</string>
     <string name="reload">重試</string>
     <string name="update">檢查更新</string>
     <string name="check_update">檢查更新&#8230;</string>
@@ -355,6 +356,21 @@
     <string name="login_and_share">登陸並微博分享</string>
     <string name="no_wechat">請先安裝微信</string>
 	<string name="get_info_failed">獲取首頁信息失敗</string>
+    
+	<string name="score_amazing">嘩，太令人驚喜了</string>
+    <string name="score_great">太出色啦</string>
+    <string name="score_good_job">很好啊</string>
+    <string name="score_good">還不錯嘛</string>
+    <string name="score_haha">呵呵</string>
+    <string name="score_tried">沒想到會這樣</string>
+	
+    <string name="device_level_6">沒有人可以阻擋你了</string>
+    <string name="device_level_5">你是最強大的</string>
+    <string name="device_level_4">多測試，更自信</string>
+    <string name="device_level_3">測試一下，鼓勵自己</string>
+    <string name="device_level_2">試試測試吧</string>
+    <string name="device_level_1">你要努力啊</string>
+    <string name="start_test">開始測試</string>
     
     <string name="donwload_plugin">正在下載，請稍等&#8230;</string>
     <string name="verify_fail">網路時間校驗失敗! 請檢查網路連結!</string>

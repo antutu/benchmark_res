@@ -341,6 +341,7 @@
     <string name="mega_pixel">百万像素</string>
     <string name="detail_scores">分数详情</string>
     <string name="submit_success">分数提交成功!</string>
+    <string name="show_scores">炫耀</string>
     <string name="share">分享</string>
     <string name="test_verify_title">网络时间校验</string>
     <string name="test_verify">通过网络时间校验分数</string>
@@ -361,6 +362,21 @@
 	<string name="get_info_failed">获取首页信息失败</string>
 	<string name="ke">克</string>
 
+	<string name="score_amazing">哗，太令人惊喜了</string>
+    <string name="score_great">太出色啦</string>
+    <string name="score_good_job">很好啊</string>
+    <string name="score_good">还不错嘛</string>
+    <string name="score_haha">呵呵</string>
+    <string name="score_tried">没想到会这样</string>
+    
+    <string name="device_level_6">没有人可以阻挡你了</string>
+    <string name="device_level_5">你是最强大的</string>
+    <string name="device_level_4">多测试，更自信</string>
+    <string name="device_level_3">测试一下，鼓励自己</string>
+    <string name="device_level_2">试试测试吧</string>
+    <string name="device_level_1">你要努力啊</string>
+    <string name="start_test">开始测试</string>
+    
     <string name="donwload_plugin">正在下载，请稍等&#8230;</string>
     <string name="verify_fail">网络时间校验失败! 请检查网络链接!</string>
     <string name="gles2_test">OpenGL ES 2.0 测试</string>
