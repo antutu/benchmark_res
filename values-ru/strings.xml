@@ -19,7 +19,7 @@
     <string name="prompt_net">Сеть недоступна!</string>
     <string name="warning">Внимание</string>
     <string name="sd_desc">Нужно минимум 500МБ свободного места для тестирования SD-карты!</string>
-    <string name="cancel">Отменить тест</string>
+    <string name="cancel">Отменить</string>
     <string name="confirm">Применить</string>
     <string name="skip">Пропустить</string>
     <string name="start_str">Тестировать</string>
