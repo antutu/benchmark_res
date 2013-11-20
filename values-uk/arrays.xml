@@ -1,0 +1,156 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resources>
+
+    <string-array name="menu_change_photo">
+        <item>@string/take_photo</item>
+        <item>@string/pick_photo</item>
+    </string-array>
+    <string-array name="max_number">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="location_names">
+        <item>@string/auto_language</item>
+        <item>Австрія (AT)</item>
+        <item>Австралія (AU)</item>
+        <item>Болгарія (BG)</item>
+        <item>Єгипет (EG)</item>
+        <item>Ізраїль (IL)</item>
+        <item>Іспанія (ES)</item>
+        <item>Чешська Республіка (CZ)</item>
+        <item>Данія (DK)</item>
+        <item>Швейцарія (CH)</item>
+        <item>Германія (DE)</item>
+        <item>Ліхтенштейн (LI)</item>
+        <item>Греція (GR)</item>
+        <item>Канада (CA)</item>
+        <item>Великобританія (GB)</item>
+        <item>Ірландія (IE)</item>
+        <item>Індія (IN)</item>
+        <item>Нова Зеландія (NZ)</item>
+        <item>Сингапур (SG)</item>
+        <item>США (US)</item>
+        <item>ЮАР (ZA)</item>
+        <item>Фінляндія (FI)</item>
+        <item>Франція (FR)</item>
+        <item>Хорватія (HR)</item>
+        <item>Венгрія (HU)</item>
+        <item>Индонезія (ID)</item>
+        <item>Італія (IT)</item>
+        <item>Японія (JP)</item>
+        <item>Корея (KR)</item>
+        <item>Литва (LT)</item>
+        <item>Латвія (LV)</item>
+        <item>Норвегія (NO)</item>
+        <item>Бельгія (BE)</item>
+        <item>Голландія (NL)</item>
+        <item>Бразилія (BR)</item>
+        <item>Польща (PL)</item>
+        <item>Португалія (PT)</item>
+        <item>Румунія (RO)</item>
+        <item>Росія (RU)</item>
+        <item>Словакія (SK)</item>
+        <item>Словенія (SI)</item>
+        <item>Сербія (RS)</item>
+        <item>Швеція (SE)</item>
+        <item>Тайланд (TH)</item>
+        <item>Філіпіни (PH)</item>
+        <item>Турція (TR)</item>
+        <item>Україна (UA)</item>
+        <item>В\'єтнам (VN)</item>
+        <item>Гонконг (HK)</item>
+        <item>Тайвань (TW)</item>
+        <item>Китай (CN)</item>
+    </string-array>
+    <string-array name="profile_gender_array">
+        <item>Чоловіча</item>
+        <item>Жіноча</item>
+    </string-array>
+    <string-array name="menu_share">
+        <item>Сина-Вейбо</item>
+        <item>Трансенд-Вейбо</item>
+    </string-array>
+    <string-array name="device">
+        <item>Виробник</item>
+        <item>Модель пристрою</item>
+        <item>IMEI</item>
+    </string-array>
+    <string-array name="dev_os">
+        <item>Версія Android</item>
+        <item>Версія SDK</item>
+        <item>Версія ядра</item>
+    </string-array>
+    <string-array name="dev_power">
+        <item>Заряд батареї</item>
+        <item>Температура (℃)</item>
+    </string-array>
+    <string-array name="dev_cpu">
+        <item>Модель процесора</item>
+        <item>Кількість ядер</item>
+        <item>Тактова частота</item>
+    </string-array>
+    <string-array name="dev_gpu">
+        <item>Графічний процесор</item>
+        <item>Виробник</item>
+        <item>Версія GPU</item>
+        <item>Роздільість дисплею</item>
+        <item>Розмір екрану</item>
+        <item>Матриця</item>
+        <item>Щільність пікселів</item>
+        <item>Мультитач</item>
+    </string-array>
+    <string-array name="dev_surface">
+        <item>Вага пристрою</item>
+        <item>Специфікації</item>
+        <item>Колір</item>
+    </string-array>
+    <string-array name="dev_transfer">
+        <item>GPS</item>
+        <item>WIFI</item>
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="dev_storager">
+        <item>Пам\'ять пристрою</item>
+        <item>ОЗП</item>
+        <item>Внутрішня пам\'ять</item>
+        <item>Зовнішня SD-карта</item>
+    </string-array>
+    <string-array name="dev_net">
+        <item>Доступ</item>
+        <item>Доступ</item>
+    </string-array>
+    <string-array name="dev_camera">
+        <item>Задня камера</item>
+        <item>Фронтальна камера</item>
+        <item>Роздільність відео</item>
+        <item>Фотографія</item>
+        <item>Датчик</item>
+    </string-array>
+    <string-array name="dev_others">
+        <item>Датчик напряму</item>
+        <item>Акселерометр</item>
+        <item>Датчик приближення</item>
+        <item>Датчик освітлення</item>
+        <item>Магнітний компас</item>
+        <item>Датчик дистанції</item>
+        <item>Гіроскоп</item>
+        <item>Термометр</item>
+        <item>Барометр</item>
+        <item>Термометр навколишнього середовища</item>
+        <item>Датчик вологості</item>
+        <item>Датчик лінійного прискорення</item>
+        <item>Датчик векторного оберту</item>
+    </string-array>
+    <string-array name="dev_basic">
+        <item>Виробник</item>
+        <item>Модель</item>
+        <item>Операційна система</item>
+        <item>Модель процесора</item>
+        <item>Модель GPU</item>
+        <item>Роздільність дисплею</item>
+        <item>Задня камера</item>
+        <item>IMEI</item>
+    </string-array>
+
+</resources>
