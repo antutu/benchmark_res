@@ -1,0 +1,159 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="menu_change_photo">
+        <item>@string/take_photo</item>
+        <item>@string/pick_photo</item>
+    </string-array>
+    <string-array name="max_number">
+        <item>10</item>
+        <item>20</item>
+        <item>30</item>
+    </string-array>
+    <string-array name="location_names">
+        <item>@string/auto_language</item>
+        <item>Austria (AT)</item>
+        <item>Australia (AU)</item>
+        <item>Bulgaria (BG)</item>
+        <item>Egypt (EG)</item>
+        <item>Israel (IL)</item>
+        <item>Spain (ES)</item>
+        <item>Czech Republic (CZ)</item>
+        <item>Denmark (DK)</item>
+        <item>Switzerland (CH)</item>
+        <item>Germany (DE)</item>
+        <item>Liechtenstein (LI)</item>
+        <item>Greece (GR)</item>
+        <item>Canada (CA)</item>
+        <item>Britain (GB)</item>
+        <item>Ireland (IE)</item>
+        <item>India (IN)</item>
+		<item>Indonesia (ID)</item>
+        <item>New Zealand (NZ)</item>
+        <item>Singapore(SG)</item>
+        <item>United States (US)</item>
+        <item>South Africa (ZA)</item>
+        <item>Finland (FI)</item>
+        <item>France (FR)</item>
+        <item>Croatia (HR)</item>
+        <item>Hungary (HU)</item>
+        <item>Indonesia (ID)</item>
+        <item>Italy (IT)</item>
+        <item>Japan (JP)</item>
+        <item>Korean (KR)</item>
+        <item>Lithuania (LT)</item>
+        <item>Latvia (LV)</item>
+        <item>Norway (NO)</item>
+        <item>Belgium (BE)</item>
+        <item>Netherlands (NL)</item>
+        <item>Brazil (BR)</item>
+        <item>Poland (PL)</item>
+        <item>Portugal (PT)</item>
+        <item>Romania (RO)</item>
+        <item>Russia (RU)</item>
+        <item>Slovakia (SK)</item>
+        <item>Slovenia (SI)</item>
+        <item>Serbian (RS)</item>
+        <item>Sweden (SE)</item>
+        <item>Thailand (TH)</item>
+        <item>Philippines (PH)</item>
+        <item>Turkey (TR)</item>
+        <item>Ukraine (UA)</item>
+        <item>Vietnam (VN)</item>
+        <item>Hong Kong (HK)</item>
+        <item>Taiwan (TW)</item>
+        <item>中华人民共和国 (CN)</item>
+    </string-array>
+    <string-array name="profile_gender_array">
+        <item>Laki-laki</item>
+        <item>Perempuan</item>
+    </string-array>
+    <string-array name="menu_share">
+        <item>新浪微博</item>
+        <item>腾讯微博</item>
+    </string-array>
+
+    <!-- Device Info params infomation -->
+    <string-array name="device">
+        <item>Merek</item>
+        <item>Model Perangkat</item>
+        <item>IMEI</item>
+    </string-array>
+    <string-array name="dev_os">
+        <item>Versi Android</item>
+        <item>Versi SDK Android</item>
+        <item>Kernel</item>
+    </string-array>
+    <string-array name="dev_power">
+        <item>Level Baterai</item>
+        <item>Suhu(℃)</item>
+    </string-array>
+    <string-array name="dev_cpu">
+        <item>Model</item>
+        <item>Cores</item>
+        <item>Frekuensi</item>
+    </string-array>
+    <string-array name="dev_gpu">
+        <item>Renderer</item>
+        <item>Vender</item>
+        <item>Versi GPU</item>
+        <item>Resolusi</item>
+        <item>Ukuran</item>
+        <item>Material</item>
+        <item>Kerapatan</item>
+        <item>Multi-touch</item>
+    </string-array>
+    <string-array name="dev_surface">
+        <item>Berat</item>
+        <item>Spesifikasi</item>
+        <item>Warna</item>
+    </string-array>
+    <string-array name="dev_transfer">
+        <item>GPS</item>
+        <item>WIFI</item>
+        <item>Bluetooth</item>
+    </string-array>
+    <string-array name="dev_storager">
+        <item>Memory</item>
+        <item>RAM</item>
+        <item>Kartu SD Internal</item>
+        <item>Kartu SD Eksternal</item>
+    </string-array>
+    <string-array name="dev_net">
+        <item>Mode</item>
+        <item>Akses</item>
+    </string-array>
+    <string-array name="dev_camera">
+        <item>Kamera Belakang</item>
+        <item>Kamera Depan</item>
+        <item>Spesifikasi Kamera</item>
+        <item>Fotografi</item>
+        <item>Sensor</item>
+    </string-array>
+    <string-array name="dev_others">
+        <item>Sensor Deteksi</item>
+        <item>G-Sensor</item>
+        <item>Proximity Sensor</item>
+        <item>Light Sensor</item>
+        <item>E-Compass</item>
+        <item>Sensor Jarak</item>
+        <item>Gyro Sensor</item>
+        <item>Sensor Suhu</item>
+        <item>Sensor Tekanan</item>
+        <item>Sensor Suhu Lingkungan</item>
+        <item>Sensor Kelembaban Relatif</item>
+        <item>Sensor Percepatan Linear</item>
+        <item>Sensor Rotasi Vektor</item>
+    </string-array>
+    <string-array name="dev_basic">
+        <item>Merk</item>
+        <item>Model</item>
+        <item>OS</item>
+        <item>CPU Model</item>
+        <item>GPU Renderer</item>
+        <item>Resolution</item>
+        <item>Rear Camera</item>
+        <item>IMEI</item>
+    </string-array>
+
+</resources>
