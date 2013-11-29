@@ -117,6 +117,7 @@
     <string name="login_and_share">login and share</string>
     <string name="no_wechat">Wechat not found</string>
     <string name="get_info_failed">Get home page information failed</string>
+    <string name="yanji">鉴别真伪</string>
     
     <string name="c_info_total">Total Score</string>
     <string name="c_info_dalvik">Dalvik</string>
@@ -160,11 +161,12 @@
     <string name="cmp_result">Details</string>
     <string name="server_error">Server error</string>
     
+    <string name="score_god">WOW! Monster!</string>
     <string name="score_amazing">Amazing</string>
     <string name="score_great">Great</string>
     <string name="score_good_job">Good Job</string>
     <string name="score_good">Good</string>
-    <string name="score_haha">Ha Ha</string>
+    <string name="score_haha">Not too bad</string>
     <string name="score_tried">Really tried</string>
     
     <string name="device_level_6">You are the one</string>
@@ -186,6 +188,7 @@
     <string name="new_single_medal_title">Congratulations, you have a new medal!</string>
     <string name="new_medals_title">Congratulations, you have new medals! (%1$d/%2$d)</string>
     <string name="pwd_length_error">Password length should in 6&#8211;14 characters</string>
+    <string name="load_photo_failed">Failed to load photo</string>
     
     <string name="feedback_successful">Submitted.Thanks for your feedback.</string>
     
@@ -358,7 +361,7 @@
     <string name="tab_main_bbs">Forum</string>
     <string name="initializing">Initializing&#8230;</string>
     <string name="stability">Stability</string>
-    <string name="stability_title">Stability Result - AnTuTu Benchmark</string>
+    <string name="stability_title">Stability Result</string>
     <string name="stability_test">Stability Test</string>
     <string name="stability_info">Stability Chart</string>
     <string name="stability_info2">Test stability of the system</string>
@@ -484,6 +487,7 @@
     <string name="no_support_preview_gpu">Preview copy dose not support this plugin, please wait for the final version</string>
     <string name="need_download_es20">Download 3DRating for OpenGL ES 2.0?</string>
     <string name="need_download_es30">Download 3DRating for OpenGL ES 3.0?</string>
+	<string name="need_download_yanji">Download Antutu Device Validator?</string>
     
     <string name="download_market">Download from Google Play</string>
     <string name="download_website">Download from Website</string>
@@ -520,4 +524,31 @@
     
     <string name="attention">Attention</string>
     <string name="bench_error">Benchmarking has stop unexpectedly, please try again!</string>
+    <string name="sd_full">Insufficient SD card space!</string>
+    
+    <string name="score_cpu_prefix">CPU:&#160;</string>
+    <string name="score_cpu_float_800">Poor, Can not run large apps smoothly.&#160;</string>
+    <string name="score_cpu_float_1500">General, Supports most apps.&#160;</string>
+    <string name="score_cpu_float_3000">Good, Supports large apps and multitasking.&#160;</string>
+    <string name="score_cpu_float_5000">Excellent, Supports large apps with excellent multitasking.&#160;</string>
+    
+    <string name="score_ram_preflix">RAM:&#160;</string>
+    <string name="score_ram_800">Poor,&#160;</string>
+    <string name="score_ram_2000">General,&#160;</string>
+    <string name="score_ram_3000">Good,&#160;</string>
+    <string name="score_ram_5000">Excellent,&#160;</string>
+    
+    <string name="score_gpu_2d_preflix">2D graphics:&#160;</string>
+    <string name="score_gpu_2d_500">Poor,&#160;</string>
+    <string name="score_gpu_2d_1000">General,&#160;</string>
+    <string name="score_gpu_2d_1500">Good,&#160;</string>
+    <string name="score_gpu_2d_3000">Excellent,&#160;</string>
+    
+    <string name="score_gpu_3d_preflix">3D graphics:&#160;</string>
+    <string name="score_gpu_3d_1200">Poor, Cannot fluently support many games.</string>
+    <string name="score_gpu_3d_3000">General, Supports most games on it.</string>
+    <string name="score_gpu_3d_5000">Good, Fluently support most games.</string>
+    <string name="score_gpu_3d_10000">Excellent, Fluently support large mobile games.</string>
+    
+    <string name="download_format">Downloading %s, please wait&#8230;</string>
 </resources>

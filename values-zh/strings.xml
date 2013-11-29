@@ -120,6 +120,7 @@
     <string name="no_support_preview_gpu">預覽版不支持下載該外掛程式，請等待正式版</string>
     <string name="need_download_es20">下載 3DRating (OpenGL ES 2.0) ？</string>
     <string name="need_download_es30">下載 3DRating (OpenGL ES 3.0) ？</string>
+  	<string name="need_download_yanji">下載安兔兔驗機?</string>
     <string name="download_market">從電子市場下載</string>
     <string name="download_website">直接從網站下載</string>
     <string name="rank_list">Top 20</string>
@@ -267,6 +268,7 @@
     <string name="change_photo">更改頭像</string>
     <string name="take_photo">拍照</string>
     <string name="pick_photo">從圖庫中選擇</string>
+    <string name="load_photo_failed">照片載入失敗</string>
     <string name="name">昵稱</string>
     <string name="email">郵箱</string>
     <string name="password">密碼</string>
@@ -357,12 +359,13 @@
     <string name="no_wechat">請先安裝微信</string>
 	<string name="get_info_failed">獲取首頁信息失敗</string>
     
+	<string name="score_god">上帝啊</string>
 	<string name="score_amazing">嘩，太令人驚喜了</string>
-    <string name="score_great">太出色啦</string>
-    <string name="score_good_job">很好啊</string>
+    <string name="score_great">霸氣外露啦</string>
+    <string name="score_good_job">其實我內心很強大</string>
     <string name="score_good">還不錯嘛</string>
-    <string name="score_haha">呵呵</string>
-    <string name="score_tried">沒想到會這樣</string>
+    <string name="score_haha">有待優化哦</string>
+    <string name="score_tried">不理想，再試試？</string>
 	
     <string name="device_level_6">沒有人可以阻擋你了</string>
     <string name="device_level_5">你是最強大的</string>
@@ -371,6 +374,31 @@
     <string name="device_level_2">試試測試吧</string>
     <string name="device_level_1">你要努力啊</string>
     <string name="start_test">開始測試</string>
+    
+    
+    <string name="score_cpu_prefix">CPU性能：</string>
+    <string name="score_cpu_float_800">非常差，無法很好運行稍大的軟件。</string>
+    <string name="score_cpu_float_1500">一般，多數軟件可以運行。</string>
+    <string name="score_cpu_float_3000">較好，能運行大型軟件，還能同時運行多個軟件了。</string>
+    <string name="score_cpu_float_5000">非常好，能運行大型軟件，同時還有強大的多任務處理，反應迅速。</string>
+    
+    <string name="score_ram_preflix">内存性能：</string>
+    <string name="score_ram_800">非常差；</string>
+    <string name="score_ram_2000">一般；</string>
+    <string name="score_ram_3000">較好；</string>
+    <string name="score_ram_5000">非常好；</string>
+    
+    <string name="score_gpu_2d_preflix">2D圖形性能：</string>
+    <string name="score_gpu_2d_500">非常差；</string>
+    <string name="score_gpu_2d_1000">一般；</string>
+    <string name="score_gpu_2d_1500">較好；</string>
+    <string name="score_gpu_2d_3000">非常好；</string>
+    
+    <string name="score_gpu_3d_preflix">3D圖形性能：</string>
+    <string name="score_gpu_3d_1200">非常差，許多遊戲都不能流暢地玩。</string>
+    <string name="score_gpu_3d_3000">一般，可以玩多數遊戲。</string>
+    <string name="score_gpu_3d_5000">較好，能流暢玩大多數遊戲了。</string>
+    <string name="score_gpu_3d_10000">非常好，能滿足最大型遊戲的要求，享受飛躍的感覺。</string>
     
     <string name="donwload_plugin">正在下載，請稍等&#8230;</string>
     <string name="verify_fail">網路時間校驗失敗! 請檢查網路連結!</string>
@@ -391,4 +419,7 @@
 	
 	<string name="attention">注意</string>
     <string name="bench_error">測試專案被意外終止, 請重試!</string>
+    <string name="sd_full">SD卡空間不足!</string>
+    
+    <string name="download_format">正在下載%s，請稍等&#8230;</string>
 </resources>
