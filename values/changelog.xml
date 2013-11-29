@@ -1,0 +1,358 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="changelog">
+\n
+v4.1.3\n
+ &#8211; Support MEIZU SmartBar.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Add Ukrainian translate.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.1.2\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.1.1\n
+ &#8211; Support get real resolution on device which has navigation bar\n
+ &#8211; Improved some UI details and animations.\n
+ &#8211; Fixed some bug.\n
+\n
+v4.1\n
+ &#8211; Redesign the UI of main page and bar chart\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Add Russian translate.\n
+ &#8211; Fixed some bug.\n
+\n
+v4.0.4\n
+ &#8211; Fixed abnormal 0 scores issues to some devices in 3D test.\n
+ &#8211; Added quick sharing for Twitter users.\n
+ &#8211; Improved some details on GUI.\n
+ &#8211; Add Korean translate.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.0.3\n
+ &#8211; Fixed crash after GPU test on devices with low-end hardware configurations.\n
+ &#8211; Improved some details on GUI.\n
+ &#8211; Fixed some bug.\n
+\n
+v4.0.2\n
+ &#8211; Add feedback page, You can give our feedback direct and immediate now.\n
+ &#8211; Fixed some UI bug.\n
+ &#8211; Fixed some crash bug.\n
+\n
+v4.0.1\n
+ &#8211; You can stop the downloading now.\n
+ &#8211; Goto home page when press back in other page.\n
+ &#8211; Fixed abnormal low fps in 3D test on PowerVR GPU.\n
+ &#8211; Fixed some crash.\n
+\n
+v4.0\n
+ &#8211; New test program, add the UE test\n
+ &#8211; New benchmark level, more closer to the users\' feeling.\n
+ &#8211; New GUI, a throughout redesigned GUI.\n
+ &#8211; User Profile added, register and log in are available.\n
+\n
+v3.4.1\n
+ &#8211; Fixed some crash bug.\n
+\n
+v3.4\n
+ &#8211; Support OpenGL ES 3.0.\n
+\n
+v3.3.2\n
+ &#8211; Add Android SDK version information to display actual android version.\n
+ &#8211; Fixed some bug.\n
+\n
+v3.3.1\n
+ &#8211; Stop The testing when user pressed Home button on 2D or 3D test.\n
+ &#8211; Fixed testing process may be stuck in some test.\n
+ &#8211; Fixed 3D test black screen on some device.\n
+ &#8211; Fixed may be get low 3D scores on some device.\n
+\n
+v3.3\n
+ &#8211; Add always portrait setting to force UI in portrait mode.\n
+ &#8211; Fixed test not functioning properly on landscape mode.\n
+ &#8211; Fixed some crash bug.\n
+\n
+v3.2.3\n
+ &#8211; Fixed menu can not display on some android 4.1 device.\n
+ &#8211; optimize and reduced apk file size.\n
+\n
+v3.2.2\n
+ &#8211; Using new 3D rendering engine and fixed the bug on NVIDIA Tegra GPU.\n
+ &#8211; Optimize UI for android 4.0 and above.\n
+ &#8211; Prompt for some system settings which could break test.\n
+ &#8211; Fixed sometimes 3D test can not be completed properly.\n
+\n
+v3.2.1\n
+ &#8211; Revert to old 3D rendering engine before we fix the bug on some device with NVIDIA Tegra GPU.\n
+\n
+v3.2\n
+ &#8211; Update 3D rendering engine.\n
+ &#8211; Only support Android 2.3 and above now.\n
+ &#8211; Add front-facing camera information.\n
+ &#8211; Add Screen density information.\n
+ &#8211; Fixed some bug.\n
+\n
+v3.1.2\n
+ &#8211; Add check scores to check if display score has been tampered.\n
+ &#8211; Fixed wrong 3d score when an unexpected error occurred in testing.\n
+\n
+v3.1.1\n
+ &#8211; Add temperature chart to stability test.\n
+ &#8211; Fixed scores display error during the test.\n
+ &#8211; Fixed crash when network time check get error.\n
+\n
+v3.1\n
+ &#8211; Add new stability test and draw a chart.\n
+ &#8211; Display a notification when benchmark running.\n
+ &#8211; Only display scores after benchmark finished.\n
+ &#8211; Fixed benchmark can not be finished on some low ram size device.\n
+ &#8211; Fixed some other bugs.\n
+\n
+v3.0.3\n
+ &#8211; Fixed Wait a long time for verify network time.\n
+ &#8211; Fixed crash when benchmarking on some device.\n
+ &#8211; Fixed some UI display bug.\n
+\n
+v3.0.2\n
+ &#8211; Full support multi-user feature on Android 4.2.\n
+ &#8211; Display CPU core number in benchmark information.\n
+ &#8211; Lock screen orientation on benchmarking to avoid some error.\n
+ &#8211; Fixed submit page display twice on first time submit scores.\n
+ &#8211; Fixed crash on some device.\n
+\n
+v3.0.1\n
+ &#8211; Display resolution info in 2D and 3D scores.\n
+ &#8211; Add tip for compare page icons.\n
+ &#8211; Fixed some bug in 3.0 preview version.\n
+\n
+v3.0\n
+ &#8211; New OpenGL ES 2.0 3D benchmark for 3D game performance test.\n
+ &#8211; Fully new 2D benchmark for 2D game performance test.\n
+ &#8211; Add compare page to compare scores with hot devices.\n
+ &#8211; Auto stop the benchmark if detected the app has been modified.\n
+ &#8211; Redesigned and adjustment app UI.\n
+ &#8211; Enhance SDCard path detection.\n
+ &#8211; Fixed some web page auto pop up bug.\n
+ &#8211; Fixed sometimes get stuck in splash screen.\n
+ &#8211; Fixed submit score page appear twice after benchmark.\n
+ &#8211; Update Italian and Ukraine translate.\n
+ &#8211; Add Czech translate.\n
+\n
+v2.9.4\n
+ &#8211; Fixed x86 device can not get the full performance bug.\n
+ &#8211; Fixed x86 device not have CPU info bug.\n
+\n
+v2.9.3\n
+ &#8211; Update Russian translation.\n
+ &#8211; Do not open webpage when network not connected.\n
+ &#8211; Fixed crash when open a web page in app.\n
+ &#8211; Fixed some potential crash.\n
+ &#8211; Fixed recommend page.\n
+\n
+v2.9.2\n
+ &#8211; Fixed crash on Jelly Bean(Android 4.1) with Mail-400 GPU.\n
+ &#8211; Add a link to new 3DRanting benchmark.\n
+\n
+v2.9.1\n
+ &#8211; Fixed CPU scores drop on Jelly Bean(Android 4.1), it is cause by the higher UI priority.\n
+ &#8211; Fixed CPU frequency detection problems on Jelly Bean(Android 4.1).\n
+ &#8211; Fixed CPU count could be less than the real total.\n
+ &#8211; Fixed a potential memory crach on benchmarking.\n
+ &#8211; Compatibility with Nexus 7 and other no camera device.\n
+\n
+v2.9\n
+ &#8211; Add verify socres by network time, avoid cheating by reduce local clock speed.\n
+ &#8211; Add a link for our new OpenGL ES 2.0 3D benchmark app.\n
+ &#8211; Fixed data not load immediately after restore form SD Card.\n
+ &#8211; Fixed can not back to previous page in comments tab.\n
+ &#8211; Fixed app may be crash when exit bug.\n
+\n
+v2.8.3\n
+ &#8211; Fixed some times press back can not exit bug.\n
+\n
+v2.8.2\n
+ &#8211; Fixed some crash bug.\n
+ &#8211; Fixed some UI display bug.\n
+\n
+v2.8.1\n
+ &#8211; Redesigned home page, show user ratings and comments for your device.\n
+ &#8211; Display camera information in system info page (requires camera permission).\n
+\n
+v2.8\n
+ &#8211; Redesigned submit page, user can rating your device now.\n
+ &#8211; Optimize SD card benchmark method to get more reliable score.\n
+ &#8211; Fixed 2D score unstable in some low-end models.\n
+ &#8211; Correct some Russian translation.\n
+\n
+v2.7.3\n
+ &#8211; Score chart page support more language.\n
+ &#8211; Display history scores in reverse order.\n
+ &#8211; Fixed some crash bug.\n
+\n
+v2.7.2\n
+ &#8211; Fixed can not launch the free version of CPU Master.\n
+\n
+v2.7.1\n
+ &#8211; Fixed a bug which allow submit score benchmark by other device.\n
+ &#8211; We will check the database on server and remove some suspicious scores.\n
+\n
+v2.7\n
+ &#8211; Redesigned user-interface being more convenient to operate.\n
+ &#8211; Add interaction and more information.\n
+ &#8211; Add Japanese translate.\n
+ &#8211; Fixed benchmark service still running after exit.\n
+\n
+v2.6\n
+ &#8211; Use the benchmark service instead of persistent permission.\n
+ &#8211; Optimize the score chart GUI performance.\n
+ &#8211; Fixed a bug that may be cause unreliable CPU score in some device.\n
+ &#8211; Fixed crash after 2D test on some device.\n
+ &#8211; Fixed fail to detect OpenGL ES 2.0 bug.\n
+ &#8211; Fixed score chart display error on ICS.\n
+ &#8211; Fixed crash when update available.\n
+ &#8211; Output benchmark score to logcat.\n
+\n
+v2.5.4\n
+ &#8211; Slight adjustment of CPU score standard, closer to the version 2.5.1 scores.\n
+ &#8211; Fixed abnormal high scores of CPU benchmark, this time really.\n
+\n
+v2.5.3\n
+ &#8211; Scores are more accurate, but some device may be lower then 2.5.1 version.\n
+ &#8211; Fixed CPU test may be take more time.\n
+ &#8211; Fixed may be get abnormal low scores of CPU test.\n
+\n
+v2.5.2\n
+ &#8211; Finally fixed some device CPU benchmark score abnormal bug.\n
+ &#8211; Add polish translation.\n
+ &#8211; Some UI performance optimization.\n
+ &#8211; Fixed ZA country code error is South Africa.\n
+ &#8211; Try to fix crash after 2D test in some device.\n
+\n
+v2.5.1\n
+ &#8211; Score chart support multi-language.\n
+ &#8211; Fixed face image update error.\n
+\n
+v2.5\n
+ &#8211; New history view to show recently benchmark history.\n
+ &#8211; New score chart UI, switch chart by finger sliding\n
+ &#8211; Get real time score chart data from Internet.\n
+ &#8211; Switch ranking list type by finger sliding.\n
+ &#8211; Display change log when first time run.\n
+ &#8211; Fixed icon display in kindle fire.\n
+\n
+v2.4.3\n
+ &#8211; Enhance CPU benchmark to avoid abnormal scores\n
+ &#8211; Use toast information instead of alert dialog.\n
+ &#8211; Fixed submit a empty country or region bug.\n
+ &#8211; Fixed crash on android version 2.0 and 2.0.1\n
+\n
+v2.4.2\n
+ &#8211; Check whether the score is out of date, ensure fair ranking.\n
+ &#8211; Add Galaxy Nexus and ASUS Transformer Prime to the bar chart.\n
+ &#8211; You can submit the score without SD Card test now.\n
+\n
+v2.4.1\n
+ &#8211; Enhance CPU benchmark to make score more accurate.\n
+ &#8211; Fixed potential crash on CPU benchmark.\n
+\n
+v2.4\n
+ &#8211; Full support Quad-Core CPUs benchmark.\n
+ &#8211; Optimization for multi-threading benchmark.\n
+ &#8211; Fixed some potential crash.\n
+\n
+v2.3.1\n
+ &#8211; Fixed the crash in 2D test again.\n
+ &#8211; Update Korean translate, thanks for Noah (노아).\n
+\n
+v2.3\n
+ &#8211; Supports x86 and MIPS platforms.\n
+ &#8211; Enhance CPU detection and support multi-core CPU information.\n
+ &#8211; Add Russian translate, thanks for Pavel M (Павел Миронов).\n
+ &#8211; Add Korean translate, thanks for Noah (노아).\n
+ &#8211; Fixed 2D test may crash in low memory state.\n
+ &#8211; Fixed some devices can not submit score.\n
+\n
+v2.2\n
+ &#8211; Add Italian translate, thanks for Cricco (Cristiano Regni).\n
+ &#8211; Add External SD card size information.\n
+ &#8211; Add Poland  to country or region list.\n
+ &#8211; Enhance multiple SD Card detection.\n
+ &#8211; Fixed custom full test can not submit bug.\n
+ &#8211; Fixed Romania\'s flag.\n
+\n
+v2.1\n
+ &#8211; Support multiple SD Card, choose one to test\n
+ &#8211; Add Kernel information\n
+ &#8211; Increase the success rate of submit\n
+ &#8211; Enhance CPU name and model detection\n
+ &#8211; Fixed 3D test may crash in some devices\n
+\n
+v2.0.3\n
+ &#8211; Enhance the CPU frequency detection\n
+\n
+v2.0.2\n
+ &#8211; Fixed submit wrong country or region\n
+ &#8211; Fixed some crash\n
+\n
+v2.0.1\n
+ &#8211; Add custom country or region feature\n
+ &#8211; Fixed 3D test may crash in some device\n
+ &#8211; Fixed picture could not be saved in some device\n
+ &#8211; Fixed crash when search results is empty \n
+\n
+v2.0\n
+ &#8211; Fully redesigned application UI.\n
+ &#8211; New 3D benchmark that better shows game performance.\n
+ &#8211; New OpenGL-based 2D benchmark.\n
+ &#8211; Supports custom test items.\n
+ &#8211; Optimized database IO test.\n
+ &#8211; Added settings and data backup and restore.\n
+ &#8211; Added photo and personal information, which will show in the rankings.\n
+ &#8211; Added more menu options.\n
+\n
+v1.6\n
+ &#8211; Classified display of rankings.\n
+ &#8211; Compresses ranking data and greatly reduced network traffic.\n
+ &#8211; Caches the device details in rankings and reduced network access frequency.\n
+ &#8211; Fixed the bug of wrong national flag of Thailand; added flags of more countries and regions.\n
+ &#8211; Fixed the bug that numbers in the bar chart crowded together.\n
+\n
+v1.5\n
+ &#8211; Now the application can test dual-core CPUs.\n
+ &#8211; Optimized benchmark procedure so it runs faster.\n
+ &#8211; Updated device scores in the bar chart.\n
+ &#8211; Fixed the bug that sometimes SD card read test never finished.\n
+ &#8211; Fixed the bug that sometimes scores could not be submitted.\n
+\n
+v1.4\n
+ &#8211; Added the "Search" function for rankings.\n
+ &#8211; Added detailed device scores for ranking list items.\n
+ &#8211; Added country and region information to be displayed in the ranking list.\n
+ &#8211; New application icon.\n
+ &#8211; Fixed the bug that SD card speed test may not finish.\n
+\n
+v1.3\n
+ &#8211; Added Database IO performance test.\n
+ &#8211; Added score bar chart which compares the performance of different devices.\n
+ &#8211; Now you can comment on your phone or device when you submit scores.\n
+ &#8211; Added the Settings page and relevant menu items.\n
+ &#8211; Supports more devices on CPU frequency detection.\n
+ &#8211; Supports landscape layout; fixed stretching deformation.\n
+ &#8211; Fixed the bug that the tested value of SD card read speed may be too high.\n
+\n
+v1.2\n
+ &#8211; Added auto update.\n
+ &#8211; Added build number information.\n
+ &#8211; Somewhat optimized 2D and 3D score algorithms.\n
+ &#8211; Fixed the bug on SD card speed test caching.\n
+\n
+v1.1\n
+ &#8211; Modified SD card scoring algorithm to better reflect the real phone performance.\n
+ &#8211; ARMv7-optimized compilation to fully utilize the performance of the new CPU.\n
+ &#8211; Added information on memory and RAM in System Information.\n
+ &#8211; Checks network connection before submitting scores.\n
+ &#8211; Prohibits score submission during the test.\n
+</string>
+</resources>
