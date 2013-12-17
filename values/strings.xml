@@ -51,6 +51,10 @@
     <string name="Testing_st">Testing Storage I/O performance&#8230;</string>
     <string name="Testing_cancle">Test is terminated</string>
     <string name="Testing_finish">Test is complete</string>
+    <string name="Testing_optimize_mem">Optimize memory to make benchmark more accurate</string>
+    <string name="optimize_mem_complete">Successfully freed %1$dM memory, Current available memory is %2$dM</string>
+    <string name="optimize_mem_in_progress">Optimizing Memory…</string>
+    
     <string name="tab_scores">Scores</string>
     <string name="tab_test">Test</string>
     <string name="tab_rank">Ranking</string>
@@ -64,12 +68,13 @@
     <string name="info_DB">Database I/O:</string>
     <string name="info_ST">Storage I/O:</string>
     <string name="info_multitask">Multitask:</string>
-    <string name="info_dalvik">Dalvik:</string>
+    <string name="info_dalvik">Runtime:</string>
     <string name="info_renderscript">Renderscript:</string>
     <string name="info_date">Date:</string>
     <string name="info_total">Total score:</string>
     <string name="info_SDW">Storage I/O:</string>
     <string name="srt_chart">Score Chart</string>
+    <string name="my_device_prefix">My&#160;</string>
     <string name="my_device">My Device</string>
     <string name="btn_overclock">Over Clock</string>
     <string name="btn_rankweb">Web Site</string>
@@ -117,10 +122,11 @@
     <string name="login_and_share">login and share</string>
     <string name="no_wechat">Wechat not found</string>
     <string name="get_info_failed">Get home page information failed</string>
+    <string name="yan">验</string>
     <string name="yanji">鉴别真伪</string>
     
     <string name="c_info_total">Total Score</string>
-    <string name="c_info_dalvik">Dalvik</string>
+    <string name="c_info_dalvik">Runtime</string>
     <string name="c_info_multitask">Multitask</string>
     <string name="c_info_int">CPU Integer</string>
     <string name="c_info_float">CPU Float-point</string>
@@ -278,7 +284,7 @@
     <string name="text_memo">RAM Operation</string>
     <string name="text_ram">RAM Speed</string>
     <string name="text_mt">Multitask</string>
-    <string name="text_vm">Dalvik</string>
+    <string name="text_vm">Runtime</string>
     <string name="text_int">CPU integer</string>
     <string name="text_float">CPU float-point</string>
     <string name="text_2d">2D graphics</string>
@@ -430,7 +436,7 @@
     <string name="gles3">OpenGL ES 3.0</string>
     <string name="Testing_multitask">Testing Multitask performance&#8230;</string>
     <string name="Testing_renderscript">Testing Renderscript performance&#8230;</string>
-    <string name="Testing_dalvik">Testing Dalvik performance&#8230;</string>
+    <string name="Testing_dalvik">Testing Runtime performance&#8230;</string>
     <string name="usr_photo">Avatar</string>
     <string name="usr_nickname">Nickname</string>
     <string name="usr_level">Level</string>

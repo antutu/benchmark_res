@@ -63,12 +63,13 @@
     <string name="info_DB">Введення/виведення бази даних:</string>
     <string name="info_ST">Введення/виведення пам\'яті:</string>
     <string name="info_multitask">Мультизадачність:</string>
-    <string name="info_dalvik">Dalvik:</string>
+    <string name="info_dalvik">Runtime:</string>
     <string name="info_renderscript">Виконання сценарію:</string>
     <string name="info_date">Дата:</string>
     <string name="info_total">Загальна кількість балів:</string>
     <string name="info_SDW">Введення/виведення пам\'яті:</string>
     <string name="srt_chart">Схема балів</string>
+    <string name="my_device_prefix">Мій&#160;</string>
     <string name="my_device">Мій пристрій</string>
     <string name="btn_overclock">Розгін ЦП</string>
     <string name="btn_rankweb">Сторінка інтернету</string>
@@ -116,7 +117,7 @@
     <string name="no_wechat">WeChat не знайдений</string>
     <string name="get_info_failed">Не вдалося отримати інформацію</string>
     <string name="c_info_total">Загальні бали</string>
-    <string name="c_info_dalvik">Dalvik</string>
+    <string name="c_info_dalvik">Runtime</string>
     <string name="c_info_multitask">Мультизадачність</string>
     <string name="c_info_int">ЦП ціле число</string>
     <string name="c_info_float">ЦП плаваюча точка</string>
@@ -251,7 +252,7 @@
     <string name="text_memo">Мультизадачність ОЗП</string>
     <string name="text_ram">Швидкість ОЗП</string>
     <string name="text_mt">Мультизадачність</string>
-    <string name="text_vm">Dalvik</string>
+    <string name="text_vm">Runtime</string>
     <string name="text_int">ЦП ціле число</string>
     <string name="text_float">ЦП плаваюча точка</string>
     <string name="text_2d">2D графіка</string>
@@ -404,7 +405,7 @@
     <string name="gles3">OpenGL ES3.0</string>
     <string name="Testing_multitask">Тест мультизадачності…</string>
     <string name="Testing_renderscript">Тест виконання сценаріїв…</string>
-    <string name="Testing_dalvik">Тест швидкодії Dalvik…</string>
+    <string name="Testing_dalvik">Тест швидкодії Runtime…</string>
     <string name="usr_photo">Аватар</string>
     <string name="usr_nickname">Ім\'я</string>
     <string name="usr_level">Рівень</string>

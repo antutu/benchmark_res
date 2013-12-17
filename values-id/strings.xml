@@ -63,12 +63,13 @@
 	<string name="info_DB">I/O basis data:</string>
 	<string name="info_ST">I/O penyimpanan:</string>
 	<string name="info_multitask">Multitask:</string>
-	<string name="info_dalvik">Dalvik:</string>
+	<string name="info_dalvik">Runtime:</string>
 	<string name="info_renderscript">Renderscript:</string>
 	<string name="info_date">Tanggal:</string>
 	<string name="info_total">Nilai total:</string>
 	<string name="info_SDW">Penyimpanan I/O:</string>
 	<string name="srt_chart">Grafik nilai</string>
+	<string name="my_device_prefix">saya&#160;</string>
 	<string name="my_device">Perangkat saya</string>
 	<string name="btn_overclock">Over Clock</string>
 	<string name="btn_rankweb">Situs Web</string>
@@ -116,7 +117,7 @@
 	<string name="no_wechat">Wechat tidak ditemukan</string>
 	<string name="get_info_failed">Mendapatkan informasi halaman muka gagal</string>
 	<string name="c_info_total">Total nilai</string>
-	<string name="c_info_dalvik">Dalvik</string>
+	<string name="c_info_dalvik">Runtime</string>
 	<string name="c_info_multitask">Multitask</string>
 	<string name="c_info_int">Integer CPU</string>
 	<string name="c_info_float">Float-point CPU</string>
@@ -251,7 +252,7 @@
 	<string name="text_memo">Operasi RAM</string>
 	<string name="text_ram">Kecepatan RAM</string>
 	<string name="text_mt">Multitask</string>
-	<string name="text_vm">Dalvik</string>
+	<string name="text_vm">Runtime</string>
 	<string name="text_int">Integer CPU</string>
 	<string name="text_float">Float-point CPU</string>
 	<string name="text_2d">Grafis 2D</string>
@@ -404,7 +405,7 @@
 	<string name="gles3">OpenGL ES 3.0</string>
 	<string name="Testing_multitask">Pengujian performansi multitask…</string>
 	<string name="Testing_renderscript">Pengujian performansi Renderscript…</string>
-	<string name="Testing_dalvik">Pengujian performansi Dalvik…</string>
+	<string name="Testing_dalvik">Pengujian performansi Runtime…</string>
 	<string name="usr_photo">Avatar</string>
 	<string name="usr_nickname">Nickname</string>
 	<string name="usr_level">Level</string>

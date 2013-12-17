@@ -19,7 +19,7 @@
     <string name="stability">穩定性測試</string>
     <string name="about">關於</string>
     <string name="feedback">反饋</string>
-    <string name="feedback_hint">請告訴我們您的建議或反饋</string>
+    <string name="feedback_hint">請告訴我們您的建議或意見，我們會關注并處理</string>
     <string name="feedback_contact_hint">請留下您的郵箱，便於我們與您溝通回覆</string>
     <string name="feedback_successful">已提交.感謝您的反饋！</string>
     <string name="feedback_content">內容</string>
@@ -151,7 +151,7 @@
     <string name="Testing_info">測試可能需要幾分鐘</string>
     <string name="Testing_multitask">正在測試多工處理性能&#8230;</string>
     <string name="Testing_renderscript">正在測試Renderscript性能&#8230;</string>
-    <string name="Testing_dalvik">正在測試安卓虛擬機器性能&#8230;</string>
+    <string name="Testing_dalvik">正在測試安卓執行階段性能&#8230;</string>
     <string name="Testing_ram">正在測試 RAM 速度&#8230;</string>
     <string name="Testing_mem">正在測試 RAM 性能&#8230;</string>
     <string name="Testing_int">正在測試 CPU 整數運算&#8230;</string>
@@ -163,6 +163,10 @@
     <string name="Testing_cancle">測試已終止</string>
     <string name="Testing_finish">測試已完成</string>
     <string name="bench_stop">正在停止測試&#8230;</string>
+    <string name="Testing_optimize_mem">評測前先優化內存</string>
+    <string name="optimize_mem_complete">已優化%1$dM內存空間，當前可用內存%2$dM</string>
+    <string name="optimize_mem_in_progress">正在為您優化內存…</string>
+    
     <string name="tab_scores">分數</string>
     <string name="tab_sysinfo">系統資訊</string>
     <string name="info_mem">RAM運算：</string>
@@ -172,12 +176,13 @@
     <string name="info_DB">資料庫I/O:</string>
     <string name="info_ST">存儲I/O:</string>
     <string name="info_multitask">多工:</string>
-    <string name="info_dalvik">Android虛擬機器:</string>
+    <string name="info_dalvik">Android執行階段:</string>
     <string name="info_renderscript">渲染腳本:</string>
     <string name="info_date">日期:</string>
     <string name="info_total">總分:</string>
     <string name="info_SDW">存儲I/O:</string>
     <string name="srt_chart">分數圖表</string>
+    <string name="my_device_prefix">我的</string>
     <string name="my_device">我的設備</string>
     <string name="btn_overclock">超頻</string>
     <string name="btn_rankweb">網站</string>
@@ -197,7 +202,7 @@
     <string name="create_account">創建新帳號</string>
     <string name="nodata">網路錯誤,資料未更新</string>
     <string name="c_info_total">總分</string>
-    <string name="c_info_dalvik">Android虛擬機器</string>
+    <string name="c_info_dalvik">Android執行階段</string>
     <string name="c_info_multitask">多工</string>
     <string name="c_info_int">CPU整數</string>
     <string name="c_info_float">CPU浮點</string>
@@ -302,7 +307,7 @@
     <string name="text_memo">RAM 操作</string>
     <string name="text_ram">RAM 速度</string>
     <string name="text_mt">多工</string>
-    <string name="text_vm">Dalvik</string>
+    <string name="text_vm">執行階段</string>
     <string name="text_int">CPU 整數</string>
     <string name="text_float">CPU 浮點</string>
     <string name="text_2d">2D 圖形</string>

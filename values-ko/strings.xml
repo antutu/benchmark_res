@@ -69,6 +69,7 @@
     <string name="info_total">점수 합계:</string>
     <string name="info_SDW">저장소 I/O:</string>
     <string name="srt_chart">점수 차트</string>
+    <string name="my_device_prefix">나의&#160;</string>
     <string name="my_device">내 기기</string>
     <string name="btn_overclock">오버 클럭</string>
     <string name="btn_rankweb">웹사이트</string>

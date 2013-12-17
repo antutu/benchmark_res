@@ -63,12 +63,13 @@
     <string name="info_DB">Ввод/вывод базы данных:</string>
     <string name="info_ST">Ввод/вывод памяти:</string>
     <string name="info_multitask">Мультизадачность:</string>
-    <string name="info_dalvik">Dalvik:</string>
+    <string name="info_dalvik">Runtime:</string>
     <string name="info_renderscript">Выполнение сценария:</string>
     <string name="info_date">Дата:</string>
     <string name="info_total">Общее количество очков:</string>
     <string name="info_SDW">Ввод/вывод памяти:</string>
     <string name="srt_chart">Схема очков</string>
+    <string name="my_device_prefix">Mой&#160;</string>
     <string name="my_device">Моё устройство</string>
     <string name="btn_overclock">Разгон ЦП</string>
     <string name="btn_rankweb">Страница интернета</string>
@@ -116,7 +117,7 @@
     <string name="no_wechat">WeChat не найден</string>
     <string name="get_info_failed">Не удалось получить информацию</string>
     <string name="c_info_total">Общие очки</string>
-    <string name="c_info_dalvik">Dalvik</string>
+    <string name="c_info_dalvik">Runtime</string>
     <string name="c_info_multitask">Мультизадачность</string>
     <string name="c_info_int">ЦП целое число</string>
     <string name="c_info_float">ЦП плавающая точка</string>
@@ -251,7 +252,7 @@
     <string name="text_memo">Мультизадачность ОЗУ</string>
     <string name="text_ram">Скорость ОЗУ</string>
     <string name="text_mt">Мультизадачность</string>
-    <string name="text_vm">Dalvik</string>
+    <string name="text_vm">Runtime</string>
     <string name="text_int">ЦП целое число</string>
     <string name="text_float">ЦП плавающая точка</string>
     <string name="text_2d">2D графика</string>
@@ -325,7 +326,7 @@
     <string name="compare">Сравнить</string>
     <string name="compare_pk">Сравнить</string>
     <string name="custom_test">Выборочный тест</string>
-    <string name="test_again">тестирование</string>
+    <string name="test_again">Тестирование</string>
     <string name="tab_pk">Сравнить</string>
     <string name="antutu_version">AnTuTU Бенчмарк 4.1</string>
     <string name="tab_main_test">Тестирование</string>
@@ -404,7 +405,7 @@
     <string name="gles3">OpenGL ES3.0</string>
     <string name="Testing_multitask">Тест мультизадачности…</string>
     <string name="Testing_renderscript">Тест выполнения сценариев…</string>
-    <string name="Testing_dalvik">Тест быстродействия Dalvik…</string>
+    <string name="Testing_dalvik">Тест быстродействия Runtime…</string>
     <string name="usr_photo">Аватар</string>
     <string name="usr_nickname">Имя</string>
     <string name="usr_level">Уровень</string>

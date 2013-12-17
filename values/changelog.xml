@@ -3,6 +3,17 @@
 
 <string name="changelog">
 \n
+v4.1.5\n
+ &#8211; Add optimize memory before test option.\n
+ &#8211; Rename Dalvik test to Runtime test.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.1.4\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Add Indonesian translate.\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v4.1.3\n
  &#8211; Support MEIZU SmartBar.\n
  &#8211; Improved some details on UI.\n

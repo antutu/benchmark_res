@@ -85,7 +85,7 @@
     </string-array>
     <string-array name="dev_power">
         <item>Battery Level</item>
-        <item>Tempreture(℃)</item>
+        <item>Temperature(℃)</item>
     </string-array>
     <string-array name="dev_cpu">
         <item>Model</item>
