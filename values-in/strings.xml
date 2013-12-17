@@ -313,7 +313,7 @@
 	<string name="submit_to_manufacturer">Teruskan nilai ke pabri</string>
 	<string name="submit_success">Pengiriman berhasil!</string>
 	<string name="share">Bagi</string>
-	<string name="test_verify_title">V</string>
+	<string name="test_verify_title">Verifikasi</string>
 	<string name="test_verify">Verifikasi nilai dengan waktu jaringan</string>
 	<string name="verify_fail">Verifikasi dengan interval waktu jaringan gagal! Tolong cek koneksi jaringan Anda!</string>
 	<string name="auto_bench">Benchmark otomatis akan dimulai setelah 10 detik!</string>
