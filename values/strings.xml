@@ -11,7 +11,7 @@
     <string name="feedback_content">Content</string>
     <string name="feedback_contact">Email</string>
     <string name="guest">My name</string>
-    <string name="about_copyright">Copyright &#169; 2010 &#8211; 2013 AnTuTu. All Rights Reserved.</string>
+    <string name="about_copyright">Copyright &#169; 2010 &#8211; 2014 AnTuTu. All Rights Reserved.</string>
     <string name="quit_desc">Exit AnTutu Benchmark ?</string>
     <string name="tap_twice_to_exit">Tap again to exit AnTutu Benchmark</string>
     <string name="prompt_rank_title">Wrong score (s)!</string>
@@ -24,7 +24,6 @@
     <string name="skip">Skip</string>
     <string name="start_str">Test</string>
     <string name="full_test">Full Test</string>
-    <string name="custom_test">Custom Test</string>
     <string name="show_scores">Show</string>
     <string name="btn_detail">Details</string>
     <string name="stop_str">STOP</string>
@@ -54,6 +53,16 @@
     <string name="Testing_optimize_mem">Optimize memory to make benchmark more accurate</string>
     <string name="optimize_mem_complete">Successfully freed %1$dM memory, Current available memory is %2$dM</string>
     <string name="optimize_mem_in_progress">Optimizing Memory…</string>
+    <string name="testing_description"></string>
+    <string name="stability_test_description">Antutu Stability Test, shows performance benchmarking scores to CPU component and changes in temperature of battery with direct and easy-to-know graph. 
+Users can easily know the stability to CPU of devices through the varying trend of temperature and scores during testing period.</string>
+    
+    <string name="testing_runtime_item">UX (Multitask、Runtime)</string>
+    <string name="testing_cpu_item">CPU (CPU integer、float-point)</string>
+    <string name="testing_ram_item">RAM (RAM Operation、RAM Speed)</string>
+    <string name="testing_gpu_item">GPU (2D graphics、3D graphics)</string>
+    <string name="testing_io_item">IO (Storage I/0、Database I/0)</string>
+    
     
     <string name="tab_scores">Scores</string>
     <string name="tab_test">Test</string>
@@ -125,6 +134,17 @@
     <string name="yan">验</string>
     <string name="yanji">鉴别真伪</string>
     
+    <string name="start_verify">Start</string>
+    <string name="verify_over">Check Completed</string>
+    <string name="open_clear">Install Clean Master</string>
+    <string name="clear">Clean</string>
+    <string name="clear_complete">OK</string>
+    <string name="clear_in_progress">Cleaning&#8230;</string>
+    <string name="clear_garbage">Junk Files</string>
+    <string name="garbage_size">(%s)</string>
+    <string name="download_in_progress">Downloading %s%%&#8230;</string>
+    <string name="clean_master">Clean Master</string>
+    
     <string name="c_info_total">Total Score</string>
     <string name="c_info_dalvik">Runtime</string>
     <string name="c_info_multitask">Multitask</string>
@@ -140,7 +160,6 @@
     <string name="basic_info">Basic Information</string>
     <string name="storage">Storage</string>
     <string name="display">Display</string>
-    <string name="camera">Camera</string>
     <string name="battery">Battery</string>
     <string name="info_os">OS</string>
     <string name="info_trans">Transmission</string>
@@ -167,6 +186,7 @@
     <string name="cmp_result">Details</string>
     <string name="server_error">Server error</string>
     
+    <string name="request_full_test">Complete a full test</string>
     <string name="score_god">WOW! Monster!</string>
     <string name="score_amazing">Amazing</string>
     <string name="score_great">Great</string>
@@ -224,10 +244,9 @@
     <string name="search_hint">Enter device name or model</string>
     <string name="detail_title">Details - AnTuTu Benchmark</string>
     <string name="search_title">Search Results</string>
+    <string name="search_average_score">Average</string>
+    <string name="pk">PK</string>
     <string name="searching">Searching&#8230;</string>
-    <string name="search_result_txt">totally %d related records</string>
-    <string name="search_r1">results for \"</string>
-    <string name="search_r2">\"</string>
     <string name="comment_user">User comment</string>
     <string name="comment_no">No comment</string>
     <string name="submit_error">Failed to submit scores. Please try again later!</string>
@@ -415,7 +434,6 @@
     <string name="ram">RAM</string>
     <string name="internet">Network</string>
     <string name="net_mode">Mode</string>
-    <string name="camera_">Camera</string>
     <string name="front">Front</string>
     <string name="behind">Behind</string>
     <string name="view_capture">Video capture</string>
@@ -432,7 +450,6 @@
     <string name="temperature_sensor">Temperature Sensor</string>
     <string name="pressure_sensors">Pressure Sensors</string>
     <string name="test_in_progress">Testing&#8230;</string>
-    <string name="gles3_test">OpenGL ES 3.0 Test</string>
     <string name="gles3">OpenGL ES 3.0</string>
     <string name="Testing_multitask">Testing Multitask performance&#8230;</string>
     <string name="Testing_renderscript">Testing Renderscript performance&#8230;</string>
@@ -504,6 +521,7 @@
     <string name="no_support_sdk">Your device\'s android system is too old to run this test!</string>
     
     <string name="gles2_test">OpenGL ES 2.0 Test</string>
+    <string name="gles2_test_description">Know keeper to smart phones/tablets in real gaming performance</string>
     <string name="gles3_test">OpenGL ES 3.0 Test</string>
     
     <string name="download_stop">Stop download now?</string>
@@ -557,4 +575,24 @@
     <string name="score_gpu_3d_10000">Excellent, Fluently support large mobile games.</string>
     
     <string name="download_format">Downloading %s, please wait&#8230;</string>
+    <string name="root_already">Yes</string>
+    <string name="no_root">No</string>
+
+    <string name="try_now">Try Now</string>
+    <string name="warm_tip">Warm tip</string>
+    <string name="sec_app_tip">Warm tip: You are running security apps. These apps may be affects the benchmark results or cause crash. We recommend you to turn off them during the test:</string>
+    <string name="sleep">Sleep</string>
+    <string name="no_use">No used</string>
+	<string name="bat_leve">Battery leve</string>
+	<string name="temp_leve">Temperature leve</string>
+	
+	<string name="more_cpu_info">More CPU Information</string>
+	<string name="cpu_detail_page_name">Name</string>
+	<string name="model">Model</string>
+	<string name="core_count">Cores</string>
+	<string name="cpu_model">Architecture</string>
+	<string name="cpu_fre">Frequency</string>
+	<string name="cpu_core_fre">CPU Core Frequency</string>
+		<string name="cpu_detail_info">CPU Information</string>
+		<string name="cpu_detail_load">CPU Load</string>
 </resources>

@@ -12,29 +12,19 @@
     <string name="tab_rank">排 行</string>
     <string name="compare">對 比</string>
     <string name="setting">設置</string>
-    <string name="history_title">歷史記錄</string>
     <string name="search">搜索</string>
     <string name="search_title">搜索結果</string>
-    <string name="search_hint">請輸入型號或名稱</string>
-    <string name="stability">穩定性測試</string>
     <string name="about">關於</string>
-    <string name="feedback">反饋</string>
     <string name="feedback_hint">請告訴我們您的建議或意見，我們會關注并處理</string>
     <string name="feedback_contact_hint">請留下您的郵箱，便於我們與您溝通回覆</string>
     <string name="feedback_successful">已提交.感謝您的反饋！</string>
+    <string name="feedback">回饋</string>
     <string name="feedback_content">內容</string>
     <string name="feedback_contact">聯繫方式</string>
     <string name="login">登 錄</string>
     <string name="regist">注 冊</string>
     <string name="save">保 存</string>
-    <string name="load_fail">載入資料失敗\n\n請檢查網路連結是否可用!</string>
-    <string name="network_error">請檢查網路連接</string>
-    <string name="show_scores">炫耀</string>
-    <string name="reload">重試</string>
-    <string name="update">檢查更新</string>
-    <string name="check_update">檢查更新&#8230;</string>
-    <string name="donwload_update">下載新版本&#8230;</string>
-    <string name="stability_test">穩定性測試</string>
+    <string name="reload">重 試</string>
     <string name="stability">穩定性</string>
     <string name="stability_title">穩定性結果</string>
     <string name="stability_test">穩定性測試</string>
@@ -44,8 +34,7 @@
     <string name="stability_msg">正在進行穩定性測試&#8230;</string>
     <string name="stability_run">請先進行穩定性測試</string>
     <string name="stability_figure">穩定性曲線圖顯示每次測試的CPU分數，溫度曲線圖表顯示每次測試的電池溫度，圖表中曲線的變化越小穩定性越高</string>
-    <string name="gles3_test">OpenGL ES 3.0 測試</string>
-    <string name="custom_test">自訂測試</string>
+    <string name="custom_test">選擇測試專案</string>
     <string name="test_again">重新測試</string>
     <string name="prompt">退出安兔兔評測</string>
     <string name="info_2D">2D繪圖:</string>
@@ -55,11 +44,30 @@
     <string name="auto_update">自動檢查更新</string>
     <string name="max_score_info">最多保存的歷史得分數量</string>
     <string name="always_portrait">鎖定豎屏</string>
-    <string name="similar_rank">同類機型</string>
     <string name="test_offline_reg">離線註冊</string>
     <string name="c_info_DB">資料庫I/O</string>
     <string name="yes">是</string>
     <string name="no">否</string>
+    <string name="yan">驗</string>
+    <string name="yanji">鑒別真偽</string>
+    <string name="antutu_verify">驗機報告</string>
+
+    <string name="verifyouttimenote">網路請求超時，請稍後再試</string>
+    <string name="result">驗證結果:</string>
+    <string name="verify_device">驗證機型: %s</string>
+    <string name="verifying">正在驗證手機真偽，請稍等&#8230;</string>
+    <string name="verify_error">驗證過程出現錯誤，請重試！</string>
+    <string name="fine_mobile_note">正品保證  放心使用</string>
+    <string name="fake_mobile_note">假冒產品  小心使用</string>
+    <string name="unknow_mobile_note">未識別</string>
+    <string name="verify_feedback">對驗機結果有疑問，請聯繫我們</string>
+
+    <string name="testing_runtime_item">用戶體驗（運行環境、多任務處理）</string>
+    <string name="testing_cpu_item">CPU（CPU整數運算、浮點運算）</string>
+    <string name="testing_ram_item">RAM（RAM運算、RAM速度）</string>
+    <string name="testing_gpu_item">GPU（2D圖形、3D圖形）</string>
+    <string name="testing_io_item">存儲（存儲I/0、資料庫I/0）</string>
+
     <string name="usr_photo">頭像</string>
     <string name="usr_nickname">昵稱</string>
     <string name="usr_gender">性別</string>
@@ -112,7 +120,6 @@
     <string name="dvm">設備型號</string>
     <string name="info_net">網路</string>
     <string name="basic_info">基本資訊</string>
-    <string name="storage">存儲</string>
     <string name="contact_info">技術支援:   support@antutu.com</string>
     <string name="about_info">安兔兔實驗室成立於2010年，由一群熱愛手機並追求技術的資深人員組成，我們的使命是為用戶開發易用、穩定、精准的硬體類應用。安兔兔評測包括英語、俄語、日語、韓語、波蘭語、義大利語和捷克語，它能發揮出最新硬體的性能，現在，在全球有超過100,000,000的用戶使用著安兔兔，我們是一個用戶的標準。 </string>
     <string name="no_support_cpu">安兔兔評測不再支援您的設備，您的CPU不支援v7a指令集！</string>
@@ -120,7 +127,7 @@
     <string name="no_support_preview_gpu">預覽版不支持下載該外掛程式，請等待正式版</string>
     <string name="need_download_es20">下載 3DRating (OpenGL ES 2.0) ？</string>
     <string name="need_download_es30">下載 3DRating (OpenGL ES 3.0) ？</string>
-  	<string name="need_download_yanji">下載安兔兔驗機?</string>
+    <string name="need_download_yanji">下載安兔兔驗機?</string>
     <string name="download_market">從電子市場下載</string>
     <string name="download_website">直接從網站下載</string>
     <string name="rank_list">Top 20</string>
@@ -163,10 +170,12 @@
     <string name="Testing_cancle">測試已終止</string>
     <string name="Testing_finish">測試已完成</string>
     <string name="bench_stop">正在停止測試&#8230;</string>
-    <string name="Testing_optimize_mem">評測前先優化內存</string>
-    <string name="optimize_mem_complete">已優化%1$dM內存空間，當前可用內存%2$dM</string>
-    <string name="optimize_mem_in_progress">正在為您優化內存…</string>
-    
+    <string name="Testing_optimize_mem">評測前先優化記憶體</string>
+    <string name="optimize_mem_complete">已優化%1$dM記憶體空間，當前可用記憶體%2$dM</string>
+    <string name="optimize_mem_in_progress">正在為您優化記憶體…</string>
+    <string name="testing_description">安兔兔即將通過測試您的虛擬機（多任務處理能力、android運行環境）、CPU（CPU整形、CPU浮點）、RAM(RAM運算、RAM速度)、GPU（2D繪圖、3D繪圖）、存儲（存儲I/O、資料庫I/O）等多項性能，大約需要2分鐘。</string>
+    <string name="stability_test_description">Antutu穩定性測試，通過加長CPU的測試時間來增加負載，以曲線圖形式給出評測時間段內CPU性能得分及電池的溫度變化。處於超頻狀態的設備，在強負荷下會因發熱等各種不確定因素造成設備重啟，或者死機。通過測試過程中設備的溫度和分數變化趨勢可以瞭解設備的CPU穩定性和散熱能力。</string>
+
     <string name="tab_scores">分數</string>
     <string name="tab_sysinfo">系統資訊</string>
     <string name="info_mem">RAM運算：</string>
@@ -180,7 +189,6 @@
     <string name="info_renderscript">渲染腳本:</string>
     <string name="info_date">日期:</string>
     <string name="info_total">總分:</string>
-    <string name="info_SDW">存儲I/O:</string>
     <string name="srt_chart">分數圖表</string>
     <string name="my_device_prefix">我的</string>
     <string name="my_device">我的設備</string>
@@ -242,17 +250,16 @@
     <string name="show_comment_info">編輯你的照片, 資訊和評論資訊</string>
     <string name="show_chart">自動顯示橫向排名</string>
     <string name="show_chart_info">當跑分完成後自動顯示橫向排名</string>
-    <string name="loading">正在載入&#8230;</string>
-    <string name="load_fail">載入數據失敗!\n\n請檢查你的網路連接是否可用!</string>
+    <string name="loading">正在加載&#8230;</string>
+    <string name="load_fail">加載數據失敗!\n\n請檢查你的網路連接是否可用!</string>
     <string name="network_error">請檢查你的網路連接</string>
     <string name="search_again">重新搜索</string>
     <string name="search_desc">安兔兔評測排行榜</string>
     <string name="search_hint">請輸入名稱或機型</string>
     <string name="detail_title">詳細資訊 - 安兔兔評測</string>
     <string name="searching">正在搜索&#8230;</string>
-    <string name="search_result_txt">共搜索到%d條相關結果</string>
-    <string name="search_r1">結果為 \"</string>
-    <string name="search_r2">\"</string>
+    <string name="search_average_score">平均分</string>
+    <string name="pk">對 比</string>
     <string name="comment_user">用戶評論</string>
     <string name="comment_no">無評論</string>
     <string name="submit_error">提交分數失敗. 請稍後重試!</string>
@@ -273,7 +280,6 @@
     <string name="change_photo">更改頭像</string>
     <string name="take_photo">拍照</string>
     <string name="pick_photo">從圖庫中選擇</string>
-    <string name="load_photo_failed">照片載入失敗</string>
     <string name="name">昵稱</string>
     <string name="email">郵箱</string>
     <string name="password">密碼</string>
@@ -342,15 +348,17 @@
     <string name="authenticated">安兔兔認證</string>
     <string name="contact_certification">support@antutu.com</string>
     <string name="camera_front">前置攝像頭:</string>
-    <string name="mega_pixel">百萬圖元</string>
+    <string name="mega_pixel">百萬像素</string>
     <string name="detail_scores">分數詳情</string>
     <string name="submit_success">分數提交成功!</string>
+    <string name="show_scores">炫耀</string>
     <string name="share">分享</string>
     <string name="test_verify_title">網路時間校驗</string>
     <string name="test_verify">通過網路時間校驗分數</string>
     <string name="cancle_download">取消下載</string>
     <string name="size_panel">英寸</string>
     <string name="share_wechat">微 信</string>
+    <string name="share_tencent">騰訊微博</string>
     <string name="share_weibo">新浪微博</string>
     <string name="share_tencent_weibo">騰訊微博</string>
     <string name="share_facebook">FaceBook</string>
@@ -362,16 +370,25 @@
     <string name="share_failed">分享失敗</string>
     <string name="login_and_share">登陸並微博分享</string>
     <string name="no_wechat">請先安裝微信</string>
-	<string name="get_info_failed">獲取首頁信息失敗</string>
-    
-	<string name="score_god">上帝啊</string>
-	<string name="score_amazing">嘩，太令人驚喜了</string>
+    <string name="get_info_failed">獲取首頁資訊失敗</string>
+    <string name="ke">克</string>
+    <string name="load_photo_failed">照片載入失敗</string>
+
+    <string name="request_full_test">做一次完整測試</string>
+    <string name="score_god">上帝啊</string>
+    <string name="score_amazing">嘩，太令人驚喜了</string>
     <string name="score_great">霸氣外露啦</string>
     <string name="score_good_job">其實我內心很強大</string>
     <string name="score_good">還不錯嘛</string>
     <string name="score_haha">有待優化哦</string>
     <string name="score_tried">不理想，再試試？</string>
-	
+    <string name="score_god_desp">你終於擊敗了99%的對手，你的手機就是未來</string>
+    <string name="score_amazing_desp">你終於擊敗了90%的對手，快通知大家</string>
+    <string name="score_great_desp">你已經擊敗了80%的對手，快通知大家</string>
+    <string name="score_good_job_desp">爭取一下，你還可以擊敗60%的對手</string>
+    <string name="score_good_desp">爭取一下，你還可以擊敗50%的對手</string>
+    <string name="score_haha_desp">再來一次，看看是否更好</string>
+    <string name="score_tried_desp">看來得更換手機了</string>
     <string name="device_level_6">沒有人可以阻擋你了</string>
     <string name="device_level_5">你是最強大的</string>
     <string name="device_level_4">多測試，更自信</string>
@@ -379,52 +396,75 @@
     <string name="device_level_2">試試測試吧</string>
     <string name="device_level_1">你要努力啊</string>
     <string name="start_test">開始測試</string>
-    
-    
     <string name="score_cpu_prefix">CPU性能：</string>
-    <string name="score_cpu_float_800">非常差，無法很好運行稍大的軟件。</string>
-    <string name="score_cpu_float_1500">一般，多數軟件可以運行。</string>
-    <string name="score_cpu_float_3000">較好，能運行大型軟件，還能同時運行多個軟件了。</string>
-    <string name="score_cpu_float_5000">非常好，能運行大型軟件，同時還有強大的多任務處理，反應迅速。</string>
-    
-    <string name="score_ram_preflix">内存性能：</string>
+    <string name="score_cpu_float_800">非常差，無法很好運行稍大的軟體。</string>
+    <string name="score_cpu_float_1500">一般，多數軟體可以運行。</string>
+    <string name="score_cpu_float_3000">較好，能運行大型軟體，還能同時運行多個軟體了。</string>
+    <string name="score_cpu_float_5000">非常好，能運行大型軟體，同時還有強大的多任務處理，反應迅速。</string>
+    <string name="score_ram_preflix">記憶體性能：</string>
     <string name="score_ram_800">非常差；</string>
     <string name="score_ram_2000">一般；</string>
     <string name="score_ram_3000">較好；</string>
     <string name="score_ram_5000">非常好；</string>
-    
     <string name="score_gpu_2d_preflix">2D圖形性能：</string>
     <string name="score_gpu_2d_500">非常差；</string>
     <string name="score_gpu_2d_1000">一般；</string>
     <string name="score_gpu_2d_1500">較好；</string>
     <string name="score_gpu_2d_3000">非常好；</string>
-    
     <string name="score_gpu_3d_preflix">3D圖形性能：</string>
     <string name="score_gpu_3d_1200">非常差，許多遊戲都不能流暢地玩。</string>
     <string name="score_gpu_3d_3000">一般，可以玩多數遊戲。</string>
     <string name="score_gpu_3d_5000">較好，能流暢玩大多數遊戲了。</string>
     <string name="score_gpu_3d_10000">非常好，能滿足最大型遊戲的要求，享受飛躍的感覺。</string>
-    
     <string name="donwload_plugin">正在下載，請稍等&#8230;</string>
     <string name="verify_fail">網路時間校驗失敗! 請檢查網路連結!</string>
-    <string name="gles2_test">OpenGL ES 2.0 測試</string>
+    <string name="gles2_test">安兔兔3D測試</string>
+    <string name="gles2_test_description">幫您深入瞭解智能手機/平板電腦的真實遊戲性能</string>
     <string name="gles3_test">OpenGL ES 3.0 測試</string>
-    
     <string name="no_support_sdk">您的Android系統版本太低，無法運行這個測試！</string>
-    
+    <string name="errcode_success">分享成功</string>
+    <string name="errcode_cancel">分享已取消</string>
+    <string name="errcode_deny">無法分享</string>
+    <string name="errcode_unknown">未知的分享</string>
     <string name="download_stop">立即停止下載？</string>
     <string name="download_stop_info">您可能會丟失已經下載的數據，確定要停止下載？</string>
     <string name="stop">停止</string>
-	<string name="continue2">繼續</string>
-    
+    <string name="continue2">繼續</string>
     <string name="need_update_3drating">發現新版本 3DRating！</string>
-	
     <string name="not_enough_space">至少需要 %1$sM 空間來進行存儲性能測試!</string>
-	<string name="changelog_title">變更日誌</string>
-	
-	<string name="attention">注意</string>
+    <string name="changelog_title">變更日誌</string>
+    <string name="attention">注意</string>
     <string name="bench_error">測試專案被意外終止, 請重試!</string>
     <string name="sd_full">SD卡空間不足!</string>
-    
     <string name="download_format">正在下載%s，請稍等&#8230;</string>
+    <string name="root_already">rooted</string>
+    <string name="no_root">not root</string>
+
+    <string name="try_now">立即體驗</string>
+    <string name="warm_tip">溫馨提示</string>
+    <string name="sec_app_tip">溫馨提示: 檢測到某些正在後臺運行應用可能會影響測試結果或導致測試出現問題，您可以選擇在測試過程中暫時關閉這些應用:</string>
+
+    <string name="open_clear">啟用清理功能</string>
+    <string name="clear">立即清理</string>
+    <string name="clear_complete">清理完成</string>
+    <string name="clear_in_progress">正在清理&#8230;</string>
+    <string name="clear_garbage">清理垃圾檔</string>
+    <string name="garbage_size">(%s)</string>
+    <string name="download_in_progress">正在下載 %s%%&#8230;</string>
+    <string name="clean_master">獵豹清理大師</string>
+
+    <string name="sleep">休眠</string>
+    <string name="no_use">未使用</string>
+
+    <string name="bat_leve">電量</string>
+    <string name="temp_leve">溫度</string>
+
+    <string name="cpu_detail_page_name">名稱</string>
+    <string name="model">型號</string>
+    <string name="core_count">核心數</string>
+    <string name="cpu_model">架構</string>
+    <string name="cpu_fre">頻率</string>
+    <string name="cpu_core_fre">CPU內核頻率</string>
+    <string name="more_cpu_info">更多CPU資訊 </string>
+    <string name="cpu_detail_info">CPU資訊</string>
 </resources>

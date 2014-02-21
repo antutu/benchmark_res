@@ -91,6 +91,7 @@
         <item>Model</item>
         <item>Cores</item>
         <item>Frequency</item>
+        <item>More</item>
     </string-array>
     <string-array name="dev_gpu">
         <item>Renderer</item>
@@ -117,6 +118,7 @@
         <item>RAM</item>
         <item>Internal SD Card</item>
         <item>External SD Card</item>
+        <item>Clean up</item>
     </string-array>
     <string-array name="dev_net">
         <item>Access</item>
@@ -152,6 +154,7 @@
         <item>Resolution</item>
         <item>Rear Camera</item>
         <item>IMEI</item>
+        <item>Have root access</item>
     </string-array>
 
 </resources>

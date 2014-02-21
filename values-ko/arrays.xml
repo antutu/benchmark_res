@@ -153,6 +153,7 @@
         <item>해상도</item>
         <item>전면 카메라</item>
         <item>IMEI</item>
+        <item>루트 액세스</item>
     </string-array>
 
 </resources>

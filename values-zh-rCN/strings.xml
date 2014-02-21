@@ -12,11 +12,8 @@
     <string name="tab_rank">排 行</string>
     <string name="compare">对 比</string>
     <string name="setting">设置</string>
-    <string name="history_title">历史记录</string>
     <string name="search">搜索</string>
     <string name="search_title">搜索结果</string>
-    <string name="search_hint">请输入型号或名称</string>
-    <string name="stability">稳定性测试</string>
     <string name="about">关于</string>
     <string name="feedback">反馈</string>
     <string name="feedback_hint">请告诉我们您的建议或意见，我们会关注并处理</string>
@@ -28,13 +25,7 @@
     <string name="login">登 录</string>
     <string name="regist">注 册</string>
     <string name="save">保 存</string>
-    <string name="load_fail">加载数据失败\n\n请检查网络链接是否可用!</string>
-    <string name="network_error">请检查网络连接</string>
-    <string name="reload">重试</string>
-    <string name="update">检查更新</string>
-    <string name="check_update">检查更新&#8230;</string>
-    <string name="donwload_update">下载新版本&#8230;</string>
-    <string name="stability_test">稳定性测试</string>
+    <string name="reload">重 试</string>
     <string name="stability">稳定性</string>
     <string name="stability_title">稳定性结果</string>
     <string name="stability_test">稳定性测试</string>
@@ -44,8 +35,7 @@
     <string name="stability_msg">正在进行稳定性测试&#8230;</string>
     <string name="stability_run">请先进行稳定性测试</string>
     <string name="stability_figure">稳定性曲线图显示每次测试的CPU分数，温度曲线图表显示每次测试的电池温度，图表中曲线的变化越小稳定性越高</string>
-    <string name="gles3_test">OpenGL ES 3.0 测试</string>
-    <string name="custom_test">自定义测试</string>
+    <string name="custom_test">选择测试项目</string>
     <string name="test_again">重新测试</string>
     <string name="prompt">退出安兔兔评测</string>
     <string name="info_2D">2D绘图:</string>
@@ -55,14 +45,29 @@
     <string name="auto_update">自动检查更新</string>
     <string name="max_score_info">最多保存的历史得分数量</string>
     <string name="always_portrait">锁定竖屏</string>
-    <string name="similar_rank">同类机型</string>
     <string name="test_offline_reg">离线注册</string>
     <string name="c_info_DB">数据库I/O</string>
     <string name="yes">是</string>
     <string name="no">否</string>
     <string name="yan">验</string>
     <string name="yanji">鉴别真伪</string>
+    <string name="antutu_verify">验机报告</string>
     
+    <string name="verifyouttimenote">网络请求超时，请稍后再试</string>
+	<string name="result">验证结果:</string>
+	<string name="verify_device">验证机型: %s</string>
+	<string name="verifying">正在验证手机真伪，请稍等&#8230;</string>
+	<string name="verify_error">验证过程出现错误，请重试！</string>
+	<string name="fine_mobile_note">正品保证  放心使用</string>
+	<string name="fake_mobile_note">假冒产品  小心使用</string>
+	<string name="unknow_mobile_note">未识别</string>
+	<string name="verify_feedback">对验机结果有疑问，请联系我们</string>
+    
+    <string name="testing_runtime_item">用户体验（运行环境、多任务处理）</string>
+    <string name="testing_cpu_item">CPU（CPU整数运算、浮点运算）</string>
+    <string name="testing_ram_item">RAM（RAM运算、RAM速度）</string>
+    <string name="testing_gpu_item">GPU（2D图形、3D图形）</string>
+    <string name="testing_io_item">存储（存储I/0、数据库I/0）</string>
     
     <string name="usr_photo">头像</string>
     <string name="usr_nickname">昵称</string>
@@ -116,7 +121,6 @@
     <string name="dvm">设备型号</string>
     <string name="info_net">网络</string>
     <string name="basic_info">基本信息</string>
-    <string name="storage">存储</string>
     <string name="contact_info">技术支持:   support@antutu.com</string>
     <string name="about_info">安兔兔实验室成立于2010年，由一群热爱手机并追求技术的资深人员组成，我们的使命是为用户开发易用、稳定、精准的硬件类应用。安兔兔评测包括英语、俄语、日语、韩语、波兰语、意大利语和捷克语，它能发挥出最新硬件的性能，现在，在全球有超过100,000,000的用户使用着安兔兔，我们是一个用户的标准。 </string>
     <string name="no_support_cpu">安兔兔评测不再支持您的设备，您的CPU不支持v7a指令集！</string>
@@ -124,11 +128,11 @@
     <string name="no_support_preview_gpu">预览版不支持下载该插件，请等待正式版</string>
     <string name="need_download_es20">下载 3DRating (OpenGL ES 2.0) ？</string>
     <string name="need_download_es30">下载 3DRating (OpenGL ES 3.0) ？</string>
-   	<string name="need_download_yanji">下载安兔兔验机?</string>
+    <string name="need_download_yanji">下载安兔兔验机?</string>
     <string name="download_market">从电子市场下载</string>
     <string name="download_website">直接从网站下载</string>
     <string name="rank_list">Top 20</string>
-    <string name="about_copyright">&#169; 2010 &#8211; 2013 安兔兔版权所有</string>
+    <string name="about_copyright">&#169; 2010 &#8211; 2014 安兔兔版权所有</string>
     <string name="quit_desc">退出安兔兔评测?</string>
     <string name="tap_twice_to_exit">再按一次退出安兔兔程序</string>
     <string name="prompt_rank_title">分数错误!</string>
@@ -171,7 +175,8 @@
     <string name="Testing_optimize_mem">评测前先优化内存</string>
     <string name="optimize_mem_complete">已优化%1$dM内存空间，当前可用内存%2$dM</string>
     <string name="optimize_mem_in_progress">正在为您优化内存…</string>
-    
+    <string name="testing_description">安兔兔即将通过测试您的虚拟机（多任务处理能力、android运行环境）、CPU（CPU整形、CPU浮点）、RAM(RAM运算、RAM速度)、GPU（2D绘图、3D绘图）、存储（存储I/O、数据库I/O）等多项性能，大约需要2分钟。</string>
+    <string name="stability_test_description">Antutu稳定性测试，通过加长CPU的测试时间来增加负载，以曲线图形式给出评测时间段内CPU性能得分及电池的温度变化。通过测试过程中设备的温度和分数变化趋势可以了解设备的CPU稳定性和散热能力。</string>
     
     <string name="tab_scores">分数</string>
     <string name="tab_sysinfo">系统信息</string>
@@ -186,7 +191,6 @@
     <string name="info_renderscript">渲染脚本:</string>
     <string name="info_date">日期:</string>
     <string name="info_total">总分:</string>
-    <string name="info_SDW">存储I/O:</string>
     <string name="srt_chart">分数图表</string>
     <string name="my_device_prefix">我的</string>
     <string name="my_device">我的设备</string>
@@ -222,6 +226,7 @@
     <string name="user_not_exist">输入的邮箱不存在</string>
     <string name="server_error">服务器错误</string>
     <string name="email_exist">邮箱已注册</string>
+    <string name="username_illeagl">用户名或密码错误</string>
     <string name="pwd_illeagl">密码错误,请确认后输入</string>
     <string name="email_illeagl">邮箱地址输入错误</string>
     <string name="invalid_nk_name">昵称格式输入错误</string>
@@ -232,6 +237,7 @@
     <string name="pwd_length_error">密码须在6~14个字符以内</string>
     <string name="email_null">未输入邮箱</string>
     <string name="email_format_wrong">邮箱格式错误</string>
+    <string name="qq_number_wrong">输入的QQ号不存在</string>
     <string name="pwd_null">请输入密码</string>
     <string name="confirm_null">请输入确认密码</string>
     <string name="consist_pwd">密码不一致</string>
@@ -258,9 +264,8 @@
     <string name="search_hint">请输入名称或机型</string>
     <string name="detail_title">详细信息 - 安兔兔评测</string>
     <string name="searching">正在搜索&#8230;</string>
-    <string name="search_result_txt">共搜索到%d条相关结果</string>
-    <string name="search_r1">结果为 \"</string>
-    <string name="search_r2">\"</string>
+    <string name="search_average_score">平均分</string>
+    <string name="pk">对 比</string>
     <string name="comment_user">用户评论</string>
     <string name="comment_no">无评论</string>
     <string name="submit_error">提交分数失败. 请稍后重试!</string>
@@ -371,26 +376,25 @@
     <string name="share_failed">分享失败</string>
     <string name="login_and_share">登陆并微博分享</string>
     <string name="no_wechat">请先安装微信</string>
-	<string name="get_info_failed">获取首页信息失败</string>
-	<string name="ke">克</string>
-	<string name="load_photo_failed">照片载入失败</string>
-
+    <string name="get_info_failed">获取首页信息失败</string>
+    <string name="ke">克</string>
+    <string name="load_photo_failed">照片载入失败</string>
+    
+    <string name="request_full_test">做一次完整测试</string>
     <string name="score_god">上帝啊</string>
-	<string name="score_amazing">哗，太令人惊喜了</string>
+    <string name="score_amazing">哗，太令人惊喜了</string>
     <string name="score_great">霸气外露啦</string>
     <string name="score_good_job">其实我内心很强大</string>
     <string name="score_good">还不错嘛</string>
     <string name="score_haha">有待优化哦</string>
     <string name="score_tried">不理想，再试试？</string>
-    
     <string name="score_god_desp">你终于击败了99%的对手，你的手机就是未来</string>
-	<string name="score_amazing_desp">你终于击败了90%的对手，快通知大家</string>
+    <string name="score_amazing_desp">你终于击败了90%的对手，快通知大家</string>
     <string name="score_great_desp">你已经击败了80%的对手，快通知大家</string>
     <string name="score_good_job_desp">争取一下，你还可以击败60%的对手</string>
     <string name="score_good_desp">争取一下，你还可以击败50%的对手</string>
     <string name="score_haha_desp">再来一次，看看是否更好</string>
     <string name="score_tried_desp">看来得更换手机了</string>
-    
     <string name="device_level_6">没有人可以阻挡你了</string>
     <string name="device_level_5">你是最强大的</string>
     <string name="device_level_4">多测试，更自信</string>
@@ -398,56 +402,77 @@
     <string name="device_level_2">试试测试吧</string>
     <string name="device_level_1">你要努力啊</string>
     <string name="start_test">开始测试</string>
-    
     <string name="score_cpu_prefix">CPU性能：</string>
     <string name="score_cpu_float_800">非常差，无法很好运行稍大的软件。</string>
     <string name="score_cpu_float_1500">一般，多数软件可以运行。</string>
     <string name="score_cpu_float_3000">较好，能运行大型软件，还能同时运行多个软件了。</string>
     <string name="score_cpu_float_5000">非常好，能运行大型软件，同时还有强大的多任务处理，反应迅速。</string>
-    
     <string name="score_ram_preflix">内存性能：</string>
     <string name="score_ram_800">非常差；</string>
     <string name="score_ram_2000">一般；</string>
     <string name="score_ram_3000">较好；</string>
     <string name="score_ram_5000">非常好；</string>
-    
     <string name="score_gpu_2d_preflix">2D图形性能：</string>
     <string name="score_gpu_2d_500">非常差；</string>
     <string name="score_gpu_2d_1000">一般；</string>
     <string name="score_gpu_2d_1500">较好；</string>
     <string name="score_gpu_2d_3000">非常好；</string>
-    
     <string name="score_gpu_3d_preflix">3D图形性能：</string>
     <string name="score_gpu_3d_1200">非常差，许多游戏都不能流畅地玩。</string>
     <string name="score_gpu_3d_3000">一般，可以玩多数游戏。</string>
     <string name="score_gpu_3d_5000">较好，能流畅玩大多数游戏了。</string>
     <string name="score_gpu_3d_10000">非常好，能满足最大型游戏的要求，享受飞跃的感觉。</string>
-    
     <string name="donwload_plugin">正在下载，请稍等&#8230;</string>
     <string name="verify_fail">网络时间校验失败! 请检查网络链接!</string>
-    <string name="gles2_test">OpenGL ES 2.0 测试</string>
+    <string name="gles2_test">安兔兔3D测试</string>
+    <string name="gles2_test_description">帮您深入了解智能手机/平板电脑的真实游戏性能</string>
     <string name="gles3_test">OpenGL ES 3.0 测试</string>
-    
     <string name="no_support_sdk">您的Android系统版本太低，无法运行这个测试！</string>
-    
     <string name="errcode_success">分享成功</string>
     <string name="errcode_cancel">分享已取消</string>
     <string name="errcode_deny">无法分享</string>
     <string name="errcode_unknown">未知的分享</string>
-
     <string name="download_stop">立即停止下载？</string>
     <string name="download_stop_info">您可能会丢失已经下载的数据，确定要停止下载？</string>
     <string name="stop">停止</string>
-	<string name="continue2">继续</string>
-    
+    <string name="continue2">继续</string>
     <string name="need_update_3drating">发现新版本 3DRating！</string>
-	
     <string name="not_enough_space">至少需要 %1$sM 空间来进行存储性能测试!</string>
     <string name="changelog_title">变更日志</string>
-    
-	<string name="attention">注意</string>
+    <string name="attention">注意</string>
     <string name="bench_error">测试项目被意外终止, 请重试!</string>
     <string name="sd_full">SD卡空间不足!</string>
-    
     <string name="download_format">正在下载%s，请稍等&#8230;</string>
+    <string name="root_already">是</string>
+    <string name="no_root">否</string>
+
+    <string name="try_now">立即体验</string>
+    <string name="warm_tip">温馨提示</string>
+    <string name="sec_app_tip">温馨提示: 检测到某些正在后台运行应用可能会影响测试结果或导致测试出现问题，您可以选择在测试过程中暂时关闭这些应用:</string>
+
+    <string name="open_clear">启用清理功能</string>
+    <string name="clear">立即清理</string>
+    <string name="clear_complete">清理完成</string>
+    <string name="clear_in_progress">正在清理&#8230;</string>
+    <string name="clear_garbage">清理垃圾文件</string>
+    <string name="garbage_size">(%s)</string>
+    <string name="download_in_progress">正在下载 %s%%&#8230;</string>
+    <string name="clean_master">猎豹清理大师</string>
+    
+    <string name="sleep">休眠</string>
+    <string name="no_use">未使用</string>
+    
+    <string name="bat_leve">电量</string>
+	<string name="temp_leve">温度</string>
+	
+	<string name="cpu_detail_page_name">名称</string>
+	<string name="model">型号</string>
+	<string name="core_count">核心数</string>
+	<string name="cpu_model">架构</string>
+	<string name="cpu_fre">频率</string>
+	<string name="cpu_core_fre">CPU内核频率</string>
+	<string name="more_cpu_info">更多CPU信息 </string>
+	<string name="cpu_detail_info">CPU信息</string>
+	<string name="cpu_detail_load">CPU负载</string>
+	<string name="super_user_quality">拥有超级管理员权限</string>
 </resources>

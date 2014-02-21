@@ -11,7 +11,7 @@
     <string name="feedback_content">Отзыв/Предложение</string>
     <string name="feedback_contact">Эл.Почта</string>
     <string name="guest">Моё имя</string>
-    <string name="about_copyright">Copyright © 2010 – 2013 AnTuTu. Все права защищены.</string>
+    <string name="about_copyright">Copyright © 2010 – 2014 AnTuTu. Все права защищены.</string>
     <string name="quit_desc">Выйти из AnTuTu Бенчмарк?</string>
     <string name="tap_twice_to_exit">Нажмите снова для выхода</string>
     <string name="prompt_rank_title">Неверный подсчёт!</string>
@@ -24,7 +24,6 @@
     <string name="skip">Пропустить</string>
     <string name="start_str">Тестировать</string>
     <string name="full_test">Полный тест</string>
-    <string name="custom_test">Выборочный тест</string>
     <string name="btn_detail">Подробно</string>
     <string name="stop_str">Остановить</string>
     <string name="Phone">Модель устройства:</string>
@@ -130,7 +129,6 @@
     <string name="basic_info">Общая информация</string>
     <string name="storage">Память</string>
     <string name="display">Дисплей</string>
-    <string name="camera">Камера</string>
     <string name="battery">Батарея</string>
     <string name="info_os">Операционная система</string>
     <string name="info_trans">Передача</string>
@@ -401,7 +399,6 @@
     <string name="temperature_sensor">Термометр</string>
     <string name="pressure_sensors">Барометр</string>
     <string name="test_in_progress">Тестирование…</string>
-    <string name="gles3_test">Тест OpenGL ES3.0</string>
     <string name="gles3">OpenGL ES3.0</string>
     <string name="Testing_multitask">Тест мультизадачности…</string>
     <string name="Testing_renderscript">Тест выполнения сценариев…</string>
@@ -483,5 +480,6 @@
     <string name="about_help_us">Помогите нам с локализацией</string>
     <string name="about_contribute_thanks">Спасибо волонтёрам за их глубокую помощь:</string>
     <string name="about_contribute_author"></string>
-
+ <string name="root_already">да</string>
+    <string name="no_root">нет</string>
 </resources>

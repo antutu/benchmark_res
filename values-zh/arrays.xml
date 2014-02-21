@@ -153,6 +153,7 @@
         <item>解析度</item>
         <item>主攝像頭</item>
         <item>設備串號</item>
+        <item>Root过</item>
     </string-array>
 
 </resources>

@@ -91,6 +91,7 @@
         <item>CPU型号</item>
         <item>核心数</item>
         <item>频率</item>
+        <item>更多</item>
     </string-array>
     <string-array name="dev_gpu">
         <item>GPU渲染器</item>
@@ -117,6 +118,7 @@
         <item>运行内存</item>
         <item>内置SD卡容量</item>
         <item>外置SD卡容量</item>
+        <item>清理垃圾文件</item>
     </string-array>
     <string-array name="dev_net">
         <item>网络接口</item>
@@ -152,6 +154,7 @@
         <item>分辨率</item>
         <item>主摄像头</item>
         <item>设备串号</item>
+        <item>拥有超级管理员权限</item>
     </string-array>
 
 </resources>

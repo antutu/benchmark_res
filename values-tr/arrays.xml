@@ -1,6 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
     <string-array name="menu_change_photo">
         <item>@string/take_photo</item>
         <item>@string/pick_photo</item>
@@ -10,7 +9,7 @@
         <item>20</item>
         <item>30</item>
     </string-array>
-    <string-array name="location_names">
+    <array name="location_names">
         <item>@string/auto_language</item>
         <item>Austria (AT)</item>
         <item>Australia (AU)</item>
@@ -28,7 +27,6 @@
         <item>Britain (GB)</item>
         <item>Ireland (IE)</item>
         <item>India (IN)</item>
-		<item>Indonesia (ID)</item>
         <item>New Zealand (NZ)</item>
         <item>Singapore(SG)</item>
         <item>United States (US)</item>
@@ -63,50 +61,48 @@
         <item>Hong Kong (HK)</item>
         <item>Taiwan (TW)</item>
         <item>中华人民共和国 (CN)</item>
-    </string-array>
+    </array>
     <string-array name="profile_gender_array">
-        <item>Laki-laki</item>
-        <item>Perempuan</item>
+        <item>Bay</item>
+        <item>Bayan</item>
     </string-array>
     <string-array name="menu_share">
         <item>新浪微博</item>
         <item>腾讯微博</item>
     </string-array>
-
-    <!-- Device Info params infomation -->
     <string-array name="device">
-        <item>Merek</item>
-        <item>Model Perangkat</item>
+        <item>Marka</item>
+        <item>Cihaz Modeli</item>
         <item>IMEI</item>
     </string-array>
     <string-array name="dev_os">
-        <item>Versi Android</item>
-        <item>Versi SDK Android</item>
-        <item>Kernel</item>
+        <item>Android Sürümü</item>
+        <item>Android SDK Sürümü</item>
+        <item>Çekirdek</item>
     </string-array>
     <string-array name="dev_power">
-        <item>Level Baterai</item>
-        <item>Suhu(℃)</item>
+        <item>Batarya Seviyesi</item>
+        <item>Sıcaklık(℃)</item>
     </string-array>
     <string-array name="dev_cpu">
         <item>Model</item>
-        <item>Cores</item>
-        <item>Frekuensi</item>
+        <item>İşlemciler</item>
+        <item>Frekans</item>
     </string-array>
     <string-array name="dev_gpu">
-        <item>Renderer</item>
-        <item>Vender</item>
-        <item>Versi GPU</item>
-        <item>Resolusi</item>
-        <item>Ukuran</item>
-        <item>Material</item>
-        <item>Kerapatan</item>
-        <item>Multi-touch</item>
+        <item>GPU İşleyici</item>
+        <item>Satıcı</item>
+        <item>GPU Sürümü</item>
+        <item>Çözünürlük</item>
+        <item>Boyut</item>
+        <item>Malzeme</item>
+        <item>Yoğunluk</item>
+        <item>Çoklu Dokunmatik</item>
     </string-array>
     <string-array name="dev_surface">
-        <item>Berat</item>
-        <item>Spesifikasi</item>
-        <item>Warna</item>
+        <item>Ağırlık</item>
+        <item>Özellikler</item>
+        <item>Renk</item>
     </string-array>
     <string-array name="dev_transfer">
         <item>GPS</item>
@@ -114,47 +110,45 @@
         <item>Bluetooth</item>
     </string-array>
     <string-array name="dev_storager">
-        <item>Memory</item>
+        <item>Hafıza</item>
         <item>RAM</item>
-        <item>Kartu SD Internal</item>
-        <item>Kartu SD Eksternal</item>
+        <item>Dahili SD Kart</item>
+        <item>Harici SD Kart</item>
     </string-array>
     <string-array name="dev_net">
-        <item>Mode</item>
-        <item>Akses</item>
+        <item>Erişim</item>
     </string-array>
     <string-array name="dev_camera">
-        <item>Kamera Belakang</item>
-        <item>Kamera Depan</item>
-        <item>Spesifikasi Kamera</item>
-        <item>Fotografi</item>
-        <item>Sensor</item>
+        <item>Arka Kamera</item>
+        <item>Ön Kamera</item>
+        <item>Video Özellikleri</item>
+        <item>Fotoğraf</item>
+        <item>Sensör</item>
     </string-array>
     <string-array name="dev_others">
-        <item>Sensor Deteksi</item>
-        <item>G-Sensor</item>
-        <item>Proximity Sensor</item>
-        <item>Light Sensor</item>
-        <item>E-Compass</item>
-        <item>Sensor Jarak</item>
-        <item>Gyro Sensor</item>
-        <item>Sensor Suhu</item>
-        <item>Sensor Tekanan</item>
-        <item>Sensor Suhu Lingkungan</item>
-        <item>Sensor Kelembaban Relatif</item>
-        <item>Sensor Percepatan Linear</item>
-        <item>Sensor Rotasi Vektor</item>
+        <item>Yön Sensörü</item>
+        <item>G-Sensör</item>
+        <item>Yakınlık Sensörü</item>
+        <item>Işık Sensörü</item>
+        <item>Pusula</item>
+        <item>Mesafe Sensörü</item>
+        <item>Denge Sensörü</item>
+        <item>Sıcaklık Sensörü</item>
+        <item>Basınç Sensörü</item>
+        <item>Ortam Sıcaklık Sensörü</item>
+        <item>Bağıl Nem Sensörü</item>
+        <item>Doğrusal İvme Sensörü</item>
+        <item>Döndürme Vektör Sensörü</item>
     </string-array>
     <string-array name="dev_basic">
-        <item>Merk</item>
+        <item>Marka</item>
         <item>Model</item>
         <item>OS</item>
-        <item>CPU Model</item>
-        <item>GPU Renderer</item>
-        <item>Resolution</item>
-        <item>Rear Camera</item>
+        <item>CPU Modeli</item>
+        <item>GPU İşleyici</item>
+        <item>Çözünürlük</item>
+        <item>Arka Kamera</item>
         <item>IMEI</item>
-        <item>akses root</item>
+        <item>Kök Erişimi</item>
     </string-array>
-
 </resources>

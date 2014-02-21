@@ -151,6 +151,7 @@
         <item>Роздільність дисплею</item>
         <item>Задня камера</item>
         <item>IMEI</item>
+        <item>кореневого доступу</item>
     </string-array>
 
 </resources>

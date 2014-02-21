@@ -11,7 +11,7 @@
 	<string name="feedback_content">Isi</string>
 	<string name="feedback_contact">Email</string>
 	<string name="guest">Nama Saya</string>
-	<string name="about_copyright">Copyright © 2010 – 2013 AnTuTu. All Rights Reserved.</string>
+	<string name="about_copyright">Copyright © 2010 – 2014 AnTuTu. All Rights Reserved.</string>
 	<string name="quit_desc">Keluar AnTutu Benchmark ?</string>
 	<string name="tap_twice_to_exit">Tap lagi untuk keluar dari AnTutu Benchmark</string>
 	<string name="prompt_rank_title">Nilai salah!</string>
@@ -24,7 +24,6 @@
 	<string name="skip">Lewati</string>
 	<string name="start_str">Uji</string>
 	<string name="full_test">Pengujian penuh</string>
-	<string name="custom_test">Pengujian kustom</string>
 	<string name="btn_detail">Detail</string>
 	<string name="stop_str">BERHENTI</string>
 	<string name="Phone">Model telepon:</string>
@@ -130,7 +129,6 @@
 	<string name="basic_info">Informasi Dasar</string>
 	<string name="storage">Penyimpanan</string>
 	<string name="display">Display</string>
-	<string name="camera">Kamera</string>
 	<string name="battery">Baterai</string>
 	<string name="info_os">OS</string>
 	<string name="info_trans">Transimis</string>
@@ -401,7 +399,6 @@
 	<string name="temperature_sensor">Sensor suhu</string>
 	<string name="pressure_sensors">Sensor tekanan</string>
 	<string name="test_in_progress">Pengujian…</string>
-	<string name="gles3_test">Uji OpenGL ES 3.0</string>
 	<string name="gles3">OpenGL ES 3.0</string>
 	<string name="Testing_multitask">Pengujian performansi multitask…</string>
 	<string name="Testing_renderscript">Pengujian performansi Renderscript…</string>
@@ -483,5 +480,7 @@
 	<string name="about_help_us">Bantu kami untuk lokalisasi</string>
 	<string name="about_contribute_thanks">Terima kasih kepada sukarelawan untuk kontribusi hebat mereka:</string>
 	<string name="about_contribute_author"></string>
+	    <string name="root_already">ya</string>
+    <string name="no_root">tidak</string>
 	
 </resources>

@@ -3,8 +3,33 @@
 
 <string name="changelog">
 \n
+v4.2.1\n
+ &#8211; Enhanced search function and PK with search results.\n
+ &#8211; Enhanced CPU information.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.2\n
+ &#8211; Detection and tips background apps which be affects benchmark.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.1.7\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Identify sensors more accurately.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.1.6\n
+ &#8211; Check and display whether the device has been rooted.\n
+ &#8211; Optimized data caching, reduce data download.\n
+ &#8211; Optimized search result, display average score of devices.\n
+ &#8211; Optimized test process, do not stuck at 0&#37;.\n
+ &#8211; Add Turkish translation.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v4.1.5\n
- &#8211; Add optimize memory before test option.\n
+ &#8211; Add optimize memory before test option, need permissions to retrieve and close running apps.\n
  &#8211; Rename Dalvik test to Runtime test.\n
  &#8211; Improved some details on UI.\n
  &#8211; Fixed some bug and crash.\n
