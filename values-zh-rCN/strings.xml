@@ -22,6 +22,12 @@
     <string name="feedback_contact">邮箱/QQ</string>
     <string name="feedback_successful">已提交.感谢您的反馈！</string>
     <string name="feedback_comsumer_service">QQ：267278471</string>
+    <string name="feedbacksubmit">提交反馈</string>
+    <string name="feedback_note">反馈信息</string>
+    <string name="feedback_purchase_channel">购买渠道</string>
+    <string name="feedback_purchase_price">购买价格</string>
+    <string name="feedback_purchase_choose">(选填)</string>
+    
     <string name="login">登 录</string>
     <string name="regist">注 册</string>
     <string name="save">保 存</string>
@@ -55,13 +61,17 @@
     
     <string name="verifyouttimenote">网络请求超时，请稍后再试</string>
 	<string name="result">验证结果:</string>
-	<string name="verify_device">验证机型: %s</string>
+	<string name="verify_device">验证机型:&#160;</string>
+    <string name="verify_code">验机编号:&#160;</string>
+    <string name="verify_result">验证结果:&#160;</string>
+    <string name="verify_hotline_prefix">安兔兔%1$s专线：</string>
 	<string name="verifying">正在验证手机真伪，请稍等&#8230;</string>
 	<string name="verify_error">验证过程出现错误，请重试！</string>
-	<string name="fine_mobile_note">正品保证  放心使用</string>
-	<string name="fake_mobile_note">假冒产品  小心使用</string>
-	<string name="unknow_mobile_note">未识别</string>
-	<string name="verify_feedback">对验机结果有疑问，请联系我们</string>
+    <string name="fine_mobile_note">正品保证  放心使用</string>
+    <string name="fake_mobile_note">假冒产品  小心使用</string>
+    <string name="unknow_mobile_note">未识别</string>
+    <string name="verify_feedback">索取验机报告，举报奸商，请联系安兔兔</string>
+    <string name="feedback_us">联系安兔兔</string>
     
     <string name="testing_runtime_item">用户体验（运行环境、多任务处理）</string>
     <string name="testing_cpu_item">CPU（CPU整数运算、浮点运算）</string>
@@ -202,6 +212,8 @@
     <string name="world_rank">世界排名</string>
     <string name="rank_format">NO.%sW+</string>
     <string name="rank_unknow">提交分数</string>
+    <string name="device_performance_desp">设备性能说明</string>
+    <string name="performance_description">性能说明</string>
     <string name="game_feature_title">游戏性能</string>
     <string name="total_feature_title">综合性能</string>
     <string name="power_feature_title">电池性能</string>
@@ -443,8 +455,8 @@
     <string name="bench_error">测试项目被意外终止, 请重试!</string>
     <string name="sd_full">SD卡空间不足!</string>
     <string name="download_format">正在下载%s，请稍等&#8230;</string>
-    <string name="root_already">是</string>
-    <string name="no_root">否</string>
+    <string name="root_already">已获取</string>
+    <string name="no_root">立即获取</string>
 
     <string name="try_now">立即体验</string>
     <string name="warm_tip">温馨提示</string>
@@ -458,12 +470,17 @@
     <string name="garbage_size">(%s)</string>
     <string name="download_in_progress">正在下载 %s%%&#8230;</string>
     <string name="clean_master">猎豹清理大师</string>
+    <string name="clear_home_page">优化内存</string>
+    <string name="clear_speedup_desp">使用猎豹清理大师内存加速</string>
     
     <string name="sleep">休眠</string>
     <string name="no_use">未使用</string>
     
     <string name="bat_leve">电量</string>
 	<string name="temp_leve">温度</string>
+	<string name="widget_battery">电池电量</string>
+	<string name="widget_memory">内存占用</string>
+	<string name="widget_cpu">CPU负载</string>
 	
 	<string name="cpu_detail_page_name">名称</string>
 	<string name="model">型号</string>
@@ -474,5 +491,14 @@
 	<string name="more_cpu_info">更多CPU信息 </string>
 	<string name="cpu_detail_info">CPU信息</string>
 	<string name="cpu_detail_load">CPU负载</string>
-	<string name="super_user_quality">拥有超级管理员权限</string>
+	<string name="super_user_quality">ROOT权限</string>
+	<string name="root_page_title">Root权限说明</string>
+
+    <string name="verify_need_test">验机前需要进行完整的性能测试，是否立即开始测试？</string>
+    <string name="data_send_failed">请求失败！</string>
+    
+    <string name="net_work_error_try">网络连接不可用，请稍候重试</string>
+	
+    <string name="exist_title">提示</string>
+    <string name="logout_description">确定退出程序？</string>
 </resources>

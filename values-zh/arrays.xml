@@ -91,11 +91,13 @@
         <item>CPU型號</item>
         <item>核心數</item>
         <item>頻率</item>
+        <item>更多</item>
     </string-array>
     <string-array name="dev_gpu">
         <item>GPU渲染器</item>
         <item>供應商</item>
         <item>GPU版本</item>
+        <item>GPU頻率</item>
         <item>解析度</item>
         <item>螢幕尺寸</item>
         <item>材質</item>
@@ -117,6 +119,7 @@
         <item>運行記憶體</item>
         <item>內置SD卡容量</item>
         <item>外置SD卡容量</item>
+        <item>清理垃圾文件</item>
     </string-array>
     <string-array name="dev_net">
         <item>模式</item>
@@ -153,7 +156,7 @@
         <item>解析度</item>
         <item>主攝像頭</item>
         <item>設備串號</item>
-        <item>Root过</item>
+        <item>擁有超級管理員權限</item>
     </string-array>
 
 </resources>

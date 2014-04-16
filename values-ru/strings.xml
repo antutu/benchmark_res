@@ -482,4 +482,13 @@
     <string name="about_contribute_author"></string>
  <string name="root_already">да</string>
     <string name="no_root">нет</string>
+    
+    <string name="open_clear">Установить Clean Master</string>
+    <string name="clear">Очистить сейчас</string>
+    <string name="clear_complete">Ок</string>
+    <string name="clear_in_progress">Cleaning&#8230;</string>
+    <string name="clear_garbage">Мусор</string>
+    <string name="garbage_size">(%s)</string>
+    <string name="download_in_progress">Скачивается %s%%&#8230;</string>
+    <string name="clean_master">Clean Master</string>
 </resources>

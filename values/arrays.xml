@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+	
     <string-array name="menu_change_photo">
         <item>@string/take_photo</item>
         <item>@string/pick_photo</item>
@@ -97,6 +97,7 @@
         <item>Renderer</item>
         <item>Vender</item>
         <item>GPU Version</item>
+        <item>GPU Frequency</item>
         <item>Resolution</item>
         <item>Size</item>
         <item>Material</item>
@@ -114,10 +115,10 @@
         <item>Bluetooth</item>
     </string-array>
     <string-array name="dev_storager">
-        <item>Memory</item>
         <item>RAM</item>
-        <item>Internal SD Card</item>
-        <item>External SD Card</item>
+        <item>System Storage</item>
+        <item>Internal Storage</item>
+        <item>External Storage</item>
         <item>Clean up</item>
     </string-array>
     <string-array name="dev_net">
@@ -133,10 +134,10 @@
     <string-array name="dev_others">
         <item>Direction Sensor</item>
         <item>G-Sensor</item>
-        <item>Proximity Sensor</item>
+        <item>Acceleration Sensor</item>
         <item>Light Sensor</item>
         <item>E-Compass</item>
-        <item>Distance Sensor</item>
+        <item>Proximity Sensor</item>
         <item>Gyro Sensor</item>
         <item>Temperature Sensor</item>
         <item>Pressure Sensor</item>
@@ -156,5 +157,23 @@
         <item>IMEI</item>
         <item>Have root access</item>
     </string-array>
-
+    
+    <string-array name="total_performance_bg">
+        <item>@drawable/info_btn_speed_red</item>
+        <item>@drawable/info_btn_speed_yellow</item>
+        <item>@drawable/info_btn_speed_green</item>
+        <item>@drawable/info_btn_speed_gray</item>
+    </string-array>
+    <string-array name="game_performance_bg">
+        <item>@drawable/info_btn_game_red</item>
+        <item>@drawable/info_btn_game_yellow</item>
+        <item>@drawable/info_btn_game_green</item>
+        <item>@drawable/info_btn_game_gray</item>
+    </string-array>
+    <string-array name="battery_performance_bg">
+        <item>@drawable/info_btn_battery_red</item>
+        <item>@drawable/info_btn_battery_yellow</item>
+        <item>@drawable/info_btn_battery_green</item>
+        <item>@drawable/info_btn_battery_gray</item>
+    </string-array>
 </resources>

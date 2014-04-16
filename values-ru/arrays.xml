@@ -89,11 +89,13 @@
         <item>Модель процессора</item>
         <item>Количество ядер</item>
         <item>Тактовая частота</item>
+                <item>More</item>
     </string-array>
     <string-array name="dev_gpu">
         <item>Графический процессор</item>
         <item>Изготовитель</item>
         <item>Версия GPU</item>
+          <item>GPU Frequency</item>
         <item>Разрешение дисплея</item>
         <item>Размер экрана</item>
         <item>Матрица</item>
@@ -111,10 +113,11 @@
         <item>Bluetooth</item>
     </string-array>
     <string-array name="dev_storager">
-        <item>Память устройства</item>
-        <item>ОЗУ</item>
-        <item>Внутренняя память</item>
-        <item>Внешняя SD-карта</item>
+        <item>RAM</item>
+        <item>System Storage</item>
+        <item>Internal Storage</item>
+        <item>External Storage</item>
+        <item>Clean up</item>
     </string-array>
     <string-array name="dev_net">
         <item>Доступ</item>

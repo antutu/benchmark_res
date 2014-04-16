@@ -92,11 +92,13 @@
         <item>Model</item>
         <item>Cores</item>
         <item>Frekuensi</item>
+                <item>More</item>
     </string-array>
     <string-array name="dev_gpu">
         <item>Renderer</item>
         <item>Vender</item>
         <item>Versi GPU</item>
+          <item>GPU Frequency</item>
         <item>Resolusi</item>
         <item>Ukuran</item>
         <item>Material</item>
@@ -114,10 +116,11 @@
         <item>Bluetooth</item>
     </string-array>
     <string-array name="dev_storager">
-        <item>Memory</item>
         <item>RAM</item>
-        <item>Kartu SD Internal</item>
-        <item>Kartu SD Eksternal</item>
+        <item>System Storage</item>
+        <item>Internal Storage</item>
+        <item>External Storage</item>
+        <item>Clean up</item>
     </string-array>
     <string-array name="dev_net">
         <item>Mode</item>

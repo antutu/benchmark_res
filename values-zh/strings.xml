@@ -18,6 +18,8 @@
     <string name="feedback_hint">請告訴我們您的建議或意見，我們會關注并處理</string>
     <string name="feedback_contact_hint">請留下您的郵箱，便於我們與您溝通回覆</string>
     <string name="feedback_successful">已提交.感謝您的反饋！</string>
+    <string name="feedbacksubmit">提交反饋</string>
+    <string name="feedback_note">回饋資訊</string>
     <string name="feedback">回饋</string>
     <string name="feedback_content">內容</string>
     <string name="feedback_contact">聯繫方式</string>
@@ -51,16 +53,7 @@
     <string name="yan">驗</string>
     <string name="yanji">鑒別真偽</string>
     <string name="antutu_verify">驗機報告</string>
-
-    <string name="verifyouttimenote">網路請求超時，請稍後再試</string>
-    <string name="result">驗證結果:</string>
-    <string name="verify_device">驗證機型: %s</string>
-    <string name="verifying">正在驗證手機真偽，請稍等&#8230;</string>
-    <string name="verify_error">驗證過程出現錯誤，請重試！</string>
-    <string name="fine_mobile_note">正品保證  放心使用</string>
-    <string name="fake_mobile_note">假冒產品  小心使用</string>
-    <string name="unknow_mobile_note">未識別</string>
-    <string name="verify_feedback">對驗機結果有疑問，請聯繫我們</string>
+    <string name="cpu_detail_load">CPU負載</string>
 
     <string name="testing_runtime_item">用戶體驗（運行環境、多任務處理）</string>
     <string name="testing_cpu_item">CPU（CPU整數運算、浮點運算）</string>
@@ -174,7 +167,7 @@
     <string name="optimize_mem_complete">已優化%1$dM記憶體空間，當前可用記憶體%2$dM</string>
     <string name="optimize_mem_in_progress">正在為您優化記憶體…</string>
     <string name="testing_description">安兔兔即將通過測試您的虛擬機（多任務處理能力、android運行環境）、CPU（CPU整形、CPU浮點）、RAM(RAM運算、RAM速度)、GPU（2D繪圖、3D繪圖）、存儲（存儲I/O、資料庫I/O）等多項性能，大約需要2分鐘。</string>
-    <string name="stability_test_description">Antutu穩定性測試，通過加長CPU的測試時間來增加負載，以曲線圖形式給出評測時間段內CPU性能得分及電池的溫度變化。處於超頻狀態的設備，在強負荷下會因發熱等各種不確定因素造成設備重啟，或者死機。通過測試過程中設備的溫度和分數變化趨勢可以瞭解設備的CPU穩定性和散熱能力。</string>
+    <string name="stability_test_description">Antutu穩定性測試，通過加長CPU的測試時間來增加負載，以曲線圖形式給出評測時間段內CPU性能得分及電池的溫度變化。通過測試過程中設備的溫度和分數變化趨勢可以瞭解設備的CPU穩定性和散熱能力。</string>
 
     <string name="tab_scores">分數</string>
     <string name="tab_sysinfo">系統資訊</string>
@@ -362,6 +355,7 @@
     <string name="share_weibo">新浪微博</string>
     <string name="share_tencent_weibo">騰訊微博</string>
     <string name="share_facebook">FaceBook</string>
+    <string name="facebook_canceled">分享取消</string>
     <string name="photo_post">發送圖片</string>
     <string name="wechat_not_install">未安裝微信！</string>
     <string name="share_content_repeat">分享失敗：內容重複！</string>
@@ -437,8 +431,8 @@
     <string name="bench_error">測試專案被意外終止, 請重試!</string>
     <string name="sd_full">SD卡空間不足!</string>
     <string name="download_format">正在下載%s，請稍等&#8230;</string>
-    <string name="root_already">rooted</string>
-    <string name="no_root">not root</string>
+    <string name="root_already">已獲取</string>
+    <string name="no_root">立即獲取</string>
 
     <string name="try_now">立即體驗</string>
     <string name="warm_tip">溫馨提示</string>
@@ -467,4 +461,12 @@
     <string name="cpu_core_fre">CPU內核頻率</string>
     <string name="more_cpu_info">更多CPU資訊 </string>
     <string name="cpu_detail_info">CPU資訊</string>
+    <string name="super_user_quality">ROOT權限</string>
+
+    <string name="verify_need_test">驗機前需要進行完整的性能測試，是否立即開始測試？</string>
+    <string name="data_send_failed">請求失敗！</string>
+
+    <string name="net_work_error_try">網絡連接不可用，請稍候重試</string>
+    <string name="performance_description">性能說明</string>
+    <string name="device_performance_desp">設備性能說明</string>    
 </resources>

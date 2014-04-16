@@ -499,4 +499,7 @@
     <string name="about_contribute_author"></string>
     <string name="root_already">예</string>
     <string name="no_root">아니</string>
+    
+    <string name="performance_description">성능</string>
+    <string name="device_performance_desp">성능 사양</string>
 </resources>

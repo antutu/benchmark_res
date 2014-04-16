@@ -97,6 +97,7 @@
         <item>GPU渲染器</item>
         <item>供应商</item>
         <item>GPU版本</item>
+        <item>GPU频率</item>
         <item>分辨率</item>
         <item>屏幕尺寸</item>
         <item>材质</item>
@@ -114,10 +115,10 @@
         <item>蓝牙</item>
     </string-array>
     <string-array name="dev_storager">
-        <item>机身容量</item>
         <item>运行内存</item>
-        <item>内置SD卡容量</item>
-        <item>外置SD卡容量</item>
+        <item>机身存储</item>
+        <item>内置存储</item>
+        <item>外置存储</item>
         <item>清理垃圾文件</item>
     </string-array>
     <string-array name="dev_net">
@@ -154,7 +155,7 @@
         <item>分辨率</item>
         <item>主摄像头</item>
         <item>设备串号</item>
-        <item>拥有超级管理员权限</item>
+        <item>ROOT权限</item>
     </string-array>
 
 </resources>

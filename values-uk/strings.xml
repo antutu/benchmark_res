@@ -19,7 +19,7 @@
     <string name="prompt_net">Мережа недоступна!</string>
     <string name="warning">Увага</string>
     <string name="sd_desc">Потрібно мінімум 500МБ вільного місця для тестування SD-карти!</string>
-    <string name="cancel">Відмінити тест</string>
+    <string name="cancel">Відмінити</string>
     <string name="confirm">Прийняти</string>
     <string name="skip">Пропустити</string>
     <string name="start_str">Тестувати</string>
@@ -480,6 +480,16 @@
     <string name="about_help_us">Допоможіть нам з локалізацією</string>
     <string name="about_contribute_thanks">Дякуємо волонтерам за їх глубоку допомогу:</string>
     <string name="about_contribute_author"></string>
-     <string name="root_already">да</string>
+    <string name="root_already">да</string>
     <string name="no_root">немає</string>
+    
+    
+    <string name="open_clear">Встановити Clean Master</string>
+    <string name="clear">Очистити зараз</string>
+    <string name="clear_complete">Гаразд</string>
+    <string name="clear_in_progress">Cleaning&#8230;</string>
+    <string name="clear_garbage">Сміття</string>
+    <string name="garbage_size">(%s)</string>
+    <string name="download_in_progress">Завантаження %s%%&#8230;</string>
+    <string name="clean_master">Clean Master</string>
 </resources>

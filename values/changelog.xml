@@ -3,6 +3,29 @@
 
 <string name="changelog">
 \n
+v4.4\n
+ &#8211; Add performance information.\n
+ &#8211; Add GPU frequency info, support some device.\n
+ &#8211; Optimized widgets.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.3.3\n
+ &#8211; Fixed a crash bug.\n
+\n
+v4.3.2\n
+ &#8211; Do not show old score when update from version 3.x\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.3.1\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.3\n
+ &#8211; Add widgets to display CPU, RAM and battery info.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v4.2.1\n
  &#8211; Enhanced search function and PK with search results.\n
  &#8211; Enhanced CPU information.\n
