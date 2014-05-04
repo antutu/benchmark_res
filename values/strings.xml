@@ -148,6 +148,8 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="clean_master">Clean Master</string>
     <string name="clear_home_page">Optimize Memory</string>
     <string name="clear_speedup_desp">Install Clean Master to optimize memory.</string>
+    <string name="clear_optimze_performance">Optimize system performance after installing Clean Master.</string>
+    <string name="clear_performance_btn">Optimize</string>
     
     <string name="c_info_total">Total Score</string>
     <string name="c_info_dalvik">Runtime</string>
@@ -630,4 +632,10 @@ Users can easily know the stability to CPU of devices through the varying trend 
         
     <string name="exist_title">Notice</string>
     <string name="logout_description">Sure to exit the program?</string>
+    
+    <string name="message_center">Message Center</string>
+    <string name="no_new_message">No new message</string>
+    <string name="update_title">Update Highlights</string>
+    <string name="update_summary">1.Add message center \n2.Optimize GUI on device info tab</string>
+    <string name="update_content">1.Add message center, Users can receive the latest information from Antutu Benchmark.\n2.Fix bug on Facebook &#38; Twitter sharing, users can share the benchmark results with their friends in social media.</string>
 </resources>

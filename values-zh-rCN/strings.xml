@@ -472,6 +472,8 @@
     <string name="clean_master">猎豹清理大师</string>
     <string name="clear_home_page">优化内存</string>
     <string name="clear_speedup_desp">使用猎豹清理大师内存加速</string>
+    <string name="clear_optimze_performance">安装猎豹清理大师，优化系统综合性能</string>
+    <string name="clear_performance_btn">性能优化</string>
     
     <string name="sleep">休眠</string>
     <string name="no_use">未使用</string>
@@ -501,4 +503,9 @@
 	
     <string name="exist_title">提示</string>
     <string name="logout_description">确定退出程序？</string>
+    <string name="message_center">消息中心</string>
+    <string name="no_new_message">目前没有消息哦</string>
+    <string name="update_title">更新亮点</string>
+    <string name="update_summary">1、添加消息中心\n2、优化设备信息界面</string>
+    <string name="update_content">1、添加消息中心，及时推送安兔兔评测相关信息\n2、优化设备信息界面，存储信息显示更清晰</string>
 </resources>

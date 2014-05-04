@@ -3,6 +3,15 @@
 
 <string name="changelog">
 \n
+v4.4.1\n
+ &#8211; Add message center.\n
+ &#8211; Optimize Storage info on device info tab.\n
+ &#8211; Fixed 2D test may abnormal slow on some device.\n
+ &#8211; Fixed CPU test may cause system halted on some device.\n
+ &#8211; Fixed Facebook and Twitter share.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v4.4\n
  &#8211; Add performance information.\n
  &#8211; Add GPU frequency info, support some device.\n

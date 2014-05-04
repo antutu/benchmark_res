@@ -61,101 +61,101 @@
         <item>Vietnam (VN)</item>
         <item>Hong Kong (HK)</item>
         <item>Taiwan (TW)</item>
-        <item>中华人民共和国 (CN)</item>
+        <item>Trung Quốc (CN)</item>
     </string-array>
     <string-array name="profile_gender_array">
         <item>Male</item>
         <item>Female</item>
     </string-array>
     <string-array name="menu_share">
-        <item>新浪微博</item>
-        <item>腾讯微博</item>
+        <item>Sina Weibo</item>
+        <item>Tencent Weibo</item>
     </string-array>
 
     <!-- Device Info params infomation -->
     <string-array name="device">
-        <item>品牌</item>
-        <item>型号</item>
-        <item>设备串号</item>
+        <item>Brand</item>
+        <item>Device Model</item>
+        <item>IMEI</item>
     </string-array>
     <string-array name="dev_os">
-        <item>Android版本</item>
-        <item>Android SDK版本</item>
-        <item>内核</item>
+        <item>Android Version</item>
+        <item>Android SDK Version</item>
+        <item>Kernel</item>
     </string-array>
     <string-array name="dev_power">
-        <item>电量</item>
-        <item>温度(℃)</item>
+        <item>Battery Level</item>
+        <item>Temperature(℃)</item>
     </string-array>
     <string-array name="dev_cpu">
-        <item>CPU型号</item>
-        <item>核心数</item>
-        <item>频率</item>
-        <item>更多</item>
+        <item>Model</item>
+        <item>Cores</item>
+        <item>Frequency</item>
+        <item>More</item>
     </string-array>
     <string-array name="dev_gpu">
-        <item>GPU渲染器</item>
-        <item>供应商</item>
-        <item>GPU版本</item>
-        <item>GPU频率</item>
-        <item>分辨率</item>
-        <item>屏幕尺寸</item>
-        <item>材质</item>
-        <item>屏幕密度</item>
-        <item>多点触控</item>
+        <item>Renderer</item>
+        <item>Vender</item>
+        <item>GPU Version</item>
+        <item>GPU Frequency</item>
+        <item>Resolution</item>
+        <item>Size</item>
+        <item>Material</item>
+        <item>Density</item>
+        <item>Multi-touch</item>
     </string-array>
     <string-array name="dev_surface">
-        <item>重量</item>
-        <item>规格</item>
-        <item>颜色</item>
+        <item>Weight</item>
+        <item>Specifications</item>
+        <item>Color</item>
     </string-array>
     <string-array name="dev_transfer">
         <item>GPS</item>
         <item>WIFI</item>
-        <item>蓝牙</item>
+        <item>Bluetooth</item>
     </string-array>
     <string-array name="dev_storager">
-        <item>运行内存(可用/总量)</item>
-        <item>机身存储(可用/总量)</item>
-        <item>内置存储(可用/总量)</item>
-        <item>外置存储(可用/总量)</item>
-        <item>清理垃圾文件</item>
+        <item>Memory</item>
+        <item>RAM</item>
+        <item>Internal SD Card</item>
+        <item>External SD Card</item>
+        <item>Clean up</item>
     </string-array>
     <string-array name="dev_net">
-        <item>网络接口</item>
+        <item>Access</item>
     </string-array>
     <string-array name="dev_camera">
-        <item>后置摄像头</item>
-        <item>前置摄像头</item>
-        <item>视频</item>
-        <item>拍照</item>
-        <item>传感器</item>
+        <item>Rear Camera</item>
+        <item>Front-facing Camera</item>
+        <item>Video Specification</item>
+        <item>Photograph</item>
+        <item>Sensor</item>
     </string-array>
     <string-array name="dev_others">
-        <item>方向感应器</item>
-        <item>重力感应器</item>
-        <item>加速度感应器</item>
-        <item>光照感应器</item>
-        <item>电子罗盘</item>
-        <item>距离感应器</item>
-        <item>陀螺仪感应器</item>
-        <item>设备温度感应器</item>
-        <item>压力感应器</item>
-        <item>空气温度感应器</item>
-        <item>湿度感应器</item>
-        <item>线性加速度感应器</item>
-        <item>旋转矢量感应器</item>
+        <item>Direction Sensor</item>
+        <item>G-Sensor</item>
+        <item>Acceleration Sensor</item>
+        <item>Light Sensor</item>
+        <item>E-Compass</item>
+        <item>Proximity Sensor</item>
+        <item>Gyro Sensor</item>
+        <item>Temperature Sensor</item>
+        <item>Pressure Sensor</item>
+        <item>Ambient Temperature Sensor</item>
+        <item>Relative Humidity Sensor</item>
+        <item>Linear Acceleration Sensor</item>
+        <item>Rotation Vector Sensor</item>
     </string-array>
     <string-array name="dev_basic">
-        <item>品牌</item>
-        <item>型号</item>
-        <item>Android版本</item>
-        <item>CPU型号</item>
-        <item>GPU渲染器</item>
-        <item>分辨率</item>
-        <item>主摄像头</item>
-        <item>设备串号</item>
-        <item>ROOT权限</item>
+        <item>Brand</item>
+        <item>Model</item>
+        <item>OS</item>
+        <item>CPU Model</item>
+        <item>GPU Renderer</item>
+        <item>Resolution</item>
+        <item>Rear Camera</item>
+        <item>IMEI</item>
+        <item>Have root access</item>
     </string-array>
 
 </resources>
