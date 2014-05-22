@@ -470,7 +470,9 @@
     <string name="garbage_size">(%s)</string>
     <string name="download_in_progress">正在下载 %s%%&#8230;</string>
     <string name="clean_master">猎豹清理大师</string>
-    <string name="clear_home_page">优化内存</string>
+    <string name="clear_home_page">点击内存加速</string>
+    <string name="ram_speedup_complete">内存已加速</string>
+    <string name="ram_speedup_ok">当前内存已优化至最佳</string>
     <string name="clear_speedup_desp">使用猎豹清理大师内存加速</string>
     <string name="clear_optimze_performance">安装猎豹清理大师，优化系统综合性能</string>
     <string name="clear_performance_btn">性能优化</string>
@@ -498,7 +500,7 @@
 
     <string name="verify_need_test">验机前需要进行完整的性能测试，是否立即开始测试？</string>
     <string name="data_send_failed">请求失败！</string>
-    
+    <string name="menu">菜单</string>
     <string name="net_work_error_try">网络连接不可用，请稍候重试</string>
 	
     <string name="exist_title">提示</string>
@@ -506,6 +508,8 @@
     <string name="message_center">消息中心</string>
     <string name="no_new_message">目前没有消息哦</string>
     <string name="update_title">更新亮点</string>
-    <string name="update_summary">1、添加消息中心\n2、优化设备信息界面</string>
-    <string name="update_content">1、添加消息中心，及时推送安兔兔评测相关信息\n2、优化设备信息界面，存储信息显示更清晰</string>
+    <string name="update_summary">1、优化社会化分享模块\n2、适配机顶盒设备</string>
+    <string name="update_content">1、优化社会化分享模块\n2、适配机顶盒设备</string>
+    <string name="faq_summary">同一设备每次评测分数不同？</string>
+    <string name="faq_content">同一设备每次评测分数不同？\n\n1.同一台设备每次评测的结果不同原因是评测的设备发挥的性能受硬件配置影响，同时与当前设备温度、运行的程序数量及系统模式有关，每次评测受到多方因素影响而产生不同程度的波动，评测结果差距不超过20%都属于正常波动范围。\n2.许多设备都提供多种运行模式，如省电模式、正常模式、性能模式等，不同模式下CPU最高频率不同，设备的性能发挥程度也不同，所以如果您的设备与其他同型号设备分数相差较大，请在设置中查看当前运行模式。\n\n如有其他疑问，请通过侧滑菜单中的反馈模块提交给我们</string>
 </resources>

@@ -3,6 +3,18 @@
 
 <string name="changelog">
 \n
+v4.4.3\n
+ &#8211; Support run benchmark on smart TV or BOX.\n
+ &#8211; Improve the social media section.\n
+ &#8211; Add Polish,Portuguese and Thai translate.\n
+ &#8211; Update Russian translate.\n
+ &#8211; Improved some details on UI.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v4.4.2\n
+ &#8211; Add Slovak translate.\n
+ &#8211; Fixed crash.\n
+\n
 v4.4.1\n
  &#8211; Add message center.\n
  &#8211; Optimize Storage info on device info tab.\n

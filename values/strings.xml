@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+	<string name="app_id">1403394553272360</string>
     <string name="app_name_sort">AnTuTu Benchmark</string>
     <string name="app_name">AnTuTu Benchmark</string>
     <string name="prompt">Exit AnTuTu Benchmark</string>
@@ -146,8 +146,10 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="garbage_size">(%s)</string>
     <string name="download_in_progress">Downloading %s%%&#8230;</string>
     <string name="clean_master">Clean Master</string>
-    <string name="clear_home_page">Optimize Memory</string>
+    <string name="clear_home_page">Click to optimize memory</string>
     <string name="clear_speedup_desp">Install Clean Master to optimize memory.</string>
+    <string name="ram_speedup_complete">Memory Boosted</string>
+    <string name="ram_speedup_ok">Memory Usage is already optimized</string>
     <string name="clear_optimze_performance">Optimize system performance after installing Clean Master.</string>
     <string name="clear_performance_btn">Optimize</string>
     
@@ -629,13 +631,17 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="data_send_failed">Request failed</string>
     
     <string name="net_work_error_try">Network error, try later</string>
-        
+    <string name="menu">Menu</string>
     <string name="exist_title">Notice</string>
     <string name="logout_description">Sure to exit the program?</string>
     
     <string name="message_center">Message Center</string>
     <string name="no_new_message">No new message</string>
     <string name="update_title">Update Highlights</string>
-    <string name="update_summary">1.Add message center \n2.Optimize GUI on device info tab</string>
-    <string name="update_content">1.Add message center, Users can receive the latest information from Antutu Benchmark.\n2.Fix bug on Facebook &#38; Twitter sharing, users can share the benchmark results with their friends in social media.</string>
+    <string name="update_summary">1.Improve the social media section \n2.Adapt the STB devices</string>
+    <string name="update_content">1.Improve the social media section.\n2.Adapt the STB devices.</string>
+
+    <string name="faq_title">FAQ</string>
+    <string name="faq_summary">Why does the scores different every time?</string>
+    <string name="faq_content">Why does the scores different every time?\n\n1.The reason of different results from the same device is that the performance test is decided by the hardware configuration. But at the same time, it is influenced by the current device temperature, the number of running programs, and also the system mode.  The test scores are related with all these elements above, with normal fluctuating within 20%.\n\n2.Many devices offer a variety of running modes, such as power-saving mode, normal/balance mode, performance mode, the maximum frequency of CPU in different modes varies, causing the devices playing different performance. So if your device gets the scores significantly different with other devices of the same model, please check the current operating mode in the settings.\n</string>
 </resources>

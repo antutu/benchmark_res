@@ -87,15 +87,15 @@
     </string-array>
     <string-array name="dev_cpu">
         <item>Модель процессора</item>
-        <item>Количество ядер</item>
+        <item>Ядер</item>
         <item>Тактовая частота</item>
-                <item>More</item>
+                <item>Больше</item>
     </string-array>
     <string-array name="dev_gpu">
         <item>Графический процессор</item>
         <item>Изготовитель</item>
         <item>Версия GPU</item>
-          <item>GPU Frequency</item>
+          <item>Тактовая частота GPU</item>
         <item>Разрешение дисплея</item>
         <item>Размер экрана</item>
         <item>Матрица</item>
@@ -109,26 +109,26 @@
     </string-array>
     <string-array name="dev_transfer">
         <item>GPS</item>
-        <item>WIFI</item>
+        <item>WI-FI</item>
         <item>Bluetooth</item>
     </string-array>
     <string-array name="dev_storager">
-        <item>RAM</item>
+        <item>ОЗУ</item>
         <item>System Storage</item>
-        <item>Internal Storage</item>
-        <item>External Storage</item>
-        <item>Clean up</item>
+        <item>Внутренний накопитель</item>
+        <item>Внешний накопитель</item>
+        <item>Очистить</item>
     </string-array>
     <string-array name="dev_net">
-        <item>Доступ</item>
-        <item>Доступ</item>
+        <item>Есть доступ</item>
+        <item>Есть доступ</item>
     </string-array>
     <string-array name="dev_camera">
-        <item>Задняя камера</item>
+        <item>Камера</item>
         <item>Фронтальная камера</item>
         <item>Разрешение видео</item>
         <item>Фотография</item>
-        <item>Датчик</item>
+        <item>Матрица</item>
     </string-array>
     <string-array name="dev_others">
         <item>Датчик направления</item>
@@ -148,11 +148,11 @@
     <string-array name="dev_basic">
         <item>Изготовитель</item>
         <item>Модель</item>
-        <item>Операционная система</item>
+        <item>Android</item>
         <item>Модель процессора</item>
         <item>Модель GPU</item>
         <item>Разрешение дисплея</item>
-        <item>Задняя камера</item>
+        <item>Камера</item>
         <item>IMEI</item>
         <item>корневой доступ</item>
     </string-array>

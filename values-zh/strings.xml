@@ -464,4 +464,5 @@
     <string name="message_center">消息中心</string>
     <string name="no_new_message">目前沒有消息哦</string>
 
+    <string name="logout_description">確定退出程序？</string>
 </resources>

@@ -87,15 +87,15 @@
     </string-array>
     <string-array name="dev_cpu">
         <item>Модель процесора</item>
-        <item>Кількість ядер</item>
+        <item>Ядер</item>
         <item>Тактова частота</item>
-                <item>More</item>
+                <item>Більше</item>
     </string-array>
     <string-array name="dev_gpu">
         <item>Графічний процесор</item>
         <item>Виробник</item>
         <item>Версія GPU</item>
-          <item>GPU Frequency</item>
+          <item>Тактова частота GPU</item>
         <item>Роздільість дисплею</item>
         <item>Розмір екрану</item>
         <item>Матриця</item>
@@ -109,22 +109,22 @@
     </string-array>
     <string-array name="dev_transfer">
         <item>GPS</item>
-        <item>WIFI</item>
+        <item>WI-FI</item>
         <item>Bluetooth</item>
     </string-array>
     <string-array name="dev_storager">
-        <item>RAM</item>
-        <item>System Storage</item>
-        <item>Internal Storage</item>
-        <item>External Storage</item>
-        <item>Clean up</item>
+        <item>ОЗП</item>
+        <item>Системна пам\'ять</item>
+        <item>Внутрішня пам\'ять</item>
+        <item>Зовнішня пам\'ять</item>
+        <item>Чистка</item>
     </string-array>
     <string-array name="dev_net">
-        <item>Доступ</item>
-        <item>Доступ</item>
+        <item>Є доступ</item>
+        <item>Є доступ</item>
     </string-array>
     <string-array name="dev_camera">
-        <item>Задня камера</item>
+        <item>Камера</item>
         <item>Фронтальна камера</item>
         <item>Роздільність відео</item>
         <item>Фотографія</item>
@@ -152,9 +152,9 @@
         <item>Модель процесора</item>
         <item>Модель GPU</item>
         <item>Роздільність дисплею</item>
-        <item>Задня камера</item>
+        <item>Камера</item>
         <item>IMEI</item>
-        <item>кореневого доступу</item>
+        <item>кореневий доступ</item>
     </string-array>
 
 </resources>
