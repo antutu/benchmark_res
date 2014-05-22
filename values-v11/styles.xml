@@ -1,6 +1,0 @@
-<resources>
-
-    <style name="Theme.CustomNoTitleBar" parent="@android:style/Theme.DeviceDefault">
-    </style>
-    
-</resources>
