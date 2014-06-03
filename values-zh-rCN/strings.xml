@@ -512,4 +512,73 @@
     <string name="update_content">1、优化社会化分享模块\n2、适配机顶盒设备</string>
     <string name="faq_summary">同一设备每次评测分数不同？</string>
     <string name="faq_content">同一设备每次评测分数不同？\n\n1.同一台设备每次评测的结果不同原因是评测的设备发挥的性能受硬件配置影响，同时与当前设备温度、运行的程序数量及系统模式有关，每次评测受到多方因素影响而产生不同程度的波动，评测结果差距不超过20%都属于正常波动范围。\n2.许多设备都提供多种运行模式，如省电模式、正常模式、性能模式等，不同模式下CPU最高频率不同，设备的性能发挥程度也不同，所以如果您的设备与其他同型号设备分数相差较大，请在设置中查看当前运行模式。\n\n如有其他疑问，请通过侧滑菜单中的反馈模块提交给我们</string>
+
+    <string name="SinaWB">新浪微博</string>
+    <string name="TencentWB">腾讯微博</string>
+
+    <string name="Brand">品牌</string>
+    <string name="Model">型号</string>
+    <string name="Device_Model">型号</string>
+    <string name="IMEI">设备串号</string>
+
+    <string name="Android_Version">Android版本</string>
+    <string name="Android_SDK_Version">Android SDK版本</string>
+    <string name="Kernel">内核</string>
+
+    <string name="Battery_Level">电量</string>
+    <string name="TemperatureC">温度(℃)</string>
+
+    <string name="CPU_Model">CPU型号</string>
+    <string name="Cores">核心数</string>
+    <string name="frequency">频率</string>
+    <string name="More">更多</string>
+
+    <string name="Renderer">GPU渲染器</string>
+    <string name="Vender">供应商</string>
+    <string name="GPU_Version">GPU版本</string>
+    <string name="GPU_Frequency">GPU频率</string>
+    <string name="Resolution">分辨率</string>
+    <string name="Size">屏幕尺寸</string>
+    <string name="Material">材质</string>
+    <string name="Density">屏幕密度</string>
+    <string name="Multi-touch">多点触控</string>
+
+    <string name="Weight">重量</string>
+    <string name="Specifications">规格</string>
+    <string name="Color">颜色</string>
+
+    <string name="GPS">GPS</string>
+    <string name="WIFI">WIFI</string>
+    <string name="Bluetooth">蓝牙</string>
+
+    <string name="RAM">运行内存(可用/总量)</string>
+    <string name="System_Storage">机身存储(可用/总量)</string>
+    <string name="Internal_Storage">内置存储(可用/总量)</string>
+    <string name="External_Storage">外置存储(可用/总量)</string>
+    <string name="Clean_up">清理垃圾文件</string>
+
+    <string name="Access">网络接口</string>
+
+    <string name="Rear_Camera">后置摄像头</string>
+    <string name="Front-facing_Camera">前置摄像头</string>
+    <string name="Video_Specification">视频</string>
+    <string name="Photograph">拍照</string>
+    <string name="Sensor">传感器</string>
+
+    <string name="Direction_Sensor">方向感应器</string>
+    <string name="G-Sensor">重力感应器</string>
+    <string name="Acceleration_Sensor">加速度感应器</string>
+    <string name="Light_Sensor">光照感应器</string>
+    <string name="E-Compass">电子罗盘</string>
+    <string name="Proximity_Sensor">距离感应器</string>
+    <string name="Gyro_Sensor">陀螺仪感应器</string>
+    <string name="Temperature_Sensor">设备温度感应器</string>
+    <string name="Pressure_Sensor">压力感应器</string>
+    <string name="Ambient_Temperature_Sensor">空气温度感应器</string>
+    <string name="Relative_Humidity_Sensor">湿度感应器</string>
+    <string name="Linear_Acceleration_Sensor">线性加速度感应器</string>
+    <string name="Rotation_Vector_Sensor">旋转矢量感应器</string>
+
+    <string name="Have_root_access">ROOT权限</string>
+
 </resources>

@@ -146,7 +146,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="garbage_size">(%s)</string>
     <string name="download_in_progress">Downloading %s%%&#8230;</string>
     <string name="clean_master">Clean Master</string>
-    <string name="clear_home_page">Click to optimize memory</string>
+    <string name="clear_home_page">Click to boost memory&#160;</string>
     <string name="clear_speedup_desp">Install Clean Master to optimize memory.</string>
     <string name="ram_speedup_complete">Memory Boosted</string>
     <string name="ram_speedup_ok">Memory Usage is already optimized</string>
@@ -644,4 +644,126 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="faq_title">FAQ</string>
     <string name="faq_summary">Why does the scores different every time?</string>
     <string name="faq_content">Why does the scores different every time?\n\n1.The reason of different results from the same device is that the performance test is decided by the hardware configuration. But at the same time, it is influenced by the current device temperature, the number of running programs, and also the system mode.  The test scores are related with all these elements above, with normal fluctuating within 20%.\n\n2.Many devices offer a variety of running modes, such as power-saving mode, normal/balance mode, performance mode, the maximum frequency of CPU in different modes varies, causing the devices playing different performance. So if your device gets the scores significantly different with other devices of the same model, please check the current operating mode in the settings.\n</string>
+
+
+    <string name="Austria_AT">Austria (AT)</string>
+    <string name="Australia_AU">Australia (AU)</string>
+    <string name="Bulgaria_BG">Bulgaria (BG)</string>
+    <string name="Egypt_EG">Egypt (EG)</string>
+    <string name="Israel_IL">Israel (IL)</string>
+    <string name="Spain_ES">Spain (ES)</string>
+    <string name="Czech_Republic_CZ">Czech Republic (CZ)</string>
+    <string name="Denmark_DK">Denmark (DK)</string>
+    <string name="Switzerland_CH">Switzerland (CH)</string>
+    <string name="Germany_DE">Germany (DE)</string>
+    <string name="Liechtenstein_LI">Liechtenstein (LI)</string>
+    <string name="Greece_GR">Greece (GR)</string>
+    <string name="Canada_CA">Canada (CA)</string>
+    <string name="Britain_GB">Britain (GB)</string>
+    <string name="Ireland_IE">Ireland (IE)</string>
+    <string name="India_IN">India (IN)</string>
+    <string name="New_Zealand_NZ">New Zealand (NZ)</string>
+    <string name="SingaporeSG">Singapore(SG)</string>
+    <string name="United_States_US">United States (US)</string>
+    <string name="South_Africa_ZA">South Africa (ZA)</string>
+    <string name="Finland_FI">Finland (FI)</string>
+    <string name="France_FR">France (FR)</string>
+    <string name="Croatia_HR">Croatia (HR)</string>
+    <string name="Hungary_HU">Hungary (HU)</string>
+    <string name="Indonesia_ID">Indonesia (ID)</string>
+    <string name="Italy_IT">Italy (IT)</string>
+    <string name="Japan_JP">Japan (JP)</string>
+    <string name="Korean_KR">Korean (KR)</string>
+    <string name="Lithuania_LT">Lithuania (LT)</string>
+    <string name="Latvia_LV">Latvia (LV)</string>
+    <string name="Norway_NO">Norway (NO)</string>
+    <string name="Belgium_BE">Belgium (BE)</string>
+    <string name="Netherlands_NL">Netherlands (NL)</string>
+    <string name="Brazil_BR">Brazil (BR)</string>
+    <string name="Poland_PL">Poland (PL)</string>
+    <string name="Portugal_PT">Portugal (PT)</string>
+    <string name="Romania_RO">Romania (RO)</string>
+    <string name="Russia_RU">Russia (RU)</string>
+    <string name="Slovakia_SK">Slovakia (SK)</string>
+    <string name="Slovenia_SI">Slovenia (SI)</string>
+    <string name="Serbian_RS">Serbian (RS)</string>
+    <string name="Sweden_SE">Sweden (SE)</string>
+    <string name="Thailand_TH">Thailand (TH)</string>
+    <string name="Philippines_PH">Philippines (PH)</string>
+    <string name="Turkey_TR">Turkey (TR)</string>
+    <string name="Ukraine_UA">Ukraine (UA)</string>
+    <string name="Vietnam_VN">Vietnam (VN)</string>
+    <string name="Hong_Kong_HK">Hong Kong (HK)</string>
+    <string name="Taiwan_TW">Taiwan (TW)</string>
+    <string name="PRC_CN">中华人民共和国 (CN)</string>
+
+    <string name="Male">Male</string>
+    <string name="Female">Female</string>
+    <string name="SinaWB">Sina Weibo</string>
+    <string name="TencentWB">Tencent Weibo</string>
+
+    <string name="Brand">Brand</string>
+    <string name="Model">Model</string>
+    <string name="Device_Model">Device Model</string>
+    <string name="IMEI">IMEI</string>
+
+    <string name="Android_Version">Android Version</string>
+    <string name="Android_SDK_Version">Android SDK Version</string>
+    <string name="Kernel">Kernel</string>
+
+    <string name="Battery_Level">Battery Level</string>
+    <string name="TemperatureC">Temperature(℃)</string>
+
+    <string name="CPU_Model">CPU Model</string>
+    <string name="Cores">Cores</string>
+    <string name="frequency">Frequency</string>
+    <string name="More">More</string>
+
+    <string name="Renderer">Renderer</string>
+    <string name="Vender">Vender</string>
+    <string name="GPU_Version">GPU Version</string>
+    <string name="GPU_Frequency">GPU Frequency</string>
+    <string name="Resolution">Resolution</string>
+    <string name="Size">Size</string>
+    <string name="Material">Material</string>
+    <string name="Density">Density</string>
+    <string name="Multi-touch">Multi-touch</string>
+
+    <string name="Weight">Weight</string>
+    <string name="Specifications">Specifications</string>
+    <string name="Color">Color</string>
+
+    <string name="GPS">GPS</string>
+    <string name="WIFI">WIFI</string>
+    <string name="Bluetooth">Bluetooth</string>
+
+    <string name="RAM">RAM</string>
+    <string name="System_Storage">System Storage</string>
+    <string name="Internal_Storage">Internal Storage</string>
+    <string name="External_Storage">External Storage</string>
+    <string name="Clean_up">Clean up</string>
+
+    <string name="Access">Access</string>
+
+    <string name="Rear_Camera">Rear Camera</string>
+    <string name="Front-facing_Camera">Front-facing Camera</string>
+    <string name="Video_Specification">Video Specification</string>
+    <string name="Photograph">Photograph</string>
+    <string name="Sensor">Sensor</string>
+
+    <string name="Direction_Sensor">Direction Sensor</string>
+    <string name="G-Sensor">G-Sensor</string>
+    <string name="Acceleration_Sensor">Acceleration Sensor</string>
+    <string name="Light_Sensor">Light Sensor</string>
+    <string name="E-Compass">E-Compass</string>
+    <string name="Proximity_Sensor">Proximity Sensor</string>
+    <string name="Gyro_Sensor">Gyro Sensor</string>
+    <string name="Temperature_Sensor">Temperature Sensor</string>
+    <string name="Pressure_Sensor">Pressure Sensor</string>
+    <string name="Ambient_Temperature_Sensor">Ambient Temperature Sensor</string>
+    <string name="Relative_Humidity_Sensor">Relative Humidity Sensor</string>
+    <string name="Linear_Acceleration_Sensor">Linear Acceleration Sensor</string>
+    <string name="Rotation_Vector_Sensor">Rotation Vector Sensor</string>
+
+    <string name="Have_root_access">Have root access</string>
 </resources>
