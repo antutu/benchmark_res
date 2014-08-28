@@ -639,6 +639,4 @@
     <string name="message_center">Центр сообщений</string>
     <string name="no_new_message">Нет новых сообщений</string>
     <string name="update_title">Обновить</string>
-    <string name="update_summary">1.Добавлен центр сообщений \n2.Оптимизирован интерфейс на вкладке инфо об устройстве</string>
-    <string name="update_content">1.Добавлен центр сообщений, пользователи получат свежайшую информацию из AnTuTu Labs. \n 2.Устранена ошибка обмена данными Facebook и Twitter, пользователи могут совместно использовать результаты тестов со своими друзьями в социальных сетях.</string>
 </resources>

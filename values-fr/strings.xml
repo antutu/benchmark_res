@@ -1,0 +1,1229 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Acceleration_Sensor">Accéléromètre</string>
+    <string name="Access">Accès</string>
+    <string name="Ad_Banners">Bannières publicitaires</string>
+    <string name="Ambient_Temperature_Sensor">Capteur de température amb</string>
+    <string name="Android_SDK_Version">Version du SDK Android</string>
+    <string name="Android_Version">Version Android</string>
+    <string name="Australia_AU">Australie (AU)</string>
+    <string name="Austria_AT">Autriche (AT)</string>
+    <string name="Battery_Level">Niveau de batterie</string>
+    <string name="Belgium_BE">Belgique (BE)</string>
+    <string name="Bluetooth">Bluetooth</string>
+    <string name="Brand">Marque</string>
+    <string name="Brazil_BR">Brésil (BR)</string>
+    <string name="Britain_GB">Grande-Bretagne (GB)</string>
+    <string name="Bulgaria_BG">Bulgarie (BG)</string>
+    <string name="CPU">Modèle de CPU:</string>
+    <string name="CPU_Model">Modèle de CPU</string>
+    <string name="Canada_CA">Canada (CA)</string>
+    <string name="Clean_up">Nettoyer</string>
+    <string name="Color">Couleur</string>
+    <string name="Cores">Coeurs</string>
+    <string name="Croatia_HR">Croatie (HR)</string>
+    <string name="Czech_Republic_CZ">République tchèque (CZ)</string>
+    <string name="Denmark_DK">Danemark (DK)</string>
+    <string name="Density">Densité</string>
+    <string name="Device_Model">Modèle d\'appareil</string>
+    <string name="Direction_Sensor">Gyroscope</string>
+    <string name="E_Compass">E-Boussole</string>
+    <string name="Egypt_EG">Égypte (EG)</string>
+    <string name="External_Storage">Stockage Externe</string>
+    <string name="Female">Femme</string>
+    <string name="Finland_FI">Finlande (FI)</string>
+    <string name="France_FR">France (FR)</string>
+    <string name="Frequency">Fréquence du CPU:</string>
+    <string name="Front_facing_Camera">Camera frontale</string>
+    <string name="GPS">GPS</string>
+    <string name="GPU_Frequency">Fréquence GPU</string>
+    <string name="GPU_Version">Version GPU</string>
+    <string name="G_Sensor">Accéléromètre</string>
+    <string name="Germany_DE">Allemagne (DE)</string>
+    <string name="Greece_GR">Grèce (GR)</string>
+    <string name="Gyro_Sensor">Gyro</string>
+    <string name="Have_root_access">Dispose des droits root</string>
+    <string name="Hong_Kong_HK">Hong Kong (HK)</string>
+    <string name="Hungary_HU">Hongrie (HU)</string>
+    <string name="IMEI">IMEI</string>
+    <string name="India_IN">Inde (IN)</string>
+    <string name="Indonesia_ID">Indonésie (ID)</string>
+    <string name="Internal_Storage">Stockage interne</string>
+    <string name="Ireland_IE">Irlande (IE)</string>
+    <string name="Israel_IL">Israel (IL)</string>
+    <string name="Italy_IT">Italie (IT)</string>
+    <string name="Japan_JP">Japon (JP)</string>
+    <string name="Kernel">Kernel</string>
+    <string name="Korean_KR">Corée (KR)</string>
+    <string name="Latvia_LV">Lettonie (LV)</string>
+    <string name="Liechtenstein_LI">Liechtenstein (LI)</string>
+    <string name="Light_Sensor">Capteur de luminosité</string>
+    <string name="Linear_Acceleration_Sensor">Capteur d\'accélération linéaire</string>
+    <string name="Lithuania_LT">Lituanie (LT)</string>
+    <string name="Male">Homme</string>
+    <string name="Material">Matériel</string>
+    <string name="MemSize">Espace Total (libre/total):</string>
+    <string name="Model">Modèle</string>
+    <string name="More">Plus</string>
+    <string name="Multi_touch">Multi-touch</string>
+    <string name="NFC">NFC</string>
+    <string name="Netherlands_NL">Pays-Bas (NL)</string>
+    <string name="New_Zealand_NZ">Nouvelle-Zélande (NZ)</string>
+    <string name="Norway_NO">Norvège (NO)</string>
+    <string name="PRC_CN">中华人民共和国 (CN)</string>
+    <string name="Philippines_PH">Philippines (PH)</string>
+    <string name="Phone">Modèle du téléphone:</string>
+    <string name="Photograph">Photograph</string>
+    <string name="Poland_PL">Pologne (PL)</string>
+    <string name="Portugal_PT">Portugal (PT)</string>
+    <string name="Pressure_Sensor">Baromètre</string>
+    <string name="Proximity_Sensor">Capteur de proximité</string>
+    <string name="RAM">RAM</string>
+    <string name="RAMSize">Mémoire RAM (libre/total):</string>
+    <string name="Rear_Camera">Caméra arrière</string>
+    <string name="Relative_Humidity_Sensor">Capteur d\'humidité relative</string>
+    <string name="Renderer">Rendu</string>
+    <string name="Resolution">Résolution</string>
+    <string name="RomInfo">Numéro de version:</string>
+    <string name="Romania_RO">Roumanie(RO)</string>
+    <string name="Rotation_Vector_Sensor">Capteur de rotation</string>
+    <string name="Russia_RU">Russie (RU)</string>
+    <string name="SDCard">Mémoire carte SD (libre/total):</string>
+    <string name="SDCardEx">Mémoire carte SD Externe (libre/total):</string>
+    <string name="Sensor">Capteur</string>
+    <string name="Serbian_RS">Serbie (RS)</string>
+    <string name="SinaWB">Sina Weibo</string>
+    <string name="SingaporeSG">Singapour(SG)</string>
+    <string name="Size">Taille</string>
+    <string name="Slovakia_SK">Slovaquie (SK)</string>
+    <string name="Slovenia_SI">Slovénie (SI)</string>
+    <string name="South_Africa_ZA">Afrique du Sud (ZA)</string>
+    <string name="Spain_ES">Espagne (ES)</string>
+    <string name="Specifications">Spécifications</string>
+    <string name="Sweden_SE">Suède (SE)</string>
+    <string name="Switzerland_CH">Suisse (CH)</string>
+    <string name="System">Version Android:</string>
+    <string name="System_Storage">Stockage Système</string>
+    <string name="Taiwan_TW">Taïwan (TW)</string>
+    <string name="TemperatureC">Température(℃)</string>
+    <string name="Temperature_Sensor">Capteur de température</string>
+    <string name="TencentWB">Tencent Weibo</string>
+    <string name="Testing">Test en cours, veuillez patienter…</string>
+    <string name="Testing_2d">Test de perfromance graphiques 2D…</string>
+    <string name="Testing_3d">Test de perfromance graphiques 3D…</string>
+    <string name="Testing_cancle">Test terminé</string>
+    <string name="Testing_dalvik">Test des performances d\'exécution…</string>
+    <string name="Testing_db">Test des performances de la base de données I/O…</string>
+    <string name="Testing_finish">Test terminé</string>
+    <string name="Testing_float">Test des performances FPU du CPU…</string>
+    <string name="Testing_info">Le test complet peut prendre plusieurs minutes</string>
+    <string name="Testing_int">Test des performances IU…</string>
+    <string name="Testing_mem">Test des performances de la RAM…</string>
+    <string name="Testing_multitask">Test des performances en Multi-Tâches…</string>
+    <string name="Testing_optimize_mem">Optimiser la mémoire pour rendre le Benchmark plus précis</string>
+    <string name="Testing_ram">Test de la vitesse RAM…</string>
+    <string name="Testing_renderscript">Test des performances du Renderscript…</string>
+    <string name="Testing_st">Test des performances de Stockage I/O…</string>
+    <string name="Thailand_TH">Thaïlande(TH)</string>
+    <string name="Turkey_TR">Turquie (TR)</string>
+    <string name="Ukraine_UA">Ukraine (UA)</string>
+    <string name="United_States_US">États-Unis (US)</string>
+    <string name="Untested">Non testé</string>
+    <string name="Vender">Fournisseur</string>
+    <string name="Video_Specification">Spécifications vidéo</string>
+    <string name="Vietnam_VN">Viêt Nam (VN)</string>
+    <string name="WIFI">WIFI</string>
+    <string name="Weight">Poids</string>
+    <string name="about">A propos</string>
+    <string name="about_changelog">Change-Log</string>
+    <string name="about_contribute_author" />
+    <string name="about_contribute_thanks">Merci aux volontaires pour leurs contributions:</string>
+    <string name="about_copyright">Copyright © 2010 – 2014 AnTuTu. Tous droits réservés.</string>
+    <string name="about_facebook">Aimez Nous</string>
+    <string name="about_help_us">Aidez nous a Localiser</string>
+    <string name="about_info">Crée en 2010 composé de techniciens supérieurs qui ont un amour profond pour la technologie mobile, Antutu Labs offre une application de Benchmarking simple et précise. Notre mission est de développé des logiciels utiles qui auront pour but d\'aider les gens a avoir une maitrise approfondie de leurs appareils mobiles. AnTuTu Benchmark supporte plus de dix langues : Anglais, Russe, Japonais, Coréen, Pologné, Italien, Tchèque, Français et plus. A ce jour, plus de 100,000,000 utilisateurs ont utilisés Antutu Benchmark. Antutu Benchmark est devenu un standard dans le monde du benchmarking mobile.</string>
+    <string name="about_twitter">Suivez Nous</string>
+    <string name="accelerated_speed">Vitesse d\'accélération</string>
+    <string name="action_settings">Paramètres</string>
+    <string name="always_finish_info">"Veuillez s\'il vous plaît décocher la case \"Ne pas gardez d\'activités\" dans le menu Options de développement"</string>
+    <string name="always_finish_title">"\" Ne pas gardez d\'activités\" Activé"</string>
+    <string name="always_portrait">Toujours en portrait</string>
+    <string name="antutu_3d_rating">AnTuTu 3DRating Benchmark</string>
+    <string name="antutu_version">Benchmark par AnTuTu v3</string>
+    <string name="api_version">Version du SDK Android:</string>
+    <string name="app_id">1403394553272360</string>
+    <string name="app_name">AnTuTu Benchmark</string>
+    <string name="app_name_sort">AnTuTu Benchmark</string>
+    <string name="app_setting">Options</string>
+    <string name="appearance">Apparance:</string>
+    <string name="attention">Attention</string>
+    <string name="authenticated">Certifié par AnTuTu</string>
+    <string name="auto_bench">Le Benchmark automatique débutera après 10 secondes!</string>
+    <string name="auto_exit">L\'application se fermera automatiquement après 20 secondes!</string>
+    <string name="auto_language">* Langue Système</string>
+    <string name="auto_update">Vérification automatique des mises à jour</string>
+    <string name="auto_update_info">Vérifiez les mises à jour au lancement</string>
+    <string name="axverify">AnTuTu Device Validator</string>
+    <string name="axverify_info">Validez votre appareil</string>
+    <string name="backup_files">Sauvegardez vos données et paramètres</string>
+    <string name="backup_files_dec">Sauvegardez vos données et paramètres sur SD Externe</string>
+    <string name="backup_restore">Sauvegarde et Restauration</string>
+    <string name="backup_succeed">Sauvegarde terminée!</string>
+    <string name="backup_warning">Voulez vous sauvegarder les données et paramètres? toute données existante sera écraser.</string>
+    <string name="basic_info">Information basique</string>
+    <string name="bat_leve">Niveau de batterie</string>
+    <string name="battery">Batterie</string>
+    <string name="battery_level_pre">%d%%</string>
+    <string name="battery_save">Préservez votre batterie</string>
+    <string name="battery_temprature_pre">%d°C</string>
+    <string name="behind">Derrière</string>
+    <string name="bench_error">Le Benchmark s\'est arrêté, Veuillez réessayer!</string>
+    <string name="bench_stop">Arrêt du test en cours…</string>
+    <string name="bluetooth">Bluetooth</string>
+    <string name="brand">Marque:</string>
+    <string name="brand_">Marque</string>
+    <string name="btn_detail">Détails</string>
+    <string name="btn_overclock">Over Clock</string>
+    <string name="btn_rank">Publier les scores</string>
+    <string name="btn_rankweb">Site Web</string>
+    <string name="c_info_2D">Graphismes 2D</string>
+    <string name="c_info_3D">Graphismes 3D</string>
+    <string name="c_info_DB">Base de données I/O</string>
+    <string name="c_info_ST">Stockage I/O</string>
+    <string name="c_info_dalvik">Moteur d\'exécution</string>
+    <string name="c_info_float">CPU Float-point</string>
+    <string name="c_info_int">CPU Integer</string>
+    <string name="c_info_mem">Opérations RAM</string>
+    <string name="c_info_multitask">Multitâches</string>
+    <string name="c_info_ram">Vitesse RAM</string>
+    <string name="c_info_total">Score Total</string>
+    <string name="camera">Caméra:</string>
+    <string name="camera_front">Front camera:</string>
+    <string name="cancel">Annuler</string>
+    <string name="cancelled">Annulé</string>
+    <string name="cancle_download">Annuler le téléchargement</string>
+    <string name="cancle_download_info">Annuler le téléchargement quand même?</string>
+    <string name="cancle_plugin">Le plugin est requis pour le benchmark! Annuler quand même?</string>
+    <string name="capacity">Capacité</string>
+    <string name="certification">Certifié</string>
+    <string name="change_photo">Changer l\'avatar</string>
+    <string name="changelog">"
+ v4.5
+ – Improve home page and detail page score display.
+ – Improve device info accuracy.
+ – Device info add NFC detection.
+ – Rating AnTuTu benchmark in Google Play.
+ – Fixed slow response speed on more CPU info.
+ – Fixed some bug and crash.
+ 
+ v4.4.3
+ – Support run benchmark on smart TV or BOX.
+ – Improve the social media section.
+ – Add Polish,Portuguese and Thai translate.
+ – Update Russian translate.
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.4.2
+ – Add Slovak translate.
+ – Fixed crash.
+ 
+ v4.4.1
+ – Add message center.
+ – Optimize Storage info on device info tab.
+ – Fixed 2D test may abnormal slow on some device.
+ – Fixed CPU test may cause system halted on some device.
+ – Fixed Facebook and Twitter share.
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.4
+ – Add performance information.
+ – Add GPU frequency info, support some device.
+ – Optimized widgets.
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.3.3
+ – Fixed a crash bug.
+ 
+ v4.3.2
+ – Do not show old score when update from version 3.x
+ – Fixed some bug and crash.
+ 
+ v4.3.1
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.3
+ – Add widgets to display CPU, RAM and battery info.
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.2.1
+ – Enhanced search function and PK with search results.
+ – Enhanced CPU information.
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.2
+ – Detection and tips background apps which be affects benchmark.
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.1.7
+ – Improved some details on UI.
+ – Identify sensors more accurately.
+ – Fixed some bug and crash.
+ 
+ v4.1.6
+ – Check and display whether the device has been rooted.
+ – Optimized data caching, reduce data download.
+ – Optimized search result, display average score of devices.
+ – Optimized test process, do not stuck at 0%.
+ – Add Turkish translation.
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.1.5
+ – Add optimize memory before test option, need permissions to retrieve and close running apps.
+ – Rename Dalvik test to Runtime test.
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.1.4
+ – Improved some details on UI.
+ – Add Indonesian translate.
+ – Fixed some bug and crash.
+ 
+ v4.1.3
+ – Support MEIZU SmartBar.
+ – Improved some details on UI.
+ – Add Ukrainian translate.
+ – Fixed some bug and crash.
+ 
+ v4.1.2
+ – Improved some details on UI.
+ – Fixed some bug and crash.
+ 
+ v4.1.1
+ – Support get real resolution on device which has navigation bar
+ – Improved some UI details and animations.
+ – Fixed some bug.
+ 
+ v4.1
+ – Redesign the UI of main page and bar chart
+ – Improved some details on UI.
+ – Add Russian translate.
+ – Fixed some bug.
+ 
+ v4.0.4
+ – Fixed abnormal 0 scores issues to some devices in 3D test.
+ – Added quick sharing for Twitter users.
+ – Improved some details on GUI.
+ – Add Korean translate.
+ – Fixed some bug and crash.
+ 
+ v4.0.3
+ – Fixed crash after GPU test on devices with low-end hardware configurations.
+ – Improved some details on GUI.
+ – Fixed some bug.
+ 
+ v4.0.2
+ – Add feedback page, You can give our feedback direct and immediate now.
+ – Fixed some UI bug.
+ – Fixed some crash bug.
+ 
+ v4.0.1
+ – You can stop the downloading now.
+ – Goto home page when press back in other page.
+ – Fixed abnormal low fps in 3D test on PowerVR GPU.
+ – Fixed some crash.
+ 
+ v4.0
+ – New test program, add the UE test
+ – New benchmark level, more closer to the users\' feeling.
+ – New GUI, a throughout redesigned GUI.
+ – User Profile added, register and log in are available.
+ 
+ v3.4.1
+ – Fixed some crash bug.
+ 
+ v3.4
+ – Support OpenGL ES 3.0.
+ 
+ v3.3.2
+ – Add Android SDK version information to display actual android version.
+ – Fixed some bug.
+ 
+ v3.3.1
+ – Stop The testing when user pressed Home button on 2D or 3D test.
+ – Fixed testing process may be stuck in some test.
+ – Fixed 3D test black screen on some device.
+ – Fixed may be get low 3D scores on some device.
+ 
+ v3.3
+ – Add always portrait setting to force UI in portrait mode.
+ – Fixed test not functioning properly on landscape mode.
+ – Fixed some crash bug.
+ 
+ v3.2.3
+ – Fixed menu can not display on some android 4.1 device.
+ – optimize and reduced apk file size.
+ 
+ v3.2.2
+ – Using new 3D rendering engine and fixed the bug on NVIDIA Tegra GPU.
+ – Optimize UI for android 4.0 and above.
+ – Prompt for some system settings which could break test.
+ – Fixed sometimes 3D test can not be completed properly.
+ 
+ v3.2.1
+ – Revert to old 3D rendering engine before we fix the bug on some device with NVIDIA Tegra GPU.
+ 
+ v3.2
+ – Update 3D rendering engine.
+ – Only support Android 2.3 and above now.
+ – Add front-facing camera information.
+ – Add Screen density information.
+ – Fixed some bug.
+ 
+ v3.1.2
+ – Add check scores to check if display score has been tampered.
+ – Fixed wrong 3d score when an unexpected error occurred in testing.
+ 
+ v3.1.1
+ – Add temperature chart to stability test.
+ – Fixed scores display error during the test.
+ – Fixed crash when network time check get error.
+ 
+ v3.1
+ – Add new stability test and draw a chart.
+ – Display a notification when benchmark running.
+ – Only display scores after benchmark finished.
+ – Fixed benchmark can not be finished on some low ram size device.
+ – Fixed some other bugs.
+ 
+ v3.0.3
+ – Fixed Wait a long time for verify network time.
+ – Fixed crash when benchmarking on some device.
+ – Fixed some UI display bug.
+ 
+ v3.0.2
+ – Full support multi-user feature on Android 4.2.
+ – Display CPU core number in benchmark information.
+ – Lock screen orientation on benchmarking to avoid some error.
+ – Fixed submit page display twice on first time submit scores.
+ – Fixed crash on some device.
+ 
+ v3.0.1
+ – Display resolution info in 2D and 3D scores.
+ – Add tip for compare page icons.
+ – Fixed some bug in 3.0 preview version.
+ 
+ v3.0
+ – New OpenGL ES 2.0 3D benchmark for 3D game performance test.
+ – Fully new 2D benchmark for 2D game performance test.
+ – Add compare page to compare scores with hot devices.
+ – Auto stop the benchmark if detected the app has been modified.
+ – Redesigned and adjustment app UI.
+ – Enhance SDCard path detection.
+ – Fixed some web page auto pop up bug.
+ – Fixed sometimes get stuck in splash screen.
+ – Fixed submit score page appear twice after benchmark.
+ – Update Italian and Ukraine translate.
+ – Add Czech translate.
+ 
+ v2.9.4
+ – Fixed x86 device can not get the full performance bug.
+ – Fixed x86 device not have CPU info bug.
+ 
+ v2.9.3
+ – Update Russian translation.
+ – Do not open webpage when network not connected.
+ – Fixed crash when open a web page in app.
+ – Fixed some potential crash.
+ – Fixed recommend page.
+ 
+ v2.9.2
+ – Fixed crash on Jelly Bean(Android 4.1) with Mail-400 GPU.
+ – Add a link to new 3DRanting benchmark.
+ 
+ v2.9.1
+ – Fixed CPU scores drop on Jelly Bean(Android 4.1), it is cause by the higher UI priority.
+ – Fixed CPU frequency detection problems on Jelly Bean(Android 4.1).
+ – Fixed CPU count could be less than the real total.
+ – Fixed a potential memory crach on benchmarking.
+ – Compatibility with Nexus 7 and other no camera device.
+ 
+ v2.9
+ – Add verify socres by network time, avoid cheating by reduce local clock speed.
+ – Add a link for our new OpenGL ES 2.0 3D benchmark app.
+ – Fixed data not load immediately after restore form SD Card.
+ – Fixed can not back to previous page in comments tab.
+ – Fixed app may be crash when exit bug.
+ 
+ v2.8.3
+ – Fixed some times press back can not exit bug.
+ 
+ v2.8.2
+ – Fixed some crash bug.
+ – Fixed some UI display bug.
+ 
+ v2.8.1
+ – Redesigned home page, show user ratings and comments for your device.
+ – Display camera information in system info page (requires camera permission).
+ 
+ v2.8
+ – Redesigned submit page, user can rating your device now.
+ – Optimize SD card benchmark method to get more reliable score.
+ – Fixed 2D score unstable in some low-end models.
+ – Correct some Russian translation.
+ 
+ v2.7.3
+ – Score chart page support more language.
+ – Display history scores in reverse order.
+ – Fixed some crash bug.
+ 
+ v2.7.2
+ – Fixed can not launch the free version of CPU Master.
+ 
+ v2.7.1
+ – Fixed a bug which allow submit score benchmark by other device.
+ – We will check the database on server and remove some suspicious scores.
+ 
+ v2.7
+ – Redesigned user-interface being more convenient to operate.
+ – Add interaction and more information.
+ – Add Japanese translate.
+ – Fixed benchmark service still running after exit.
+ 
+ v2.6
+ – Use the benchmark service instead of persistent permission.
+ – Optimize the score chart GUI performance.
+ – Fixed a bug that may be cause unreliable CPU score in some device.
+ – Fixed crash after 2D test on some device.
+ – Fixed fail to detect OpenGL ES 2.0 bug.
+ – Fixed score chart display error on ICS.
+ – Fixed crash when update available.
+ – Output benchmark score to logcat.
+ 
+ v2.5.4
+ – Slight adjustment of CPU score standard, closer to the version 2.5.1 scores.
+ – Fixed abnormal high scores of CPU benchmark, this time really.
+ 
+ v2.5.3
+ – Scores are more accurate, but some device may be lower then 2.5.1 version.
+ – Fixed CPU test may be take more time.
+ – Fixed may be get abnormal low scores of CPU test.
+ 
+ v2.5.2
+ – Finally fixed some device CPU benchmark score abnormal bug.
+ – Add polish translation.
+ – Some UI performance optimization.
+ – Fixed ZA country code error is South Africa.
+ – Try to fix crash after 2D test in some device.
+ 
+ v2.5.1
+ – Score chart support multi-language.
+ – Fixed face image update error.
+ 
+ v2.5
+ – New history view to show recently benchmark history.
+ – New score chart UI, switch chart by finger sliding
+ – Get real time score chart data from Internet.
+ – Switch ranking list type by finger sliding.
+ – Display change log when first time run.
+ – Fixed icon display in kindle fire.
+ 
+ v2.4.3
+ – Enhance CPU benchmark to avoid abnormal scores
+ – Use toast information instead of alert dialog.
+ – Fixed submit a empty country or region bug.
+ – Fixed crash on android version 2.0 and 2.0.1
+ 
+ v2.4.2
+ – Check whether the score is out of date, ensure fair ranking.
+ – Add Galaxy Nexus and ASUS Transformer Prime to the bar chart.
+ – You can submit the score without SD Card test now.
+ 
+ v2.4.1
+ – Enhance CPU benchmark to make score more accurate.
+ – Fixed potential crash on CPU benchmark.
+ 
+ v2.4
+ – Full support Quad-Core CPUs benchmark.
+ – Optimization for multi-threading benchmark.
+ – Fixed some potential crash.
+ 
+ v2.3.1
+ – Fixed the crash in 2D test again.
+ – Update Korean translate, thanks for Noah (노아).
+ 
+ v2.3
+ – Supports x86 and MIPS platforms.
+ – Enhance CPU detection and support multi-core CPU information.
+ – Add Russian translate, thanks for Pavel M (Павел Миронов).
+ – Add Korean translate, thanks for Noah (노아).
+ – Fixed 2D test may crash in low memory state.
+ – Fixed some devices can not submit score.
+ 
+ v2.2
+ – Add Italian translate, thanks for Cricco (Cristiano Regni).
+ – Add External SD card size information.
+ – Add Poland to country or region list.
+ – Enhance multiple SD Card detection.
+ – Fixed custom full test can not submit bug.
+ – Fixed Romania\'s flag.
+ 
+ v2.1
+ – Support multiple SD Card, choose one to test
+ – Add Kernel information
+ – Increase the success rate of submit
+ – Enhance CPU name and model detection
+ – Fixed 3D test may crash in some devices
+ 
+ v2.0.3
+ – Enhance the CPU frequency detection
+ 
+ v2.0.2
+ – Fixed submit wrong country or region
+ – Fixed some crash
+ 
+ v2.0.1
+ – Add custom country or region feature
+ – Fixed 3D test may crash in some device
+ – Fixed picture could not be saved in some device
+ – Fixed crash when search results is empty 
+ 
+ v2.0
+ – Fully redesigned application UI.
+ – New 3D benchmark that better shows game performance.
+ – New OpenGL-based 2D benchmark.
+ – Supports custom test items.
+ – Optimized database IO test.
+ – Added settings and data backup and restore.
+ – Added photo and personal information, which will show in the rankings.
+ – Added more menu options.
+ 
+ v1.6
+ – Classified display of rankings.
+ – Compresses ranking data and greatly reduced network traffic.
+ – Caches the device details in rankings and reduced network access frequency.
+ – Fixed the bug of wrong national flag of Thailand; added flags of more countries and regions.
+ – Fixed the bug that numbers in the bar chart crowded together.
+ 
+ v1.5
+ – Now the application can test dual-core CPUs.
+ – Optimized benchmark procedure so it runs faster.
+ – Updated device scores in the bar chart.
+ – Fixed the bug that sometimes SD card read test never finished.
+ – Fixed the bug that sometimes scores could not be submitted.
+ 
+ v1.4
+ – Added the Search function for rankings.
+ – Added detailed device scores for ranking list items.
+ – Added country and region information to be displayed in the ranking list.
+ – New application icon.
+ – Fixed the bug that SD card speed test may not finish.
+ 
+ v1.3
+ – Added Database IO performance test.
+ – Added score bar chart which compares the performance of different devices.
+ – Now you can comment on your phone or device when you submit scores.
+ – Added the Settings page and relevant menu items.
+ – Supports more devices on CPU frequency detection.
+ – Supports landscape layout; fixed stretching deformation.
+ – Fixed the bug that the tested value of SD card read speed may be too high.
+ 
+ v1.2
+ – Added auto update.
+ – Added build number information.
+ – Somewhat optimized 2D and 3D score algorithms.
+ – Fixed the bug on SD card speed test caching.
+ 
+ v1.1
+ – Modified SD card scoring algorithm to better reflect the real phone performance.
+ – ARMv7-optimized compilation to fully utilize the performance of the new CPU.
+ – Added information on memory and RAM in System Information.
+ – Checks network connection before submitting scores.
+ – Prohibits score submission during the test.
+"</string>
+    <string name="changelog_title">Change Log</string>
+    <string name="changing_fragments">Changer les fragments</string>
+    <string name="chart_all">Graphique en barres</string>
+    <string name="chart_list">Diagramme en liste</string>
+    <string name="chart_pad">Tablette</string>
+    <string name="chart_phone">Téléphone</string>
+    <string name="chat_setting_btn">Paramètres du chat</string>
+    <string name="check_scores">Vérifier les scores</string>
+    <string name="check_update">Recherche de mise à jour…</string>
+    <string name="check_update_dec">Vérifiez les mises a jour maintenant</string>
+    <string name="clean_master">Clean Master</string>
+    <string name="clear">Nettoyer</string>
+    <string name="clear_complete">OK</string>
+    <string name="clear_garbage">Fichiers indésirables</string>
+    <string name="clear_home_page">Cliquer pour booster la mémoire </string>
+    <string name="clear_in_progress">Nettoyage…</string>
+    <string name="clear_optimze_performance">Optimiser les performances du système après avoir installer Clean Master.</string>
+    <string name="clear_performance_btn">Optimisez</string>
+    <string name="clear_speedup_desp">Installez Clean Master pour optimiser la mémoire.</string>
+    <string name="close">Fermer</string>
+    <string name="cmp_result">Détails</string>
+    <string name="collapse_all">Réduire tout</string>
+    <string name="color">Couleur</string>
+    <string name="com_facebook_choose_friends">Choisir les amis</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">OK</string>
+    <string name="com_facebook_internet_permission_error_message">WebView nécessite la permission d\'accès internet</string>
+    <string name="com_facebook_internet_permission_error_title">Erreur sur AndroidManifest</string>
+    <string name="com_facebook_loading">Chargement en cours...</string>
+    <string name="com_facebook_loginview_cancel_action">Annuler</string>
+    <string name="com_facebook_loginview_log_in_button">Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Déconnexion</string>
+    <string name="com_facebook_loginview_log_out_button">Facebook</string>
+    <string name="com_facebook_loginview_logged_in_as">Connécté en tant que: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook</string>
+    <string name="com_facebook_logo_content_description">Facebook Logo</string>
+    <string name="com_facebook_nearby">A proximité</string>
+    <string name="com_facebook_picker_done_button_text">Terminer</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$,d étaient ici</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$,d étaient ici</string>
+    <string name="com_facebook_requesterror_password_changed">Votre mot de passe facebook a été modifié. Veuillez vous reconnectez une nouvelle fois pour accèder a votre compte facebook.</string>
+    <string name="com_facebook_requesterror_permissions">L\'application n\'as pas la permission pour faire cela. Pour changer les permissions, Essayer de vous connectez a l\'app encore une fois.</string>
+    <string name="com_facebook_requesterror_reconnect">Veuillez vous connecter sur l\'application pour vous reconnectez a Facebook.</string>
+    <string name="com_facebook_requesterror_relogin">Veuillez vous connecter a l\'application encore une fois pour accèder a votre compte facebook.</string>
+    <string name="com_facebook_requesterror_web_login">Votre compte Facebook est verouillé. Veuillez vous connecter sur www.facebook.com pour continuer.</string>
+    <string name="com_facebook_tooltip_default">"Nouveau! Vous avez les commandes ! - choisissez quels informations partager avec les applications."</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">Connexion…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">Connecté</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">Non connecté</string>
+    <string name="comment">Notez votre appareil:</string>
+    <string name="comment_info">l\'avatar et le pseudonyme seront affichés sur le classement. Laissez votre email pour que nous puissions vous contacter.</string>
+    <string name="comment_no">Aucun commentaire</string>
+    <string name="comment_user">Commentaire de l\'utilisateur</string>
+    <string name="common_google_play_services_enable_button">Activer les services Google Play</string>
+    <string name="common_google_play_services_enable_text">"Cette application ne fonctionnera pas sans les services Google Play."</string>
+    <string name="common_google_play_services_enable_title">Activer les services Google Play</string>
+    <string name="common_google_play_services_error_notification_requested_by_msg">Demander par %1$s</string>
+    <string name="common_google_play_services_install_button">Télécharger les services Google Play</string>
+    <string name="common_google_play_services_install_text_phone">"Cette application ne fonctionnera pas sans les services Google Play qui ne sont pas installés sur votre téléphone."</string>
+    <string name="common_google_play_services_install_text_tablet">"Cette application ne fonctionnera pas sans les services Google Play qui ne sont pas installés sur votre tablette."</string>
+    <string name="common_google_play_services_install_title">Télécharger les services Google Play</string>
+    <string name="common_google_play_services_invalid_account_text">Le compte spécifié n\'existe pas sur cette appareil. Veuillez choisir un autre compte.</string>
+    <string name="common_google_play_services_invalid_account_title">Compte invalide</string>
+    <string name="common_google_play_services_needs_enabling_title">les applications nécéssitent les services Google Play activés.</string>
+    <string name="common_google_play_services_network_error_text">Une connexion internete est requis pour vous connecter aux services Google Play.</string>
+    <string name="common_google_play_services_network_error_title">Erreur de connexion</string>
+    <string name="common_google_play_services_notification_needs_installation_title">les applications nécéssitent les services Google Play activés.</string>
+    <string name="common_google_play_services_notification_needs_update_title">les applications nécéssitent une mise a jour pour les services Google Play.</string>
+    <string name="common_google_play_services_notification_ticker">Erreur des services Google Play</string>
+    <string name="common_google_play_services_unknown_issue">Erreur inconnue services Google Play.</string>
+    <string name="common_google_play_services_unsupported_date_text">La date indiqué sur votre appareil semble incorrecte. Veuillez régler la date et l\'heure sur votre appareil.</string>
+    <string name="common_google_play_services_unsupported_text">Les services Google Play, les quels s\'appuyent bon nombre de vos applications, n\'est pas supporté par votre appareil. Veuillez contacter votre fabriquant pour une assistance.</string>
+    <string name="common_google_play_services_unsupported_title">Services Google Play</string>
+    <string name="common_google_play_services_update_button">Mise à jour</string>
+    <string name="common_google_play_services_update_text">"Cette application ne s\'ouvrira pas tant que vous n\'aurez pas mis a jour les services Googel Play."</string>
+    <string name="common_google_play_services_update_title">Mettre à jour les services Google Play</string>
+    <string name="common_signin_button_text">Connexion</string>
+    <string name="common_signin_button_text_long">Connectez vous avec Google</string>
+    <string name="compare">Comparer</string>
+    <string name="compare_pk">Comparer</string>
+    <string name="compare_title">Comparer - AnTuTu Benchmark</string>
+    <string name="confirm">OK</string>
+    <string name="confirm_new_password">Confirmer le nouveau mot de passe</string>
+    <string name="confirm_null">Veuillez confirmer le nouveau mot de passe</string>
+    <string name="confirm_password">Confirmer le mot de passe</string>
+    <string name="consist_pwd">Les mots de passes indiqués sont incohérants</string>
+    <string name="contact_certification">support@antutu.com</string>
+    <string name="contact_info">Assistance: support@antutu.com</string>
+    <string name="container">Appuyer sur le bouton pour afficher les fragments</string>
+    <string name="continue2">Continuer</string>
+    <string name="core_count">Coeurs</string>
+    <string name="cost_performance">Cost-performance:</string>
+    <string name="cpu">CPU</string>
+    <string name="cpu_core_fre">Fréquence des coeurs CPU</string>
+    <string name="cpu_detail_info">Informations sur le CPU</string>
+    <string name="cpu_detail_load">Usage CPU</string>
+    <string name="cpu_detail_page_name">Nom</string>
+    <string name="cpu_fre">Fréquence</string>
+    <string name="cpu_hardware">CPU hardware:</string>
+    <string name="cpu_hexin">Nombre de coeurs</string>
+    <string name="cpu_model">Architecture</string>
+    <string name="cpu_usage_pre">%d%%</string>
+    <string name="cpu_xinghao">Modèle</string>
+    <string name="create_account">Crée un nouveau compte</string>
+    <string name="crossrange">Liste des classements</string>
+    <string name="cur_rank">Mon rang</string>
+    <string name="custom">Custom</string>
+    <string name="custom_test">Test customisé</string>
+    <string name="data_send_failed">Echec de la requête</string>
+    <string name="defaults">Par défaut (tout)</string>
+    <string name="density">Densité</string>
+    <string name="density_dpi">Densité de l\'écran</string>
+    <string name="detail_scores">Scores détaillés</string>
+    <string name="detail_title">Détails - AnTuTu Benchmark</string>
+    <string name="dev_info_title">Mon appareil</string>
+    <string name="device">Appareil(Smartphone)</string>
+    <string name="device_level_1">Faites un effort</string>
+    <string name="device_level_2">Allez ! Benchmark !</string>
+    <string name="device_level_3">Tester pour le courage</string>
+    <string name="device_level_4">Plus de tests, plus de confidence</string>
+    <string name="device_level_5">Vous avez le meilleur appareil</string>
+    <string name="device_level_6">Vous êtes le numéro un</string>
+    <string name="device_performance_desp">Explications de performance</string>
+    <string name="device_xinghao">Appareil(Smartphone) Modèle</string>
+    <string name="display">Affichage</string>
+    <string name="distance_sensors">Capteurs de distance</string>
+    <string name="donwload_plugin">Téléchargement en cours, Veuillez patienter…</string>
+    <string name="donwload_update">Téléchargement d\'une nouvelle version en cours…</string>
+    <string name="download_format">Téléchargement %s, Veuillez patienter…</string>
+    <string name="download_in_progress">Téléchargement %s%%…</string>
+    <string name="download_market">Téléchargement du Google Play Store</string>
+    <string name="download_stop">Arrêter le téléchargement maintenant?</string>
+    <string name="download_stop_info">Vous allez perdre toutes les données téléchargées. Etes vous sûr de vouloir faire ça ?</string>
+    <string name="download_website">Télécharger depuis le site web</string>
+    <string name="downloading">Téléchargement en cours, Veuillez patienter…</string>
+    <string name="dvm">Modèle d\'appareil</string>
+    <string name="electronic_compass">Boussole éléctronique</string>
+    <string name="email">Adresse E-mail</string>
+    <string name="email_exist">L\'e-mail existe déjà</string>
+    <string name="email_format_wrong">Format de la boite mail erroné</string>
+    <string name="email_illeagl">Erreur de l\'adresse e-mail</string>
+    <string name="email_null">L\'E-mail ne doit pas être vide</string>
+    <string name="errcode_cancel">Partage annulé</string>
+    <string name="errcode_deny">Partage refusé</string>
+    <string name="errcode_failed">Echec du partage</string>
+    <string name="errcode_success">Partage réussi</string>
+    <string name="errcode_unknown">Paratage inconnu</string>
+    <string name="error">Erreur</string>
+    <string name="error_need_login">Veuillez d\'abord vous connecter.</string>
+    <string name="error_new_pwd_empty">Veuillez entrer un nouveau mot de passe.</string>
+    <string name="error_not_match">Le mot de passe actuel et l\'E-Mail ne corréspondent pas</string>
+    <string name="error_old_pwd_empty">Veuillez entrer le mot de passe actuel.</string>
+    <string name="error_pwd_max_len">Le mot de passe doit comporté entre 6-14 caractères</string>
+    <string name="error_pwd_not_consistent">Le nouveau mot de passe ne correspond pas</string>
+    <string name="error_repeat_pwd_empty">Veuillez confirmer le nouveau mot de passe</string>
+    <string name="exist_title">Note</string>
+    <string name="expand_all">Afficher tout</string>
+    <string name="facebook_canceled">Opération annulée</string>
+    <string name="fake_mobile_note">Produits de contrefaçon</string>
+    <string name="faq_title">FAQ</string>
+    <string name="feedback">Retour d\'expérience</string>
+    <string name="feedback_contact">Email</string>
+    <string name="feedback_contact_hint">C\'est important pour nous de communiquer avec vous</string>
+    <string name="feedback_content">Contenu</string>
+    <string name="feedback_hint">S\'il vous plait partager avec nous vos observations et suggestions</string>
+    <string name="feedback_note">Retour d\'expérience</string>
+    <string name="feedback_successful">Transmit.Merci pour votre retour.</string>
+    <string name="feedback_us">Contacter AnTuTu</string>
+    <string name="feedbacksubmit">Poster</string>
+    <string name="fine_mobile_note">Produits authentiques</string>
+    <string name="frequency">Fréquence</string>
+    <string name="front">Avant</string>
+    <string name="full_test">Test complet</string>
+    <string name="game_feature_title">Performance en jeux</string>
+    <string name="garbage_size">(%s)</string>
+    <string name="get_info_failed">Echec d\'accès aux informations de la page d\'accueil</string>
+    <string name="gles2">OpenGL ES 2.0</string>
+    <string name="gles2_test">Test OpenGL ES 2.0</string>
+    <string name="gles2_test_description">Apprenez d\'avantage sur les performances de votre smart phones/tablettes en jeux</string>
+    <string name="gles3">OpenGL ES 3.0</string>
+    <string name="gles3_test">Test OpenGL ES 3.0</string>
+    <string name="go_to_fragment">Aller au fragment</string>
+    <string name="gps">GPS</string>
+    <string name="gpu_renderer">Renderer GPU:</string>
+    <string name="gpu_supplier">Fournisseur</string>
+    <string name="gpu_vendor">Vendeur GPU:</string>
+    <string name="gpu_version">Version(OpenGL) du GPU:</string>
+    <string name="gravity_sensor">Accéléromètre</string>
+    <string name="guest">Mon nom</string>
+    <string name="gyro_sensors">Gyroscope</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="help_localization">Je veux contribuer a la localisation!</string>
+    <string name="hint_login">Connectez vous et gagner plus de trophées</string>
+    <string name="hint_max_name">Pas plus de 20 caractères.</string>
+    <string name="history">Historique</string>
+    <string name="history_title">Historique</string>
+    <string name="info_2D">Graphismes 2D:</string>
+    <string name="info_3D">Graphismes 3D:</string>
+    <string name="info_DB">Base de données I/O:</string>
+    <string name="info_SDW">Stockage I/O:</string>
+    <string name="info_ST">Stockage I/O:</string>
+    <string name="info_appearance">Apparence</string>
+    <string name="info_battery">Autonomie de la batterie</string>
+    <string name="info_camera">Appareil photo</string>
+    <string name="info_complete_submit">Poster vos scores pour consulter votre classement mondial</string>
+    <string name="info_complete_test">Completez un test complet pour consulter votre classement mondial</string>
+    <string name="info_cpu">CPU</string>
+    <string name="info_dalvik">Moteur d\'exécution:</string>
+    <string name="info_date">Date:</string>
+    <string name="info_float">CPU float-point:</string>
+    <string name="info_get_medals_tip">Comment avoir des médailles ? Veuillez consulter</string>
+    <string name="info_get_more_medals_tip">Comment avoir plus de médailles ? Veuillez cliquer ici</string>
+    <string name="info_int">CPU integer:</string>
+    <string name="info_mem">Opérations RAM:</string>
+    <string name="info_multitask">Multitâches:</string>
+    <string name="info_net">Réseau</string>
+    <string name="info_no_medal">Vous n\'avez aucune médaille…</string>
+    <string name="info_nothave">N\'avez pas</string>
+    <string name="info_notset">Pas régler</string>
+    <string name="info_os">OS</string>
+    <string name="info_others">Autres</string>
+    <string name="info_ram">Vitesse RAM:</string>
+    <string name="info_renderscript">Renderscript:</string>
+    <string name="info_total">Score total:</string>
+    <string name="info_trans">Transmissions</string>
+    <string name="infomation_modify_success">Modifications enregistrées</string>
+    <string name="initializing">Initialisation…</string>
+    <string name="install_plugin">Installation en cours, Veuillez patienter…</string>
+    <string name="internet">Réseau</string>
+    <string name="invalid_args">Paramètres de d\'inscrip. erronés</string>
+    <string name="invalid_nk_name">Erreur sur le Pseudonyme</string>
+    <string name="invalid_username">"le nom d\'utilisateur et le mot de passe ne correspondent pas"</string>
+    <string name="ke">g</string>
+    <string name="kernel">Kernel:</string>
+    <string name="kernel_">Kernel</string>
+    <string name="later_reg">L\'inscription sera terminé une fois qu\'une connexion internet sera disponible.</string>
+    <string name="later_reg_failed">Echec de l\'inscription hors ligne.</string>
+    <string name="light_sensor">Capteur de luminosité</string>
+    <string name="list_drag">Tirer pour rafraichir</string>
+    <string name="list_last">Dernière mise à jour</string>
+    <string name="list_recent">Dernière mise à jour effectuée:</string>
+    <string name="list_refreshing">Actualisation…</string>
+    <string name="list_songkai">Relacher pour actualiser</string>
+    <string name="load_fail">"Echec du chargement des données!
+
+Veuillez vérifiez votre connexion internet."</string>
+    <string name="load_photo_failed">Echec de chargement de l\'image</string>
+    <string name="loading">Chargement en cours…</string>
+    <string name="location">Localisation:</string>
+    <string name="login">Connexion</string>
+    <string name="login_and_share">Connectez vous et partagez</string>
+    <string name="login_failed_dialog_title">Informations de connexion</string>
+    <string name="login_suc">Connexion réussie</string>
+    <string name="logo_text" />
+    <string name="logout">Se déconnecter</string>
+    <string name="logout_description">Êtes vous sûr de vouloir fermer le programme?</string>
+    <string name="logout_dialog_message">Êtes vous sur de vouloir vous déconnectez?</string>
+    <string name="machine_code">Machine à code</string>
+    <string name="machine_mem">Mémoire locale</string>
+    <string name="material">Matériel</string>
+    <string name="max_score">Nombre d\'historiques enregistrés</string>
+    <string name="max_score_info">Plus haut score d\'historique enregistré</string>
+    <string name="mega_pixel">mega pixels</string>
+    <string name="mem_usage_pre">%d%%</string>
+    <string name="memory">Mémoire</string>
+    <string name="menu">Menu</string>
+    <string name="menu_profile">Profil d\'utilisateur</string>
+    <string name="message_center">Centre de messagerie</string>
+    <string name="mobile_info">Informations sur le mobile</string>
+    <string name="mobile_pk">Comparaison des mobiles</string>
+    <string name="model">Modèle</string>
+    <string name="more_cpu_info">Plus d\'infos sur le CPU</string>
+    <string name="more_detail">Afficher plus de détails</string>
+    <string name="multi_touch">Multi-touch</string>
+    <string name="my_device">Mon appareil</string>
+    <string name="my_device_prefix">Mon </string>
+    <string name="name">Pseudonyme</string>
+    <string name="need_download_es20">Télécharger 3DRating pour OpenGL ES 2.0?</string>
+    <string name="need_download_es30">Télécharger 3DRating pour OpenGL ES 3.0?</string>
+    <string name="need_download_yanji">Télécharger Antutu Device Validator?</string>
+    <string name="need_update_3drating">une nouvelle version de DRating est disponible!</string>
+    <string name="net_mode">Mode</string>
+    <string name="net_unvalid">Aucune connexion internet</string>
+    <string name="net_work_error_try">Erreur réseau, éssayer plus tard</string>
+    <string name="netstate">Etat réseau</string>
+    <string name="network_error">Veuillez vérifier votre connexion internet</string>
+    <string name="new_medals_title">Félicitations, vous avez de nouvelles médailles! (%1$d/%2$d)</string>
+    <string name="new_pwd">Nouveau mot de passe</string>
+    <string name="new_single_medal_title">Félicitations, vous avez une nouvelle médaille!</string>
+    <string name="nickname_invalid">Pseudo trop long</string>
+    <string name="nickname_nomore">Le pseudo doit ne doit pas comprendre plus de 20 caractères</string>
+    <string name="nickname_null">Le pseudo ne doit pas être vide</string>
+    <string name="no">Non</string>
+    <string name="no_email_app">Cette app necéssite une appli d\'Email pour envoyer un mail. Veuillez en installer une et réessayer.</string>
+    <string name="no_history">Aucun historique trouvé</string>
+    <string name="no_new_message">Aucun nouveau message</string>
+    <string name="no_root">Non</string>
+    <string name="no_support_cpu">AnTuTu Benchmark ne supporte plus les anciens CPU sans v7a!</string>
+    <string name="no_support_gpu">Votre appareil ne supporte pas OpenGL ES 3.0!</string>
+    <string name="no_support_preview_gpu">La version test ne supporte pas ce plugin, veuillez attendre la version finale</string>
+    <string name="no_support_sdk">"Votre version Android est trop ancienne pour supporter ce test!"</string>
+    <string name="no_use">Non utilisé </string>
+    <string name="no_wechat">Wechat non trouvé</string>
+    <string name="nodata">Erreur réseau, aucune données mise à jour</string>
+    <string name="nonsupport">Non supporté</string>
+    <string name="not_enough_space">Vous avez besoin de minimum %1$sM d\'espace libre pour exécuter le test de stockage!</string>
+    <string name="ok">OK</string>
+    <string name="old_pwd">Ancien mot de passe</string>
+    <string name="old_version">Ce score est obsolète, veuillez refaire un test!</string>
+    <string name="open_clear">Installer Clean Master</string>
+    <string name="optimize_mem_complete">Nettoyage réussi gain de %1$dM memory, mémoire disponible %2$dM</string>
+    <string name="optimize_mem_in_progress">Optimisation de la mémoire en cours…</string>
+    <string name="orientation">Capteur d\'orientation</string>
+    <string name="os">OS</string>
+    <string name="other">Autres</string>
+    <string name="password">mot de passe</string>
+    <string name="password_modify_success">modifications enregistrées</string>
+    <string name="performance_description">Performance</string>
+    <string name="permission_not_granted">Permission non accordée</string>
+    <string name="photo_post">Poster une photo</string>
+    <string name="photograph">Photograph</string>
+    <string name="pick_photo">Selectionner une photo depuis la galerie</string>
+    <string name="pk">PK</string>
+    <string name="please_wait">Veuillez patienter…</string>
+    <string name="power_feature_title">Performances de la batterie</string>
+    <string name="powersaver">Economiseur d\'enérgie</string>
+    <string name="pressure_sensors">Baromètre</string>
+    <string name="prompt">Quitter AnTuTu Benchmark</string>
+    <string name="prompt_download">Télécharger la nouvelle version maintenant?</string>
+    <string name="prompt_net">Connexion internet non disponible!</string>
+    <string name="prompt_new">Une nouvelle version est disponible</string>
+    <string name="prompt_rank">Veuillez d\'abord exécuter un test complet!</string>
+    <string name="prompt_rank_title">Faux score (s)!</string>
+    <string name="pwd_length_error">Le mot de passe doit comprendre 6–14 caractères</string>
+    <string name="pwd_null">Veuillez entrer votre mot de passe</string>
+    <string name="quality">Qualité:</string>
+    <string name="quit_desc">Quitter AnTutu Benchmark ?</string>
+    <string name="ram">RAM</string>
+    <string name="ram_speedup_complete">Mémoire boostée</string>
+    <string name="ram_speedup_ok">L\'utilisation de la mémoire est déjà optimisée</string>
+    <string name="rank_all">Top liste</string>
+    <string name="rank_format">NO.%sW+</string>
+    <string name="rank_list">Top 20</string>
+    <string name="rank_model">Top Modèles</string>
+    <string name="rank_my">Mon appareil</string>
+    <string name="rank_unknow">Poster les scores</string>
+    <string name="ranking_info_scores">Scores:%d</string>
+    <string name="rate">Noter</string>
+    <string name="rating">Evaluation 3D</string>
+    <string name="rating_cancel">PAS MAINTENANT</string>
+    <string name="rating_confirm">DONNER 5 ETOILES</string>
+    <string name="rating_content">Vous avez réaliser un benchmark et avez eu un score de  %1$s . Es ce que cela mérite 5 Etoiles?</string>
+    <string name="rating_info">Test de graphismes 3D professionnel</string>
+    <string name="rating_title">Aime Antutu Benchmark</string>
+    <string name="ratings">Avis des utilisateurs</string>
+    <string name="recommend">Apps</string>
+    <string name="reg_suc">Inscription terminée</string>
+    <string name="regist">Inscription</string>
+    <string name="reload">Recharger</string>
+    <string name="req_failed">Echec de la requête,Réessayer plus tard.</string>
+    <string name="request_full_test">Terminez un test complet</string>
+    <string name="resolution">Résolution d\'écran:</string>
+    <string name="restore_files">Restaurer les paramètres et données</string>
+    <string name="restore_files_dec">Restaurer les paramètres et données depuis une carte SD</string>
+    <string name="restore_succeed">Restauration terminée!</string>
+    <string name="restore_warning">Restaurer les paramètres et données? AnTuTu Benchmark doit redémarrer après.</string>
+    <string name="root_already">Oui</string>
+    <string name="root_page_title">Root权限说明</string>
+    <string name="save">Enregistrer</string>
+    <string name="score_amazing">Fantastique</string>
+    <string name="score_cpu_float_1500">Général, supporte la plupart des applications. </string>
+    <string name="score_cpu_float_3000">Très bon, Supporte une large gamme d\'apps et le multitâches. </string>
+    <string name="score_cpu_float_5000">Excellent, Supporte une large gamme d\'apps avec un excellent multitâches. </string>
+    <string name="score_cpu_float_800">Faible, ne peux pas faire tourner les apps populaires de manière fluide. </string>
+    <string name="score_cpu_prefix">CPU: </string>
+    <string name="score_god">WOW! MONSTRE!</string>
+    <string name="score_good">Très bien</string>
+    <string name="score_good_job">Bon travail</string>
+    <string name="score_gpu_2d_1000">Général, </string>
+    <string name="score_gpu_2d_1500">Bien, </string>
+    <string name="score_gpu_2d_3000">Excellent, </string>
+    <string name="score_gpu_2d_500">Faible, </string>
+    <string name="score_gpu_2d_preflix">Graphismes 2D: </string>
+    <string name="score_gpu_3d_10000">Excellent, supporte avec aisance tout les jeux.</string>
+    <string name="score_gpu_3d_1200">Faible, ne supporte pas plusieurs jeux.</string>
+    <string name="score_gpu_3d_3000">Général, supporte la plupart des jeux.</string>
+    <string name="score_gpu_3d_5000">Très bon, supporte la plupart des jeux avec aisance.</string>
+    <string name="score_gpu_3d_preflix">Graphismes 3D: </string>
+    <string name="score_great">Super</string>
+    <string name="score_haha">Pas mauvais</string>
+    <string name="score_ram_2000">Général, </string>
+    <string name="score_ram_3000">Très bon, </string>
+    <string name="score_ram_5000">Excellent, </string>
+    <string name="score_ram_800">Faible, </string>
+    <string name="score_ram_preflix">RAM: </string>
+    <string name="score_tried">Vraiment fatigué</string>
+    <string name="sd_desc">Vous avez besoin de minimum 500Mo libre pour exécuter le test de vitesse SD!</string>
+    <string name="sd_full">Espace SD insuffisant!</string>
+    <string name="search">Recherche</string>
+    <string name="search_again">Rechercher encore</string>
+    <string name="search_average_score">Moyen</string>
+    <string name="search_desc">Classements</string>
+    <string name="search_hint">Entrer le nom de votre appareil ou modèle</string>
+    <string name="search_title">Résultats de recherche</string>
+    <string name="searching">Recherche…</string>
+    <string name="sec_app_tip">Astuce importante: Vous exécutez des applications de sécurité. Ces apps peuvent affecter les résultats du ou causer des plantages. Nous vous recommendons de les désactivers durant le test:</string>
+    <string name="sel_sdcard_path">Choissez une carte SD</string>
+    <string name="sensor">Capteur</string>
+    <string name="server_error">Erreur du serveur</string>
+    <string name="service">Après le service:</string>
+    <string name="setnetwork">Régler le réseau</string>
+    <string name="setting">Paramètres</string>
+    <string name="setting_btn">Paramètre</string>
+    <string name="setting_clear_dialog_msg">Effacer?</string>
+    <string name="setting_clear_history">Vider l\'historique de chat</string>
+    <string name="setting_edit_topic_dialog_hint">Entrer un nouveau nom</string>
+    <string name="setting_edit_topic_dialog_title">Editer le Topic</string>
+    <string name="setting_edit_topic_not_set">non régler</string>
+    <string name="setting_edit_topic_title">Editer le Topic</string>
+    <string name="setting_notifications_title">Notifications</string>
+    <string name="setting_quit">Quitter</string>
+    <string name="setting_quit_dialog_msg">Quitter?</string>
+    <string name="share">Partager</string>
+    <string name="share_content_repeat">Echec du partage：duplicated</string>
+    <string name="share_content_retry">Echec du partage， veuillez réessayer</string>
+    <string name="share_facebook">FaceBook</string>
+    <string name="share_failed">Echec du partage</string>
+    <string name="share_suc">Partage réussi</string>
+    <string name="share_twitter">Twitter</string>
+    <string name="share_wechat">WeChat</string>
+    <string name="share_weibo">WeiBo</string>
+    <string name="show_chart">Afficher automatiquement le graphique en barres</string>
+    <string name="show_chart_info">Afficher le graphique en barres après un benchmark</string>
+    <string name="show_comment">Paramètres perso</string>
+    <string name="show_comment_info">Editer votre avatar, informations et commentaires</string>
+    <string name="show_scores">Afficher</string>
+    <string name="show_submit">Afficher cela avant de publier</string>
+    <string name="sign">Inscrivez vous&amp;Commit scores</string>
+    <string name="similar_rank">Rangs similaires</string>
+    <string name="size">Taille</string>
+    <string name="size_panel">pouces</string>
+    <string name="skip">Passer</string>
+    <string name="sleep">Veille</string>
+    <string name="slidemenu_more_tools">Plus d\'outils</string>
+    <string name="specifications">Spécifications</string>
+    <string name="srt_chart">Graphique des scores</string>
+    <string name="stability">Stabilité</string>
+    <string name="stability_figure">Plus les changements de la courbe sont petits plus votre système est stable</string>
+    <string name="stability_info">Graphique de stabilité</string>
+    <string name="stability_info2">Tester la stabilité du système</string>
+    <string name="stability_msg">Test de stabilité en cours…</string>
+    <string name="stability_run">Veuillez d\'abord exécuter un test de stabilité</string>
+    <string name="stability_temp">Graphique de température</string>
+    <string name="stability_test">Test de stabilité</string>
+    <string name="stability_test_description">Test de stabilité Antutu, montre les performances des composants du CPU et les changements de température de la batterie avec un graphique facile a comprendre. Les utilisateurs peuvent donc facilement connaitre la stabilité de leurs appareils via les variations de températures et scores durant le benchmark et la période de test.</string>
+    <string name="stability_title">Résultats de stabilité</string>
+    <string name="start_str">Tester</string>
+    <string name="start_test">Commencer</string>
+    <string name="start_verify">Commencer</string>
+    <string name="status_update">Status de mise à jour</string>
+    <string name="stop">Stopper</string>
+    <string name="stop_str">STOP</string>
+    <string name="storage">Stockage</string>
+    <string name="storager">Storager</string>
+    <string name="submit">Poster</string>
+    <string name="submit_error">Echec de soumission des scores. Veuillez réessayer plus tard!</string>
+    <string name="submit_success">Soumission des scores terminée!</string>
+    <string name="submit_to_manufacturer">transmettre la note au constructeur</string>
+    <string name="submit_wait">Veuillez patienter pendant que Antutu transmet les scores…</string>
+    <string name="success">Terminé</string>
+    <string name="successfully_posted_post">Post effectué</string>
+    <string name="super_user_quality">Accès root</string>
+    <string name="support">Supporté</string>
+    <string name="surface">Surface</string>
+    <string name="tab_bbs">Commentaires</string>
+    <string name="tab_device">Infos</string>
+    <string name="tab_main_bbs">Forum</string>
+    <string name="tab_main_info">Info</string>
+    <string name="tab_main_rank">Graphique</string>
+    <string name="tab_main_test">Tester</string>
+    <string name="tab_pk">Comparer</string>
+    <string name="tab_rank">Rang</string>
+    <string name="tab_scores">Scores</string>
+    <string name="tab_sysinfo">Infos système</string>
+    <string name="tab_test">Test</string>
+    <string name="take_photo">Prendre une photo</string>
+    <string name="tap_twice_to_exit">Appuyer encore une fois pour fermer Antutu benchmark</string>
+    <string name="temp_leve">Niveau de température</string>
+    <string name="temperature_sensor">Capteur de température</string>
+    <string name="test_2d">Graphismes 2D</string>
+    <string name="test_3d">Graphismes 3D</string>
+    <string name="test_again">Tester Encore</string>
+    <string name="test_battery">Tester la batterie maitenant!</string>
+    <string name="test_cpu_mem">CPU et mémoire</string>
+    <string name="test_db">Base de données IO</string>
+    <string name="test_in_progress">Test en cours…</string>
+    <string name="test_offline_reg">Test hors ligne</string>
+    <string name="test_st">Stockage IO</string>
+    <string name="test_verify">Vérifier les scores via le réseau</string>
+    <string name="test_verify_title">Vérification réseau</string>
+    <string name="testing_cpu_item">CPU (CPU integer、float-point)</string>
+    <string name="testing_description" />
+    <string name="testing_gpu_item">GPU (graphismes 2D、Graphismes 3D)</string>
+    <string name="testing_io_item">IO (Stockage I/0、Base de données I/0)</string>
+    <string name="testing_ram_item">RAM (Opérations RAM、Vitesse RAM)</string>
+    <string name="testing_runtime_item">UX (Multitâches、Moteur d\'exécution)</string>
+    <string name="text_2d">Graphismes 2D</string>
+    <string name="text_3d">Graphismes 3D</string>
+    <string name="text_cpu">CPU</string>
+    <string name="text_db">Base de données I/O</string>
+    <string name="text_float">CPU float-point</string>
+    <string name="text_gpu">GPU</string>
+    <string name="text_int">CPU integer</string>
+    <string name="text_io">IO</string>
+    <string name="text_mem">RAM</string>
+    <string name="text_memo">Opérations RAM</string>
+    <string name="text_mt">Multitâches</string>
+    <string name="text_ram">Vitesse RAM</string>
+    <string name="text_st">Stockage I/O</string>
+    <string name="text_ue">UX</string>
+    <string name="text_vm">Moteur d\'exécution</string>
+    <string name="title_activity_main">Main Activity</string>
+    <string name="title_activity_more_tools">MoreToolsActivity</string>
+    <string name="total">Total:</string>
+    <string name="total_feature_title">Performance générales</string>
+    <string name="transfer">Transférer</string>
+    <string name="translate">www.antutu.com</string>
+    <string name="try_now">Essayer maintenant</string>
+    <string name="unknow_mobile_note">Produits inconnues</string>
+    <string name="update">Vérifier les mises à jour</string>
+    <string name="update_title">Modifications</string>
+    <string name="update_uptodate">Cette version est à jour</string>
+    <string name="usability">Utilité:</string>
+    <string name="user_exist">le nom d\'utilisateur existe déjà</string>
+    <string name="user_not_exist">L\'adresse Email n\'existe pas</string>
+    <string name="username_illeagl">Email et le mot de passe ne corréspondent pas</string>
+    <string name="usr_award">Médailles</string>
+    <string name="usr_award_details">Introduction aux médailles</string>
+    <string name="usr_change_name_title">Changer le pseudo</string>
+    <string name="usr_gender">Sexe</string>
+    <string name="usr_level">Niveau</string>
+    <string name="usr_modify_pwd">modifier le mot de passe</string>
+    <string name="usr_nickname">pseudo</string>
+    <string name="usr_photo">Avatar</string>
+    <string name="usr_region">Région</string>
+    <string name="verify_code">Vérifier le code: </string>
+    <string name="verify_device">Modèle d\'appareil: </string>
+    <string name="verify_fail">La vérification du temps via le réseau a échouée! Veuillez vérifier votre connexion!</string>
+    <string name="verify_feedback">Si vous avez des question, Contacter AnTuTu.</string>
+    <string name="verify_need_test">Vous devez éxecuter un test complet avant de valider, l\'exécuter maitenant?</string>
+    <string name="verify_over">Vérification terminée</string>
+    <string name="version">Version</string>
+    <string name="view_capture">Capture vidéo</string>
+    <string name="wallet_buy_button_place_holder">Acheter avec Google</string>
+    <string name="warm_tip">Astuces importantes</string>
+    <string name="warning">Attention</string>
+    <string name="weibosdk_app_name">com_weibo_android</string>
+    <string name="weibosdk_attention">注意</string>
+    <string name="weibosdk_cancel">否</string>
+    <string name="weibosdk_close">关闭</string>
+    <string name="weibosdk_del_pic">是否删除图片？</string>
+    <string name="weibosdk_delete_all">是否要删除这条微博？</string>
+    <string name="weibosdk_hello">Hello World, TextActivity!</string>
+    <string name="weibosdk_ok">是</string>
+    <string name="weibosdk_please_login">请登录！</string>
+    <string name="weibosdk_send">发送</string>
+    <string name="weibosdk_send_failed">分享失败！</string>
+    <string name="weibosdk_send_sucess">分享成功！</string>
+    <string name="weibosdk_share_dialog_title">新浪微博</string>
+    <string name="weight">Poids</string>
+    <string name="widget_battery">Niveau de batterie</string>
+    <string name="widget_cpu">Utilisation CPU</string>
+    <string name="widget_memory">Utilisation RAM</string>
+    <string name="wifi">WIFI</string>
+    <string name="world_rank">Rang mondial</string>
+    <string name="yan">验</string>
+    <string name="yanji">鉴别真伪</string>
+    <string name="yes">Oui</string>
+</resources>

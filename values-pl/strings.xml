@@ -632,6 +632,4 @@
 	<string name="message_center">Centrum wiadomości</string>
     <string name="no_new_message">Brak nowych wiadomości</string>
     <string name="update_title">Najważniejsze aktualizacje</string>
-    <string name="update_summary">1.Dodano centrum wiadomości \n2.Optymalizacja GUI w zakładce Urządzenie</string>
-    <string name="update_content">1.Dodano centrum wiadomości, użytkownicy mogą otrzymywać najświeższe informacje od Antutu Benchmark.\n2.Naprawiono błąd Facebooka &#38; Dzielenie sie przez sieć Twitter, użytkownicy mogą podzielić się wynikami z ich przyjaciółmi.</string>
 </resources>

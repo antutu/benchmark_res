@@ -637,6 +637,4 @@
     <string name="message_center">Центр повідомлень</string>
     <string name="no_new_message">Немає нових повідомлень</string>
     <string name="update_title">Оновити</string>
-    <string name="update_summary">1.Доданий центр повідомлень \n2.Оптимізований інтерфейс на закладці інфа</string>
-    <string name="update_content">1.Доданий центр повідомлень, користувачі отримають найсвіжішу інформацію із AnTuTu Labs. \n 2.Усунена помилка обміну даними FaceBook і Twitter, користувачі можуть спільно використовувати результати тестів зі своїми друзями в соціальних мережах.</string>
    </resources>

@@ -292,8 +292,8 @@
     <string name="setnetwork">設置網路</string>
     <string name="ok">確定</string>
     <string name="logout">退出登錄</string>
-    <string name="support">支持</string>
-    <string name="nonsupport">不支持</string>
+    <string name="support">支援</string>
+    <string name="nonsupport">不支援</string>
     <string name="logout_dialog_message">"確定退出登錄?"</string>
     <string name="text_mem">RAM性能</string>
     <string name="text_cpu">CPU性能</string>
@@ -365,19 +365,20 @@
     <string name="ke">克</string>
     <string name="load_photo_failed">照片載入失敗</string>
     <string name="request_full_test">做一次完整測試</string>
-    <string name="score_god">上帝啊</string>
-    <string name="score_amazing">嘩，太令人驚喜了</string>
-    <string name="score_great">霸氣外露啦</string>
-    <string name="score_good_job">其實我內心很強大</string>
-    <string name="score_good">還不錯嘛</string>
-    <string name="score_haha">有待優化哦</string>
+    <string name="score_god">要爆了！要爆了</string>
+    <string name="score_monster">大吼一聲: 還有誰!</string>
+    <string name="score_amazing">原諒我霸氣放縱</string>
+    <string name="score_great">內心強大不需解釋</string>
+    <string name="score_good_job">來，戰個痛快!</string>
+    <string name="score_good">給你點64個贊</string>
+    <string name="score_haha">其實還可以更好</string>
     <string name="score_tried">不理想，再試試？</string>
     <string name="score_god_desp">你終於擊敗了99%的對手，你的手機就是未來</string>
     <string name="score_amazing_desp">你終於擊敗了90%的對手，快通知大家</string>
     <string name="score_great_desp">你已經擊敗了80%的對手，快通知大家</string>
     <string name="score_good_job_desp">爭取一下，你還可以擊敗60%的對手</string>
     <string name="score_good_desp">爭取一下，你還可以擊敗50%的對手</string>
-    <string name="score_haha_desp">再來一次，看看是否更好</string>
+    <string name="score_haha_desp">再来一次，看看是否更好</string>
     <string name="score_tried_desp">看來得更換手機了</string>
     <string name="device_level_6">沒有人可以阻擋你了</string>
     <string name="device_level_5">你是最強大的</string>
@@ -463,10 +464,7 @@
     <string name="device_performance_desp">設備性能說明</string>
     <string name="message_center">消息中心</string>
     <string name="no_new_message">目前沒有消息哦</string>
-
     <string name="logout_description">確定退出程序？</string>
-
-    ﻿
     <string name="SinaWB">新浪微博</string>
     <string name="TencentWB">腾讯微博</string>
 
@@ -495,7 +493,7 @@
     <string name="Size">屏幕尺寸</string>
     <string name="Material">材质</string>
     <string name="Density">屏幕密度</string>
-    <string name="Multi-touch">多点触控</string>
+    <string name="Multi_touch">多点触控</string>
 
     <string name="Weight">重量</string>
     <string name="Specifications">规格</string>
@@ -504,6 +502,7 @@
     <string name="GPS">GPS</string>
     <string name="WIFI">WIFI</string>
     <string name="Bluetooth">蓝牙</string>
+    <string name="NFC">NFC</string>
 
     <string name="RAM">运行内存(可用/总量)</string>
     <string name="System_Storage">机身存储(可用/总量)</string>
@@ -514,16 +513,16 @@
     <string name="Access">网络接口</string>
 
     <string name="Rear_Camera">后置摄像头</string>
-    <string name="Front-facing_Camera">前置摄像头</string>
+    <string name="Front_facing_Camera">前置摄像头</string>
     <string name="Video_Specification">视频</string>
     <string name="Photograph">拍照</string>
     <string name="Sensor">传感器</string>
 
     <string name="Direction_Sensor">方向感应器</string>
-    <string name="G-Sensor">重力感应器</string>
+    <string name="G_Sensor">重力感应器</string>
     <string name="Acceleration_Sensor">加速度感应器</string>
     <string name="Light_Sensor">光照感应器</string>
-    <string name="E-Compass">电子罗盘</string>
+    <string name="E_Compass">电子罗盘</string>
     <string name="Proximity_Sensor">距离感应器</string>
     <string name="Gyro_Sensor">陀螺仪感应器</string>
     <string name="Temperature_Sensor">设备温度感应器</string>
@@ -534,5 +533,50 @@
     <string name="Rotation_Vector_Sensor">旋转矢量感应器</string>
 
     <string name="Have_root_access">ROOT权限</string>
+    <string name="successfully_posted_post">分享成功</string>
+    ﻿
+    <string name="c_info_int_single">單線程整數</string>
+    <string name="c_info_float_single">單線程浮點</string>
 
+    <string name="info_ints">單線程整數:</string>
+    <string name="info_floats">單線程浮點:</string>
+
+    <string name="Testing_int_single">正在測試單線程 CPU 整數運算&#8230;</string>
+    <string name="Testing_float_single">正在測試單線程 CPU 浮點運算&#8230;</string>
+
+    <string name="html5_test">HTML5測試</string>
+    <string name="video_test">視頻測試</string>
+    <string name="video_test_name">安兔兔視頻測試</string>
+    <string name="battery_test">電池測試</string>
+    <string name="power_test_title">電池測試</string>
+    <string name="title_64bit_test">安兔兔32/64位CPU測試</string>
+    <string name="test_64bit_name">32/64位CPU測試</string>
+    <string name="test_64bit">64位CPU測試</string>
+    <string name="test_32bit">32位CPU測試</string>
+    <string name="title_64bit">64 位</string>
+    <string name="title_32bit">32 位</string>
+    <string name="c_Prepare">準備測試</string>
+    <string name="c_Cleanup">保存結果並清理</string>
+    <string name="c_StringSort">字串排序</string>
+    <string name="c_Fourier">傅裏葉級數</string>
+    <string name="c_Huffman">霍夫曼編碼</string>
+    <string name="c_LU">解線性方程</string>
+    <string name="c_AES">AES 加密</string>
+    <string name="c_PNG">PNG 編碼</string>
+    <string name="multi_thread">多線程</string>
+    <string name="c_info_total_st">單線程測試</string>
+    <string name="c_info_total_mt">多線程測試</string>
+    <string name="need_v41">只支持Android 4.1及以上版本</string>
+
+    <string name="text_cpu_single">CPU (單線程)</string>
+    <string name="text_cpu_multithread">CPU (多線程)</string>>
+    <string name="CPU_Type">類型</string>
+    <string name="verify_info">此分數未經過安兔兔認證! 測試時請聯網!</string>
+    
+    <string name="screen_finish">屏幕檢測完畢,正在退出...</string>
+    <string name="multi_touch_page">多點觸控測試</string>
+    <string name = "screen_test">屏幕檢測</string>
+    <string name ="screen_broken">屏幕壞點檢測</string>
+   	<string name="back">返回</string>
+    
 </resources>

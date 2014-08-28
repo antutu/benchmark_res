@@ -636,6 +636,4 @@ Os usuários podem facilmente saber a estabilidade do CPU de dispositivos com a 
     <string name="message_center">Centro de Mensagens</string>
     <string name="no_new_message">Nenhuma nova mensagem</string>
     <string name="update_title">Destaques da atualização</string>
-    <string name="update_summary">1.Adicionar centro de mensagens \n2.Otimizar GUI na guia de informações do dispositivo</string>
-    <string name="update_content">1.Adicionar centro de mensagens, Os usuários podem receber as últimas informações do Antutu Benchmark.\n2.Fixar bug no Facebook &#38; Compartilhamento no Twitter, Os usuários podem compartilhar os resultados do benchmark com os seus amigos nas redes sociais.</string>
 </resources>

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-	<string name="app_id">1403394553272360</string>
+    <string name="app_id">1403394553272360</string>
     <string name="app_name_sort">AnTuTu Benchmark</string>
     <string name="app_name">AnTuTu Benchmark</string>
     <string name="prompt">Exit AnTuTu Benchmark</string>
@@ -135,7 +135,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="get_info_failed">Get home page information failed</string>
     <string name="yan">验</string>
     <string name="yanji">鉴别真伪</string>
-    
+    <string name="slidemenu_more_tools">More Tools</string>
     <string name="start_verify">Start</string>
     <string name="verify_over">Check Completed</string>
     <string name="open_clear">Install Clean Master</string>
@@ -146,13 +146,12 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="garbage_size">(%s)</string>
     <string name="download_in_progress">Downloading %s%%&#8230;</string>
     <string name="clean_master">Clean Master</string>
-    <string name="clear_home_page">Click to boost memory&#160;</string>
+    <string name="clear_home_page">Click to boost memory </string>
     <string name="clear_speedup_desp">Install Clean Master to optimize memory.</string>
     <string name="ram_speedup_complete">Memory Boosted</string>
     <string name="ram_speedup_ok">Memory Usage is already optimized</string>
     <string name="clear_optimze_performance">Optimize system performance after installing Clean Master.</string>
     <string name="clear_performance_btn">Optimize</string>
-    
     <string name="c_info_total">Total Score</string>
     <string name="c_info_dalvik">Runtime</string>
     <string name="c_info_multitask">Multitask</string>
@@ -195,7 +194,8 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="server_error">Server error</string>
     
     <string name="request_full_test">Complete a full test</string>
-    <string name="score_god">WOW! Monster!</string>
+    <string name="score_god">Oh! My God!</string>
+    <string name="score_monster">WOW! Monster!</string>
     <string name="score_amazing">Amazing</string>
     <string name="score_great">Great</string>
     <string name="score_good_job">Good Job</string>
@@ -307,6 +307,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="logout_dialog_message">"Are you sure to log out?"</string>
     <string name="text_mem">RAM</string>
     <string name="text_cpu">CPU</string>
+    <string name="text_cpu_multithread">CPU (multi-thread)</string>>
     <string name="text_gpu">GPU</string>
     <string name="text_io">IO</string>
     <string name="text_ue">UX</string>
@@ -631,20 +632,21 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="data_send_failed">Request failed</string>
     
     <string name="net_work_error_try">Network error, try later</string>
-    <string name="menu">Menu</string>
+        
     <string name="exist_title">Notice</string>
     <string name="logout_description">Sure to exit the program?</string>
-    
+    <string name="html5_test">HTML5 Test</string>
+    <string name="rating_content">You’re successfully run a benchmark and got %1$s scores. Is this worth 5-stars?</string>
+    <string name="rating_cancel">NOT NOW</string>
+    <string name="rating_confirm">RATE 5 STARS</string>
     <string name="message_center">Message Center</string>
     <string name="no_new_message">No new message</string>
     <string name="update_title">Update Highlights</string>
-    <string name="update_summary">1.Improve the social media section \n2.Adapt the STB devices</string>
-    <string name="update_content">1.Improve the social media section.\n2.Adapt the STB devices.</string>
-
+    <string name="update_summary">1.Checking and display whether NFC is supported.\n2.Optimize search module.</string>
+    <string name="update_content">1.Checking and display whether NFC is supported.\n2.Optimize search module.</string>
     <string name="faq_title">FAQ</string>
-    <string name="faq_summary">Why does the scores different every time?</string>
-    <string name="faq_content">Why does the scores different every time?\n\n1.The reason of different results from the same device is that the performance test is decided by the hardware configuration. But at the same time, it is influenced by the current device temperature, the number of running programs, and also the system mode.  The test scores are related with all these elements above, with normal fluctuating within 20%.\n\n2.Many devices offer a variety of running modes, such as power-saving mode, normal/balance mode, performance mode, the maximum frequency of CPU in different modes varies, causing the devices playing different performance. So if your device gets the scores significantly different with other devices of the same model, please check the current operating mode in the settings.\n</string>
-
+    <string name="faq_summary">Why not support our country\'s language?</string>
+    <string name="faq_content">1.Why not support our country\'s language?\n\nAntutu benchmark now supports 13 languages including Chinese, English, Korea, Slovak, Turkish, Russia, Ukrainian, Polish, Portuguese, Hungarian, Indonesian, Vietnamese, Japanese. Antutu labs really appreciate all the volunteers for their help during the localization. We are accelerating the products optimization and we welcome more volunteers to help us to do the localization. Thank you.</string>
 
     <string name="Austria_AT">Austria (AT)</string>
     <string name="Australia_AU">Australia (AU)</string>
@@ -727,7 +729,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="Size">Size</string>
     <string name="Material">Material</string>
     <string name="Density">Density</string>
-    <string name="Multi-touch">Multi-touch</string>
+    <string name="Multi_touch">Multi-touch</string>
 
     <string name="Weight">Weight</string>
     <string name="Specifications">Specifications</string>
@@ -736,6 +738,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="GPS">GPS</string>
     <string name="WIFI">WIFI</string>
     <string name="Bluetooth">Bluetooth</string>
+    <string name="NFC">NFC</string>
 
     <string name="RAM">RAM</string>
     <string name="System_Storage">System Storage</string>
@@ -746,16 +749,16 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="Access">Access</string>
 
     <string name="Rear_Camera">Rear Camera</string>
-    <string name="Front-facing_Camera">Front-facing Camera</string>
+    <string name="Front_facing_Camera">Front-facing Camera</string>
     <string name="Video_Specification">Video Specification</string>
     <string name="Photograph">Photograph</string>
     <string name="Sensor">Sensor</string>
 
     <string name="Direction_Sensor">Direction Sensor</string>
-    <string name="G-Sensor">G-Sensor</string>
+    <string name="G_Sensor">G-Sensor</string>
     <string name="Acceleration_Sensor">Acceleration Sensor</string>
     <string name="Light_Sensor">Light Sensor</string>
-    <string name="E-Compass">E-Compass</string>
+    <string name="E_Compass">E-Compass</string>
     <string name="Proximity_Sensor">Proximity Sensor</string>
     <string name="Gyro_Sensor">Gyro Sensor</string>
     <string name="Temperature_Sensor">Temperature Sensor</string>
@@ -766,4 +769,59 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="Rotation_Vector_Sensor">Rotation Vector Sensor</string>
 
     <string name="Have_root_access">Have root access</string>
+    <string name="Ad_Banners">Ad Banners</string>
+    <string name="title_activity_more_tools">MoreToolsActivity</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="c_info_int_single">Single-thread Integer</string>
+    <string name="c_info_float_single">Single-thread Float</string>
+
+    <string name="info_ints">Single-thread integer:</string>
+    <string name="info_floats">Single-thread float-point:</string>
+
+    <string name="Testing_int_single">Testing Single thread integer performance&#8230;</string>
+    <string name="Testing_float_single">Testing Single thread float performance&#8230;</string>
+
+    <string name="a3d_res">3D Plug-in</string>
+    <string name="a3d_wait">Please wait for AnTuTu 3D Plug-in install</string>
+    <string name="a3d_success">AnTuTu 3D Plug-in successfully installed</string>
+    <string name="a3d_download">Start downloading AnTuTu 3D Plug-in&#8230;</string>
+    <string name="a3d_install">Start installing AnTuTu 3D Plug-in&#8230;</string>
+    <string name="not_art">The 3D test not support ART runtime now, Please use Dalvik or wait for new version</string>
+    <string name="not_checkjni">Please set CheckJNI OFF to run 3D test!</string>
+
+    <string name="video_test">Video Test</string>
+    <string name="video_test_name">AnTuTu Video Tester</string>
+    <string name="battery_test">Battery Test</string>
+    <string name="power_test_title">Battery Test</string>
+    <string name="title_64bit_test">AnTuTu 32/64bit CPU Test</string>
+    <string name="test_64bit_name">32/64bit CPU Test</string>
+    <string name="test_64bit">64bit CPU Test</string>
+    <string name="test_32bit">32bit CPU Test</string>
+    <string name="title_64bit">64 bit</string>
+    <string name="title_32bit">32 bit</string>
+    <string name="c_Prepare">Preparing to test</string>
+    <string name="c_Cleanup">Save the results and cleanup</string>
+    <string name="c_StringSort">String Sort</string>
+    <string name="c_Fourier">Fourier Series</string>
+    <string name="c_Huffman">Huffman Encode</string>
+    <string name="c_LU">Linear Equations</string>
+    <string name="c_AES">AES Encryption</string>
+    <string name="c_PNG">PNG Encode</string>
+    <string name="not_support">N/A</string>
+    <string name="multi_thread">Multi-thread&#160;</string>
+    <string name="c_info_total_st">Single-thread Test</string>
+    <string name="c_info_total_mt">Multi-thread Test</string>
+    <string name="need_v41">Only support Android 4.1 and above</string>
+
+    <string name="text_cpu_single">CPU (single thread)</string>
+    <string name="CPU_Type">Type</string>
+    <string name="verify_info">The score not verify by AnTuTu! Please check your network connection!</string>
+    
+            <!-- 屏幕检测部分 -->
+    <string name="screen_test">Screen Test</string>
+    <string name="screen_broken">LCD Test</string>
+    <string name="screen_finish">LCD testing is completed, exiting...</string>
+    <string name="multi_touch_page">Multi-Touch Test</string>
+    <string name="touch_me">Touch Me</string>
 </resources>

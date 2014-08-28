@@ -1,0 +1,1001 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Acceleration_Sensor">سنسور شتاب سنج</string>
+    <string name="Access">دسترسی</string>
+    <string name="Ad_Banners">بنرهای تبلیغاتی</string>
+    <string name="Ambient_Temperature_Sensor">سنسور دمای محیطی</string>
+    <string name="Android_SDK_Version">نسخه SDK اندروید</string>
+    <string name="Android_Version">نسخه اندروید</string>
+    <string name="Australia_AU">استرالیا (AU)</string>
+    <string name="Austria_AT">اتریش (AT)</string>
+    <string name="Battery_Level">سطح باتری</string>
+    <string name="Belgium_BE">بلژیک (BE)</string>
+    <string name="Bluetooth">بلوتوث</string>
+    <string name="Brand">مارک</string>
+    <string name="Brazil_BR">برزیل (BR)</string>
+    <string name="Britain_GB">بریتانیا (GB)</string>
+    <string name="Bulgaria_BG">بلغارستان (BG)</string>
+    <string name="CPU">مدل پردازنده:</string>
+    <string name="CPU_Model">مدل پردازنده</string>
+    <string name="Canada_CA">کانادا (CA)</string>
+    <string name="Clean_up">پاک سازی</string>
+    <string name="Color">رنگ</string>
+    <string name="Cores">تعداد هسته</string>
+    <string name="Croatia_HR">کرواسی (HR)</string>
+    <string name="Czech_Republic_CZ">جمهوری چک (CZ)</string>
+    <string name="Denmark_DK">دانمارک (DK)</string>
+    <string name="Density">تراکم</string>
+    <string name="Device_Model">مدل دستگاه</string>
+    <string name="Direction_Sensor">سنسور جهت</string>
+    <string name="E_Compass">قطب نما</string>
+    <string name="Egypt_EG">مصر (EG)</string>
+    <string name="External_Storage">حافظه خارجی</string>
+    <string name="Female">زن</string>
+    <string name="Finland_FI">فنلاند (FI)</string>
+    <string name="France_FR">فرانسه (FR)</string>
+    <string name="Frequency">فرکانس پردازنده:</string>
+    <string name="Front_facing_Camera">دوربین جلو</string>
+    <string name="GPS">موقعیت یاب GPS</string>
+    <string name="GPU_Frequency">فرکانس پردازنده گرافیکی</string>
+    <string name="GPU_Version">نسخه پردازنده گرافیکی</string>
+    <string name="G_Sensor">G-Sensor</string>
+    <string name="Germany_DE">آلمان (DE)</string>
+    <string name="Greece_GR">یونان (GR)</string>
+    <string name="Gyro_Sensor">سنسور ژیروسکوپ</string>
+    <string name="Have_root_access">دسترسی root</string>
+    <string name="Hong_Kong_HK">هنگ کنگ (HK)</string>
+    <string name="Hungary_HU">مجارستان (HU)</string>
+    <string name="IMEI">IMEI</string>
+    <string name="India_IN">هند (IN)</string>
+    <string name="Indonesia_ID">اندونزی (ID)</string>
+    <string name="Internal_Storage">حافظه داخلی</string>
+    <string name="Ireland_IE">ایرلند (IE)</string>
+    <string name="Israel_IL">اسرائيل (IL)</string>
+    <string name="Italy_IT">ایتالیا (IT)</string>
+    <string name="Japan_JP">ژاپن (JP)</string>
+    <string name="Kernel">هسته</string>
+    <string name="Korean_KR">کره ای (KR)</string>
+    <string name="Latvia_LV">لتونی (LV)</string>
+    <string name="Liechtenstein_LI">لیختن اشتاین (LI)</string>
+    <string name="Light_Sensor">سنسور نور</string>
+    <string name="Linear_Acceleration_Sensor">سنسور شتاب خطی</string>
+    <string name="Lithuania_LT">لیتوانی (LT)</string>
+    <string name="Male">مرد</string>
+    <string name="Material">ماده</string>
+    <string name="MemSize">ظرفیت حافظه (موجود / در کل):</string>
+    <string name="Model">مدل</string>
+    <string name="More">بیشتر</string>
+    <string name="Multi_touch">چند لمسی</string>
+    <string name="NFC">NFC</string>
+    <string name="Netherlands_NL">هلند (NL)</string>
+    <string name="New_Zealand_NZ">نیوزیلند (NZ)</string>
+    <string name="Norway_NO">نروژ (NO)</string>
+    <string name="Philippines_PH">فیلیپین (PH)</string>
+    <string name="Phone">مدل گوشی:</string>
+    <string name="Photograph">عکس</string>
+    <string name="Poland_PL">لهستان (PL)</string>
+    <string name="Portugal_PT">پرتغال (PT)</string>
+    <string name="Pressure_Sensor">سنسور فشار</string>
+    <string name="Proximity_Sensor">سنسور مجاورتی</string>
+    <string name="RAM">RAM</string>
+    <string name="RAMSize">ظرفیت RAM (موجود / در کل):</string>
+    <string name="Rear_Camera">دوربین عقب</string>
+    <string name="Relative_Humidity_Sensor">سنسور رطوبت نسبی</string>
+    <string name="Renderer">ارائه دهنده</string>
+    <string name="Resolution">وضوح تصویر</string>
+    <string name="RomInfo">شماره ساخت:</string>
+    <string name="Romania_RO">رومانی (RO)</string>
+    <string name="Rotation_Vector_Sensor">سنسور چرخش برداری</string>
+    <string name="Russia_RU">روسیه (RU)</string>
+    <string name="SDCard">ظرفیت کارت SD (موجود / در کل):</string>
+    <string name="SDCardEx">ظرفیت کارت SD خارجی (موجود / در کل):</string>
+    <string name="Sensor">سنسور</string>
+    <string name="Serbian_RS">صربستان (RS)</string>
+    <string name="SinaWB">Sina Weibo</string>
+    <string name="SingaporeSG">سنگاپور(SG)</string>
+    <string name="Size">اندازه</string>
+    <string name="Slovakia_SK">اسلواکی (SK)</string>
+    <string name="Slovenia_SI">اسلوونی (SI)</string>
+    <string name="South_Africa_ZA">آفریقای جنوبی (ZA)</string>
+    <string name="Spain_ES">اسپانیا (ES)</string>
+    <string name="Specifications">مشخصات</string>
+    <string name="Sweden_SE">سوئد (SE)</string>
+    <string name="Switzerland_CH">سویس (CH)</string>
+    <string name="System">نسخه اندروید:</string>
+    <string name="System_Storage">حافظه سیستم</string>
+    <string name="Taiwan_TW">تایوان (TW)</string>
+    <string name="TemperatureC">دما(℃)</string>
+    <string name="Temperature_Sensor">سنسور دما</string>
+    <string name="TencentWB">Tencent Weibo</string>
+    <string name="Testing">درحال آزمایش، لطفا صبر کنید…</string>
+    <string name="Testing_2d">آزمایش عملکرد گرافیکی 2 بعدی…</string>
+    <string name="Testing_3d">آزمایش عملکرد گرافیکی 3 بعدی…</string>
+    <string name="Testing_cancle">آزمایش فسخ شده است</string>
+    <string name="Testing_dalvik">آزمایش عملکرد زمان اجرایی…</string>
+    <string name="Testing_db">آزمایش عملکرد ورودی/خروجی پایگاه داده…</string>
+    <string name="Testing_finish">آزمایش کامل شد</string>
+    <string name="Testing_float">آزمایش عملکرد شناور پردازنده…</string>
+    <string name="Testing_info">آزمایش ممکن است چند دقیقه طول بکشد</string>
+    <string name="Testing_int">آزمایش عملکرد اعداد صحیح پردازنده…</string>
+    <string name="Testing_mem">آزمایش عملکرد RAM…</string>
+    <string name="Testing_multitask">آزمایش عملکرد چند وظیفه ای…</string>
+    <string name="Testing_optimize_mem">بهینه سازی حافظه برای کسب بنچمارک دقیق تر</string>
+    <string name="Testing_ram">آزمایش سرعت RAM…</string>
+    <string name="Testing_renderscript">آزمایش عملکرد Renderscript…</string>
+    <string name="Testing_st">آزمایش عملکرد ورودی/خروجی حافظه…</string>
+    <string name="Thailand_TH">تایلند (TH)</string>
+    <string name="Turkey_TR">ترکیه (TR)</string>
+    <string name="Ukraine_UA">اوکراین (UA)</string>
+    <string name="United_States_US">ایالات متحده آمریکا (US)</string>
+    <string name="Untested">آزمایش نشده</string>
+    <string name="Vender">فروشنده</string>
+    <string name="Video_Specification">مشخصات تصویری</string>
+    <string name="Vietnam_VN">ویتنام (VN)</string>
+    <string name="WIFI">WIFI</string>
+    <string name="Weight">وزن</string>
+    <string name="about">درباره</string>
+    <string name="about_changelog">تغییرات</string>
+    <string name="about_contribute_author" />
+    <string name="about_contribute_thanks">با تشکر از داوطلبان برای مشارکت بزرگ آنها:</string>
+    <string name="about_copyright">کپی رایت © 2010 - 2014 AnTuTu. کلیه حقوق محفوظ است.</string>
+    <string name="about_facebook">ما را بپسندید</string>
+    <string name="about_help_us">کمک به ما برای ترجمه و بومی سازی</string>
+    <string name="about_info">Founded in 2010 and composed of some senior technicians who have deep love for moble technology، Antutu Labs concentrates on delivering simple and accurate smart device benchmarking app. Our mission is to develop useful software which can make people have deep understanding to their mobile devices. AnTuTu Benchmark supports almost ten languages including English، Russian، Japanese، Korean، Poland، Italian، Czech and so on. Nowadays، over 100،000،000 users used Antutu Benchmark. Antutu Benchmark has became a benchmark standard to mobile device users.</string> <!-- مشکل 1 -->
+    <string name="about_twitter">ما را دنبال کنید</string>
+    <string name="accelerated_speed">شتاب</string>
+    <string name="action_settings">تنظیمات</string>
+    <string name="always_finish_info">"لطفا \"نگه نداشتن فعالیت ها\" را در تنظیمات برنامه نویس غیرفعال کنید"</string>
+    <string name="always_finish_title">"\"نگه نداشتن فعالیت ها\" روشن"</string>
+    <string name="always_portrait">همیشه Portrait</string>
+    <string name="antutu_3d_rating">امتیاز بنچمارک سه بعدی AnTuTu</string>
+    <string name="antutu_version">بنچمارک توسط AnTuTu ورژن3</string>
+    <string name="api_version">نسخه SDK اندروید:</string>
+    <string name="app_id">1403394553272360</string>
+    <string name="app_setting">گزینه ها</string>
+    <string name="appearance">نمایش ظاهری:</string>
+    <string name="attention">توجه</string>
+    <string name="authenticated">تصدیق شده توسط AnTuTu</string>
+    <string name="auto_bench">بنچمارک خودکار بعد از 10 ثانیه آغاز خواهد شد!</string>
+    <string name="auto_exit">برنامه بعد از 20 ثانیه بسته میشود!</string>
+    <string name="auto_language">* زبان سیستم</string>
+    <string name="auto_update">بررسی بروزرسانی خودکار</string>
+    <string name="auto_update_info">بررسی بروز رسانی هنگام راه اندازی</string>
+    <string name="axverify">اعتبار سنج دستگاه AnTuTu</string>
+    <string name="axverify_info">معتبرسازی دستگاه شما</string>
+    <string name="back">بازگشت</string>
+    <string name="backup_files">پشتیبان گیری تنظیمات و داده ها</string>
+    <string name="backup_files_dec">پشتیبان گیری تنظیمات و داده ها در کارت SD</string>
+    <string name="backup_restore">پشتیبان گیری و بازیابی</string>
+    <string name="backup_succeed">پشتیبان گیری پایان یافت!</string>
+    <string name="backup_warning">از تنظیمات و داده ها پشتیبان گیری شود؟ تمامی داده های موجود رونویسی خواهند شد.</string>
+    <string name="basic_info">اطلاعات پایه</string>
+    <string name="bat_leve">سطوح باتری</string>
+    <string name="battery">باتری</string>
+    <string name="battery_level_pre">%d%%</string>
+    <string name="battery_save">عمر باتری خود را افزایش دهید</string>
+    <string name="battery_temprature_pre">%d°C</string>
+    <string name="behind">پشت</string>
+    <string name="bench_error">تهیه بنچمارک به طور غیر منتظره ای متوقف شد، لطفا دوباره تلاش کنید!</string>
+    <string name="bench_stop">توقف آزمایش…</string>
+    <string name="bluetooth">بلوتوث</string>
+    <string name="brand">مارک:</string>
+    <string name="brand_">مارک</string>
+    <string name="btn_detail">جزئیات</string>
+    <string name="btn_overclock">اورکلاک</string>
+    <string name="btn_rank">ثبت کردن امتیاز</string>
+    <string name="btn_rankweb">وب سایت</string>
+    <string name="c_info_2D">گرافیک 2D</string>
+    <string name="c_info_3D">گرافیک 3D</string>
+    <string name="c_info_DB">ورودی/خروجی پایگاه داده</string>
+    <string name="c_info_ST">ورودی/خروجی حافظه</string>
+    <string name="c_info_dalvik">زمان اجرا</string>
+    <string name="c_info_float">نقطه شناور پردازنده</string>
+    <string name="c_info_int">اعداد صحیح پردازنده</string>
+    <string name="c_info_mem">عملیات RAM</string>
+    <string name="c_info_multitask">چند وظیفه ای</string>
+    <string name="c_info_ram">سرعت RAM</string>
+    <string name="c_info_total">مجموع امتیاز</string>
+    <string name="camera">دوربین:</string>
+    <string name="camera_front">دوربین جلو:</string>
+    <string name="cancel">لغو کردن</string>
+    <string name="cancelled">لغو شد</string>
+    <string name="cancle_download">لغو کردن دریافت فایل</string>
+    <string name="cancle_download_info">دانلود در هر صورت لغو شود؟</string>
+    <string name="cancle_plugin">این پلاگین برای بنچمارک لازم است! در هر صورت لغو شود؟</string>
+    <string name="capacity">ظرفیت</string>
+    <string name="certification">تصدیق شده</string>
+    <string name="change_photo">تغییر تصویر</string>
+    <string name="changelog">"
+ 
+ ورژن 3.0
+ – آزمایش بنچمارک سه بعدی جدید OpenGL ES 2.0 برای عملکرد بازیهای سه بعدی.
+ – آزمایش کاملا جدید بنچمارک دو بعدی برای عملکرد بازیهای دو بعدی.
+ – اضافه شدن صفحه مقایسه برای مقایسه امتیازات با دستگاه های برتر.
+ – توقف خودکار بنچمارک در زمان تشخیص اصلاح شدن برنامه.
+ – طراحی مجدد و تنظیم رابط کاربری برنامه.
+ – بهبود تشخیص مسیر کارت SD.
+ – برطرف شدن باگ پاپ آپ خودکار بعضی صفحات.
+ – برطرف شدن گیر کردن بعضی اوقات در صفحه اسپلش.
+ – برطرف شدن دو بار ظاهر شدن صفحه ثبت امتیاز پس از بنچمارک.
+ – بروزرسانی زبان ایتالیایی و اوکراینی.
+ – اضفه شدن زبان چک.
+ 
+ ورژن 2.9.4
+ – برطرف شدن دستگاه های معماری x86 در باگ گرفتن عملکر کامل.
+ – برطرف شدن دستگاه های معماری x86 در باگ اطلاعات پردازنده.
+ 
+ ورژن 2.9.3
+ – بروزرسانی زبان روسی.
+ – بازنکردن صفحه وب هنگام متصل نبودن به اینترنت.
+ – برطرف شدن کرش زمان باز کردن صفحه وب در برنامه.
+ – برطرف شدن برخی کرش های بالقوه.
+ – برطرف شدن صفحه پیشنهاد.
+ 
+ ورژن 2.9.2
+ – برطرف شدن کرش در Jelly Bean(Android 4.1) با Mail-400 GPU.
+ – افزوده شدن یک لینک به بنچمارک جدید 3DRanting.
+ 
+ ورژن 2.9.1
+ – برطرف شدن کاهش امتیاز پردازنده در Jelly Bean(Android 4.1)، این بدلیل اولویت بالاتر رابط کاربری پیش می آید.
+ – برطرف شدن مشکل تشخیض فرکانس پردازنده در Jelly Bean(Android 4.1).
+ – برطرف شدن تعداد پردازنده ها که میتوانست کمتر از تعداد واقعی باشد.
+ – برطرف شدن کرش بالقوه مموری هنگام بنچمارک.
+ – سازگاری با Nexus 7 و دیگر دستگاه های بدون دوربین.
+ 
+ ورژن 2.9
+ – افزوده شدن تایید امتیاز توسط زمان شبکه، جلوگیری از تقلب توسط کاهش سرعت ساعت محلی.
+ – افزوده شدن لینک به برنامه OpenGL ES 2.0 بنچمارک 3D.
+ – برطرف شدن مشکل لود نشدن سریع اطلاعات پس از بازآوری از کارت SD.
+ – برطرف شدن مشکل ممکن نبودن بازگشت در تب نظرات.
+ – برطرف شدن احتمال کرش هنگام خروج از برنامه.
+ 
+ ورژن 2.8.3
+ – برطرف شدن باگ خارج نشدن در هنگام کلیک روی دکمه برگشت.
+ 
+ ورژن 2.8.2
+ – برطرف شدن برخی کرش ها.
+ – برطرف شدن برخی از باگ های رابط کاربری.
+ 
+ ورژن 2.8.1
+ – طراحی مجدد صفحه خانگی، نمایش امتیازات کاربران و نظرات آنها راجع به دستگاه شما.
+ – نمایش اطلاعات دوربین در صفحه اطلاعات سیستم (نیازمند مجوز دوربین).
+ 
+ ورژن 2.8
+ – طراحی مجدد صفحه ثبت، کاربران میتوانند به دستگاه شما رای دهند.
+ – بهینه سازی روش بنچمارک گیری از کارت SD برای گرفتن امتیاز فابل اطمینان تر.
+ – برطرف شدن امتیاز ناپایدار دو بعدی در بعضی مدل های کم-پایان.
+ – تصحیح زبان روسی.
+ 
+ ورژن 2.7.3
+ – پشتیبانی از چند زبان در صفحه نمودار امتیازات.
+ – نمایش تاریخچه امتیازات به صورت ترتیب برعکس.
+ – برطرف شدن برخی کرش ها.
+ 
+ ورژن 2.7.2
+ – برطرف شدن مشکل ناتوانی در بازکردن نسخه رایگان CPU Master.
+ 
+ ورژن 2.7.1
+ – برطرف شدن باگ ارسال امتیازات توسط دستگاه های دیگر.
+ – ما پایگاه داده را در سرور برای حذف نمرات مشکوک بررسی خواهیم کرد.
+ 
+ ورژن 2.7
+ – طراحی مجدد رابط کاربر برای کاربری راحت تر.
+ – اضافه شدن تعامل و اطلاعات بیشتر.
+ – افزوده شدن ترجمه ژاپنی.
+ – برطرف شدن مشکل ادامه یافتن بنچمارک گیری پس از خروج.
+ 
+ ورژن 2.6
+ – استافده از خدمات بنچمارک بدون گرفتن اجازه مداوم.
+ – بهینه سازی نمودار امتیاز عملکرد GUI.
+ – برطرف شدن باگی که که ممکن است باعث امتیاز غیر قابل اعتماد پردازنده در برخی از دستگاه باشد.
+ – برطرف کردن کرش بعد از آزمایش 2D در برخی از دستگاه ها.
+ – برطرف شدن شکست در تشخیص OpenGL ES 2.0.
+ – برطرف شدن مشکل نمایش خطا در نمایش نمودار در ICS.
+ – برطرف شدن کرش هنگام در دسترس بودن بروزرسانی.
+ – خروجی گرفتن از امتیاز بنچمارک به logcat.
+ 
+ ورژن 2.5.4
+ – تنظیم جزئی از استاندارد امتیاز پردازنده، نردیکتر به امتیازات ورژن 2.5.1.
+ – برطرف شدن امتیاز های بالای غیرعادی از عملکرد پردازنده، این بار واقعا.
+ 
+ ورژن 2.5.3
+ – امتیاز دقیق تر، اما در بعضی از دستگاه ها ممکن است کمتر از ورژن 2.5.1 باشد.
+ – برطرف شدن احتمال زمان بردن آزمایش پردازنده.
+ – برطرف شدن احتمال دریافت امتیاز پایین غیر عادی از آزمایش پردازنده.
+ 
+ ورژن 2.5.2
+ – نهایتا برطرف شدن امتیاز غیرعادی بنچمارک پردازنده در برخی از دستگاه ها.
+ – اضافه شدن زبان لهستانی.
+ – بهینه سازی بعضی از عملکردهای رابط کاربری.
+ – برطرف شدن خطای کد کشور ZA آفریقای جنوبی.
+ – تلاش برای برطرف کردن کرش پس از آزمایش 2D در برخی از دستگاه ها.
+ 
+ ورژن 2.5.1
+ – پشتیبانی از چند زبان در لیست امتیازات.
+ – برطرف شدن خطای بروزرسانی تصویر صورت.
+ 
+ ورژن 2.5
+ – تاریخچه جدید برای مشاهده تاریخچه بنچمارک های اخیر.
+ – رابط کاربر جدید لیست امتیازات، تغییر لیست با کشیدن انگشت
+ – دریافت داده های نمودار امتیازات به هنگام از اینترنت.
+ – تغییر نوع لیست رتبه بندی توسط کشیدن انگشت.
+ – نمایش لاگ تغییرات هنگام اولین اجرا.
+ – برطرف شدن مشکل نمایش آیکون در kindle fire.
+ 
+ ورژن 2.4.3
+ – بالا بردن بنچمارک پردازنده برای جلوگیری از امتیازات غیر طبیعی
+ – استفاده از اطلاعات toast به جای کادر هشدار.
+ – برطرف شدن مشکل ثبت کشور یا منطقه خالی.
+ – برطرف شدن کرش در اندروید ورژن 2.0 و 2.0.1
+ 
+ ورژن 2.4.2
+ – بررسی احتمال تاریخ گذشته بودن امتیاز، اطمینان از رتبه بندی.
+ – افزوده شدن Galaxy Nexus و ASUS انتقال دهنده نخست برای نمودار میله ای.
+ – شما میتوانید امتیاز را بدون تست بلادرنگ کارت SD ثبت کنید.
+ 
+ ورژن 2.4.1
+ – افزایش بنچمارک پردازنده برای دریافت امتیاز دقیق تر.
+ – برطرف شدن کرش های بالقوه در بنچمارک پردازنده.
+ 
+ ورژن 2.4
+ – پشتیبانی کامل از بنچارک پردازنده های چهار-هسته ای.
+ – بهینه سازی برای بنچمارک multi-threading.
+ – برطرف شدن برخی از کرش های بالقوه.
+ 
+ ورژن 2.3.1
+ – برطرف شدن کرش مجدد در آزمایش 2D.
+ – بروزرسانی ترجمه کره ای، تشکر از Noah (노아).
+ 
+ ورژن 2.3
+ – پشتیبانی از x 86 و پلتفرم MIPS
+ – افزایش شناسایی پردازنده و پشتیبانی از اطلاعات پردازنده چند هسته ای.
+ – اضافه شدن ترجمه روسی، تشکر از Pavel M (Павел Миронов).
+ – اضافه شدن ترجمه کره ای، تشکر از Noah (노아).
+ – برطرف شدن احتما کرش در آزمایش 2D در وضعیت حافظه کم.
+ – برطرف شدن مشکل ناتوانی ثبت امتیاز در برخی از دستگاه ها.
+ 
+ ورژن 2.2
+ – افزوده شدن ترجمه ایتالیایی، تشکر از Cricco (Cristiano Regni).
+ – اضافه شدن اطلاعات اندازه کارت SD خارجی.
+ – اضافه شدن لهستان به لیست کشور ها و مناطق.
+ – افزایش تشخیص چند کارت SD.
+ – برطرف شدن آزمایش کامل سفارشی ناتوان در ارسال باگ.
+ – برطرف شدن پرچم رومانی.
+ 
+ ورژن 2.1
+ – پشتیبانی از چند کارت SD، انتخاب یکی برای آزمایش
+ – اضافه شدن اطلاعات هسته
+ – افزایش میزان موفقیت ارسال
+ – افزایش نام پردازنده و تشخیص مدل
+ – برطرف شدن احتمال کرش در آزمایش پ 3D در برخی از دستگاه ها
+ 
+ ورژن 2.0.3
+ – افزایش تشخیص فرکانس پردازنده
+ 
+ ورژن 2.0.2
+ – برطرف شدن مشکل ثبت کشور یا منطقه اشتباه
+ – برطرف شدن برخی کرش ها
+ 
+ ورژن 2.0.1
+ – اضافه شدن کشورهای سفارشی و ویژگی منطقه
+ – برطرف شدن احتمال کرش شدن در آزمایش 3D در برخی از دستگاه ها
+ – برطرف شدن مشکل ذخیره نشدن تصویر در برخی از دستگاه ها
+ – برطرف شدن کرش هنگام بی نتیجه ماندن جستجو 
+ 
+ ورژن 2.0
+ – طراحی مجدد کلی رابط کاربری.
+ – بنچمارک 3D جدید که عملکرد بازی ها را بهتر نشان میدهد.
+ – OpenGL-based بنچمارک 2D جدید.
+ – پشتیبانی از آزمایش موارد سفارشی.
+ – بهینه سازی آزمایش ورودی/خروجی پایگاه داده.
+ – اضافه شدن تنظیمات و پشتیبان گیری و بازیابی داده ها.
+ – افزوده شدن تصویر و اطلاعات شخصی، که در رتبه بندی نمایش داده میشوند.
+ – افزوده شدن قابلیت های بیشتر در منو
+ 
+ ورژن 1.6
+ – نمایش رتبه بندی طبقه بندی شده.
+ – فشرده سازی اطلاعات رتبه بندی و کاهش حجم ترافیک شبکه.
+ – ذخیره جزئیات دستگاه در رتبه بندی و کاهش فرکانس دسترسی شبکه.
+ – برطرف شدن مشکل پرچم اشتباه کشور تایلند؛ اضافه شدن پرچم کشورها و مناطق جدید.
+ – برطرف شدن مشکل نمایش درهم اعداد در نمودار میله ای.
+ 
+ ورژن 1.5
+ – هم اکنون برنامه توانایی آزمایش پردازنده های دو هسته ای را دارد.
+ – بهینه سازی روش بنچمارک تا سریعتر اجرا شود.
+ – بروزرسانی امتیاز دستگاه ها در نمودار میله ای.
+ – برطرف شدن مشکلی که بعضی اوقات موجب پایان نیافتن آزمایش خواندن کارت SD میشد.
+ – برطرف شدن مشکل ثبت نشدن امتیازات در بعضی اوقات.
+ 
+ ورژن 1.4
+ – افزوده شدن تابع جستجو برای رتبه بندی.
+ – افزوده شدن امتیازات جزئی دستگاه برای موارد لیست رتبه بندی.
+ – افزوده شدن اطلاعات کشور و منطقه برای نمایش در لیست رتبه بندی.
+ – آیکون جدید برنامه.
+ – برطرف شدن مشکل پایان نیافتن آزمایش سرعت کارت SD.
+ 
+ ورژن 1.3
+ – افزوده شدن آزمایش عملکرد ورودی/خروجی پایگاه داده.
+ – افزوده شدن نمودار میله ای که عملکرد دستگاه های مختلف را مقایسه میکند.
+ – هم اکنون شما میتوانید بر روی موبایل و یا دستگاه خود نظر خود را پس از ثبت امتیاز ثبت نمایید.
+ – افزوده شدن صفحه تنظیمات و آیتم های منوی مربوطه.
+ – پشتیبانی از دستگاه های بیشتر در تشخیص فرکانس پردازنده.
+ – پشتیبانی از حالت افقیريا؛ برطرف شدن تغییر شکل کشش.
+ – برطرف شدن مشکل امکان بالا بودن بیش از حد مقدار آزمایش شده از آزمایش سرعت خواندن کارت SD.
+ 
+ ورژن 1.2
+ – افزوده شدن بروزرسانی خودکار.
+ – افزوده شدن اطلاعات شماره ساخت.
+ – بهینه سازی حدودی الگوریتم امتیاز دو بعدی و سه بعدی.
+ – برطرف شدن مشکل ذخیره آزمایش سرعت کارت SD.
+ 
+ ورژن 1.1
+ – تغییر الگوریتم امتیازدهی کارت SD برای انعکاس بهتر عملکرد واقعی تلفن همراه.
+ – ARMv7-بهینه سازی شده تدوینی برای استفاده کامل از عملکرد پردازنده جدید.
+ – اضافه شدن اطلاعات حافظه و RAM در اطلاعت سیستم.
+ – بررسی اتصال شبکه قبل از ارسال امتیازات.
+ – منع ارسال امتیاز در طول آزمایش.
+"</string>
+    <string name="changelog_title">تغییرات</string>
+    <string name="changing_fragments">تغییر قطعات</string>
+    <string name="chart_all">نمودار نواری</string>
+    <string name="chart_list">نمودار لیستی</string>
+    <string name="chart_pad">پد</string>
+    <string name="chart_phone">تلفن</string>
+    <string name="chat_setting_btn">تنظیمات چت</string>
+    <string name="check_scores">بررسی امتیازات</string>
+    <string name="check_update">بررسی بروزرسانی…</string>
+    <string name="check_update_dec">بروزرسانی رو بررسی کن</string>
+    <string name="clean_master">Clean Master</string>
+    <string name="clear">پاک کردن</string>
+    <string name="clear_complete">تائید</string>
+    <string name="clear_garbage">فایل های اضافی</string>
+    <string name="clear_home_page">برای افزایش حافظه کلیک کنید </string>
+    <string name="clear_in_progress">درحال پاکسازی…</string>
+    <string name="clear_optimze_performance">بهینه سازی عملکرد سیستم پس از نصب Clean Master.</string>
+    <string name="clear_performance_btn">بهینه سازی</string>
+    <string name="clear_speedup_desp">برای بهینه سازی حافظه Clean Master را نصب کنید.</string>
+    <string name="close">بستن</string>
+    <string name="cmp_result">جزئیات</string>
+    <string name="collapse_all">بستن همه</string>
+    <string name="color">رنگ</string>
+    <string name="com_facebook_choose_friends">دوستان خود را انتخاب کنید</string>
+    <string name="com_facebook_dialogloginactivity_ok_button">تائید</string>
+    <string name="com_facebook_internet_permission_error_message">مشاهده وب به مجوز اینترنت نیاز دارد</string>
+    <string name="com_facebook_internet_permission_error_title">خطای AndroidManifest</string>
+    <string name="com_facebook_loading">در حال بارگیری...</string>
+    <string name="com_facebook_loginview_cancel_action">لغو</string>
+    <string name="com_facebook_loginview_log_in_button">فیس بوک</string>
+    <string name="com_facebook_loginview_log_out_action">خروج</string>
+    <string name="com_facebook_loginview_log_out_button">فیس بوک</string>
+    <string name="com_facebook_loginview_logged_in_as">وارد شده با نام: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">فیس بوک</string>
+    <string name="com_facebook_logo_content_description">لوگو فیس بوک</string>
+    <string name="com_facebook_nearby">در نزدیکی</string>
+    <string name="com_facebook_picker_done_button_text">انجام شد</string>
+    <string name="com_facebook_placepicker_subtitle_catetory_only_format">%1$s</string>
+    <string name="com_facebook_placepicker_subtitle_format">%1$s • %2$،d were here</string>
+    <string name="com_facebook_placepicker_subtitle_were_here_only_format">%1$،d were here</string>
+    <string name="com_facebook_requesterror_password_changed">کلمه عبور فیس بوک شما تغییر یافت. لطفا برای اتصال مجدد حساب کاربری فیس بوک خود مجددا وارد این برنامه شوید.</string>
+    <string name="com_facebook_requesterror_permissions">این برنامه مجوز انجام این کار را ندارد. برای تغییر مجوز ها، سعی کنید مجددا وارد برنامه شوید.</string>
+    <string name="com_facebook_requesterror_reconnect">لطفا برای اتصال مجدد حساب کاربری فیس بوک خود مجددا وارد این برنامه شوید.</string>
+    <string name="com_facebook_requesterror_relogin">لطفا برای اتصال مجدد حساب کاربری فیس بوک خود مجددا وارد این برنامه شوید.</string>
+    <string name="com_facebook_requesterror_web_login">حساب کاربری فیس بوک شما قفل شده است. لطفا برای ادامه وارد www.facebook.com شوید.</string>
+    <string name="com_facebook_tooltip_default">"جدید! شما تحت کنترل هستید - مشخص کنید که میخواهید کدام اطلاعات شما با برنامه ها اشتراک گذاشته شوند."</string>
+    <string name="com_facebook_usersettingsfragment_log_in_button">ورود…</string>
+    <string name="com_facebook_usersettingsfragment_logged_in">وارد شده اید</string>
+    <string name="com_facebook_usersettingsfragment_not_logged_in">وارد نشده اید</string>
+    <string name="comment">تفسیر دستگاه شما:</string>
+    <string name="comment_info">تصویر و نام مستعار در رتبه بندی نمایش داده خواهد شد. ایمیل خود را بگذارید تا ما بتوانیم با شما تماس بگیریم.</string>
+    <string name="comment_no">بدون نظر</string>
+    <string name="comment_user">نظر کاربر</string>
+    <string name="compare">مقایسه</string>
+    <string name="compare_pk">مقایسه</string>
+    <string name="compare_title">مقایسه - بنچمارک AnTuTu</string>
+    <string name="confirm">تائید</string>
+    <string name="confirm_new_password">تکرار کلمه عبور جدید</string>
+    <string name="confirm_null">لطفا کلمه عبور را مجددا وارد نمائید</string>
+    <string name="confirm_password">تکرار کلمه عبور</string>
+    <string name="consist_pwd">کلمه های عبور وارد شده شما با یکدیگر مطابقت ندارند</string>
+    <string name="contact_certification">support@antutu.com</string>
+    <string name="contact_info">پشتیبانی: support@antutu.com</string>
+    <string name="container">برای نشان دادن قطعه دکمه را فشار دهید</string>
+    <string name="continue2">ادامه</string>
+    <string name="core_count">تعداد هسته</string>
+    <string name="cost_performance">عملکرد هزینه:</string>
+    <string name="cpu">پردازنده</string>
+    <string name="cpu_core_fre">فرکانس هسته پردازنده</string>
+    <string name="cpu_detail_info">اطلاعات پردازنده</string>
+    <string name="cpu_detail_load">بار پردازنده</string>
+    <string name="cpu_detail_page_name">نام</string>
+    <string name="cpu_fre">فرکانس</string>
+    <string name="cpu_hardware">سخت افزار پردازنده:</string>
+    <string name="cpu_hexin">تعداد هسته</string>
+    <string name="cpu_model">سبک معماری</string>
+    <string name="cpu_usage_pre">%d%%</string>
+    <string name="cpu_xinghao">مدل</string>
+    <string name="create_account">ایجاد حساب کاربری جدید</string>
+    <string name="crossrange">لیست رتبه بندی</string>
+    <string name="cur_rank">رتبه من</string>
+    <string name="custom">سفارشی</string>
+    <string name="custom_test">آزمایش سفارشی</string>
+    <string name="data_send_failed">درخواست انجام نشد</string>
+    <string name="defaults">پیش فرض (همه)</string>
+    <string name="density">تراکم</string>
+    <string name="density_dpi">تراکم صفحه</string>
+    <string name="detail_scores">امتیاز تفصیلی</string>
+    <string name="detail_title">جزئیات - بنچمارک AnTuTu</string>
+    <string name="dev_info_title">دستگاه من</string>
+    <string name="device">دستگاه(تلفن همراه)</string>
+    <string name="device_level_1">تلاش کن</string>
+    <string name="device_level_2">بنچمارک کن</string>
+    <string name="device_level_3">آزمایش شجاعت کن</string>
+    <string name="device_level_4">آزمایش های بیشتر، اعتماد به نفس بیشتر</string>
+    <string name="device_level_5">شما بهترین دستگاه رو دارید</string>
+    <string name="device_level_6">شما بهترینید</string>
+    <string name="device_performance_desp">توضیح عملکرد</string>
+    <string name="device_xinghao">مدل دستگاه (تلفن)</string>
+    <string name="display">نمایش</string>
+    <string name="distance_sensors">سنسور فاصله</string>
+    <string name="donwload_plugin">درحال دانلود، لطفا صبر کنید…</string>
+    <string name="donwload_update">درحال دریافت نسخه جدید...</string>
+    <string name="download_format">درحال دانلود %s، لطفا صبر کنید…</string>
+    <string name="download_in_progress">درحال دانلود %s%%…</string>
+    <string name="download_market">دریافت از Google Play</string>
+    <string name="download_stop">دانلود متوقف شود؟</string>
+    <string name="download_stop_info">شما تمام داده های دریافت شده را از دست میدهید. آیا از انجام این کار مطمئن هستید؟</string>
+    <string name="download_website">دریافت از وبسایت</string>
+    <string name="downloading">درحال دانلود، لطفا صبر کنید…</string>
+    <string name="dvm">مدل دستگاه</string>
+    <string name="electronic_compass">قطب نما</string>
+    <string name="email">آدرس ایمیل</string>
+    <string name="email_exist">ایمیل از قبل موجود است</string>
+    <string name="email_format_wrong">خطای قالب صندوق پستی</string>
+    <string name="email_illeagl">خطای آدرس پست الکترونیکی</string>
+    <string name="email_null">ایمیل نمی تواند خالی باشد</string>
+    <string name="errcode_cancel">اشتراک گذاری لغو شد</string>
+    <string name="errcode_deny">اشتراک گذاری ممنوع</string>
+    <string name="errcode_failed">اشتراک گذاری انجام نشد</string>
+    <string name="errcode_success">اشتراک گذاری با موفقیت انجام شد</string>
+    <string name="errcode_unknown">اشتراک گذاری نامشخص</string>
+    <string name="error">خظا</string>
+    <string name="error_need_login">لطفا ابتدا وارد شوید.</string>
+    <string name="error_new_pwd_empty">لطفا کلمه عبور جدید را وارد کنید.</string>
+    <string name="error_not_match">کلمه عبور فعلی و ایمیل با یکدیگر هماهنگ نیستند</string>
+    <string name="error_old_pwd_empty">لطفا کلمه عبور فعلی خود را وارد نمایید.</string>
+    <string name="error_pwd_max_len">طول کلمه عبور میبایست بین 4 تا 16 حرف باشد</string>
+    <string name="error_pwd_not_consistent">کلمه عبور جدید مطابقت ندارد</string>
+    <string name="error_repeat_pwd_empty">لطفا کلمه عبور جدید را مجددا وارد نمایید</string>
+    <string name="exist_title">توجه</string>
+    <string name="expand_all">باز کردن همه</string>
+    <string name="facebook_canceled">عملیات لغو شد</string>
+    <string name="fake_mobile_note">محصولات جعلی</string>
+    <string name="faq_content" />
+    <string name="faq_summary" />
+    <string name="faq_title">پرسش های متداول</string>
+    <string name="feedback">انتقادات و پیشنهادات</string>
+    <string name="feedback_contact">پست الکترونیک</string>
+    <string name="feedback_contact_hint">مناسب ما برای ارتباط با شما</string>
+    <string name="feedback_content">محتوا</string>
+    <string name="feedback_hint">لطفا پیشنهادات و مشاهدات خود را به ما اعلام کنید</string>
+    <string name="feedback_note">انتقادات و پیشنهادات</string>
+    <string name="feedback_successful">ثبت شد.از انتقادات و پیشنهادات شما متشکریم.</string>
+    <string name="feedback_us">تماس با AnTuTu</string>
+    <string name="feedbacksubmit">ثبت</string>
+    <string name="fine_mobile_note">محصولات معتبر</string>
+    <string name="frequency">فرکانس</string>
+    <string name="front">مقابل</string>
+    <string name="full_test">آزمایش کامل</string>
+    <string name="game_feature_title">عملکرد بازی</string>
+    <string name="garbage_size">(%s)</string>
+    <string name="get_info_failed">دریافت اطلاعات صفحه خانگی شکست خورد</string>
+    <string name="gles2">OpenGL ES 2.0</string>
+    <string name="gles2_test">آزمایش OpenGL ES 2.0</string>
+    <string name="gles2_test_description">بدانید محافظ گوشی های هوشمند/تبلت ها در عملکرد بازی واقعی است</string>
+    <string name="gles3">OpenGL ES 3.0</string>
+    <string name="gles3_test">آزمایش OpenGL ES 3.0</string>
+    <string name="go_to_fragment">رفتن به قطعه</string>
+    <string name="gps">مکان یاب GPS</string>
+    <string name="gpu_renderer">GPU renderer:</string>
+    <string name="gpu_supplier">تامین کننده</string>
+    <string name="gpu_vendor">GPU vendor:</string>
+    <string name="gpu_version">نسخه GPU (OpenGL):</string>
+    <string name="gravity_sensor">سنسور جاذبه</string>
+    <string name="guest">نام من</string>
+    <string name="gyro_sensors">سنسور ژیروسکوپ</string>
+    <string name="hello_world">سلام دنیا!</string>
+    <string name="help_localization">من میخواهم در محلی سازی کمک کنم!</string>
+    <string name="hint_login">وارد شوید و جوایز بیشتری ببرید</string>
+    <string name="hint_max_name">نباید بیش از 20 حرف باشد.</string>
+    <string name="history">تاریخچه</string>
+    <string name="history_title">تاریخچه</string>
+    <string name="info_2D">گرافیک 2D:</string>
+    <string name="info_3D">گرافیک 3D:</string>
+    <string name="info_DB">ورودی/خروجی پایگاه داده:</string>
+    <string name="info_SDW">ورودی/خروجی فضای ذخیره سازی:</string>
+    <string name="info_ST">ورودی/خروجی فضای ذخیره سازی:</string>
+    <string name="info_appearance">وضعیت ظاهری</string>
+    <string name="info_battery">عمر باتری</string>
+    <string name="info_camera">دوربین</string>
+    <string name="info_complete_submit">امتیاز خود را برای رتبه بندی جهانی ثبت کنید</string>
+    <string name="info_complete_test">آزمایش را برای بررسی رتبه جهانی اتمام کنید</string>
+    <string name="info_cpu">پردازنده</string>
+    <string name="info_dalvik">زمان اجرا:</string>
+    <string name="info_date">تاریخ:</string>
+    <string name="info_float">نقطه اعشاری پردازنده:</string>
+    <string name="info_get_medals_tip">چگونه مدال بگیرید؟ لطفا بررسی کنید</string>
+    <string name="info_get_more_medals_tip">چگونه مدال های بیشتری بگیرید؟ لطفا بررسی کنید</string>
+    <string name="info_int">اعداد صحیح پردازنده:</string>
+    <string name="info_mem">عملیات RAM:</string>
+    <string name="info_multitask">چند وظیفه:</string>
+    <string name="info_net">شبکه</string>
+    <string name="info_no_medal">شما مدالی ندارید…</string>
+    <string name="info_nothave">ندارید</string>
+    <string name="info_notset">تنظیم نشده است</string>
+    <string name="info_os">سیستم عامل</string>
+    <string name="info_others">دیگر</string>
+    <string name="info_ram">سرعت RAM:</string>
+    <string name="info_renderscript">اسکریپت اجرا:</string>
+    <string name="info_total">امتیاز کل:</string>
+    <string name="info_trans">انتقال</string>
+    <string name="infomation_modify_success">تغییرات ذخیره شد</string>
+    <string name="initializing">راه اندازی ...</string>
+    <string name="install_plugin">درحال نصب، لطفا صبرر کنید…</string>
+    <string name="internet">شبکه</string>
+    <string name="invalid_args">خطای پارامترهای رجیستری</string>
+    <string name="invalid_nk_name">خطای نام مستعار</string>
+    <string name="invalid_username">"نام کاربری و کلمه عبور اشتباه است"</string>
+    <string name="ke">g</string>
+    <string name="kernel">هسته:</string>
+    <string name="kernel_">هسته</string>
+    <string name="later_reg">ثبت نام در هنگام دسترسی به شبکه انجام خواهد شد.</string>
+    <string name="later_reg_failed">ثبت نام آفلاین شکست خورد.</string>
+    <string name="light_sensor">سنسور نور</string>
+    <string name="list_drag">برای بروزکردن بکشید</string>
+    <string name="list_last">آخرین بروزرسانی</string>
+    <string name="list_recent">آخرین بروزرسانی:</string>
+    <string name="list_refreshing">درحال بروزکردن...</string>
+    <string name="list_songkai">برای بروزکردن رها کنید</string>
+    <string name="load_fail">"خطای بارگذاری داده ها!
+
+لطفا شبکه اینترنت خود را بررسی کنید."</string>
+    <string name="load_photo_failed">بارگیری عکس انجام نشد</string>
+    <string name="loading">درحال بارگیری...</string>
+    <string name="location">محل:</string>
+    <string name="login">وارد شدن</string>
+    <string name="login_and_share">ورود و به اش گذاری</string>
+    <string name="login_failed_dialog_title">اطلاعات ورود</string>
+    <string name="login_suc">ورود با موفقیت انجام شد</string>
+    <string name="logo_text" />
+    <string name="logout">خروج</string>
+    <string name="logout_description">آیا مایل به خروج از نرم افزار هستید؟</string>
+    <string name="logout_dialog_message">آیا مایل به خروج هستید؟</string>
+    <string name="machine_code">کد ماشین</string>
+    <string name="machine_mem">حافظه داخلی</string>
+    <string name="material">مواد</string>
+    <string name="max_score">تعداد امتیازهای بایگانی شده</string>
+    <string name="max_score_info">تعداد حداکثر ذخیره بایگانی امتیازها</string>
+    <string name="mega_pixel">مگاپیکسل</string>
+    <string name="mem_usage_pre">%d%%</string>
+    <string name="memory">حافظه</string>
+    <string name="menu">منو</string>
+    <string name="menu_profile">پروفایل کاربر</string>
+    <string name="message_center">مرکز پیام</string>
+    <string name="mobile_info">اطلاعات موبایل</string>
+    <string name="mobile_pk">مقایسه موبایل</string>
+    <string name="model">مدل</string>
+    <string name="more_cpu_info">اطلاعت بیشتر از پردازنده</string>
+    <string name="more_detail">نمایش جزئیات بیشتر</string>
+    <string name="multi_touch">چند لمسی</string>
+    <string name="multi_touch_page">آزمایش چند لمسی</string>
+    <string name="my_device">دستگاه من</string>
+    <string name="my_device_prefix"> من</string>
+    <string name="name">نام مستعار</string>
+    <string name="need_download_es20">دانلود امتیاز صه بعدی برای OpenGL ES 2.0؟</string>
+    <string name="need_download_es30">دانلود امتیاز سه بعدی برای OpenGL ES 3.0؟</string>
+    <string name="need_download_yanji">اعتبار سنج دستگاه Antutu دانلود شود؟</string>
+    <string name="need_update_3drating">نسخه جدیدی از 3DRating موجود است!</string>
+    <string name="net_mode">بیشتر</string>
+    <string name="net_unvalid">اتصال شبکه در دسترس نیست</string>
+    <string name="net_work_error_try">خطای شبکه، بعدا سعی کنید</string>
+    <string name="netstate">وضعیت شبکه</string>
+    <string name="network_error">لطفا اتصال شبکه خود را بررسی کنید</string>
+    <string name="new_medals_title">تبریک، شما مدال جدید گرفتید! (%1$d/%2$d)</string>
+    <string name="new_pwd">کلمه عبور جدید</string>
+    <string name="new_single_medal_title">تبریک، شما مدال جدید دارید!</string>
+    <string name="nickname_invalid">نام مستعار بیش از حد طولانی است</string>
+    <string name="nickname_nomore">طول نام مستعار باید کمتر از 20 حرف باشد</string>
+    <string name="nickname_null">نام مستعار نمیتواند خالی باشد</string>
+    <string name="no">خیر</string>
+    <string name="no_email_app">این برنامه به یک برنامه ایمیل برای ارسال پست الکترونیکی نیاز دارد. لطفا یکی را نصب کنید و دوباره تلاش کنید.</string>
+    <string name="no_history">تاریخچه ای یافت نشد</string>
+    <string name="no_new_message">پیام جدیدی وجود ندارد</string>
+    <string name="no_root">خیر</string>
+    <string name="no_support_cpu">بنچمارک AnTuTu دیگر پردازنده های قدیمی بدون v7a را پشتیبانی نمیکند!</string>
+    <string name="no_support_gpu">دستگاه شما OpenGL ES 3.0 را پشتیبانی نمیکند!</string>
+    <string name="no_support_preview_gpu">کپی پیشنمایش این پلاگین را پشتیبانی نمی کند، لطفا منتظر نسخه نهایی باشید</string>
+    <string name="no_support_sdk">"اندروید دستگاه شما برای اجرای این آزمایش بسیار قدیمی است!"</string>
+    <string name="no_use">بدون استفاده</string>
+    <string name="no_wechat">Wechat یافت نشد</string>
+    <string name="nodata">خطای شبکه،اطلاعات بروزرسانی نشد</string>
+    <string name="nonsupport">پشتیبانی نمیشود</string>
+    <string name="not_enough_space">حداقل %1$sM فضای خالی برای آزمایش ذخیره سازی لازم است!</string>
+    <string name="ok">تائید</string>
+    <string name="old_pwd">کلمه عبور قدیمی</string>
+    <string name="old_version">این امتیاز قدیمی شده است، لطفا مجددا آزمایش کنید!</string>
+    <string name="open_clear">Clean Master را نصب کنید</string>
+    <string name="optimize_mem_complete">حافظه %1$dM با موفقیت خالی شد، حافظه در دسترس فعلی %2$dM میباشد</string>
+    <string name="optimize_mem_in_progress">بهینه سازی حافظه…</string>
+    <string name="orientation">سنسور تنظیم جهت</string>
+    <string name="os">سیستم عامل</string>
+    <string name="other">دیگر</string>
+    <string name="password">کلمه عبور</string>
+    <string name="password_modify_success">تغییرات ذخیره شد</string>
+    <string name="performance_description">عملکرد</string>
+    <string name="permission_not_granted">اجازه داده نشد</string>
+    <string name="photo_post">ارسال عکس</string>
+    <string name="photograph">عکس</string>
+    <string name="pick_photo">انتخاب عکس از گالری</string>
+    <string name="pk">PK</string>
+    <string name="please_wait">لطفا صبر کنید…</string>
+    <string name="power_feature_title">عملکرد باتری</string>
+    <string name="powersaver">صرفه جویی در باتری</string>
+    <string name="pressure_sensors">سنسور فشار</string>
+    <string name="prompt">خروج از بنچمارک AnTuTu</string>
+    <string name="prompt_download">نسخه جدید هم اکنون دریافت شود؟</string>
+    <string name="prompt_net">اتصال شبکه در دسترس نیست!</string>
+    <string name="prompt_new">نسخه جدید در دسترس است</string>
+    <string name="prompt_rank">لطفا آزمایش کامل را در ابتدا اجرا کنید!</string>
+    <string name="prompt_rank_title">امتیاز (ها) اشتباه!</string>
+    <string name="pwd_length_error">طول کلمه عبور باید بین 6 تا 14 حرف باشد</string>
+    <string name="pwd_null">لطفا کلمه عبور را وارد کنید</string>
+    <string name="quality">کیفیت:</string>
+    <string name="quit_desc">از بنچمارک AnTutu خارج میشوید؟</string>
+    <string name="ram">RAM</string>
+    <string name="ram_speedup_complete">حافظه افزایش یافت</string>
+    <string name="ram_speedup_ok">حافظه استفاده شده در حال حاضر بهینه شده است</string>
+    <string name="rank_all">فهرست برترین ها</string>
+    <string name="rank_format">رتبه.%sW+</string>
+    <string name="rank_list">20 نفر اول</string>
+    <string name="rank_model">برترین مدل ها</string>
+    <string name="rank_my">دستگاه من</string>
+    <string name="rank_unknow">ثبت امتیازها</string>
+    <string name="ranking_info_scores">امتیازها:%d</string>
+    <string name="rate">امتیاز دادن</string>
+    <string name="rating">3D Rating</string>
+    <string name="rating_cancel">الان نه</string>
+    <string name="rating_confirm">امتیاز 5 شتاره بده</string>
+    <string name="rating_content">شما با موفقیت یک بنچمارک را اجرا کردید و %1$s امتیاز گرفتید. آیا این ارزش 5 ستاره را دارد؟</string>
+    <string name="rating_info">تست گرافیک سه بعدی حرفه ای</string>
+    <string name="rating_title">عاشق بنچمارک Antutu</string>
+    <string name="ratings">رتبه بندی کاربر</string>
+    <string name="recommend">برنامه ها</string>
+    <string name="reg_suc">ثبت نام با موفقیت انجام شد</string>
+    <string name="regist">ثبت نام</string>
+    <string name="reload">بارگذاری مجدد</string>
+    <string name="req_failed">درخواست انجام نشد، لطفا بعدا مجددا امتحان کنید.</string>
+    <string name="request_full_test">آزمایش کامل انجام شد</string>
+    <string name="resolution">وضوح صفحه نمایش:</string>
+    <string name="restore_files">بازیابی تنظیمات و داده ها</string>
+    <string name="restore_files_dec">بازیابی تنظیمات و داده ها از کارت SD</string>
+    <string name="restore_succeed">بازیابی انجام شد!</string>
+    <string name="restore_warning">تنظیمات و داده ها بازیابی شوند؟ بنچمارک AnTuTu به راه اندازی مجدد برای به پایان رساندن عملیات احتیاج دارد.</string>
+    <string name="root_already">بله</string>
+    <string name="root_page_title">Root权限说明</string>
+    <string name="save">ذخیره</string>
+    <string name="score_amazing">شگفت انگیز</string>
+    <string name="score_cpu_float_1500">معمولی، پشتیبانی از اکثر برنامه ها. </string>
+    <string name="score_cpu_float_3000">خوب، پشتیبانی از برنامه های بزرگ و چند وظیفه ای. </string>
+    <string name="score_cpu_float_5000">عالی، پشتیبانی از برنامه های بزرگ با چند وظیفه ای بسیار عالی. </string>
+    <string name="score_cpu_float_800">ضعیف، برنامه های بزرگ را همواره اجرا نمیکند. </string>
+    <string name="score_cpu_prefix">پردازنده: </string>
+    <string name="score_god">WOW! هیولا!</string>
+    <string name="score_good">خوب</string>
+    <string name="score_good_job">کار خوب</string>
+    <string name="score_gpu_2d_1000">معمولی، </string>
+    <string name="score_gpu_2d_1500">خوب، </string>
+    <string name="score_gpu_2d_3000">عالی، </string>
+    <string name="score_gpu_2d_500">ضعیف، </string>
+    <string name="score_gpu_2d_preflix">گرافیک دو بعدی: </string>
+    <string name="score_gpu_3d_10000">عالی، توانایی اجرای روان بازی های سنگین موبایل</string>
+    <string name="score_gpu_3d_1200">ضعیف، ناتوان در اجرای روان اکثر بازی ها.</string>
+    <string name="score_gpu_3d_3000">معمولی، بیشتر بازی ها را اجرا میکند.</string>
+    <string name="score_gpu_3d_5000">خوب، توانایی اجرای روان اکثر بازی ها.</string>
+    <string name="score_gpu_3d_preflix">گرافیک سه بعدی: </string>
+    <string name="score_great">عالی</string>
+    <string name="score_haha">خیلی بد نیست</string>
+    <string name="score_ram_2000">معمولی، </string>
+    <string name="score_ram_3000">خوب، </string>
+    <string name="score_ram_5000">عالی، </string>
+    <string name="score_ram_800">ضعیف، </string>
+    <string name="score_ram_preflix">RAM: </string>
+    <string name="score_tried">واقعا سعی شد</string>
+    <string name="screen_broken">آزمایش LCD</string>
+    <string name="screen_finish">آزمایش LCD کامل شد، درحال خروج...</string>
+    <string name="screen_test">آزمایش صفحه نمایش</string>
+    <string name="sd_desc">شما حداقل به 500مگابایت فضای خالی برای اجرای آزمایش سرعت کارت SD نیاز دارید!</string>
+    <string name="sd_full">فضای کارت SD کافی نیست!</string>
+    <string name="search">جستجو</string>
+    <string name="search_again">جستجو مجدد</string>
+    <string name="search_average_score">میانگین</string>
+    <string name="search_desc">رتبه بندی</string>
+    <string name="search_hint">نام ویا مدل دستگاه را وارد کنید</string>
+    <string name="search_title">نتایج جستجو</string>
+    <string name="searching">درحال جستجو...</string>
+    <string name="sec_app_tip">نکته مهم: شما برنامه های امنیتی را اجرا کرده‌اید. این برنامه ها میتوانند در نتایج بنچمارک اثر بگذارند و یا موجب crash شوند. ما به شما پیشنهاد میکنیم آن برنامه ها را در زمان آزمایش ببندید:</string>
+    <string name="sel_sdcard_path">کارت SD را انتخاب کنید</string>
+    <string name="sensor">سنسور</string>
+    <string name="server_error">خطای سرور</string>
+    <string name="service">پس از خدمات:</string>
+    <string name="setnetwork">تنظیم شبکه</string>
+    <string name="setting">تنظیمات</string>
+    <string name="setting_btn">تنظیمات</string>
+    <string name="setting_clear_dialog_msg">پاک شود؟</string>
+    <string name="setting_clear_history">پاک کردن تاریخچه چت</string>
+    <string name="setting_edit_topic_dialog_hint">یک نام جدید وارد کنید</string>
+    <string name="setting_edit_topic_dialog_title">ویرایش تاپیک</string>
+    <string name="setting_edit_topic_not_set">تنظیم نشده است</string>
+    <string name="setting_edit_topic_title">ویرایش تاپیک</string>
+    <string name="setting_notifications_title">اعلان ها</string>
+    <string name="setting_quit">خروج</string>
+    <string name="setting_quit_dialog_msg">خروج؟</string>
+    <string name="share">اشتراک گذاری</string>
+    <string name="share_content_repeat">اشتراک گذاری شکست خورد：تکرار شده</string>
+    <string name="share_content_retry">اشتراک گذاری شکست خورد،  لطفا مجددا تلاش کنید</string>
+    <string name="share_facebook">فیس بوک</string>
+    <string name="share_failed">اشتراک گذاری شکست خورد</string>
+    <string name="share_suc">اشتراک گذاری با موفقیت انجام شد</string>
+    <string name="share_twitter">توییتر</string>
+    <string name="share_wechat">ویچت</string>
+    <string name="share_weibo">WeiBo</string>
+    <string name="show_chart">نمایش خودکار نمودار میله ای</string>
+    <string name="show_chart_info">نمایش نمودار میله ای بعد از پایان یافتن بنچمارک</string>
+    <string name="show_comment">تنظیمات شخصی</string>
+    <string name="show_comment_info">تصویر، اطلاعات و نظرات خود را ویرایش کنید</string>
+    <string name="show_scores">نمایش</string>
+    <string name="show_submit">این را قبل از ثبت کردن نمایش بده</string>
+    <string name="sign">ثبت نام&amp;تعهد امتیازات</string>
+    <string name="similar_rank">رتبه بندی های مشابه</string>
+    <string name="size">اندازه</string>
+    <string name="size_panel">اینچ</string>
+    <string name="skip">ردکردن</string>
+    <string name="sleep">خوابیدن</string>
+    <string name="slidemenu_more_tools">ابزارهای بیشتر</string>
+    <string name="specifications">مشخصات فنی</string>
+    <string name="srt_chart">نمودار امتیازات</string>
+    <string name="stability">پایداری</string>
+    <string name="stability_figure">تغییرات کوچکتر بری انعکاس بهتر منحنی پایداری</string>
+    <string name="stability_info">نمودار پایداری</string>
+    <string name="stability_info2">آزمایش پایدار بودن سیستم</string>
+    <string name="stability_msg">آزمایش پایداری سیستم…</string>
+    <string name="stability_run">لطفا ابتدا آزمایش پایداری را اجرا کنید</string>
+    <string name="stability_temp">نمودار دما</string>
+    <string name="stability_test">آزمایش پایداری</string>
+    <string name="stability_test_description">آزمایش پایداری Antutu، امتیاز عملکرد بنچمارک گرفتن را به اجزای پردازنده و تغییرات دمای باتری را به صورت مستقیم و نمودار قابل فهم نمایش میدهد. کاربران به راحتی میتوانند پایداری پردازنده دستگاه ها را از طریق روند مختلف دما و امتیازات دوره های درحال آزمایش را بدانند.</string>
+    <string name="stability_title">نتیجه پایداری</string>
+    <string name="start_str">آزمایش</string>
+    <string name="start_test">شروع</string>
+    <string name="start_verify">شروع</string>
+    <string name="status_update">بروزرسانی وضعیت</string>
+    <string name="stop">توقف</string>
+    <string name="stop_str">توقف</string>
+    <string name="storage">فضای ذخیره سازی</string>
+    <string name="storager">ذخیره ساز</string>
+    <string name="submit">ثبت کردن</string>
+    <string name="submit_error">ثبت امتیازات با شکست مواجه شد. لطفا بعدا مجددا تلاش نمایید!</string>
+    <string name="submit_success">ثبت کردن کامل شد!</string>
+    <string name="submit_to_manufacturer">ارسال رتبه بندی به سازنده</string>
+    <string name="submit_wait">لطفا در زمان ثبت امتیازت توسط AnTuTu صبر کنید…</string>
+    <string name="success">موفق</string>
+    <string name="successfully_posted_post">با موفقیت ارسال شد</string>
+    <string name="super_user_quality">داری قابلیت روت</string>
+    <string name="support">پشتیبانی</string>
+    <string name="surface">سطحی</string>
+    <string name="tab_bbs">نظرات</string>
+    <string name="tab_device">اطلاعات دستگاه</string>
+    <string name="tab_main_bbs">تالارگفتمان</string>
+    <string name="tab_main_info">اطلاعات</string>
+    <string name="tab_main_rank">نمودار</string>
+    <string name="tab_main_test">آزمایش</string>
+    <string name="tab_pk">مقایسه</string>
+    <string name="tab_rank">رتبه بندی</string>
+    <string name="tab_scores">امتیازات</string>
+    <string name="tab_sysinfo">اطلاعات سیستم</string>
+    <string name="tab_test">آزمایش</string>
+    <string name="take_photo">عکس گرفتن</string>
+    <string name="tap_twice_to_exit">برای خروج از بنچمارک AnTutu دوباره ضربه بزنید</string>
+    <string name="temp_leve">سطوح دما</string>
+    <string name="temperature_sensor">سنسور دما</string>
+    <string name="test_2d">گرافیک دو بعدی</string>
+    <string name="test_3d">گرافیک سه بعدی</string>
+    <string name="test_again">آزمایش مجدد</string>
+    <string name="test_battery">هم اکنون باتری را آزمایش کن!</string>
+    <string name="test_cpu_mem">پردازنده و حافظه</string>
+    <string name="test_db">ورودی و خروجی پایگاه داده</string>
+    <string name="test_in_progress">درحال آزمایش…</string>
+    <string name="test_offline_reg">آزمایش آفلاین</string>
+    <string name="test_st">ورودی و خروجی ذخیره سازی</string>
+    <string name="test_verify">تایید امتیاز توسط زمان شبکه</string>
+    <string name="test_verify_title">شبکه تایید</string>
+    <string name="testing_cpu_item">پردازنده (عدد صحیح پردازنده، نقطه اعشار شناور)</string>
+    <string name="testing_description" />
+    <string name="testing_gpu_item">GPU (گرافیک دو بعدی، گرافیک سه بعدی)</string>
+    <string name="testing_io_item">ورودی خروجی (ورودی/خروجی ذخیره ساز، ورودی/خروجی پایگاه داده)</string>
+    <string name="testing_ram_item">RAM (عملیات RAM، سرعت RAM)</string>
+    <string name="testing_runtime_item">UX (چند وظیفه ای، زمان اجرا)</string>
+    <string name="text_2d">گرافیک دو بعدی</string>
+    <string name="text_3d">گرافیک سه بعدی</string>
+    <string name="text_cpu">پردازنده</string>
+    <string name="text_db">ورودی/خروجی پایگاه داده</string>
+    <string name="text_float">نقطه اعشار پردازنده</string>
+    <string name="text_gpu">GPU</string>
+    <string name="text_int">اعداد صحیح پردازنده</string>
+    <string name="text_io">ورودی خروجی</string>
+    <string name="text_mem">RAM</string>
+    <string name="text_memo">عملیات RAM</string>
+    <string name="text_mt">چند وظیفه ای</string>
+    <string name="text_ram">سرعت RAM</string>
+    <string name="text_st">ورودی/خروجی ذخیره ساز</string>
+    <string name="text_ue">UX</string>
+    <string name="text_vm">زمان اجرا</string>
+    <string name="title_activity_main">فعالیت های اصلی</string>
+    <string name="title_activity_more_tools">فعالیت ابزارهای بیشتر</string>
+    <string name="total">در کل:</string>
+    <string name="total_feature_title">عملکرد عمومی</string>
+    <string name="touch_me">من رو لمس کن</string>
+    <string name="transfer">انتقال</string>
+    <string name="translate">www.antutu.com</string>
+    <string name="try_now">اکنون امتحان کنید</string>
+    <string name="unknow_mobile_note">محصولات ناشناخته</string>
+    <string name="update">بررسی بروز رسانی</string>
+    <string name="update_content">"1.اضافه شدن در ماژول آزمایش صفحه.
+2.اضافه شدن ماژول آزمایش چند لمسی."</string>
+    <string name="update_summary">"1.اضافه شدن در ماژول آزمایش صفحه.
+2.اضافه شدن ماژول آزمایش چند لمسی."</string>
+    <string name="update_title">نکات برجسته بروزرسانی</string>
+    <string name="update_uptodate">این نسخه بروز است</string>
+    <string name="usability">قابلیت استفاده:</string>
+    <string name="user_exist">نام کاربر مورد نظر اکنون وجود دارد</string>
+    <string name="user_not_exist">پست الکترونیک وجود ندارد</string>
+    <string name="username_illeagl">پست الکترونیک و کلمه عبور مطابقت ندارند</string>
+    <string name="usr_award">مدال ها</string>
+    <string name="usr_award_details">مقدمه مدال ها</string>
+    <string name="usr_change_name_title">تغییر نام مستعار</string>
+    <string name="usr_gender">جنسیت</string>
+    <string name="usr_level">سطح</string>
+    <string name="usr_modify_pwd">تعیین رمز</string>
+    <string name="usr_nickname">نام مستعار</string>
+    <string name="usr_photo">آواتار</string>
+    <string name="usr_region">منطقه</string>
+    <string name="verify_code">کد تائید: </string>
+    <string name="verify_device">مدل دستگاه: </string>
+    <string name="verify_fail">معتبرسازی توسط فاصله زمانی شبکه شکست خورد! لطفا اتصال شبکه خود را بررسی کنید!</string>
+    <string name="verify_feedback">اگر سوالی دارید، لطفا با AnTuTu تماس بگیرید.</string>
+    <string name="verify_need_test">شما به یک آزمایش کامل قبل از معتبرسازی نیاز دارید، اکنون اجرا شود؟</string>
+    <string name="verify_over">بررسی پایان یافت</string>
+    <string name="version">نسخه</string>
+    <string name="view_capture">ضبط ویدئو</string>
+    <string name="warm_tip">نکته مهم</string>
+    <string name="warning">توجه</string>
+    <string name="weibosdk_app_name">com_weibo_android</string>
+    <string name="weibosdk_attention">注意</string>
+    <string name="weibosdk_cancel">否</string>
+    <string name="weibosdk_close">关闭</string>
+    <string name="weibosdk_del_pic">是否删除图片？</string>
+    <string name="weibosdk_delete_all">是否要删除这条微博？</string>
+    <string name="weibosdk_hello">سلام دنیا، متن فعالیت!</string>
+    <string name="weibosdk_ok">是</string>
+    <string name="weibosdk_please_login">请登录！</string>
+    <string name="weibosdk_send">发送</string>
+    <string name="weibosdk_send_failed">分享失败！</string>
+    <string name="weibosdk_send_sucess">分享成功！</string>
+    <string name="weibosdk_share_dialog_title">新浪微博</string>
+    <string name="weight">وزن</string>
+    <string name="widget_battery">سطح باتری</string>
+    <string name="widget_cpu">بار پردازنده</string>
+    <string name="widget_memory">استفاده RAM</string>
+    <string name="wifi">WIFI</string>
+    <string name="world_rank">رتبه بندی جهانی</string>
+    <string name="yan">验</string>
+    <string name="yanji">鉴别真伪</string>
+    <string name="yes">بله</string>
+</resources>

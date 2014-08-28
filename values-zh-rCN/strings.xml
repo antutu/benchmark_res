@@ -58,7 +58,8 @@
     <string name="yan">验</string>
     <string name="yanji">鉴别真伪</string>
     <string name="antutu_verify">验机报告</string>
-    
+    <string name="slidemenu_more_tools">更多工具</string>
+
     <string name="verifyouttimenote">网络请求超时，请稍后再试</string>
 	<string name="result">验证结果:</string>
 	<string name="verify_device">验证机型:&#160;</string>
@@ -325,6 +326,7 @@
     <string name="logout_dialog_message">"确定退出登录?"</string>
     <string name="text_mem">RAM性能</string>
     <string name="text_cpu">CPU性能</string>
+    <string name="text_cpu_multithread">CPU性能(多线程)</string>>
     <string name="text_gpu">GPU性能</string>
     <string name="text_io">存储性能</string>
     <string name="text_ue">用户体验性能</string>
@@ -393,12 +395,13 @@
     <string name="load_photo_failed">照片载入失败</string>
     
     <string name="request_full_test">做一次完整测试</string>
-    <string name="score_god">上帝啊</string>
-    <string name="score_amazing">哗，太令人惊喜了</string>
-    <string name="score_great">霸气外露啦</string>
-    <string name="score_good_job">其实我内心很强大</string>
-    <string name="score_good">还不错嘛</string>
-    <string name="score_haha">有待优化哦</string>
+    <string name="score_god">要爆了! 要爆了</string>
+    <string name="score_monster">大吼一声: 还有谁!</string>
+    <string name="score_amazing">原谅我霸气放纵</string>
+    <string name="score_great">内心强大不需解释</string>
+    <string name="score_good_job">来，战个痛快!</string>
+    <string name="score_good">给你点64个赞</string>
+    <string name="score_haha">其实还可以更好</string>
     <string name="score_tried">不理想，再试试？</string>
     <string name="score_god_desp">你终于击败了99%的对手，你的手机就是未来</string>
     <string name="score_amazing_desp">你终于击败了90%的对手，快通知大家</string>
@@ -502,16 +505,21 @@
     <string name="data_send_failed">请求失败！</string>
     <string name="menu">菜单</string>
     <string name="net_work_error_try">网络连接不可用，请稍候重试</string>
-	
+
+    <string name="rating_title">喜欢安兔兔评测？</string>
+    <string name="rating_content">您本次评测得分为%1$s.\n如果觉得还不错，就给个5分吧</string>
+    <string name="rating_cancel">暂不评分</string>
+    <string name="rating_confirm">去评五星</string>
+
     <string name="exist_title">提示</string>
     <string name="logout_description">确定退出程序？</string>
     <string name="message_center">消息中心</string>
     <string name="no_new_message">目前没有消息哦</string>
     <string name="update_title">更新亮点</string>
-    <string name="update_summary">1、优化社会化分享模块\n2、适配机顶盒设备</string>
-    <string name="update_content">1、优化社会化分享模块\n2、适配机顶盒设备</string>
-    <string name="faq_summary">同一设备每次评测分数不同？</string>
-    <string name="faq_content">同一设备每次评测分数不同？\n\n1.同一台设备每次评测的结果不同原因是评测的设备发挥的性能受硬件配置影响，同时与当前设备温度、运行的程序数量及系统模式有关，每次评测受到多方因素影响而产生不同程度的波动，评测结果差距不超过20%都属于正常波动范围。\n2.许多设备都提供多种运行模式，如省电模式、正常模式、性能模式等，不同模式下CPU最高频率不同，设备的性能发挥程度也不同，所以如果您的设备与其他同型号设备分数相差较大，请在设置中查看当前运行模式。\n\n如有其他疑问，请通过侧滑菜单中的反馈模块提交给我们</string>
+    <string name="update_summary">1.优化搜索模块\n2.增加检测NFC支持情况</string>
+    <string name="update_content">1.优化搜索模块，搜索时支持输入系列名称智能匹配该系列下的各个机型\n2.硬件信息模块，增加显示NFC支持状况</string>
+    <string name="faq_summary">为什么不支持我们本地语言</string>
+    <string name="faq_content">1.为什么不支持我们本地语言？\n\n目前安兔兔评测支持中文、英文、韩文、斯洛伐克、土耳其语、俄罗斯语、乌克兰语、波兰语、葡萄牙语、匈牙利语、印尼语、越南语、日语等13种语言，安兔兔实验室非常感谢帮助我们做本地化工作的志愿者们，我们会加快产品优化速度，欢迎更多用户帮助我们做本地化工作。</string>
 
     <string name="SinaWB">新浪微博</string>
     <string name="TencentWB">腾讯微博</string>
@@ -541,7 +549,7 @@
     <string name="Size">屏幕尺寸</string>
     <string name="Material">材质</string>
     <string name="Density">屏幕密度</string>
-    <string name="Multi-touch">多点触控</string>
+    <string name="Multi_touch">多点触控</string>
 
     <string name="Weight">重量</string>
     <string name="Specifications">规格</string>
@@ -550,6 +558,7 @@
     <string name="GPS">GPS</string>
     <string name="WIFI">WIFI</string>
     <string name="Bluetooth">蓝牙</string>
+    <string name="NFC">NFC</string>
 
     <string name="RAM">运行内存(可用/总量)</string>
     <string name="System_Storage">机身存储(可用/总量)</string>
@@ -560,16 +569,16 @@
     <string name="Access">网络接口</string>
 
     <string name="Rear_Camera">后置摄像头</string>
-    <string name="Front-facing_Camera">前置摄像头</string>
+    <string name="Front_facing_Camera">前置摄像头</string>
     <string name="Video_Specification">视频</string>
     <string name="Photograph">拍照</string>
     <string name="Sensor">传感器</string>
 
     <string name="Direction_Sensor">方向感应器</string>
-    <string name="G-Sensor">重力感应器</string>
+    <string name="G_Sensor">重力感应器</string>
     <string name="Acceleration_Sensor">加速度感应器</string>
     <string name="Light_Sensor">光照感应器</string>
-    <string name="E-Compass">电子罗盘</string>
+    <string name="E_Compass">电子罗盘</string>
     <string name="Proximity_Sensor">距离感应器</string>
     <string name="Gyro_Sensor">陀螺仪感应器</string>
     <string name="Temperature_Sensor">设备温度感应器</string>
@@ -581,4 +590,47 @@
 
     <string name="Have_root_access">ROOT权限</string>
 
+    <string name="c_info_int_single">单线程整数</string>
+    <string name="c_info_float_single">单线程浮点</string>
+
+    <string name="info_ints">单线程整数:</string>
+    <string name="info_floats">单线程浮点:</string>
+
+    <string name="Testing_int_single">正在测试单线程 CPU 整数运算&#8230;</string>
+    <string name="Testing_float_single">正在测试单线程 CPU 浮点运算&#8230;</string>
+
+    <string name="html5_test">HTML5测试</string>
+    <string name="video_test">视频测试</string>
+    <string name="video_test_name">安兔兔视频测试</string>
+    <string name="battery_test">电池测试</string>
+    <string name="power_test_title">电池测试</string>
+    <string name="title_64bit_test">安兔兔32/64位CPU测试</string>
+    <string name="test_64bit_name">32/64位CPU测试</string>
+    <string name="test_64bit">64位CPU测试</string>
+    <string name="test_32bit">32位CPU测试</string>
+    <string name="title_64bit">64 位</string>
+    <string name="title_32bit">32 位</string>
+    <string name="c_Prepare">准备测试</string>
+    <string name="c_Cleanup">保存结果并清理</string>
+    <string name="c_StringSort">字符串排序</string>
+    <string name="c_Fourier">傅里叶级数</string>
+    <string name="c_Huffman">霍夫曼编码</string>
+    <string name="c_LU">解线性方程</string>
+    <string name="c_AES">AES 加密</string>
+    <string name="c_PNG">PNG 编码</string>
+    <string name="multi_thread">多线程</string>
+    <string name="c_info_total_st">单线程测试</string>
+    <string name="c_info_total_mt">多线程测试</string>
+    <string name="need_v41">只支持Android 4.1及以上版本</string>
+
+    <string name="text_cpu_single">CPU性能(单线程)</string>
+    <string name="CPU_Type">类型</string>
+    <string name="verify_info">此分数未经过安兔兔认证! 测试时请联网!</string>
+    
+                <!-- 屏幕检测部分  -->
+    <string name = "screen_test">屏幕检测</string>
+    <string name ="screen_broken">屏幕坏点测试</string>
+    <string name="screen_finish">屏幕检测完毕,正在退出...</string>
+    <string name="multi_touch_page">多点触控测试</string>
+   	<string name="back">返回</string>
 </resources>
