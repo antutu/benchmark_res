@@ -130,8 +130,6 @@
     <string name="login_and_share">συνδεθείτε και μοιράστε</string>
     <string name="no_wechat">Δεν βρέθηκε η εφαρμογή Wechat</string>
     <string name="get_info_failed">Αποτυχία λήψης πληροφοριών κεντρικής σελίδας</string>
-    <string name="yan">验</string>
-    <string name="yanji">鉴别真伪</string>
     <string name="start_verify">Εκκίνηση</string>
     <string name="verify_over">Ο έλεγχος ολοκληρώθηκε</string>
     <string name="open_clear">Εγκατάσταση του Clean Master</string>
@@ -602,7 +600,7 @@
     <string name="Android_SDK_Version">Έκδοση Android SDK</string>
     <string name="Kernel">Πυρήνας</string>
     <string name="Battery_Level">Στάθμη Μπαταρίας</string>
-    <string name="TemperatureC">Θερμοκρασία(℃)</string>
+    <string name="TemperatureC">Θερμοκρασία</string>
     <string name="CPU_Model">Μοντέλο</string>
     <string name="Cores">Πυρήνες</string>
     <string name="frequency">Συχνότητα</string>

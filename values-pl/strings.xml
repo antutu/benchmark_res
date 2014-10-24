@@ -131,9 +131,7 @@
     <string name="login_and_share">zaloguj i udostępnij</string>
     <string name="no_wechat">Wechat nie znaleziony</string>
     <string name="get_info_failed">Niepowodzenie pobierania informacji</string>
-    <string name="yan">验</string>
-    <string name="yanji">鉴别真伪</string>
-    
+
     <string name="start_verify">Start</string>
     <string name="verify_over">Sprawdzanie ukończone</string>
     <string name="open_clear">Zainstaluj Clean Master</string>

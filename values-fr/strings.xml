@@ -105,7 +105,7 @@
     <string name="System">Version Android:</string>
     <string name="System_Storage">Stockage Système</string>
     <string name="Taiwan_TW">Taïwan (TW)</string>
-    <string name="TemperatureC">Température(℃)</string>
+    <string name="TemperatureC">Température</string>
     <string name="Temperature_Sensor">Capteur de température</string>
     <string name="TencentWB">Tencent Weibo</string>
     <string name="Testing">Test en cours, veuillez patienter…</string>
@@ -1223,7 +1223,5 @@ Veuillez vérifiez votre connexion internet."</string>
     <string name="widget_memory">Utilisation RAM</string>
     <string name="wifi">WIFI</string>
     <string name="world_rank">Rang mondial</string>
-    <string name="yan">验</string>
-    <string name="yanji">鉴别真伪</string>
     <string name="yes">Oui</string>
 </resources>

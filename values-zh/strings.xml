@@ -4,6 +4,7 @@
     <string name="app_name_sort">安兔兔評測</string>
     <string name="app_name">安兔兔評測</string>
     <string name="guest">我的名字</string>
+    <string name="initializing">正在初始化&#8230;</string>
     <string name="menu_settings">設置</string>
     <string name="mobile_info">移動設備資訊</string>
     <string name="start_str">開始測試</string>
@@ -51,7 +52,7 @@
     <string name="yes">是</string>
     <string name="no">否</string>
     <string name="yan">驗</string>
-    <string name="yanji">鑒別真偽</string>
+    <string name="yanji">辨別真偽</string>
     <string name="antutu_verify">驗機報告</string>
     <string name="cpu_detail_load">CPU負載</string>
     <string name="testing_runtime_item">用戶體驗（運行環境、多任務處理）</string>
@@ -133,6 +134,7 @@
     <string name="confirm">確定</string>
     <string name="skip">跳過</string>
     <string name="btn_detail">得分詳情</string>
+    <string name="continue_test">繼續測試</string>
     <string name="stop_str">停止測試</string>
     <string name="Phone">手機型號:</string>
     <string name="System">系統版本:</string>
@@ -166,6 +168,8 @@
     <string name="optimize_mem_in_progress">正在為您優化記憶體…</string>
     <string name="testing_description">安兔兔即將通過測試您的虛擬機（多任務處理能力、android運行環境）、CPU（CPU整形、CPU浮點）、RAM(RAM運算、RAM速度)、GPU（2D繪圖、3D繪圖）、存儲（存儲I/O、資料庫I/O）等多項性能，大約需要2分鐘。</string>
     <string name="stability_test_description">Antutu穩定性測試，通過加長CPU的測試時間來增加負載，以曲線圖形式給出評測時間段內CPU性能得分及電池的溫度變化。通過測試過程中設備的溫度和分數變化趨勢可以瞭解設備的CPU穩定性和散熱能力。</string>
+    <string name="warning_temperature_high">當前設備溫度過高，建議停止測試，降溫後再進行測試。繼續測試可能會導致系統重啟或關機。</string>
+
     <string name="tab_scores">分數</string>
     <string name="tab_sysinfo">系統資訊</string>
     <string name="info_mem">RAM運算：</string>
@@ -421,6 +425,8 @@
     <string name="download_stop_info">您可能會丟失已經下載的數據，確定要停止下載？</string>
     <string name="stop">停止</string>
     <string name="continue2">繼續</string>
+    <string name="continue_mobile_info">即將開始下載 %1$s \n當前使用的是移動網絡，可能會產生流量費用。</string>
+
     <string name="need_update_3drating">發現新版本 3DRating！</string>
     <string name="not_enough_space">至少需要 %1$sM 空間來進行存儲性能測試!</string>
     <string name="changelog_title">變更日誌</string>
@@ -469,72 +475,75 @@
     <string name="TencentWB">腾讯微博</string>
 
     <string name="Brand">品牌</string>
-    <string name="Model">型号</string>
-    <string name="Device_Model">型号</string>
+    <string name="Model">型號</string>
+    <string name="Device_Model">型號</string>
     <string name="IMEI">设备串号</string>
 
     <string name="Android_Version">Android版本</string>
     <string name="Android_SDK_Version">Android SDK版本</string>
     <string name="Kernel">内核</string>
 
-    <string name="Battery_Level">电量</string>
-    <string name="TemperatureC">温度(℃)</string>
+    <string name="Battery_Level">電量</string>
+    <string name="TemperatureC">溫度</string>
 
-    <string name="CPU_Model">CPU型号</string>
-    <string name="Cores">核心数</string>
-    <string name="frequency">频率</string>
-    <string name="More">更多</string>
+    <string name="CPU_Model">CPU型號</string>
+    <string name="Cores">核心數</string>
+    <string name="frequency">頻率</string>
+    <string name="More">詳細</string>
+    <string name="core_detail">核心詳細資訊</string>
 
     <string name="Renderer">GPU渲染器</string>
-    <string name="Vender">供应商</string>
+    <string name="Vender">供應商</string>
     <string name="GPU_Version">GPU版本</string>
-    <string name="GPU_Frequency">GPU频率</string>
+    <string name="GPU_Frequency">GPU頻率</string>
     <string name="Resolution">分辨率</string>
     <string name="Size">屏幕尺寸</string>
-    <string name="Material">材质</string>
+    <string name="Material">材質</string>
     <string name="Density">屏幕密度</string>
-    <string name="Multi_touch">多点触控</string>
+    <string name="Multi_touch">多點觸控</string>
+    <string name="multi_touch_test">測試</string>
 
     <string name="Weight">重量</string>
-    <string name="Specifications">规格</string>
-    <string name="Color">颜色</string>
+    <string name="Specifications">規格</string>
+    <string name="Color">顏色</string>
 
     <string name="GPS">GPS</string>
+    <string name="Loc">定位</string>
     <string name="WIFI">WIFI</string>
-    <string name="Bluetooth">蓝牙</string>
+    <string name="Bluetooth">藍牙</string>
     <string name="NFC">NFC</string>
 
-    <string name="RAM">运行内存(可用/总量)</string>
-    <string name="System_Storage">机身存储(可用/总量)</string>
-    <string name="Internal_Storage">内置存储(可用/总量)</string>
-    <string name="External_Storage">外置存储(可用/总量)</string>
+    <string name="RAM">運行內存(可用/總量)</string>
+    <string name="System_Storage">機身存儲(可用/總量)</string>
+    <string name="Internal_Storage">內置存儲(可用/總量)</string>
+    <string name="External_Storage">外置存儲(可用/總量)</string>
     <string name="Clean_up">清理垃圾文件</string>
 
-    <string name="Access">网络接口</string>
+    <string name="Access">網絡接口</string>
 
-    <string name="Rear_Camera">后置摄像头</string>
-    <string name="Front_facing_Camera">前置摄像头</string>
-    <string name="Video_Specification">视频</string>
+    <string name="Rear_Camera">後置攝像頭</string>
+    <string name="Front_facing_Camera">前置攝像頭</string>
+    <string name="Video_Specification">視頻</string>
     <string name="Photograph">拍照</string>
-    <string name="Sensor">传感器</string>
+    <string name="Sensor">傳感器</string>
 
-    <string name="Direction_Sensor">方向感应器</string>
-    <string name="G_Sensor">重力感应器</string>
-    <string name="Acceleration_Sensor">加速度感应器</string>
-    <string name="Light_Sensor">光照感应器</string>
-    <string name="E_Compass">电子罗盘</string>
-    <string name="Proximity_Sensor">距离感应器</string>
-    <string name="Gyro_Sensor">陀螺仪感应器</string>
-    <string name="Temperature_Sensor">设备温度感应器</string>
-    <string name="Pressure_Sensor">压力感应器</string>
-    <string name="Ambient_Temperature_Sensor">空气温度感应器</string>
-    <string name="Relative_Humidity_Sensor">湿度感应器</string>
-    <string name="Linear_Acceleration_Sensor">线性加速度感应器</string>
-    <string name="Rotation_Vector_Sensor">旋转矢量感应器</string>
+    <string name="Direction_Sensor">方向感應器</string>
+    <string name="G_Sensor">重力感應器</string>
+    <string name="Acceleration_Sensor">加速度感應器</string>
+    <string name="Light_Sensor">光照感應器</string>
+    <string name="E_Compass">電子羅盤</string>
+    <string name="Proximity_Sensor">距離感應器</string>
+    <string name="Gyro_Sensor">陀螺儀感應器</string>
+    <string name="Temperature_Sensor">設備溫度感應器</string>
+    <string name="Pressure_Sensor">壓力感應器</string>
+    <string name="Ambient_Temperature_Sensor">空氣溫度感應器</string>
+    <string name="Relative_Humidity_Sensor">濕度感應器</string>
+    <string name="Linear_Acceleration_Sensor">線性加速度感應器</string>
+    <string name="Rotation_Vector_Sensor">旋轉矢量感應器</string>
 
-    <string name="Have_root_access">ROOT权限</string>
+    <string name="Have_root_access">ROOT權限</string>
     <string name="successfully_posted_post">分享成功</string>
-    ﻿
+
     <string name="c_info_int_single">單線程整數</string>
     <string name="c_info_float_single">單線程浮點</string>
 
@@ -547,8 +556,9 @@
     <string name="html5_test">HTML5測試</string>
     <string name="video_test">視頻測試</string>
     <string name="video_test_name">安兔兔視頻測試</string>
-    <string name="battery_test">電池測試</string>
+    <string name="battery_test">硬件檢測</string>
     <string name="power_test_title">電池測試</string>
+    <string name="yanji_test_title">安兔兔驗機</string>
     <string name="title_64bit_test">安兔兔32/64位CPU測試</string>
     <string name="test_64bit_name">32/64位CPU測試</string>
     <string name="test_64bit">64位CPU測試</string>
@@ -569,14 +579,28 @@
     <string name="need_v41">只支持Android 4.1及以上版本</string>
 
     <string name="text_cpu_single">CPU (單線程)</string>
-    <string name="text_cpu_multithread">CPU (多線程)</string>>
+    <string name="text_cpu_multithread">CPU (多線程)</string>
     <string name="CPU_Type">類型</string>
-    <string name="verify_info">此分數未經過安兔兔認證! 測試時請聯網!</string>
+    <string name="verify_info">測試時未聯網或分數有問題!</string>
+    <string name="verify_not">此分數未認證</string>
+    <string name="policy_verify_title">此得分作假</string>
+    <string name="policy_verify_title3">請不要超頻</string>
+    <string name="policy_verify_title4">未通過核查</string>
+    <string name="policy_verify_tip">請停止對分數作假</string>
+    <string name="policy_verify_tip3">注意：請不要針對安兔兔超頻，因為這不代表普通App的性能</string>
+    <string name="policy_verify_tip4">我們無法理解你的系統時間為什麼會與伺服器時間不一致</string>
+    <string name="officer_invalid_signature">警告: 當前系統存在一個非法的安兔兔驗機App，請重新下載正版</string>
+    <string name="download_officer_warning">現在將幫助你下載新版本安兔兔驗機App，如果發現沒有安裝、安裝失敗，甚至是沒有反應，你都應該懷疑當前設備的可靠性。</string>
+
+    <string name="benchmark_clause">安兔兔評測測試條款</string>
     
     <string name="screen_finish">屏幕檢測完畢,正在退出...</string>
     <string name="multi_touch_page">多點觸控測試</string>
     <string name = "screen_test">屏幕檢測</string>
     <string name ="screen_broken">屏幕壞點檢測</string>
    	<string name="back">返回</string>
+   	
+   	   	    <!-- Cpu详情 -->
+    <string name="bit_style" formatted="false">%1$dbit (當前 %2$dbit)</string>
     
 </resources>

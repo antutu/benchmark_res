@@ -133,9 +133,7 @@ A felhasználó valós képet kaphat a CPU stabilitásáról a hőmérséklet é
     <string name="login_and_share">Lépj be és osztd meg!</string>
     <string name="no_wechat">Wechat nem található</string>
     <string name="get_info_failed">Honlapinformáció lekérése sikertelen</string>
-    <string name="yan">验</string>
-    <string name="yanji">鉴别真伪</string>
-    
+
     <string name="start_verify">Start</string>
     <string name="verify_over">Ellenőrzés lefuttatva</string>
     <string name="open_clear">Clean Master telepítése</string>

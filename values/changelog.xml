@@ -3,6 +3,18 @@
 
 <string name="changelog">
 \n
+v5.1.5\n
+ &#8211; Add a warning for over hot.\n
+ &#8211; Add GPS location information (Need Coarse location permission)\n
+ &#8211; Update Slovak translate.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v5.1\n
+ &#8211; New 64bit/32bit CPU test (32bit CPU can run half of this test).\n
+ &#8211; Reduce 3D test water effects to be more compatible with Snapdragon 805 and K3V2 etc.\n
+ &#8211; Fixed some old device get a crash when load 3D test.\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v5.0\n
  &#8211; Add Internet score verify.\n
  &#8211; Add Persian translation.\n

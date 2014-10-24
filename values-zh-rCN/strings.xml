@@ -27,6 +27,7 @@
     <string name="feedback_purchase_channel">购买渠道</string>
     <string name="feedback_purchase_price">购买价格</string>
     <string name="feedback_purchase_choose">(选填)</string>
+    <string name="initializing">正在初始化&#8230;</string>
     
     <string name="login">登 录</string>
     <string name="regist">注 册</string>
@@ -155,6 +156,7 @@
     <string name="confirm">确定</string>
     <string name="skip">跳过</string>
     <string name="btn_detail">得分详情</string>
+    <string name="continue_test">继续测试</string>
     <string name="stop_str">停止测试</string>
     <string name="Phone">手机型号:</string>
     <string name="System">系统版本:</string>
@@ -188,6 +190,7 @@
     <string name="optimize_mem_in_progress">正在为您优化内存…</string>
     <string name="testing_description">安兔兔即将通过测试您的虚拟机（多任务处理能力、android运行环境）、CPU（CPU整形、CPU浮点）、RAM(RAM运算、RAM速度)、GPU（2D绘图、3D绘图）、存储（存储I/O、数据库I/O）等多项性能，大约需要2分钟。</string>
     <string name="stability_test_description">Antutu稳定性测试，通过加长CPU的测试时间来增加负载，以曲线图形式给出评测时间段内CPU性能得分及电池的温度变化。通过测试过程中设备的温度和分数变化趋势可以了解设备的CPU稳定性和散热能力。</string>
+    <string name="warning_temperature_high">当前设备温度过高，建议停止测试，降温后再进行测试。继续测试可能会导致系统重启或关机。</string>
     
     <string name="tab_scores">分数</string>
     <string name="tab_sysinfo">系统信息</string>
@@ -326,7 +329,7 @@
     <string name="logout_dialog_message">"确定退出登录?"</string>
     <string name="text_mem">RAM性能</string>
     <string name="text_cpu">CPU性能</string>
-    <string name="text_cpu_multithread">CPU性能(多线程)</string>>
+    <string name="text_cpu_multithread">CPU性能(多线程)</string>
     <string name="text_gpu">GPU性能</string>
     <string name="text_io">存储性能</string>
     <string name="text_ue">用户体验性能</string>
@@ -451,6 +454,8 @@
     <string name="download_stop_info">您可能会丢失已经下载的数据，确定要停止下载？</string>
     <string name="stop">停止</string>
     <string name="continue2">继续</string>
+    <string name="continue_mobile_info">即将开始下载 %1$s \n当前使用的是移动网络，可能会产生流量费用。</string>
+
     <string name="need_update_3drating">发现新版本 3DRating！</string>
     <string name="not_enough_space">至少需要 %1$sM 空间来进行存储性能测试!</string>
     <string name="changelog_title">变更日志</string>
@@ -534,12 +539,13 @@
     <string name="Kernel">内核</string>
 
     <string name="Battery_Level">电量</string>
-    <string name="TemperatureC">温度(℃)</string>
+    <string name="TemperatureC">温度</string>
 
     <string name="CPU_Model">CPU型号</string>
     <string name="Cores">核心数</string>
     <string name="frequency">频率</string>
-    <string name="More">更多</string>
+    <string name="More">详细</string>
+    <string name="core_detail">核心详细信息</string>
 
     <string name="Renderer">GPU渲染器</string>
     <string name="Vender">供应商</string>
@@ -550,12 +556,14 @@
     <string name="Material">材质</string>
     <string name="Density">屏幕密度</string>
     <string name="Multi_touch">多点触控</string>
+    <string name="multi_touch_test">测试</string>
 
     <string name="Weight">重量</string>
     <string name="Specifications">规格</string>
     <string name="Color">颜色</string>
 
     <string name="GPS">GPS</string>
+    <string name="Loc">定位</string>
     <string name="WIFI">WIFI</string>
     <string name="Bluetooth">蓝牙</string>
     <string name="NFC">NFC</string>
@@ -602,8 +610,9 @@
     <string name="html5_test">HTML5测试</string>
     <string name="video_test">视频测试</string>
     <string name="video_test_name">安兔兔视频测试</string>
-    <string name="battery_test">电池测试</string>
+    <string name="battery_test">硬件检测</string>
     <string name="power_test_title">电池测试</string>
+    <string name="yanji_test_title">安兔兔验机</string>
     <string name="title_64bit_test">安兔兔32/64位CPU测试</string>
     <string name="test_64bit_name">32/64位CPU测试</string>
     <string name="test_64bit">64位CPU测试</string>
@@ -625,7 +634,18 @@
 
     <string name="text_cpu_single">CPU性能(单线程)</string>
     <string name="CPU_Type">类型</string>
-    <string name="verify_info">此分数未经过安兔兔认证! 测试时请联网!</string>
+    <string name="verify_info">测试时未联网或分数有问题!</string>
+    <string name="verify_not">此分数未认证</string>
+    <string name="policy_verify_title">此分数作弊</string>
+    <string name="policy_verify_title3">请不要超频</string>
+    <string name="policy_verify_title4">未通过验证</string>
+    <string name="policy_verify_tip">请停止作弊</string>
+    <string name="policy_verify_tip3">注意：请不要针对安兔兔超频，因为这不代表普通应用的性能</string>
+    <string name="policy_verify_tip4">我们不理解你的系统时间为什么会与服务器不一致</string>
+    <string name="officer_invalid_signature">警告：当前系统存在一个非法的安兔兔验机，请重新下载正版</string>
+    <string name="download_officer_warning">现在将帮助你下载新版本安兔兔验机，如果发现没有安装、安装失败，甚至是没有反应，你都应该怀疑当前设备的可靠性。</string>
+
+    <string name="benchmark_clause">安兔兔评测测试条款</string>
     
                 <!-- 屏幕检测部分  -->
     <string name = "screen_test">屏幕检测</string>
@@ -633,4 +653,7 @@
     <string name="screen_finish">屏幕检测完毕,正在退出...</string>
     <string name="multi_touch_page">多点触控测试</string>
    	<string name="back">返回</string>
+   	
+   	    <!-- Cpu详情 -->
+    <string name="bit_style" formatted="false">%1$dbit (当前 %2$dbit)</string>
 </resources>

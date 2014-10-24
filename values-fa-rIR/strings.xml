@@ -104,7 +104,7 @@
     <string name="System">نسخه اندروید:</string>
     <string name="System_Storage">حافظه سیستم</string>
     <string name="Taiwan_TW">تایوان (TW)</string>
-    <string name="TemperatureC">دما(℃)</string>
+    <string name="TemperatureC">دما</string>
     <string name="Temperature_Sensor">سنسور دما</string>
     <string name="TencentWB">Tencent Weibo</string>
     <string name="Testing">درحال آزمایش، لطفا صبر کنید…</string>
@@ -995,7 +995,5 @@
     <string name="widget_memory">استفاده RAM</string>
     <string name="wifi">WIFI</string>
     <string name="world_rank">رتبه بندی جهانی</string>
-    <string name="yan">验</string>
-    <string name="yanji">鉴别真伪</string>
     <string name="yes">بله</string>
 </resources>

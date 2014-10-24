@@ -26,6 +26,7 @@
     <string name="full_test">Full Test</string>
     <string name="show_scores">Show</string>
     <string name="btn_detail">Details</string>
+    <string name="continue_test">Continue</string>
     <string name="stop_str">STOP</string>
     <string name="Phone">Phone model:</string>
     <string name="System">Android version:</string>
@@ -56,7 +57,8 @@
     <string name="testing_description"></string>
     <string name="stability_test_description">Antutu Stability Test, shows performance benchmarking scores to CPU component and changes in temperature of battery with direct and easy-to-know graph. 
 Users can easily know the stability to CPU of devices through the varying trend of temperature and scores during testing period.</string>
-    
+    <string name="warning_temperature_high">The device temperature is too high, it is recommended to stop the test, cooling after the test. Continue testing may cause the system to restart or shut down.</string>
+
     <string name="testing_runtime_item">UX (Multitask、Runtime)</string>
     <string name="testing_cpu_item">CPU (CPU integer、float-point)</string>
     <string name="testing_ram_item">RAM (RAM Operation、RAM Speed)</string>
@@ -133,8 +135,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="login_and_share">login and share</string>
     <string name="no_wechat">Wechat not found</string>
     <string name="get_info_failed">Get home page information failed</string>
-    <string name="yan">验</string>
-    <string name="yanji">鉴别真伪</string>
+    <string name="yanji">AnTuTu Officer</string>
     <string name="slidemenu_more_tools">More Tools</string>
     <string name="start_verify">Start</string>
     <string name="verify_over">Check Completed</string>
@@ -307,7 +308,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="logout_dialog_message">"Are you sure to log out?"</string>
     <string name="text_mem">RAM</string>
     <string name="text_cpu">CPU</string>
-    <string name="text_cpu_multithread">CPU (multi-thread)</string>>
+    <string name="text_cpu_multithread">CPU (multi-thread)</string>
     <string name="text_gpu">GPU</string>
     <string name="text_io">IO</string>
     <string name="text_ue">UX</string>
@@ -541,6 +542,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="download_stop_info">You will lose all the downloaded data. Are you sure you want to do this?</string>
     <string name="stop">Stop</string>
 	<string name="continue2">Continue</string>
+    <string name="continue_mobile_info">Starting Downloads %1$s \nCurrently using a mobile network, may cause traffic costs.</string>
 	
     <string name="need_update_3drating">A new version of 3DRating is available!</string>
 	
@@ -714,12 +716,13 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="Kernel">Kernel</string>
 
     <string name="Battery_Level">Battery Level</string>
-    <string name="TemperatureC">Temperature(℃)</string>
+    <string name="TemperatureC">Temperature</string>
 
     <string name="CPU_Model">CPU Model</string>
     <string name="Cores">Cores</string>
     <string name="frequency">Frequency</string>
     <string name="More">More</string>
+    <string name="core_detail">Core Information</string>
 
     <string name="Renderer">Renderer</string>
     <string name="Vender">Vender</string>
@@ -730,12 +733,14 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="Material">Material</string>
     <string name="Density">Density</string>
     <string name="Multi_touch">Multi-touch</string>
+    <string name="multi_touch_test">Test</string>
 
     <string name="Weight">Weight</string>
     <string name="Specifications">Specifications</string>
     <string name="Color">Color</string>
 
     <string name="GPS">GPS</string>
+    <string name="Loc">Location</string>
     <string name="WIFI">WIFI</string>
     <string name="Bluetooth">Bluetooth</string>
     <string name="NFC">NFC</string>
@@ -792,8 +797,9 @@ Users can easily know the stability to CPU of devices through the varying trend 
 
     <string name="video_test">Video Test</string>
     <string name="video_test_name">AnTuTu Video Tester</string>
-    <string name="battery_test">Battery Test</string>
+    <string name="battery_test">Antutu Tester</string>
     <string name="power_test_title">Battery Test</string>
+    <string name="yanji_test_title">AnTuTu Device Validator</string>
     <string name="title_64bit_test">AnTuTu 32/64bit CPU Test</string>
     <string name="test_64bit_name">32/64bit CPU Test</string>
     <string name="test_64bit">64bit CPU Test</string>
@@ -816,12 +822,25 @@ Users can easily know the stability to CPU of devices through the varying trend 
 
     <string name="text_cpu_single">CPU (single thread)</string>
     <string name="CPU_Type">Type</string>
-    <string name="verify_info">The score not verify by AnTuTu! Please check your network connection!</string>
-    
+    <string name="verify_info">The score not verified by AnTuTu! Please check your network connection!</string>
+    <string name="verify_not">Non-verified</string>
+    <string name="policy_verify_title">Stop Cheating</string>
+    <string name="policy_verify_title3">Please do not overclock</string>
+    <string name="policy_verify_title4">REJECTED</string>
+    <string name="policy_verify_tip">Stop Cheating</string>
+    <string name="policy_verify_tip3">Note: Don\'t for AnTuTu overclocking, because it doesn\'t represent the performance of the common application.</string>
+    <string name="policy_verify_tip4">Warning: why your device time isn\'t consistent with the server</string>
+    <string name="officer_invalid_signature">Warning: The system has an illegal AnTuTu Officer, please download again.</string>
+    <string name="download_officer_warning">Now will help you to download the new version AnTuTu Officer, if you found that it is not installed, installation failure, or no reaction, you should doubt the reliability of the device.</string>
+
+    <string name="benchmark_clause">The AnTuTu Benchmark Clause</string>
             <!-- 屏幕检测部分 -->
     <string name="screen_test">Screen Test</string>
     <string name="screen_broken">LCD Test</string>
     <string name="screen_finish">LCD testing is completed, exiting...</string>
     <string name="multi_touch_page">Multi-Touch Test</string>
     <string name="touch_me">Touch Me</string>
+    
+    <!-- Cpu详情 -->
+    <string name="bit_style" formatted="false">%1$dbit (cur %2$dbit)</string>
 </resources>
