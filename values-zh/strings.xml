@@ -253,6 +253,7 @@
     <string name="detail_title">詳細資訊 - 安兔兔評測</string>
     <string name="searching">正在搜索&#8230;</string>
     <string name="search_average_score">平均分</string>
+    <string name="search_low_price">￥ %1$s起</string>
     <string name="pk">對 比</string>
     <string name="comment_user">用戶評論</string>
     <string name="comment_no">無評論</string>
@@ -426,6 +427,8 @@
     <string name="stop">停止</string>
     <string name="continue2">繼續</string>
     <string name="continue_mobile_info">即將開始下載 %1$s \n當前使用的是移動網絡，可能會產生流量費用。</string>
+    <string name="open">打開</string>
+    <string name="download">下載</string>
 
     <string name="need_update_3drating">發現新版本 3DRating！</string>
     <string name="not_enough_space">至少需要 %1$sM 空間來進行存儲性能測試!</string>

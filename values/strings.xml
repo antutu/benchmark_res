@@ -165,7 +165,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="c_info_DB">Database I/O</string>
     <string name="c_info_ST">Storage I/O</string>
     
-    <string name="basic_info">Basic Information</string>
+    <string name="basic_info">Basic Info</string>
     <string name="storage">Storage</string>
     <string name="display">Display</string>
     <string name="battery">Battery</string>
@@ -537,7 +537,9 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="gles2_test">OpenGL ES 2.0 Test</string>
     <string name="gles2_test_description">Know keeper to smart phones/tablets in real gaming performance</string>
     <string name="gles3_test">OpenGL ES 3.0 Test</string>
-    
+
+    <string name="open">Open</string>
+    <string name="download">Download</string>
     <string name="download_stop">Stop download now?</string>
     <string name="download_stop_info">You will lose all the downloaded data. Are you sure you want to do this?</string>
     <string name="stop">Stop</string>
@@ -611,7 +613,10 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="cpu_detail_info">CPU Information</string>
     <string name="cpu_detail_load">CPU Load</string>
     <string name="super_user_quality">Have root access</string>
-		
+
+    <string name="app_tester_name">AnTuTu Tester</string>
+    <string name="power_test_title">Battery Test</string>
+    <string name="tester_download_desp"></string>
 	<string name="battery_level_pre">%d%%</string>
 	<string name="battery_temprature_pre">%d°C</string>
 	<string name="mem_usage_pre">%d%%</string>
@@ -638,6 +643,13 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="exist_title">Notice</string>
     <string name="logout_description">Sure to exit the program?</string>
     <string name="html5_test">HTML5 Test</string>
+    <string name="rating_title">Love Antutu Benchmark</string>
+    <string name="bit32_64_test">32/64bit Test</string>
+    <string name="battery_test">Battery Test</string>
+    <string name="video_test">Video Test</string>
+    <string name="validator_test">Validator</string>
+    <string name="video_test_name">AnTuTu Video Tester</string>
+    <string name="download_video_test">下载视频测试安装包即可开始视频测试.</string>
     <string name="rating_content">You’re successfully run a benchmark and got %1$s scores. Is this worth 5-stars?</string>
     <string name="rating_cancel">NOT NOW</string>
     <string name="rating_confirm">RATE 5 STARS</string>
@@ -795,10 +807,6 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="not_art">The 3D test not support ART runtime now, Please use Dalvik or wait for new version</string>
     <string name="not_checkjni">Please set CheckJNI OFF to run 3D test!</string>
 
-    <string name="video_test">Video Test</string>
-    <string name="video_test_name">AnTuTu Video Tester</string>
-    <string name="battery_test">Antutu Tester</string>
-    <string name="power_test_title">Battery Test</string>
     <string name="yanji_test_title">AnTuTu Device Validator</string>
     <string name="title_64bit_test">AnTuTu 32/64bit CPU Test</string>
     <string name="test_64bit_name">32/64bit CPU Test</string>
@@ -840,7 +848,10 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="screen_finish">LCD testing is completed, exiting...</string>
     <string name="multi_touch_page">Multi-Touch Test</string>
     <string name="touch_me">Touch Me</string>
-    
+
+    <string name="not_certification_title">What is not certification</string>
+    <string name="not_certification_content">There are three possible not pass certification:\n1.No internet \n2.Cheat system time \n3.System block AnTuTu connected</string>
+
     <!-- Cpu详情 -->
     <string name="bit_style" formatted="false">%1$dbit (cur %2$dbit)</string>
 </resources>

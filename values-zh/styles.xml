@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <style name="start_test_text">
-        <item name="android:textColor">@color/white</item>
+        <item name="android:textColor">@color/fragment_text</item>
         <item name="android:textSize">29sp</item>
         <item name="android:textStyle">bold</item>
     </style>

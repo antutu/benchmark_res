@@ -3,6 +3,18 @@
 
 <string name="changelog">
 \n
+v5.3\n
+ &#8211; Search optimization.\n
+ &#8211; Increased ranking list content.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v5.2\n
+ &#8211; Improve CPU architecture identification\n
+ &#8211; Optimized for 64 bit CPU info\n
+ &#8211; Add Fahrenheit for battery temperature\n
+ &#8211; Optimized downloading\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v5.1.5\n
  &#8211; Add a warning for over hot.\n
  &#8211; Add GPS location information (Need Coarse location permission)\n

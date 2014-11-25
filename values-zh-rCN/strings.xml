@@ -74,7 +74,6 @@
     <string name="unknow_mobile_note">未识别</string>
     <string name="verify_feedback">索取验机报告，举报奸商，请联系安兔兔</string>
     <string name="feedback_us">联系安兔兔</string>
-    
     <string name="testing_runtime_item">用户体验（运行环境、多任务处理）</string>
     <string name="testing_cpu_item">CPU（CPU整数运算、浮点运算）</string>
     <string name="testing_ram_item">RAM（RAM运算、RAM速度）</string>
@@ -281,6 +280,7 @@
     <string name="detail_title">详细信息 - 安兔兔评测</string>
     <string name="searching">正在搜索&#8230;</string>
     <string name="search_average_score">平均分</string>
+    <string name="search_low_price">￥ %1$s起</string>
     <string name="pk">对 比</string>
     <string name="comment_user">用户评论</string>
     <string name="comment_no">无评论</string>
@@ -452,6 +452,8 @@
     <string name="errcode_unknown">未知的分享</string>
     <string name="download_stop">立即停止下载？</string>
     <string name="download_stop_info">您可能会丢失已经下载的数据，确定要停止下载？</string>
+    <string name="open">打开</string>
+    <string name="download">下载</string>
     <string name="stop">停止</string>
     <string name="continue2">继续</string>
     <string name="continue_mobile_info">即将开始下载 %1$s \n当前使用的是移动网络，可能会产生流量费用。</string>
@@ -488,6 +490,8 @@
     <string name="sleep">休眠</string>
     <string name="no_use">未使用</string>
     
+    <string name="app_tester_name">安兔兔硬件检测</string>
+    <string name="tester_download_desp"></string>
     <string name="bat_leve">电量</string>
 	<string name="temp_leve">温度</string>
 	<string name="widget_battery">电池电量</string>
@@ -510,6 +514,7 @@
     <string name="data_send_failed">请求失败！</string>
     <string name="menu">菜单</string>
     <string name="net_work_error_try">网络连接不可用，请稍候重试</string>
+    <string name="download_video_test">下载视频测试安装包即可开始视频测试.</string>
 
     <string name="rating_title">喜欢安兔兔评测？</string>
     <string name="rating_content">您本次评测得分为%1$s.\n如果觉得还不错，就给个5分吧</string>
@@ -607,7 +612,6 @@
     <string name="Testing_int_single">正在测试单线程 CPU 整数运算&#8230;</string>
     <string name="Testing_float_single">正在测试单线程 CPU 浮点运算&#8230;</string>
 
-    <string name="html5_test">HTML5测试</string>
     <string name="video_test">视频测试</string>
     <string name="video_test_name">安兔兔视频测试</string>
     <string name="battery_test">硬件检测</string>
@@ -653,7 +657,10 @@
     <string name="screen_finish">屏幕检测完毕,正在退出...</string>
     <string name="multi_touch_page">多点触控测试</string>
    	<string name="back">返回</string>
-   	
-   	    <!-- Cpu详情 -->
+
+    <string name="not_certification_title">什么是未认证</string>
+    <string name="not_certification_content">未认证是在使用安兔兔测评App跑分时,未通过网络时间校验才出现的提示,未通过网络时间校验有三种可能：\n1、跑分时没有联网\n2、设备本身的系统时间在刻意作弊\n3、系统屏蔽了安兔兔软件的联网</string>
+
+    <!-- Cpu详情 -->
     <string name="bit_style" formatted="false">%1$dbit (当前 %2$dbit)</string>
 </resources>
