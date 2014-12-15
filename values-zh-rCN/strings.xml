@@ -126,7 +126,7 @@
     <string name="info_os">OS</string>
     <string name="info_trans">传输</string>
     <string name="info_camera">相机</string>
-    <string name="info_others">其他</string>
+    <string name="info_others">传感器</string>
     <string name="info_appearance">外观</string>
     <string name="info_cpu">CPU</string>
     <string name="dvm">设备型号</string>
@@ -276,11 +276,13 @@
     <string name="network_error">请检查你的网络连接</string>
     <string name="search_again">重新搜索</string>
     <string name="search_desc">安兔兔评测排行榜</string>
-    <string name="search_hint">请输入名称或机型</string>
+    <string name="search_hint">请输入品牌或型号</string>
     <string name="detail_title">详细信息 - 安兔兔评测</string>
     <string name="searching">正在搜索&#8230;</string>
     <string name="search_average_score">平均分</string>
     <string name="search_low_price">￥ %1$s起</string>
+    <string name="search_no_result">没有找到匹配结果</string>
+    <string name="search_hot_phone">热门手机</string>
     <string name="pk">对 比</string>
     <string name="comment_user">用户评论</string>
     <string name="comment_no">无评论</string>
@@ -361,12 +363,11 @@
     <string name="no_history">没有发现历史记录</string>
     <string name="max_score">历史记录数量</string>
     <string name="chart_all">热门机型</string>
-    <string name="tab_device">设备信息</string>
+    <string name="tab_device">信息</string>
     <string name="tab_bbs">评论</string>
     <string name="appearance">外观:</string>
     <string name="submit">提交</string>
     <string name="ratings">User ratings</string>
-    <string name="logo_text"></string>
     <string name="certification">认证</string>
     <string name="authenticated">安兔兔认证</string>
     <string name="contact_certification">support@antutu.com</string>
@@ -539,7 +540,7 @@
     <string name="Device_Model">型号</string>
     <string name="IMEI">设备串号</string>
 
-    <string name="Android_Version">Android版本</string>
+    <string name="Android_Version">Android</string>
     <string name="Android_SDK_Version">Android SDK版本</string>
     <string name="Kernel">内核</string>
 
@@ -617,6 +618,7 @@
     <string name="battery_test">硬件检测</string>
     <string name="power_test_title">电池测试</string>
     <string name="yanji_test_title">安兔兔验机</string>
+    <string name="html5_test">HTML5测试</string>
     <string name="title_64bit_test">安兔兔32/64位CPU测试</string>
     <string name="test_64bit_name">32/64位CPU测试</string>
     <string name="test_64bit">64位CPU测试</string>
@@ -654,13 +656,22 @@
                 <!-- 屏幕检测部分  -->
     <string name = "screen_test">屏幕检测</string>
     <string name ="screen_broken">屏幕坏点测试</string>
-    <string name="screen_finish">屏幕检测完毕,正在退出...</string>
+    <string name="screen_finish">屏幕检测完毕,正在退出&#8230;</string>
     <string name="multi_touch_page">多点触控测试</string>
    	<string name="back">返回</string>
 
     <string name="not_certification_title">什么是未认证</string>
-    <string name="not_certification_content">未认证是在使用安兔兔测评App跑分时,未通过网络时间校验才出现的提示,未通过网络时间校验有三种可能：\n1、跑分时没有联网\n2、设备本身的系统时间在刻意作弊\n3、系统屏蔽了安兔兔软件的联网</string>
+    <string name="not_certification_content">未认证是指：在测试时未通过网络进行时间校验，出现未认证提示有三种可能：\n1、测试时设备没有联网\n2、设备修改了系统时间来刻意作弊\n3、安兔兔被系统或软件屏蔽了网络连接</string>
 
-    <!-- Cpu详情 -->
-    <string name="bit_style" formatted="false">%1$dbit (当前 %2$dbit)</string>
+    <!-- benchamark description -->
+    <string name="runtime_desp">安卓运行环境能够将系统的优化程度反应出来，即使采用同样的处理器，得分也会因为厂家ROM的优化不同而有所差异。</string>
+    <string name="cpu_single_thread_int_desp">测试CPU一个核心整数运算的最高性能，在加密、解密、压缩、解压等工作中大量使用了整数运算。</string>
+    <string name="cpu_single_thread_float_desp">测试CPU一个核心浮点运算的最高性能，在视频、游戏、音乐等工作中大量使用了浮点运算。</string>
+    <string name="cpu_int_desp">测试CPU所有核心全速运行时整数运算的最高性能，在加密、解密、压缩、解压等工作中大量使用了整数运算。</string>
+    <string name="cpu_float_desp">测试CPU所有核心全速运行时浮点运算的最高性能，在视频、游戏、音乐等工作中大量使用了浮点运算。</string>
+    <string name="ram_performance_desp">测试应用在访问内存时可以达到的最快速度，体现在应用的启动、切换等工作中。</string>
+    <string name="ram_speed_desp">测试应用使用内存进行运算时可以达到的最高性能，该性能对应用的运行速度有影响。</string>
+    <string name="multi_task_desp">模拟多个后台应用同时运行及切换的性能表现，该性能对系统流畅度影响较大。</string>
+    <string name="db_desp">测试应用对数据库读取、写入的性能，该性能受其它硬件性能和系统优化决定。</string>
+    <string name="storage_desp">测试应用对设备内部存储读取、写入操作的性能，该性能影响照片、视频及大型游戏资源加载速度。</string>
 </resources>

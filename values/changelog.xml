@@ -3,6 +3,12 @@
 
 <string name="changelog">
 \n
+v5.5\n
+ &#8211; Completely redesigned User Interface.\n
+ &#8211; Detection 64 bit CPU and 64 bit Android system.\n
+ &#8211; Fixed 3D test can not be completed on some device.\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v5.3\n
  &#8211; Search optimization.\n
  &#8211; Increased ranking list content.\n

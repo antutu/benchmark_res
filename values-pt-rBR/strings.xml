@@ -360,7 +360,6 @@ Os usuários podem facilmente saber a estabilidade do CPU de dispositivos com a 
 	<string name="service">Pós-venda:</string>
     <string name="submit">Enviar</string>
     <string name="ratings">Avaliações de usuários</string>
-    <string name="logo_text"></string>
     <string name="certification">Autenticado</string>
     <string name="authenticated">Autenticado por AnTuTu</string>
     <string name="contact_certification">support@antutu.com</string>

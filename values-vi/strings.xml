@@ -5,7 +5,7 @@
     <string name="Ad_Banners">Banner quảng cáo</string>
     <string name="Ambient_Temperature_Sensor">Cảm biến nhiệt m.trường x.quanh</string>
     <string name="Android_SDK_Version">Phiên bản SDK Android</string>
-    <string name="Android_Version">Phiên bản Android</string>
+    <string name="Android_Version">Android</string>
     <string name="Australia_AU">Úc (AU)</string>
     <string name="Austria_AT">Austria (AT)</string>
     <string name="Battery_Level">Mức Pin</string>
@@ -459,7 +459,6 @@
     <string name="login_and_share">đăng nhập và chia sẻ</string>
     <string name="login_failed_dialog_title">Thông tin đăng nhập</string>
     <string name="login_suc">Đăng nhập thành công</string>
-    <string name="logo_text" />
     <string name="logout">Đăng xuất</string>
     <string name="logout_description">Bạn chắc muốn thoát chương trình?</string>
     <string name="logout_dialog_message">Bạn chắc muốn đăng xuất?</string>

@@ -358,7 +358,6 @@ A felhasználó valós képet kaphat a CPU stabilitásáról a hőmérséklet é
     <string name="service">After service:</string>
     <string name="submit">Közzététel</string>
     <string name="ratings">felhasználói értékelések</string>
-    <string name="logo_text"></string>
     <string name="certification">Ellenőrizve</string>
     <string name="authenticated">AnTuTu által ellenőrizve</string>
     <string name="contact_certification">support@antutu.com</string>

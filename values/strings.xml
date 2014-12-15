@@ -170,10 +170,10 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="display">Display</string>
     <string name="battery">Battery</string>
     <string name="info_os">OS</string>
-    <string name="info_trans">Transmission</string>
+    <string name="info_trans">Feature</string>
     <string name="info_camera">Camera</string>
-    <string name="info_others">Others</string>
-    <string name="info_appearance">Appearance</string>
+    <string name="info_others">Sensor</string>
+    <string name="info_appearance">Design</string>
     <string name="info_cpu">CPU</string>
     <string name="dvm">Device Model</string>
     <string name="info_net">Network</string>
@@ -256,6 +256,8 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="detail_title">Details - AnTuTu Benchmark</string>
     <string name="search_title">Search Results</string>
     <string name="search_average_score">Average</string>
+    <string name="search_no_result">No results found</string>
+    <string name="search_hot_phone">HOT PHONE</string>
     <string name="pk">PK</string>
     <string name="searching">Searching&#8230;</string>
     <string name="comment_user">User comment</string>
@@ -353,7 +355,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="chart_phone">Phone</string>
     <string name="chart_pad">Pad</string>
     <string name="reload">Reload</string>
-    <string name="tab_device">Device Info</string>
+    <string name="tab_device">Info</string>
     <string name="tab_bbs">Comments</string>
     <string name="mobile_info">Mobile Info</string>
     <string name="mobile_pk">Mobile Comparison</string>
@@ -364,7 +366,6 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="service">After service:</string>
     <string name="submit">Submit</string>
     <string name="ratings">User ratings</string>
-    <string name="logo_text"></string>
     <string name="certification">Authenticated</string>
     <string name="authenticated">Authenticated by AnTuTu</string>
     <string name="contact_certification">support@antutu.com</string>
@@ -723,7 +724,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="Device_Model">Device Model</string>
     <string name="IMEI">IMEI</string>
 
-    <string name="Android_Version">Android Version</string>
+    <string name="Android_Version">Android</string>
     <string name="Android_SDK_Version">Android SDK Version</string>
     <string name="Kernel">Kernel</string>
 
@@ -828,6 +829,9 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="c_info_total_mt">Multi-thread Test</string>
     <string name="need_v41">Only support Android 4.1 and above</string>
 
+    <string name="bit32">32-bit</string>
+    <string name="bit64">64-bit</string>
+
     <string name="text_cpu_single">CPU (single thread)</string>
     <string name="CPU_Type">Type</string>
     <string name="verify_info">The score not verified by AnTuTu! Please check your network connection!</string>
@@ -845,13 +849,22 @@ Users can easily know the stability to CPU of devices through the varying trend 
             <!-- 屏幕检测部分 -->
     <string name="screen_test">Screen Test</string>
     <string name="screen_broken">LCD Test</string>
-    <string name="screen_finish">LCD testing is completed, exiting...</string>
+    <string name="screen_finish">LCD testing is completed, exiting&#8230;</string>
     <string name="multi_touch_page">Multi-Touch Test</string>
     <string name="touch_me">Touch Me</string>
 
-    <string name="not_certification_title">What is not certification</string>
-    <string name="not_certification_content">There are three possible not pass certification:\n1.No internet \n2.Cheat system time \n3.System block AnTuTu connected</string>
+    <string name="not_certification_title">What is not verify</string>
+    <string name="not_certification_content">There are three possible reason:\n1.No network connection during testing.\n2.Manufacturer changed system timer to cheat!\n3.AnTuTu\'s network connection has been blocked by system or software.</string>
 
-    <!-- Cpu详情 -->
-    <string name="bit_style" formatted="false">%1$dbit (cur %2$dbit)</string>
+    <!-- benchamark description -->
+    <string name="runtime_desp">Android virtual machine is the majority of application  run mode, represent the overall performance.</string>
+    <string name="cpu_single_thread_int_desp">The highest integer performance of the single core of CPU, a lot of apps only can use one CPU core.</string>
+    <string name="cpu_single_thread_float_desp">The highest float performance of the single core of CPU, a lot of apps only can use one CPU core.</string>
+    <string name="cpu_int_desp">The highest integer performance of the entire CPU, integer arithmetic are used in the encrypting, compression/decompression etc.</string>
+    <string name="cpu_float_desp">The highest float performance of the entire CPU, float  arithmetic are used in the image-processing, audio decoding etc.</string>
+    <string name="ram_performance_desp">RAM speed performance, test the highest speed that apps read and write in RAM.</string>
+    <string name="ram_speed_desp">RAM operation performance, test the highest performance that apps do operations in RAM.</string>
+    <string name="multi_task_desp">Multi task performance, simulation multiple background apps running and switch etc.</string>
+    <string name="db_desp">Database I/O performance, test the database query, add, delete operational performance.</string>
+    <string name="storage_desp">Storage I/O performance, test the performance of read and write in internal storage.</string>
 </resources>

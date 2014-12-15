@@ -344,7 +344,6 @@
     <string name="service">Εξυπηρέτηση μετά την αγορά:</string>
     <string name="submit">Αποστολή</string>
     <string name="ratings">Αξιολογήσεις χρηστών</string>
-    <string name="logo_text"></string>
     <string name="certification">Πιστοποιήθηκε</string>
     <string name="authenticated">Πιστοποιήθηκε από το AnTuTu</string>
     <string name="contact_certification">support@antutu.com</string>
@@ -593,7 +592,7 @@
     <string name="net_work_error_try">Σφάλμα δικτύου, δοκιμάστε αργότερα</string>
     <string name="exist_title">Προσοχή</string>
     <string name="logout_description">Είστε σίγουροι οτι θέλετε να κλείσετε το πρόγραμμα?</string>
-    <string name="Android_Version">Λειτουργικό Σύστημα</string>
+    <string name="Android_Version">Λειτουργικό</string>
     <string name="Device_Model">Μοντέλο</string>
     <string name="IMEI">IMEI</string>
     <string name="dev_os">Έκδοση Android</string>

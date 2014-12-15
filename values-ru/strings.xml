@@ -369,7 +369,6 @@
     <string name="service">После работы:</string>
     <string name="submit">Отправить</string>
     <string name="ratings">Рейтинг пользователя</string>
-    <string name="logo_text"></string>
     <string name="certification">Удостоверен</string>
     <string name="authenticated">Удостоверен в AnTuTu</string>
     <string name="contact_certification">support@antutu.com</string>
@@ -721,7 +720,7 @@
     <string name="Device_Model">Модель стройствa</string>
     <string name="IMEI">IMEI</string>
 
-    <string name="Android_Version">Версия Android</string>
+    <string name="Android_Version">Android</string>
     <string name="Android_SDK_Version">Версия SDK</string>
     <string name="Kernel">Версия ядра</string>
 
@@ -850,7 +849,4 @@
     <string name="screen_finish">LCD тест завершён, выход...</string>
     <string name="multi_touch_page">Мультитач тест</string>
     <string name="touch_me">Коснись</string>
-    
-    <!-- Cpu详情 -->
-    <string name="bit_style" formatted="false">%1$dbit (cur %2$dbit)</string>
 </resources>

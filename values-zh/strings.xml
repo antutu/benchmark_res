@@ -55,7 +55,7 @@
     <string name="yanji">辨別真偽</string>
     <string name="antutu_verify">驗機報告</string>
     <string name="cpu_detail_load">CPU負載</string>
-    <string name="testing_runtime_item">用戶體驗（運行環境、多任務處理）</string>
+    <string name="testing_runtime_item">用戶體驗（執行階段、多任務處理）</string>
     <string name="testing_cpu_item">CPU（CPU整數運算、浮點運算）</string>
     <string name="testing_ram_item">RAM（RAM運算、RAM速度）</string>
     <string name="testing_gpu_item">GPU（2D圖形、3D圖形）</string>
@@ -151,7 +151,7 @@
     <string name="Testing_info">測試可能需要幾分鐘</string>
     <string name="Testing_multitask">正在測試多工處理性能&#8230;</string>
     <string name="Testing_renderscript">正在測試Renderscript性能&#8230;</string>
-    <string name="Testing_dalvik">正在測試安卓執行階段性能&#8230;</string>
+    <string name="Testing_dalvik">正在測試Android執行階段性能&#8230;</string>
     <string name="Testing_ram">正在測試 RAM 速度&#8230;</string>
     <string name="Testing_mem">正在測試 RAM 性能&#8230;</string>
     <string name="Testing_int">正在測試 CPU 整數運算&#8230;</string>
@@ -166,7 +166,7 @@
     <string name="Testing_optimize_mem">評測前先優化記憶體</string>
     <string name="optimize_mem_complete">已優化%1$dM記憶體空間，當前可用記憶體%2$dM</string>
     <string name="optimize_mem_in_progress">正在為您優化記憶體…</string>
-    <string name="testing_description">安兔兔即將通過測試您的虛擬機（多任務處理能力、android運行環境）、CPU（CPU整形、CPU浮點）、RAM(RAM運算、RAM速度)、GPU（2D繪圖、3D繪圖）、存儲（存儲I/O、資料庫I/O）等多項性能，大約需要2分鐘。</string>
+    <string name="testing_description">安兔兔即將通過測試您的虛擬機（多任務處理能力、Android執行階段）、CPU（CPU整形、CPU浮點）、RAM(RAM運算、RAM速度)、GPU（2D繪圖、3D繪圖）、存儲（存儲I/O、資料庫I/O）等多項性能，大約需要2分鐘。</string>
     <string name="stability_test_description">Antutu穩定性測試，通過加長CPU的測試時間來增加負載，以曲線圖形式給出評測時間段內CPU性能得分及電池的溫度變化。通過測試過程中設備的溫度和分數變化趨勢可以瞭解設備的CPU穩定性和散熱能力。</string>
     <string name="warning_temperature_high">當前設備溫度過高，建議停止測試，降溫後再進行測試。繼續測試可能會導致系統重啟或關機。</string>
 
@@ -249,11 +249,13 @@
     <string name="network_error">請檢查你的網路連接</string>
     <string name="search_again">重新搜索</string>
     <string name="search_desc">安兔兔評測排行榜</string>
-    <string name="search_hint">請輸入名稱或機型</string>
+    <string name="search_hint">請輸入品牌或型號</string>
     <string name="detail_title">詳細資訊 - 安兔兔評測</string>
     <string name="searching">正在搜索&#8230;</string>
     <string name="search_average_score">平均分</string>
     <string name="search_low_price">￥ %1$s起</string>
+    <string name="search_no_result">没有找到匹配结果</string>
+    <string name="search_hot_phone">熱門手機</string>
     <string name="pk">對 比</string>
     <string name="comment_user">用戶評論</string>
     <string name="comment_no">無評論</string>
@@ -338,7 +340,6 @@
     <string name="appearance">外觀:</string>
     <string name="submit">提交</string>
     <string name="ratings">User ratings</string>
-    <string name="logo_text"></string>
     <string name="certification">認證</string>
     <string name="authenticated">安兔兔認證</string>
     <string name="contact_certification">support@antutu.com</string>
@@ -482,7 +483,7 @@
     <string name="Device_Model">型號</string>
     <string name="IMEI">设备串号</string>
 
-    <string name="Android_Version">Android版本</string>
+    <string name="Android_Version">Android</string>
     <string name="Android_SDK_Version">Android SDK版本</string>
     <string name="Kernel">内核</string>
 
@@ -597,13 +598,24 @@
 
     <string name="benchmark_clause">安兔兔評測測試條款</string>
     
-    <string name="screen_finish">屏幕檢測完畢,正在退出...</string>
+    <string name="screen_finish">屏幕檢測完畢,正在退出&#8230;</string>
     <string name="multi_touch_page">多點觸控測試</string>
     <string name = "screen_test">屏幕檢測</string>
     <string name ="screen_broken">屏幕壞點檢測</string>
    	<string name="back">返回</string>
-   	
-   	   	    <!-- Cpu详情 -->
-    <string name="bit_style" formatted="false">%1$dbit (當前 %2$dbit)</string>
     
+    <string name="not_certification_title">什麼是未認證</string>
+    <string name="not_certification_content">未認證是指：在測試時未通過網路進行時間校驗，出現未認證提示有三種可能：\n1、測試時設備沒有聯網\n2、設備修改了系統時間來刻意作弊\n3、安兔兔被系統或軟體遮罩了網路連接</string>
+
+    <!-- benchamark description -->
+    <string name="runtime_desp">Android執行階段能夠將系統的優化程度反應出來，即使采用同樣的處理器，得分也會因為廠家ROM的優化不同而有所差異。</string>
+    <string name="cpu_single_thread_int_desp">測試CPU壹個核心整數運算的最高性能，在加密、解密、壓縮、解壓等工作中大量使用了整數運算。</string>
+    <string name="cpu_single_thread_float_desp">測試CPU壹個核心浮點運算的最高性能，在視頻、遊戲、音樂等工作中大量使用了浮點運算。</string>
+    <string name="cpu_int_desp">測試CPU所有核心全速運行時整數運算的最高性能，在加密、解密、壓縮、解壓等工作中大量使用了整數運算。</string>
+    <string name="cpu_float_desp">測試CPU所有核心全速運行時浮點運算的最高性能，在視頻、遊戲、音樂等工作中大量使用了浮點運算。</string>
+    <string name="ram_performance_desp">測試應用在訪問內存時可以達到的最快速度，體現在應用的啟動、切換等工作中。</string>
+    <string name="ram_speed_desp">測試應用使用內存進行運算時可以達到的最高性能，該性能對應用的運行速度有影響。</string>
+    <string name="multi_task_desp">模擬多個後臺應用同時運行及切換的性能表現，該性能對系統流暢度影響較大。</string>
+    <string name="db_desp">測試應用對數據庫讀取、寫入的性能，該性能受其它硬件性能和系統優化決定。</string>
+    <string name="storage_desp">測試應用對內置存儲讀取、寫入操作的性能，該性能影響照片、視頻及大型遊戲資源加載速度。</string>
 </resources>

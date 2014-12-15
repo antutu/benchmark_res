@@ -5,7 +5,7 @@
     <string name="Ad_Banners">Reklamné bannery</string>
     <string name="Ambient_Temperature_Sensor">Snímač okolitej teploty</string>
     <string name="Android_SDK_Version">Verzia Android SDK</string>
-    <string name="Android_Version">Verzia systému Android</string>
+    <string name="Android_Version">Android</string>
     <string name="Australia_AU">Austrália (AU)</string>
     <string name="Austria_AT">Rakúsko (AT)</string>
     <string name="Battery_Level">Úroveň batérie</string>
@@ -463,7 +463,6 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="login_and_share">Prihlásiť a zdieľať</string>
     <string name="login_failed_dialog_title">Prihlasovacie údaje</string>
     <string name="login_suc">Úspešne prihlásené</string>
-    <string name="logo_text" />
     <string name="logout">Odhlásiť</string>
     <string name="logout_description">Ukončiť aplikáciu?</string>
     <string name="logout_dialog_message">Odhlásiť?</string>

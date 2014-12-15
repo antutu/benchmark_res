@@ -5,7 +5,7 @@
     <string name="Ad_Banners">Bannières publicitaires</string>
     <string name="Ambient_Temperature_Sensor">Capteur de température amb</string>
     <string name="Android_SDK_Version">Version du SDK Android</string>
-    <string name="Android_Version">Version Android</string>
+    <string name="Android_Version">Android</string>
     <string name="Australia_AU">Australie (AU)</string>
     <string name="Austria_AT">Autriche (AT)</string>
     <string name="Battery_Level">Niveau de batterie</string>
@@ -901,7 +901,6 @@ Veuillez vérifiez votre connexion internet."</string>
     <string name="login_and_share">Connectez vous et partagez</string>
     <string name="login_failed_dialog_title">Informations de connexion</string>
     <string name="login_suc">Connexion réussie</string>
-    <string name="logo_text" />
     <string name="logout">Se déconnecter</string>
     <string name="logout_description">Êtes vous sûr de vouloir fermer le programme?</string>
     <string name="logout_dialog_message">Êtes vous sur de vouloir vous déconnectez?</string>
