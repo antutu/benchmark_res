@@ -77,8 +77,8 @@
     <string name="info_no_medal">您還沒有獲得任何徽章噢~</string>
     <string name="info_get_medals_tip">如何獲取徽章？快查看</string>
     <string name="info_get_more_medals_tip">如何獲得更多獎章？請點擊</string>
-    <string name="new_single_medal_title">恭喜您獲得了新的徽章!</string>
-    <string name="new_medals_title">恭喜您獲得了新的徽章! (%1$d/%2$d)</string>
+    <string name="new_single_medal_title">恭喜您獲得了新的徽章！</string>
+    <string name="new_medals_title">恭喜您獲得了新的徽章！ (%1$d/%2$d)</string>
     <string name="error_old_pwd_empty">請輸入當前密碼</string>
     <string name="error_new_pwd_empty">請輸入新密碼</string>
     <string name="error_repeat_pwd_empty">請再次輸入新密碼</string>
@@ -113,7 +113,7 @@
     <string name="info_net">網路</string>
     <string name="basic_info">基本資訊</string>
     <string name="contact_info">技術支援:   support@antutu.com</string>
-    <string name="about_info">安兔兔實驗室成立於2010年，由一群熱愛手機並追求技術的資深人員組成，我們的使命是為用戶開發易用、穩定、精准的硬體類應用。安兔兔評測包括英語、俄語、日語、韓語、波蘭語、義大利語和捷克語，它能發揮出最新硬體的性能，現在，在全球有超過100,000,000的用戶使用著安兔兔，我們是一個用戶的標準。 </string>
+    <string name="about_info">安兔兔實驗室成立於2010年，由一群熱愛手機並追求技術的資深人員組成，我們的使命是為用戶開發易用、穩定、精准的硬體類應用。安兔兔評測包括英語、俄語、日語、韓語、波蘭語、義大利語和捷克語，它能發揮出最新硬體的性能，現在，在全球有超過100，000，000的用戶使用著安兔兔，我們是一個用戶的標準。 </string>
     <string name="no_support_cpu">安兔兔評測不再支援您的設備，您的CPU不支援v7a指令集！</string>
     <string name="no_support_gpu">您的設備不支援 OpenGL ES 3.0！</string>
     <string name="no_support_preview_gpu">預覽版不支持下載該外掛程式，請等待正式版</string>
@@ -125,11 +125,11 @@
     <string name="rank_list">Top 20</string>
     <string name="quit_desc">退出安兔兔評測?</string>
     <string name="tap_twice_to_exit">再按一次退出安兔兔程式</string>
-    <string name="prompt_rank_title">分數錯誤!</string>
-    <string name="prompt_rank">請先完成一次完整測試!</string>
+    <string name="prompt_rank_title">分數錯誤！</string>
+    <string name="prompt_rank">請先完成一次完整測試！</string>
     <string name="prompt_net">網路連接不可用！</string>
     <string name="warning">注意</string>
-    <string name="sd_desc">運行SD卡速度測試需要在SD卡上保留500MB空閒空間!</string>
+    <string name="sd_desc">運行SD卡速度測試需要在SD卡上保留500MB空閒空間！</string>
     <string name="cancel">取消</string>
     <string name="confirm">確定</string>
     <string name="skip">跳過</string>
@@ -172,10 +172,10 @@
 
     <string name="tab_scores">分數</string>
     <string name="tab_sysinfo">系統資訊</string>
-    <string name="info_mem">RAM運算：</string>
+    <string name="info_mem">RAM運算:</string>
     <string name="info_ram">RAM速度:</string>
     <string name="info_int">CPU整數:</string>
-    <string name="info_float">CPU浮點：</string>
+    <string name="info_float">CPU浮點:</string>
     <string name="info_DB">資料庫I/O:</string>
     <string name="info_ST">存儲I/O:</string>
     <string name="info_multitask">多工:</string>
@@ -198,11 +198,11 @@
     <string name="total_feature_title">綜合性能</string>
     <string name="power_feature_title">電池性能</string>
     <string name="dev_info_title">我的設備</string>
-    <string name="ranking_info_scores">分數:%d</string>
+    <string name="ranking_info_scores">分數: %d</string>
     <string name="info_complete_test">完成測試來查看你的世界排名</string>
     <string name="info_complete_submit">提交分數來查看你的世界排名</string>
     <string name="create_account">創建新帳號</string>
-    <string name="nodata">網路錯誤,資料未更新</string>
+    <string name="nodata">網路錯誤，資料未更新</string>
     <string name="c_info_total">總分</string>
     <string name="c_info_dalvik">Android執行階段</string>
     <string name="c_info_multitask">多工</string>
@@ -241,11 +241,11 @@
     <string name="app_setting">選項</string>
     <string name="auto_update_info">程式啟動時檢測更新</string>
     <string name="show_comment">個人設置</string>
-    <string name="show_comment_info">編輯你的照片, 資訊和評論資訊</string>
+    <string name="show_comment_info">編輯你的照片， 資訊和評論資訊</string>
     <string name="show_chart">自動顯示橫向排名</string>
     <string name="show_chart_info">當跑分完成後自動顯示橫向排名</string>
     <string name="loading">正在加載&#8230;</string>
-    <string name="load_fail">加載數據失敗!\n\n請檢查你的網路連接是否可用!</string>
+    <string name="load_fail">加載數據失敗！\n\n請檢查你的網路連接是否可用！</string>
     <string name="network_error">請檢查你的網路連接</string>
     <string name="search_again">重新搜索</string>
     <string name="search_desc">安兔兔評測排行榜</string>
@@ -259,7 +259,7 @@
     <string name="pk">對 比</string>
     <string name="comment_user">用戶評論</string>
     <string name="comment_no">無評論</string>
-    <string name="submit_error">提交分數失敗. 請稍後重試!</string>
+    <string name="submit_error">提交分數失敗. 請稍後重試！</string>
     <string name="update_uptodate">現在已經是最新版</string>
     <string name="rank_all">Top list</string>
     <string name="rank_model">Top Models</string>
@@ -289,8 +289,8 @@
     <string name="restore_files_dec">從SD卡中還原設置和數據</string>
     <string name="backup_warning">是否備份設置和資料? 已存在的資料備份將被覆蓋.</string>
     <string name="restore_warning">是否還原設置和資料? 安兔兔評測軟體將重新開機.</string>
-    <string name="backup_succeed">設置和資料已成功備份!</string>
-    <string name="restore_succeed">設置和資料已成功恢復!</string>
+    <string name="backup_succeed">設置和資料已成功備份！</string>
+    <string name="restore_succeed">設置和資料已成功恢復！</string>
     <string name="more_detail">顯示更多資訊</string>
     <string name="expand_all">全部展開</string>
     <string name="collapse_all">全部收縮</string>
@@ -346,7 +346,7 @@
     <string name="camera_front">前置攝像頭:</string>
     <string name="mega_pixel">百萬像素</string>
     <string name="detail_scores">分數詳情</string>
-    <string name="submit_success">分數提交成功!</string>
+    <string name="submit_success">分數提交成功！</string>
     <string name="show_scores">炫耀</string>
     <string name="share">分享</string>
     <string name="test_verify_title">網路時間校驗</string>
@@ -361,7 +361,7 @@
     <string name="facebook_canceled">分享取消</string>
     <string name="photo_post">發送圖片</string>
     <string name="wechat_not_install">未安裝微信！</string>
-    <string name="share_content_repeat">分享失敗：內容重複！</string>
+    <string name="share_content_repeat">分享失敗: 內容重複！</string>
     <string name="share_content_retry">分享失敗，請重試</string>
     <string name="share_suc">分享成功</string>
     <string name="share_failed">分享失敗</string>
@@ -372,10 +372,10 @@
     <string name="load_photo_failed">照片載入失敗</string>
     <string name="request_full_test">做一次完整測試</string>
     <string name="score_god">要爆了！要爆了</string>
-    <string name="score_monster">大吼一聲: 還有誰!</string>
+    <string name="score_monster">大吼一聲: 還有誰！</string>
     <string name="score_amazing">原諒我霸氣放縱</string>
     <string name="score_great">內心強大不需解釋</string>
-    <string name="score_good_job">來，戰個痛快!</string>
+    <string name="score_good_job">來，戰個痛快！</string>
     <string name="score_good">給你點64個贊</string>
     <string name="score_haha">其實還可以更好</string>
     <string name="score_tried">不理想，再試試？</string>
@@ -393,28 +393,28 @@
     <string name="device_level_2">試試測試吧</string>
     <string name="device_level_1">你要努力啊</string>
     <string name="start_test">開始測試</string>
-    <string name="score_cpu_prefix">CPU性能：</string>
+    <string name="score_cpu_prefix">CPU性能:</string>
     <string name="score_cpu_float_800">非常差，無法很好運行稍大的軟體。</string>
     <string name="score_cpu_float_1500">一般，多數軟體可以運行。</string>
     <string name="score_cpu_float_3000">較好，能運行大型軟體，還能同時運行多個軟體了。</string>
     <string name="score_cpu_float_5000">非常好，能運行大型軟體，同時還有強大的多任務處理，反應迅速。</string>
-    <string name="score_ram_preflix">記憶體性能：</string>
+    <string name="score_ram_preflix">記憶體性能:</string>
     <string name="score_ram_800">非常差；</string>
     <string name="score_ram_2000">一般；</string>
     <string name="score_ram_3000">較好；</string>
     <string name="score_ram_5000">非常好；</string>
-    <string name="score_gpu_2d_preflix">2D圖形性能：</string>
+    <string name="score_gpu_2d_preflix">2D圖形性能:</string>
     <string name="score_gpu_2d_500">非常差；</string>
     <string name="score_gpu_2d_1000">一般；</string>
     <string name="score_gpu_2d_1500">較好；</string>
     <string name="score_gpu_2d_3000">非常好；</string>
-    <string name="score_gpu_3d_preflix">3D圖形性能：</string>
+    <string name="score_gpu_3d_preflix">3D圖形性能:</string>
     <string name="score_gpu_3d_1200">非常差，許多遊戲都不能流暢地玩。</string>
     <string name="score_gpu_3d_3000">一般，可以玩多數遊戲。</string>
     <string name="score_gpu_3d_5000">較好，能流暢玩大多數遊戲了。</string>
     <string name="score_gpu_3d_10000">非常好，能滿足最大型遊戲的要求，享受飛躍的感覺。</string>
     <string name="donwload_plugin">正在下載，請稍等&#8230;</string>
-    <string name="verify_fail">網路時間校驗失敗! 請檢查網路連結!</string>
+    <string name="verify_fail">網路時間校驗失敗！ 請檢查網路連結！</string>
     <string name="gles2_test">安兔兔3D測試</string>
     <string name="gles2_test_description">幫您深入瞭解智能手機/平板電腦的真實遊戲性能</string>
     <string name="gles3_test">OpenGL ES 3.0 測試</string>
@@ -432,11 +432,11 @@
     <string name="download">下載</string>
 
     <string name="need_update_3drating">發現新版本 3DRating！</string>
-    <string name="not_enough_space">至少需要 %1$sM 空間來進行存儲性能測試!</string>
+    <string name="not_enough_space">至少需要 %1$sM 空間來進行存儲性能測試！</string>
     <string name="changelog_title">變更日誌</string>
     <string name="attention">注意</string>
-    <string name="bench_error">測試專案被意外終止, 請重試!</string>
-    <string name="sd_full">SD卡空間不足!</string>
+    <string name="bench_error">測試專案被意外終止，請重試！</string>
+    <string name="sd_full">SD卡空間不足！</string>
     <string name="download_format">正在下載%s，請稍等&#8230;</string>
     <string name="root_already">已獲取</string>
     <string name="no_root">立即獲取</string>
@@ -585,27 +585,29 @@
     <string name="text_cpu_single">CPU (單線程)</string>
     <string name="text_cpu_multithread">CPU (多線程)</string>
     <string name="CPU_Type">類型</string>
-    <string name="verify_info">測試時未聯網或分數有問題!</string>
+    <string name="verify_info">測試時未聯網或分數有問題！</string>
     <string name="verify_not">此分數未認證</string>
     <string name="policy_verify_title">此得分作假</string>
     <string name="policy_verify_title3">請不要超頻</string>
     <string name="policy_verify_title4">未通過核查</string>
     <string name="policy_verify_tip">請停止對分數作假</string>
-    <string name="policy_verify_tip3">注意：請不要針對安兔兔超頻，因為這不代表普通App的性能</string>
+    <string name="policy_verify_tip3">注意: 請不要針對安兔兔超頻，因為這不代表普通App的性能</string>
     <string name="policy_verify_tip4">我們無法理解你的系統時間為什麼會與伺服器時間不一致</string>
     <string name="officer_invalid_signature">警告: 當前系統存在一個非法的安兔兔驗機App，請重新下載正版</string>
     <string name="download_officer_warning">現在將幫助你下載新版本安兔兔驗機App，如果發現沒有安裝、安裝失敗，甚至是沒有反應，你都應該懷疑當前設備的可靠性。</string>
 
     <string name="benchmark_clause">安兔兔評測測試條款</string>
     
-    <string name="screen_finish">屏幕檢測完畢,正在退出&#8230;</string>
+    <string name="screen_finish">屏幕檢測完畢，正在退出&#8230;</string>
     <string name="multi_touch_page">多點觸控測試</string>
     <string name = "screen_test">屏幕檢測</string>
     <string name ="screen_broken">屏幕壞點檢測</string>
    	<string name="back">返回</string>
+   	<string name="touch_me">輕觸屏幕</string>
+    <string name="slidemenu_more_tools">更多工具</string>
     
     <string name="not_certification_title">什麼是未認證</string>
-    <string name="not_certification_content">未認證是指：在測試時未通過網路進行時間校驗，出現未認證提示有三種可能：\n1、測試時設備沒有聯網\n2、設備修改了系統時間來刻意作弊\n3、安兔兔被系統或軟體遮罩了網路連接</string>
+    <string name="not_certification_content">未認證是指: 在測試時未通過網路進行時間校驗，出現未認證提示有三種可能:\n1、測試時設備沒有聯網\n2、設備修改了系統時間來刻意作弊\n3、安兔兔被系統或軟體遮罩了網路連接</string>
 
     <!-- benchamark description -->
     <string name="runtime_desp">Android執行階段能夠將系統的優化程度反應出來，即使采用同樣的處理器，得分也會因為廠家ROM的優化不同而有所差異。</string>
