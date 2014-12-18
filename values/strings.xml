@@ -6,8 +6,8 @@
     <string name="prompt">Exit AnTuTu Benchmark</string>
     <string name="about">About</string>
     <string name="feedback">Feedback</string>
-    <string name="feedback_hint">Please give us your suggestion or observation</string>
-    <string name="feedback_contact_hint">Convenient for us to communicate with you</string>
+    <string name="feedback_hint">If you have any question or suggestion,please feel free to tell us. </string>
+    <string name="feedback_contact_hint">Your email address </string>
     <string name="feedback_content">Content</string>
     <string name="feedback_contact">Email</string>
     <string name="guest">My name</string>
@@ -38,7 +38,7 @@
     <string name="Frequency">CPU frequency:</string>
     <string name="Untested">Untested</string>
     <string name="Testing">Testing, please wait&#8230;</string>
-    <string name="submit_wait">Please wait while AnTuTu submits scores&#8230;</string>
+    <string name="submit_wait">Uploading scores. Please wait&#8230;</string>
     <string name="please_wait">Please wait&#8230;</string>
     <string name="Testing_info">Test may take you several minutes</string>
     <string name="Testing_ram">Testing RAM speed&#8230;</string>
@@ -125,9 +125,9 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="login_suc">Login Successfully</string>
     <string name="reg_suc">Register Successfully</string>
     <string name="net_unvalid">Network connection is unavailable</string>
-    <string name="later_reg">The registry will be finished when network is available.</string>
-    <string name="later_reg_failed">Offline regist failed.</string>
-    <string name="req_failed">Reques failed,Try again later.</string>
+    <string name="later_reg">The registration will be finished when network is available.</string>
+    <string name="later_reg_failed">Offline registeration failed.</string>
+    <string name="req_failed">Request failed.Try again later.</string>
     <string name="share_content_repeat">share failed: duplicated</string>
     <string name="share_content_retry">share failed, please try again</string>
     <string name="share_suc">share success</string>
@@ -138,7 +138,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="yanji">AnTuTu Officer</string>
     <string name="slidemenu_more_tools">More Tools</string>
     <string name="start_verify">Start</string>
-    <string name="verify_over">Check Completed</string>
+    <string name="verify_over">Checking Completed</string>
     <string name="open_clear">Install Clean Master</string>
     <string name="clear">Clean</string>
     <string name="clear_complete">OK</string>
@@ -187,7 +187,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="invalid_args">registry params error</string>
     <string name="user_exist">user name already exist</string>
     <string name="user_not_exist">The email does not exist</string>
-    <string name="email_exist">The email has existed</string>
+    <string name="email_exist">The email existes</string>
     <string name="username_illeagl">Email and password does not match</string>
     <string name="email_illeagl">Email address error</string>
     <string name="invalid_nk_name">Nick name error</string>
@@ -522,7 +522,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="changing_fragments">Changing Fragments</string>
     <string name="no_support_cpu">AnTuTu Benchmark has no longer supported the old CPU which without v7a!</string>
     <string name="no_support_gpu">Your device not support OpenGL ES 3.0!</string>
-    <string name="no_support_preview_gpu">Preview copy dose not support this plugin, please wait for the final version</string>
+    <string name="no_support_preview_gpu">Preview copy dose not support this plugin. Please wait for the final version</string>
     <string name="need_download_es20">Download 3DRating for OpenGL ES 2.0?</string>
     <string name="need_download_es30">Download 3DRating for OpenGL ES 3.0?</string>
 	<string name="need_download_yanji">Download Antutu Device Validator?</string>
@@ -542,7 +542,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="open">Open</string>
     <string name="download">Download</string>
     <string name="download_stop">Stop download now?</string>
-    <string name="download_stop_info">You will lose all the downloaded data. Are you sure you want to do this?</string>
+    <string name="download_stop_info">You will lose all the downloaded data. Are you sure for this operation?</string>
     <string name="stop">Stop</string>
 	<string name="continue2">Continue</string>
     <string name="continue_mobile_info">Starting Downloads %1$s \nCurrently using a mobile network, may cause traffic costs.</string>
@@ -551,21 +551,21 @@ Users can easily know the stability to CPU of devices through the varying trend 
 	
     <string name="not_enough_space">Need at least %1$sM free space to do Storage test!</string>
     
-    <string name="about_info">Founded in 2010 and composed of some senior technicians who have deep love for moble technology, Antutu Labs concentrates on delivering simple and accurate smart device benchmarking app. Our mission is to develop useful software which can make people have deep understanding to their mobile devices. AnTuTu Benchmark supports almost ten languages including English, Russian, Japanese, Korean, Poland, Italian, Czech and so on. Nowadays, over 100,000,000 users used Antutu Benchmark. Antutu Benchmark has became a benchmark standard to mobile device users.</string>
+    <string name="about_info">Founded in 2010 and composed of some senior technicians who have deep love for moble technology, Antutu Labs concentrates on delivering simple and accurate smart device benchmarking app. Our mission is to develop useful software which can make people have deep understanding to their mobile devices. AnTuTu Benchmark supports more ten languages including English, Russian, Japanese, Korean, Poland, Italian, Czech and so on. Nowadays, over 100,000,000 users used Antutu Benchmark. Antutu Benchmark has became a benchmark standard to mobile device users.</string>
     
 	<string name="contact_info">Support: support@antutu.com</string>
 	<string name="changelog_title">Change Log</string>
-	<string name="help_localization">I want to contribute to localization!</string>
+	<string name="help_localization">I want to help on tranlating Antutu to my language!</string>
 	<string name="about_facebook">Like Us</string>
     <string name="about_twitter">Follow Us</string>
     <string name="about_changelog">Change Log</string>
     <string name="about_help_us">Help Us Localize</string>
-    <string name="about_contribute_thanks">Thanks to the volunteers for their great contributions:</string>
+    <string name="about_contribute_thanks">Thanks all volunteers for their great contributions:</string>
     <string name="about_contribute_author"></string>
-    <string name="no_email_app">This app requires an Email app to send e-mail. Please install one and retry this.</string>
+    <string name="no_email_app">This app requires an Email app to send e-mail. Please install one and try again.</string>
     
     <string name="attention">Attention</string>
-    <string name="bench_error">Benchmarking has stop unexpectedly, please try again!</string>
+    <string name="bench_error">Benchmarking has stopped unexpectedly. Please try again!</string>
     <string name="sd_full">Insufficient SD card space!</string>
     
     <string name="score_cpu_prefix">CPU:&#160;</string>
@@ -598,7 +598,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
 
     <string name="try_now">Try Now</string>
     <string name="warm_tip">Warm tip</string>
-    <string name="sec_app_tip">Warm tip: You are running security apps. These apps may be affects the benchmark results or cause crash. We recommend you to turn off them during the test:</string>
+    <string name="sec_app_tip">Warm tip: You are running security apps. These apps may affect the benchmark results or cause crash. We recommend you to turn off them during the test:</string>
     <string name="sleep">Sleep</string>
     <string name="no_use">No used</string>
 	<string name="bat_leve">Battery leve</string>
@@ -633,13 +633,13 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="fine_mobile_note">Authentic Products</string>
     <string name="fake_mobile_note">Fake Products</string>
     <string name="unknow_mobile_note">Unknow Products</string>
-    <string name="verify_feedback">If you have questions, please contact AnTuTu.</string>
+    <string name="verify_feedback">If you have questions, please feel free to contact AnTuTu.</string>
     <string name="feedback_us">Contact AnTuTu</string>
 
     <string name="verify_need_test">You need run full test before validate, run it now?</string>
     <string name="data_send_failed">Request failed</string>
     
-    <string name="net_work_error_try">Network error, try later</string>
+    <string name="net_work_error_try">Network error. Please try later</string>
         
     <string name="exist_title">Notice</string>
     <string name="logout_description">Sure to exit the program?</string>
@@ -834,7 +834,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
 
     <string name="text_cpu_single">CPU (single thread)</string>
     <string name="CPU_Type">Type</string>
-    <string name="verify_info">The score not verified by AnTuTu! Please check your network connection!</string>
+    <string name="verify_info">The score not been verified by AnTuTu! Please check your network connection!</string>
     <string name="verify_not">Non-verified</string>
     <string name="policy_verify_title">Stop Cheating</string>
     <string name="policy_verify_title3">Please do not overclock</string>

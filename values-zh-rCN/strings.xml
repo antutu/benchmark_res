@@ -16,11 +16,11 @@
     <string name="search_title">搜索结果</string>
     <string name="about">关于</string>
     <string name="feedback">反馈</string>
-    <string name="feedback_hint">请告诉我们您的建议或意见，我们会关注并处理</string>
-    <string name="feedback_contact_hint">请留下您的邮箱或QQ，便于我们与您沟通和联系</string>
+    <string name="feedback_hint">请告诉我们您的建议或意见，我们会关注并处理。</string>
+    <string name="feedback_contact_hint">请留下您的邮箱或QQ，便于我们与您沟通和联系。</string>
     <string name="feedback_content">内容</string>
     <string name="feedback_contact">邮箱/QQ</string>
-    <string name="feedback_successful">已提交.感谢您的反馈！</string>
+    <string name="feedback_successful">已提交，感谢您的反馈！</string>
     <string name="feedback_comsumer_service">QQ: 267278471</string>
     <string name="feedbacksubmit">提交反馈</string>
     <string name="feedback_note">反馈信息</string>
@@ -48,7 +48,7 @@
     <string name="info_2D">2D绘图:</string>
     <string name="info_3D">3D绘图:</string>
     <string name="info_SDW">存储I/O:</string>
-    <string name="compare_pk">对 	比</string>
+    <string name="compare_pk">对 比</string>
     <string name="auto_update">自动检查更新</string>
     <string name="max_score_info">最多保存的历史得分数量</string>
     <string name="always_portrait">锁定竖屏</string>
@@ -119,7 +119,7 @@
     <string name="list_last">上次更新</string>
     <string name="list_refreshing">正在刷新&#8230;</string>
     <string name="list_recent">最近更新:</string>
-    <string name="storage">存储</string>
+    <string name="storage">存储(可用/总量)</string>
     <string name="display">显示</string>
     <string name="camera">相机</string>
     <string name="battery">电池</string>
@@ -550,8 +550,8 @@
     <string name="CPU_Model">CPU型号</string>
     <string name="Cores">核心数</string>
     <string name="frequency">频率</string>
-    <string name="More">详细</string>
-    <string name="core_detail">核心详细信息</string>
+    <string name="More">查看</string>
+    <string name="core_detail">核心信息</string>
 
     <string name="Renderer">GPU渲染器</string>
     <string name="Vender">供应商</string>
@@ -574,10 +574,10 @@
     <string name="Bluetooth">蓝牙</string>
     <string name="NFC">NFC</string>
 
-    <string name="RAM">运行内存(可用/总量)</string>
-    <string name="System_Storage">机身存储(可用/总量)</string>
-    <string name="Internal_Storage">内置存储(可用/总量)</string>
-    <string name="External_Storage">外置存储(可用/总量)</string>
+    <string name="RAM">运行内存</string>
+    <string name="System_Storage">机身存储</string>
+    <string name="Internal_Storage">内置存储</string>
+    <string name="External_Storage">外置存储</string>
     <string name="Clean_up">清理垃圾文件</string>
 
     <string name="Access">网络接口</string>
