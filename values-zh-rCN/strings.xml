@@ -143,7 +143,7 @@
     <string name="download_market">从电子市场下载</string>
     <string name="download_website">直接从网站下载</string>
     <string name="rank_list">Top 20</string>
-    <string name="about_copyright">&#169; 2010 &#8211; 2014 安兔兔版权所有</string>
+    <string name="about_copyright">&#169; 2010 &#8211; 2015 安兔兔版权所有</string>
     <string name="quit_desc">退出安兔兔评测?</string>
     <string name="tap_twice_to_exit">再按一次退出安兔兔程序</string>
     <string name="prompt_rank_title">分数错误！</string>
@@ -674,4 +674,15 @@
     <string name="multi_task_desp">模拟多个后台应用同时运行及切换的性能表现，该性能对系统流畅度影响较大。</string>
     <string name="db_desp">测试应用对数据库读取、写入的性能，该性能受其它硬件性能和系统优化决定。</string>
     <string name="storage_desp">测试应用对设备内部存储读取、写入操作的性能，该性能影响照片、视频及大型游戏资源加载速度。</string>
+
+    <string name="bit64_install">开启64位</string>
+    <string name="bit64_enable">切换到64位</string>
+    <string name="bit64_disable">切换到32位</string>
+
+    <string name="bit64_enabled">安兔兔已成功切换到64位测试模式</string>
+    <string name="bit64_disabled">安兔兔已成功切换到32位测试模式</string>
+
+    <string name="install_64bit">检测到当前设备正在运行64位系统。\n\n开启64位测试能更好的反映出64位系统的性能。</string>
+    <string name="install_64bit_tip">提示：可从菜单中开启和切换64位测试。</string>
+
 </resources>

@@ -11,7 +11,7 @@
     <string name="feedback_content">Отзыв/Предложение</string>
     <string name="feedback_contact">Электронная почта</string>
     <string name="guest">Моё имя</string>
-    <string name="about_copyright">Copyright © 2010–2014 AnTuTu. Все права защищены.</string>
+    <string name="about_copyright">Copyright © 2010–2015 AnTuTu. Все права защищены.</string>
     <string name="quit_desc">Выйти из AnTuTu Бенчмарк?</string>
     <string name="tap_twice_to_exit">Нажмите снова для выхода</string>
     <string name="prompt_rank_title">Неверный подсчёт!</string>
@@ -22,7 +22,7 @@
     <string name="cancel">Отменить</string>
     <string name="confirm">ОК</string>
     <string name="skip">Пропустить</string>
-    <string name="start_str">Тестировать</string>
+    <string name="start_str">Тест</string>
     <string name="full_test">Полный тест</string>
 	<string name="show_scores">Показать</string>
     <string name="btn_detail">Подробно</string>
@@ -96,7 +96,7 @@
     <string name="rank_unknow">Отправить оценку</string>
     <string name="test_offline_reg">Оффлайн тет</string>
 	<string name="device_performance_desp">О производительности</string>
-    <string name="performance_description">Производительность</string>
+    <string name="performance_description">тлумачэнне</string>
     <string name="game_feature_title">Игровая производительность</string>
     <string name="total_feature_title">Общая производительность</string>
     <string name="power_feature_title">Эффективность АКБ</string>
@@ -138,7 +138,7 @@
 	<string name="yan">Тест</string>
     <string name="yanji">AnTuTu Офицер</string>
 	
-	<string name="slidemenu_more_tools">Больше приложений</string>
+	<string name="slidemenu_more_tools">Больше</string>
 	<string name="start_verify">Начать</string>
     <string name="verify_over">Проверка завершена</string>
     <string name="open_clear">Установите Clean Master</string>
@@ -213,7 +213,7 @@
     <string name="device_level_3">Тест на отвагу</string>
     <string name="device_level_2">Протестируй девайс</string>
     <string name="device_level_1">Испытай бенчмарк</string>
-    <string name="start_test">Тестировать</string>
+    <string name="start_test">Тест</string>
 	
     <string name="nickname_null">Не может быть пустым</string>
     <string name="nickname_invalid">Слишком длинный ник</string>
@@ -599,7 +599,7 @@
     <string name="root_already">SU</string>
     <string name="no_root">-</string>
 
-    <string name="try_now">Тестировать</string>
+    <string name="try_now">Тест</string>
     <string name="warm_tip">Совет</string>
     <string name="sec_app_tip">Совет: у Вас запущен антивирус. Он может повлиять на результаты или вызвать сбой:</string>
     <string name="sleep">Сон</string>

@@ -3,6 +3,13 @@
 
 <string name="changelog">
 \n
+v5.6\n
+ &#8211; Add 64-bit test for 64-bit Android.\n
+ &#8211; Support translucent navigation and status bars (Android 4.4 and above).\n
+ &#8211; Support identified the NVIDIA Denver.\n
+ &#8211; Fixed 2D test crash on ZenFone devices.\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v5.5\n
  &#8211; Completely redesigned User Interface.\n
  &#8211; Detection 64 bit CPU and 64 bit Android system.\n

@@ -11,7 +11,7 @@
     <string name="feedback_content">Content</string>
     <string name="feedback_contact">Email</string>
     <string name="guest">My name</string>
-    <string name="about_copyright">Copyright &#169; 2010 &#8211; 2014 AnTuTu. All Rights Reserved.</string>
+    <string name="about_copyright">Copyright &#169; 2010 &#8211; 2015 AnTuTu. All Rights Reserved.</string>
     <string name="quit_desc">Exit AnTutu Benchmark ?</string>
     <string name="tap_twice_to_exit">Tap again to exit AnTutu Benchmark</string>
     <string name="prompt_rank_title">Wrong score (s)!</string>
@@ -57,7 +57,7 @@
     <string name="testing_description"></string>
     <string name="stability_test_description">Antutu Stability Test, shows performance benchmarking scores to CPU component and changes in temperature of battery with direct and easy-to-know graph. 
 Users can easily know the stability to CPU of devices through the varying trend of temperature and scores during testing period.</string>
-    <string name="warning_temperature_high">The device temperature is too high, it is recommended to stop the test, cooling after the test. Continue testing may cause the system to restart or shut down.</string>
+    <string name="warning_temperature_high">The device temperature is too high. Please test again after cooling the device. Continue testing may cause the system to restart or shut down.</string>
 
     <string name="testing_runtime_item">UX (Multitask、Runtime)</string>
     <string name="testing_cpu_item">CPU (CPU integer、float-point)</string>
@@ -867,4 +867,15 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="multi_task_desp">Multi task performance, simulation multiple background apps running and switch etc.</string>
     <string name="db_desp">Database I/O performance, test the database query, add, delete operational performance.</string>
     <string name="storage_desp">Storage I/O performance, test the performance of read and write in internal storage.</string>
+
+    <string name="bit64_install">Enable 64-bit</string>
+    <string name="bit64_enable">Switch to 64-bit</string>
+    <string name="bit64_disable">Switch to 32-bit</string>
+
+    <string name="bit64_enabled">AnTuTu have successfully switch to 64-bit test mode.</string>
+    <string name="bit64_disabled">AnTuTu have successfully switch to 32-bit test mode.</string>
+
+    <string name="install_64bit">The current device running an 64-bit system.\n\nEnable 64-bit test may get better performance.</string>
+    <string name="install_64bit_tip">PS: You can enable and switch 64-bit test in the menu.</string>
+
 </resources>

@@ -11,7 +11,7 @@
     <string name="feedback_content">Περιεχόμενο</string>
     <string name="feedback_contact">Email</string>
     <string name="guest">Το όνομά μου</string>
-    <string name="about_copyright">Πνευματικά Δικαιώματα  &#169; 2010 &#8211; 2014 AnTuTu. Με επιφύλαξη παντός δικαιώματος.</string>
+    <string name="about_copyright">Πνευματικά Δικαιώματα  &#169; 2010 &#8211; 2015 AnTuTu. Με επιφύλαξη παντός δικαιώματος.</string>
     <string name="quit_desc">Έξοδος από το AnTutu Benchmark?</string>
     <string name="tap_twice_to_exit">Πιέστε ξανά για έξοδο από το AnTutu Benchmark</string>
     <string name="prompt_rank_title">Λάθος αποτέλεσμα (τα)!</string>

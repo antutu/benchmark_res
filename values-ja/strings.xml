@@ -11,7 +11,7 @@
     <string name="feedback_content">本文</string>
     <string name="feedback_contact">メールアドレス</string>
     <string name="guest">ゲスト</string>
-    <string name="about_copyright">Copyright c 2010 - 2014 AnTuTu. All Rights Reserved.</string>
+    <string name="about_copyright">Copyright c 2010 - 2015 AnTuTu. All Rights Reserved.</string>
     <string name="quit_desc">AnTutu Benchmarkを終了しますか？</string>
     <string name="tap_twice_to_exit">もう一度タップして終了</string>
     <string name="prompt_rank_title">不正なスコアです！</string>

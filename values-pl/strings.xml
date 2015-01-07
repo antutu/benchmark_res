@@ -11,7 +11,7 @@
     <string name="feedback_content">Zawartość</string>
     <string name="feedback_contact">Email</string>
     <string name="guest">Moja nazwa</string>
-    <string name="about_copyright">Copyright &#169; 2010 &#8211; 2014 AnTuTu. Wszystkie prawa zastrzeżone.</string>
+    <string name="about_copyright">Copyright &#169; 2010 &#8211; 2015 AnTuTu. Wszystkie prawa zastrzeżone.</string>
     <string name="quit_desc">Wyjść z AnTutu Benchmark ?</string>
     <string name="tap_twice_to_exit">Naciśnij ponownie aby wyjść z AnTutu Benchmark</string>
     <string name="prompt_rank_title">Błędny wynik!</string>

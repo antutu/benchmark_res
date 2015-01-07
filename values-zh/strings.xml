@@ -4,7 +4,6 @@
     <string name="app_name_sort">安兔兔評測</string>
     <string name="app_name">安兔兔評測</string>
     <string name="guest">我的名字</string>
-    <string name="initializing">正在初始化&#8230;</string>
     <string name="menu_settings">設置</string>
     <string name="mobile_info">移動設備資訊</string>
     <string name="start_str">開始測試</string>
@@ -24,7 +23,9 @@
     <string name="feedback">回饋</string>
     <string name="feedback_content">內容</string>
     <string name="feedback_contact">聯繫方式</string>
-    
+    <string name="initializing">正在初始化&#8230;</string>
+    <string name="loading">正在加载&#8230;</string>
+
     <string name="login">登 錄</string>
     <string name="regist">注 冊</string>
     <string name="save">保 存</string>
@@ -107,7 +108,7 @@
     <string name="info_os">OS</string>
     <string name="info_trans">傳輸</string>
     <string name="info_camera">相機</string>
-    <string name="info_others">其他</string>
+    <string name="info_others">感應器</string>
     <string name="info_appearance">外觀</string>
     <string name="info_cpu">CPU</string>
     <string name="dvm">設備型號</string>
@@ -245,7 +246,6 @@
     <string name="show_comment_info">編輯你的照片， 資訊和評論資訊</string>
     <string name="show_chart">自動顯示橫向排名</string>
     <string name="show_chart_info">當跑分完成後自動顯示橫向排名</string>
-    <string name="loading">正在加載&#8230;</string>
     <string name="load_fail">加載數據失敗！\n\n請檢查你的網路連接是否可用！</string>
     <string name="network_error">請檢查你的網路連接</string>
     <string name="search_again">重新搜索</string>
@@ -336,7 +336,7 @@
     <string name="no_history">沒有發現歷史記錄</string>
     <string name="max_score">歷史記錄數量</string>
     <string name="chart_all">熱門機型</string>
-    <string name="tab_device">設備資訊</string>
+    <string name="tab_device">資訊</string>
     <string name="tab_bbs">評論</string>
     <string name="appearance">外觀:</string>
     <string name="submit">提交</string>
@@ -454,7 +454,7 @@
     <string name="clean_master">獵豹清理大師</string>
     <string name="clear_optimze_performance">安裝獵豹清理大師，優化系統綜合性能</string>
     <string name="clear_performance_btn">性能優化</string>
-    
+
     <string name="sleep">休眠</string>
     <string name="no_use">未使用</string>
     <string name="bat_leve">電量</string>
@@ -478,6 +478,11 @@
     <string name="logout_description">確定退出程序？</string>
     <string name="SinaWB">新浪微博</string>
     <string name="TencentWB">騰訊微博</string>
+
+    <string name="rating_title">喜歡安兔兔評測？</string>
+    <string name="rating_content">您本次评测得分爲%1$s.\n如果覺得不錯，就給個5分吧！</string>
+    <string name="rating_cancel">暫不評分</string>
+    <string name="rating_confirm">去評五星</string>
 
     <string name="Brand">品牌</string>
     <string name="Model">型號</string>
@@ -598,7 +603,7 @@
     <string name="download_officer_warning">現在將幫助你下載新版本安兔兔驗機App，如果發現沒有安裝、安裝失敗，甚至是沒有反應，你都應該懷疑當前設備的可靠性。</string>
 
     <string name="benchmark_clause">安兔兔評測測試條款</string>
-    
+
     <string name="screen_finish">熒幕檢測完畢，正在退出&#8230;</string>
     <string name="multi_touch_page">多點觸控測試</string>
     <string name = "screen_test">熒幕檢測</string>
@@ -606,7 +611,7 @@
     <string name="back">返回</string>
     <string name="touch_me">輕觸熒幕</string>
     <string name="slidemenu_more_tools">更多工具</string>
-    
+
     <string name="not_certification_title">什麼是未認證</string>
     <string name="not_certification_content">未認證是指: 在測試時未通過網路進行時間校驗，出現未認證提示有三種可能:\n1、測試時設備沒有聯網\n2、設備修改了系統時間來刻意作弊\n3、安兔兔被系統或軟體遮罩了網路連接</string>
 
@@ -621,4 +626,16 @@
     <string name="multi_task_desp">模擬多個後臺應用同時運行及切換的性能表現，該性能對系統流暢度影響較大。</string>
     <string name="db_desp">測試應用對數據庫讀取、寫入的性能，該性能受其它硬件性能和系統優化決定。</string>
     <string name="storage_desp">測試應用對內置存儲讀取、寫入操作的性能，該性能影響照片、視頻及大型遊戲資源加載速度。</string>
+    
+
+    <string name="bit64_install">開啟64位</string>
+    <string name="bit64_enable">切換到64位</string>
+    <string name="bit64_disable">切換到32位</string>
+
+    <string name="bit64_enabled">">安兔兔已成功切換到64位測試模式</string>
+    <string name="bit64_disabled">安兔兔已成功切換到32位測試模式</string>
+
+    <string name="install_64bit">檢測到當前設備正在運行64位系統。\n\n開啟64位測試能更好的反映出64位系統的性能。</string>
+    <string name="install_64bit_tip">提示：可從菜單中開啟和切換64位測試。</string>
+    
 </resources>
