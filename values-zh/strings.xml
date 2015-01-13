@@ -638,4 +638,7 @@
     <string name="install_64bit">檢測到當前設備正在運行64位系統。\n\n開啟64位測試能更好的反映出64位系統的性能。</string>
     <string name="install_64bit_tip">提示：可從菜單中開啟和切換64位測試。</string>
     
+    <string name="push_on">接收消息</string>
+    <string name="push_off">禁用消息</string>
+    
 </resources>

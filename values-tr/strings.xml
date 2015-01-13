@@ -194,6 +194,11 @@
     <string name="bit32">32-bit</string>
     <string name="bit32_64_test">32/64bit test</string>
     <string name="bit64">64-bit</string>
+    <string name="bit64_disable">32-bit anahtarı</string>
+    <string name="bit64_disabled">AnTuTu 32-bit test modunu başarıyla geçti</string>
+    <string name="bit64_enable">64-bit Anahtarı</string>
+    <string name="bit64_enabled">AnTuTu 64-bit test modunu başarıyla geçti</string>
+    <string name="bit64_install">64-bit etkinleştir</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="brand">Marka:</string>
     <string name="brand_">Marka</string>
@@ -462,6 +467,10 @@ Antutu benchmark şimdi Türkiye, Macarca, Portekizce, Çince, İngilizce, Kore,
     <string name="info_trans">Ulaştırma</string>
     <string name="infomation_modify_success">Değişiklikler kaydedildi</string>
     <string name="initializing">Başlatılıyor</string>
+    <string name="install_64bit">"Geçerli aygıt 64-bit sisteminde çalışıyor
+
+Daha iyi performans alabilmeniz için 64-bit testini etkinleştirin"</string>
+    <string name="install_64bit_tip">PS: You can enable and switch 64-bit test in the menu.</string>
     <string name="install_plugin">Yükleniyor. Lütfen bekleyin</string>
     <string name="internet">Ağ</string>
     <string name="invalid_args">Kayıt parametre hatası</string>
@@ -588,6 +597,8 @@ Ağ bağlantınızı kontrol edin"</string>
     <string name="prompt_new">Kullanılabilir yeni sürüm var</string>
     <string name="prompt_rank">İlk önce test yapın</string>
     <string name="prompt_rank_title">Hatalı skor</string>
+    <string name="push_off">Basma devre dışı</string>
+    <string name="push_on">Almak için bas</string>
     <string name="pwd_length_error">Şifre uzunluğu 6-14 karakter olmalıdır</string>
     <string name="pwd_null">Lütfen şifre girin</string>
     <string name="quality">Kalite:</string>
@@ -859,7 +870,7 @@ Ağ bağlantınızı kontrol edin"</string>
     <string name="widget_memory">Ram Kullanımı</string>
     <string name="wifi">Wifi</string>
     <string name="world_rank">Genel sıralama</string>
-    <string name="yanji">AnTuTu görevlisi</string>
+    <string name="yanji">AnTuTu sorumlusu</string>
     <string name="yanji_test_title">AnTuTu cihaz doğrulayıcı</string>
     <string name="yes">Evet</string>
 </resources>

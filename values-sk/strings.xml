@@ -163,6 +163,7 @@
     <string name="app_name">AnTuTu Benchmark</string>
     <string name="app_name_sort">AnTuTu Benchmark</string>
     <string name="app_setting">Možnosti</string>
+    <string name="app_tester_name">AnTuTu Tester</string>
     <string name="appearance">Vzhľad:</string>
     <string name="attention">Upozornenie</string>
     <string name="authenticated">Overené spoločnosťou AnTuTu</string>
@@ -186,9 +187,17 @@
     <string name="battery_temprature_pre">%d°C</string>
     <string name="battery_test">Test batérie</string>
     <string name="behind">Zadný</string>
-	<string name="benchmark_clause">Ustanovenie AnTuTu Benchmark</string>
     <string name="bench_error">Benchmark sa neočakávane zastavil, prosím, skúste znova!</string>
     <string name="bench_stop">Zastavovanie testu…</string>
+    <string name="benchmark_clause">Ustanovenie AnTuTu Benchmark</string>
+    <string name="bit32">32-bit</string>
+    <string name="bit32_64_test">Test 32/64-bit</string>
+    <string name="bit64">64-bit</string>
+    <string name="bit64_disable">Prepnúť na 32-bit</string>
+    <string name="bit64_disabled">AnTuTu sa úspešne prepol do 32-bitového testovacieho režimu.</string>
+    <string name="bit64_enable">Prepnúť na 64-bit</string>
+    <string name="bit64_enabled">AnTuTu sa úspešne prepol do 64-bitového testovacieho režimu.</string>
+    <string name="bit64_install">Povoliť 64-bit</string>
     <string name="bluetooth">Bluetooth</string>
     <string name="brand">Značka:</string>
     <string name="brand_">Značka</string>
@@ -294,17 +303,25 @@
     <string name="contact_info">Podpora: support@antutu.com</string>
     <string name="container">Stlačte tlačidlo pre zobrazenie fragmentu</string>
     <string name="continue2">Pokračovať</string>
+    <string name="continue_mobile_info">"Spúšťanie sťahovania %1$s 
+Aktuálne sa používa mobilná sieť, čo môže viesť k poplatkom za prenesené dáta."</string>
+    <string name="continue_test">Pokračovať</string>
     <string name="core_count">Jadrá</string>
+    <string name="core_detail">Informácie o jadrách</string>
     <string name="cost_performance">Ekonomická efektivita:</string>
     <string name="cpu">CPU</string>
     <string name="cpu_core_fre">Frekvencia jadra CPU</string>
     <string name="cpu_detail_info">Informácie o CPU</string>
     <string name="cpu_detail_load">Zaťaženie CPU</string>
     <string name="cpu_detail_page_name">Názov</string>
+    <string name="cpu_float_desp">Najvyšší Float výkon celého procesoru. Float aritmetika sa používa pri spracovaní obrazu, dekódovaní zvuku, atď.</string>
     <string name="cpu_fre">Frekvencia</string>
     <string name="cpu_hardware">Hardvér CPU:</string>
     <string name="cpu_hexin">Počet jadier</string>
+    <string name="cpu_int_desp">Najvyšší Integer výkon celého procesoru. Integer aritmetika sa používa pri šifrovaní, kompresii/dekompresii, atď.</string>
     <string name="cpu_model">Architektúra</string>
+    <string name="cpu_single_thread_float_desp">Najvyšší Float výkon jedného jadra procesora, mnoho aplikácií môže používať len jedno jadro procesora.</string>
+    <string name="cpu_single_thread_int_desp">Najvyšší Integer výkon jedného jadra procesora, mnoho aplikácií môže používať len jedno jadro procesora.</string>
     <string name="cpu_usage_pre">%d%%</string>
     <string name="cpu_xinghao">Model</string>
     <string name="create_account">Vytvoriť nový účet</string>
@@ -313,6 +330,7 @@
     <string name="custom">Vlastné</string>
     <string name="custom_test">Vlastný test</string>
     <string name="data_send_failed">Žiadosť zlyhala</string>
+    <string name="db_desp">Výkon I/O databázy, testovanie výkonu databázy pri dotazovaní, pridávaní, vymazávaní.</string>
     <string name="defaults">Predvolené (všetky)</string>
     <string name="density">Hustota</string>
     <string name="density_dpi">Hustota obrazovky</string>
@@ -332,9 +350,12 @@
     <string name="distance_sensors">Snímač vzdialenosti</string>
     <string name="donwload_plugin">Sťahovanie, prosím, počkajte…</string>
     <string name="donwload_update">Sťahovanie novej verzie…</string>
+    <string name="download">Stiahnuť</string>
     <string name="download_format">Sťahovanie %s, prosím, počkajte…</string>
     <string name="download_in_progress">Sťahovanie %s%%…</string>
     <string name="download_market">Stiahnuť z Obchodu Play</string>
+    <string name="download_officer_warning">Teraz vám pomôže stiahnuť novú verziu AnTuTu Officera. Ak zistíte, že nie je nainštalovaný, inštalácia zlyhala alebo žiadna reakcia, mali by ste mať pochopnosti o spoľahlivosti zariadenia.</string>
+    
     <string name="download_stop">Zastaviť sťahovanie teraz?</string>
     <string name="download_stop_info">Stratíte všetky stiahnuté údaje. Ste si istý, že to chcete urobiť?</string>
     <string name="download_website">Stiahnuť z webovej stránky</string>
@@ -363,7 +384,7 @@
     <string name="expand_all">Rozbaliť všetko</string>
     <string name="facebook_canceled">Operácia zrušená</string>
     <string name="fake_mobile_note">Falošné produkty</string>
-    <string name="faq_content">"1.Prečo nepodporujete jazyk našej krajiny?
+    <string name="faq_content">"1.Prečo nepodporujete jazyk našej krajiny
 AnTuTu Benchmark aktuálne podporuje 13 jazykov vrátane čínštiny, angličtiny, kórejčiny, slovenčiny, turečtiny, ruštiny, ukrajinčiny, poľštiny, portugalčiny, maďarčiny, indonézčiny, vietnamčiny, japončiny. AnTuTu Labs si vážia všetku pomoc od dobrovoľníkov pri prekladaní tejto aplikácie. Vítame všetkých nových dobrovoľníkov, ktorí sú ochotní preložiť túto aplikáciu do svojho jazyka. Ďakujeme."</string>
     <string name="faq_summary">Prečo nepodporujete jazyk našej krajiny?</string>
     <string name="faq_title">FAQ</string>
@@ -397,7 +418,6 @@ AnTuTu Benchmark aktuálne podporuje 13 jazykov vrátane čínštiny, angličtin
     <string name="gravity_sensor">Akcelerometer</string>
     <string name="guest">Moje meno</string>
     <string name="gyro_sensors">Gyroskopický snímač</string>
-    <string name="hello_world">Hello world!</string>
     <string name="help_localization">Chcem prispieť k prekladu!</string>
     <string name="hint_login">Prihláste sa a vyhrajte ďalšie ocenenia</string>
     <string name="hint_max_name">Nie viac ako 20 znakov</string>
@@ -437,6 +457,10 @@ AnTuTu Benchmark aktuálne podporuje 13 jazykov vrátane čínštiny, angličtin
     <string name="info_trans">Prenos</string>
     <string name="infomation_modify_success">Zmeny uložené</string>
     <string name="initializing">Inicializácia…</string>
+    <string name="install_64bit">"Toto zariadenie používa 64-bitový systém.
+
+Povoľte 64-bitový test pre získanie lepšieho výkonu."</string>
+    <string name="install_64bit_tip">Poznámka: Môžete povoliť a prepnúť na 64-bitový test v ponuke.</string>
     <string name="install_plugin">Inštalácia, prosím, počkajte…</string>
     <string name="internet">Sieť</string>
     <string name="invalid_args">Chyba parametrov registra</string>
@@ -453,7 +477,7 @@ AnTuTu Benchmark aktuálne podporuje 13 jazykov vrátane čínštiny, angličtin
     <string name="list_recent">Naposledy aktualizované:</string>
     <string name="list_refreshing">Aktualizácia…</string>
     <string name="list_songkai">Uvoľnite pre aktualizáciu</string>
-    <string name="load_fail">"Nepodarilo sa načítať dáta!
+    <string name="load_fail">"Nepodarilo sa načítať dáta!
 
 Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="load_photo_failed">Nepodarilo sa načítať fotografiu</string>
@@ -481,9 +505,11 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="model">Model</string>
     <string name="more_cpu_info">Viac informácií o CPU</string>
     <string name="more_detail">Zobraziť viac podrobností</string>
+    <string name="multi_task_desp">Výkon multitaskingu, simulácia viacerých spustených aplikácií na pozadí a ich prepínanie, atď.</string>
     <string name="multi_thread">Viaceré vlákna</string>
     <string name="multi_touch">Multi-touch</string>
     <string name="multi_touch_page">Test multi-touchu</string>
+    <string name="multi_touch_test">Test</string>
     <string name="my_device">Moje zariadenie</string>
     <string name="my_device_prefix">Môj </string>
     <string name="name">Prezývka</string>
@@ -516,10 +542,17 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="no_wechat">WeChat nenájdený</string>
     <string name="nodata">Chyba siete, žiadne aktualizačné údaje</string>
     <string name="nonsupport">Nepodporované</string>
+    <string name="not_certification_content">"Existujú tri možné dôvody:
+1. Žiadne pripojenie k sieti počas testovania.
+2. Výrobca zmenil systémový časovač pre podvádzanie!
+3. Sieťové pripojenie k AnTuTu bolo blokované systémom alebo softvérom."</string>
+    <string name="not_certification_title">Čo znamená neoverené</string>
+    <string name="officer_invalid_signature">Varovanie: Systém má neplatný AnTuTu Officer, prosím, stiahnite ho znovu.</string>
     <string name="not_art">3D test zatiaľ nepodporuje modul spustenia ART. Prosím, použite modul spustenia Dalvik ale počkajte na novú verziu</string>
     <string name="not_checkjni">Prosím vypnite CheckJNI pre spustenie 3D testu!</string>
     <string name="not_enough_space">Potrebujete aspoň %1$sM voľného priestoru na test úložiska!</string>
     <string name="not_support">Nedostupné</string>
+    <string name="open">Otvoriť</string>
     <string name="ok">OK</string>
     <string name="old_pwd">Staré heslo</string>
     <string name="old_version">Toto skóre je zastarané, prosím, vykonajte test znovu!</string>
@@ -538,6 +571,12 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="pick_photo">Vybrať fotografiu z galérie</string>
     <string name="pk">PK</string>
     <string name="please_wait">Prosím, počkajte…</string>
+    <string name="policy_verify_tip">Zastavenie podvádzania</string>
+    <string name="policy_verify_tip3">"Poznámka: Nepretaktujte procesor kvôli AnTuTu, pretože to nepredstavuje výkon pre bežnú aplikáciu."</string>
+    <string name="policy_verify_tip4">"Varovanie: Čas v zariadení nie je v súlade so serverom"</string>
+    <string name="policy_verify_title">Zastavenie podvádzania</string>
+    <string name="policy_verify_title3">Nepretaktujte procesor</string>
+    <string name="policy_verify_title4">ODMIETNUTÉ</string>
     <string name="power_feature_title">Výkon batérie</string>
     <string name="power_test_title">Test batérie</string>
     <string name="powersaver">Battery Saver</string>
@@ -548,12 +587,15 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="prompt_new">Nová verzia je dostupná</string>
     <string name="prompt_rank">Prosím, najskôr spustite úplný test!</string>
     <string name="prompt_rank_title">Nesprávne skóre!</string>
+    <string name="push_off">Zakázať push</string>
+    <string name="push_on">Prijímať push</string>
     <string name="pwd_length_error">Dĺžka hesla by mala byť v rozsahu 6–14 znakov</string>
     <string name="pwd_null">Prosím, zadajte heslo</string>
     <string name="quality">Kvalita:</string>
     <string name="quit_desc">Ukončiť AnTutu Benchmark?</string>
     <string name="ram">RAM</string>
-    <string name="ram_speedup_complete">Pamäť bola uvoľnená</string>
+    <string name="ram_performance_desp">Výkon rýchlosti RAM, testovvanie najrýchlejšej rýchlosti, ktorou aplikácie čítajú a zapisujú na RAM.</string>
+    <string name="ram_speed_desp">Výkon operácií RAM, testovanie najväčšieho výkonu, ktorým aplikácie vykonávajú operácie v RAM.</string><string name="ram_speedup_complete">Pamäť bola uvoľnená</string>
     <string name="ram_speedup_ok">Využitie pamäte je optimalizované</string>
     <string name="rank_all">Zoznam najlepších</string>
     <string name="rank_format">NO.%sW+</string>
@@ -568,6 +610,7 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="rating_confirm">OHODNOTIŤ 5 HVIEZDIČKAMI</string>
     <string name="rating_content">Úspešne ste spustili Benchmark a dosiahli skóre %1$s. Stojí to za 5 hviezdičiek?</string>
     <string name="rating_info">Profesionálny test 3D grafiky</string>
+    <string name="rating_title">Milujem Antutu Benchmark</string>
     <string name="ratings">Hodnotenia používateľov</string>
     <string name="recommend">Aplikácie</string>
     <string name="reg_suc">Úspešne registrované</string>
@@ -582,6 +625,7 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="restore_warning">Obnoviť nastavenia a údaje? AnTuTu Benchmark vyžaduje reštart na dokončenie.</string>
     <string name="root_already">Áno</string>
     <string name="root_page_title">Popis root oprávnenia</string>
+    <string name="runtime_desp">Virtuálny stroj Androidu je režim spustenia váčšiny aplikácií a predstavuje celkový výkon.</string>
     <string name="save">Uložiť</string>
     <string name="score_amazing">Úžasné</string>
     <string name="score_cpu_float_1500">Všeobecné, podporuje väčšinu aplikácií. </string>
@@ -622,6 +666,8 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="search_desc">Hodnotenia</string>
     <string name="search_hint">Zadajte názov zariadenia alebo model</string>
     <string name="search_title">Výsledky hľadania</string>
+    <string name="search_no_result">Nenašli sa žiadne výsledky</string>
+    <string name="search_title">Výsledky hľadania</string>
     <string name="searching">Hľadanie…</string>
     <string name="sec_app_tip">Horúci tip: Máte spustené bezpečnostné aplikácie. Tieto aplikácie môžu ovplyvniť výsledky Benchmarkov, alebo spôsobiť pád. Odporúčame ich vypnúť počas testu:</string>
     <string name="sel_sdcard_path">Vyberte kartu SD</string>
@@ -653,7 +699,7 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="show_chart_info">Zobraziť stĺpcový graf po dokončení Benchmarku</string>
     <string name="show_comment">Osobné nastavenia</string>
     <string name="show_comment_info">Upraviť vašu fotografiu, informácie a komentár</string>
-    <string name="show_scores">Zobraziť</string>
+    <string name="show_scores">Zdieľať</string>
     <string name="show_submit">Zobraziť toto pred odoslaním</string>
     <string name="sign">Registrovať a poslať skóre</string>
     <string name="similar_rank">Podobné hodnotenie</string>
@@ -681,6 +727,7 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="stop">Zastaviť</string>
     <string name="stop_str">ZASTAVIŤ</string>
     <string name="storage">Úložisko</string>
+    <string name="storage_desp">Výkon I/O úložiska, testovanie výkonu čítania a zapisovania na interné úložisko.</string>
     <string name="storager">Úložisko</string>
     <string name="submit">Poslať</string>
     <string name="submit_error">Nepodarilo sa odoslať skóre. Skúste to znovu neskôr!</string>
@@ -776,12 +823,14 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="usr_nickname">Prezývka</string>
     <string name="usr_photo">Avatar</string>
     <string name="usr_region">Oblasť</string>
+    <string name="validator_test">Validator</string>
     <string name="verify_code">Overovací kód: </string>
     <string name="verify_device">Model zariadenia: </string>
     <string name="verify_fail">Overenie podľa sieťového času zlyhalo! Prosím, skontrolujte vaše sieťové pripojenie!</string>
     <string name="verify_feedback">Ak máte otázky, kontaktujte AnTuTu.</string>
     <string name="verify_info">Skóre nebolo overené cez AnTuTu! Prosím, skontrolujte vaše sieťové pripojenie!</string>
     <string name="verify_need_test">Musíte spustiť úplný test pred overením, spustiť ho teraz?</string>
+    <string name="verify_not">Neoverené</string>
     <string name="verify_over">Kontrola dokončená</string>
     <string name="version">Verzia</string>
     <string name="video_test">Test videa</string>
@@ -789,6 +838,7 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="view_capture">Nahrávanie videa</string>
     <string name="warm_tip">Horúci tip</string>
     <string name="warning">Upozornenie</string>
+    <string name="warning_temperature_high">Teplota zariadenia je príliš vysoká. Prosím, vykonajte znova test po ochladení zariadenia. Pokračovanie v testovaní môže spôsobiť reštartovanie alebo vypnutie zariadenia.</string>
     <string name="weibosdk_app_name">com_weibo_android</string>
     <string name="weibosdk_attention">注意</string>
     <string name="weibosdk_cancel">否</string>
@@ -809,4 +859,6 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="wifi">Wi-Fi</string>
     <string name="world_rank">Globálne hodnotenie</string>
     <string name="yes">Áno</string>
+    
+    <string name="hello_world">Hello world!</string>
 </resources>

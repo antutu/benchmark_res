@@ -6,9 +6,9 @@
     <string name="prompt">AnTuTu 벤치마크 종료</string>
     <string name="about">정보</string>
     <string name="feedback">피드백</string>
-    <string name="feedback_hint">Please give us your suggestion or observation</string>
-    <string name="feedback_contact_hint">Convenient for us to communicate with you</string>
-    <string name="feedback_content">컨텐트</string>
+    <string name="feedback_hint">궁금하신 점이나 제안이 있으시다면, 저희에게 알려주세요.</string>
+    <string name="feedback_contact_hint">이메일 주소 </string>
+    <string name="feedback_content">컨텐츠</string>
     <string name="feedback_contact">이메일</string>
     <string name="guest">내 이름</string>
     <string name="about_copyright">Copyright &#169; 2010 &#8211; 2015 AnTuTu. All Rights Reserved.</string>
@@ -24,8 +24,9 @@
     <string name="skip">넘기기</string>
     <string name="start_str">테스트</string>
     <string name="full_test">모든 측정</string>
-    <string name="custom_test">선택 측정</string>
-    <string name="btn_detail">디테일</string>
+	<string name="show_scores">공유하</string>
+    <string name="btn_detail">세부사항</string>
+    <string name="continue_test">계속하기</string>
     <string name="stop_str">중지</string>
     <string name="Phone">기기 모델:</string>
     <string name="System">안드로이드 버전:</string>
@@ -56,7 +57,7 @@
     <string name="tab_sysinfo">시스템 정보</string>
     <string name="info_mem">RAM 처리:</string>
     <string name="info_ram">RAM 속도:</string>
-    <string name="info_int">CPU integer:</string>
+    <string name="info_int">CPU 정수:</string>
     <string name="info_float">CPU float-point:</string>
     <string name="info_2D">2D 그래픽:</string>
     <string name="info_3D">3D 그래픽:</string>
@@ -80,6 +81,8 @@
     <string name="rank_format">NO.%sW+</string>
     <string name="rank_unknow">점수 제출</string>
     <string name="test_offline_reg">오프라인 측정</string>
+	<string name="device_performance_desp">성능 사양</string>
+	<string name="performance_description">성능</string>
     <string name="game_feature_title">게임 성능</string>
     <string name="total_feature_title">일반 성능</string>
     <string name="power_feature_title">배터리 성능</string>
@@ -95,6 +98,7 @@
     <string name="errcode_cancel">공유 취소됨</string>
     <string name="errcode_deny">공유 거절됨</string>
     <string name="errcode_unknown">공유 알 수 없음</string>
+	<string name="errcode_failed">공유 실패함</string>
     <string name="photo_post">사진 올리기</string>
     <string name="success">완료</string>
     <string name="successfully_posted_post">포스트 완료됨</string>
@@ -273,6 +277,7 @@
     <string name="brand">브랜드:</string>
     <string name="auto_language">* 시스템 언어</string>
     <string name="location">위치:</string>
+	<string name="Loc">위치</string>
     <string name="gpu_supplier">제조업체</string>
     <string name="size">크기</string>
     <string name="material">재질</string>
@@ -380,15 +385,26 @@
     <string name="transfer">전송기</string>
     <string name="gps">GPS</string>
     <string name="wifi">WIFI</string>
+	<string name="Bluetooth">블루투스</string>
     <string name="bluetooth">블루투스</string>
     <string name="storager">저장소</string>
     <string name="machine_mem">로컬 메모리</string>
     <string name="capacity">능력</string>
     <string name="memory">메모리</string>
     <string name="ram">RAM</string>
+	<string name="System_Storage">시스템 저장소</string>
+    <string name="Internal_Storage">내부 저장소</string>
+    <string name="External_Storage">외부 저장소</string>
+    <string name="Clean_up">청소하기</string>
+	<string name="Access">액세스</string>
     <string name="internet">네트워크</string>
     <string name="net_mode">모드</string>
-    <string name="camera_">카메라</string>
+    <string name="camera_front">전면 카메라</string>
+	<string name="Rear_Camera">후면 카메라</string>
+    <string name="Front_facing_Camera">전면 카메라</string>
+    <string name="Video_Specification">비디오 설명서</string>
+    <string name="Photograph">사진</string>
+    <string name="Sensor">센서</string>
     <string name="front">전면</string>
     <string name="behind">후면</string>
     <string name="view_capture">동영상 촬영</string>
@@ -490,15 +506,68 @@
 	<string name="contact_info">도움: support@antutu.com</string>
 	<string name="changelog_title">변경 사항</string>
 	<string name="help_localization">변역을 도와 주세요.</string>
-	<string name="about_facebook">Like Us</string>
-    <string name="about_twitter">Follow Us</string>
+	<string name="about_facebook">좋아요를 눌러주세요</string>
+    <string name="about_twitter">팔로우 해주세요</string>
     <string name="about_changelog">변경 사항</string>
     <string name="about_help_us">변역을 도와 주세요</string>
     <string name="about_contribute_thanks">도움에 감사드립니다:</string>
     <string name="about_contribute_author"></string>
     <string name="root_already">예</string>
-    <string name="no_root">아니</string>
-    
-    <string name="performance_description">성능</string>
-    <string name="device_performance_desp">성능 사양</string>
+    <string name="no_root">아니오</string>
+	
+	<string name="text_cpu_single">CPU (싱글 쓰레드)</string>
+    <string name="CPU_Type">유형</string>
+    <string name="verify_info">점수가 AnTuTu를 통해 확인되지 못했습니다! 네트워크 연결을 확인해보세요!</string>
+    <string name="verify_not">증명되지 않음</string>
+    <string name="policy_verify_title">치트쓰지 마세요</string>
+    <string name="policy_verify_title3">오버클럭하지 마세요</string>
+    <string name="policy_verify_title4">거절됨</string>
+    <string name="policy_verify_tip">치트쓰지 마세요</string>
+    <string name="policy_verify_tip4">경고: 기기 시간이 서버와 일치하지 않습니다</string>
+    <string name="officer_invalid_signature">경고: 불법 버전의 AnTuTu Officer입니다, 다시 다운해주세요.</string>
+    <string name="download_officer_warning">AnTuTu Officer 새 버전 다운로드를 도와드리겠습니다, 설치되지 않는다면, 기기의 신뢰도를 의심해보세요.</string>
+
+	<string name="a3d_res">3D 플러그인</string>
+    <string name="a3d_wait">AnTuTu 3D 플러그인 설치를 기다려주세요</string>
+    <string name="a3d_success">AnTuTu 3D 플러그인이 설치되었습니다</string>
+    <string name="a3d_download">AnTuTu 3D 플러그인 다운로드 중&#8230;</string>
+    <string name="a3d_install">AnTuTu 3D 플러그인 설치 중&#8230;</string>
+    <string name="not_art">ART 런타임은 사용불가입니다, 새 버전을 기다리시거나, 달빅을 사용해주세요</string>
+    <string name="not_checkjni">CheckJNI를 해제하고 3D 테스트를 해주세요!</string>
+	
+	<!-- benchamark description -->
+    <string name="runtime_desp">안드로이드 가상 머신은 앱 실행 모드의 주요 방식이며, 전체적 성능을 나타냅니다.</string>
+    <string name="cpu_single_thread_int_desp">하나의 코어의 integer 처리 성능을 나타냅니다, 많은 앱들이 하나의 코어만을 사용하여 작동합니다.</string>
+    <string name="cpu_single_thread_float_desp">하나의 코어의 float 처리 성능을 나타냅니다, 많은 앱들이 하나의 코어만을 사용하여 작동합니다.</string>
+    <string name="cpu_int_desp">전체 CPU 코어의 integer 처리 성능을 나타냅니다, integer 계산은 암호화, 압축/감압 등에 사용됩니다.</string>
+    <string name="cpu_float_desp">전체 CPU 코어의 float 처리 성능을 나타냅니다, float 계산은 이미지 처리, 오디오 디코딩 등에 사용됩니다.</string>
+    <string name="ram_performance_desp">RAM 속도, RAM에서 앱이 얼마만큼 빠르게 처리되는지 테스트합니다.</string>
+    <string name="ram_speed_desp">RAM 작업 성능, RAM에서 앱이 얼마만큼 잘 작동되는지 테스트합니다.</string>
+    <string name="multi_task_desp">멀티 태스크 성능, 백그라운드 앱들간 전환 속도나 작동 성능 테스트합니다.</string>
+    <string name="db_desp">데이터베이스 I/O 성능, 데이터베이스 처리 성능을 테스트합니다.</string>
+    <string name="storage_desp">저장소 I/O 성능, 저장소 읽고 쓰기 성능을 테스트합니다.</string>
+
+    <string name="bit64_install">64비트 모드</string>
+    <string name="bit64_enable">64비트로 바꾸기</string>
+    <string name="bit64_disable">32비트로 바꾸기</string>
+
+    <string name="bit64_enabled">AnTuTu가 64비트 테스트 모드로 변경되었습니다.</string>
+    <string name="bit64_disabled">AnTuTu가 32비트 테스트 모드로 변경되었습니다.</string>
+
+    <string name="install_64bit">현재 기기는 64비트 시스템입니다.\n\n64비트 테스트를 하시면 점수가 더 잘나올 수 있습니다.</string>
+    <string name="install_64bit_tip">참고: 메뉴에서 64비트 모드를 확인하세요.</string>
+	
+	<string name="Direction_Sensor">방향</string>
+    <string name="G_Sensor">G센서</string>
+    <string name="Acceleration_Sensor">가속도</string>
+    <string name="Light_Sensor">라이트</string>
+    <string name="E_Compass">E나침반</string>
+    <string name="Proximity_Sensor">근접</string>
+    <string name="Gyro_Sensor">자이로</string>
+    <string name="Temperature_Sensor">온도</string>
+    <string name="Pressure_Sensor">압력</string>
+    <string name="Ambient_Temperature_Sensor">주위 온도</string>
+    <string name="Relative_Humidity_Sensor">상대습도</string>
+    <string name="Linear_Acceleration_Sensor">선가속도</string>
+    <string name="Rotation_Vector_Sensor">회전벡터</string>
 </resources>

@@ -123,7 +123,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="status_update">Update Status</string>
     <string name="login_failed_dialog_title">Login Information</string>
     <string name="login_suc">Login Successfully</string>
-    <string name="reg_suc">Register Successfully</string>
+    <string name="reg_suc">Registered Successfully</string>
     <string name="net_unvalid">Network connection is unavailable</string>
     <string name="later_reg">The registration will be finished when network is available.</string>
     <string name="later_reg_failed">Offline registeration failed.</string>
@@ -257,7 +257,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="search_title">Search Results</string>
     <string name="search_average_score">Average</string>
     <string name="search_no_result">No results found</string>
-    <string name="search_hot_phone">HOT PHONE</string>
+    <string name="search_hot_phone">POPULAR PHONE</string>
     <string name="pk">PK</string>
     <string name="searching">Searching&#8230;</string>
     <string name="comment_user">User comment</string>
@@ -877,5 +877,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
 
     <string name="install_64bit">The current device running an 64-bit system.\n\nEnable 64-bit test may get better performance.</string>
     <string name="install_64bit_tip">PS: You can enable and switch 64-bit test in the menu.</string>
+    <string name="push_on">Receive push </string>
+    <string name="push_off">Disable push </string>
 
 </resources>

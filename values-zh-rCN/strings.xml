@@ -685,4 +685,7 @@
     <string name="install_64bit">检测到当前设备正在运行64位系统。\n\n开启64位测试能更好的反映出64位系统的性能。</string>
     <string name="install_64bit_tip">提示：可从菜单中开启和切换64位测试。</string>
 
+    <string name="push_on">接收消息 </string>
+    <string name="push_off">禁用消息 </string>
+    
 </resources>
