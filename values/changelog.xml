@@ -3,6 +3,17 @@
 
 <string name="changelog">
 \n
+v5.6.2\n
+ &#8211; Fixed the wrong overheating information.\n
+ &#8211; Fixed some bug and crash.\n
+\n
+v5.6.1\n
+ &#8211; Add sensor model information\n
+ &#8211; Add more screen test items\n
+ &#8211; Add One click speed boost\n
+ &#8211; Update Russian, Korean, Turkish translate.\n
+ &#8211; Fixed some bug and crash.\n
+\n
 v5.6\n
  &#8211; Add 64-bit test for 64-bit Android.\n
  &#8211; Support translucent navigation and status bars (Android 4.4 and above).\n

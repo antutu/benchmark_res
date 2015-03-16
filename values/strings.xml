@@ -591,7 +591,11 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="score_gpu_3d_3000">General, Supports most games on it.</string>
     <string name="score_gpu_3d_5000">Good, Fluently support most games.</string>
     <string name="score_gpu_3d_10000">Excellent, Fluently support large mobile games.</string>
-    
+
+    <string name="shortcut_name">Antutu Boost</string>
+    <string name="shortcut_result_pre">Speed up&#160;</string>
+    <string name="shortcut_result_percent">%1$d%%</string>
+    <string name="shortcut_result_ok">Best status</string>
     <string name="download_format">Downloading %s, please wait&#8230;</string>
     <string name="root_already">Yes</string>
     <string name="no_root">No</string>
@@ -846,6 +850,13 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="download_officer_warning">Now will help you to download the new version AnTuTu Officer, if you found that it is not installed, installation failure, or no reaction, you should doubt the reliability of the device.</string>
 
     <string name="benchmark_clause">The AnTuTu Benchmark Clause</string>
+    <string name="need_download3d_title">Install 3D resources</string>
+    <string name="need_download3d_content">The current version is the simplified version without 3D graphic resources. Please install the 3D resource before run the complete testing.</string>
+    <string name="exist">Exit</string>
+    <string name="install_and_test">Install&amp;Test</string>
+    <string name="front_download_title">Downloading %1$s</string>
+    <string name="front_download_hide_window">Hide the window</string>
+    <string name="cpu_64bit_res">64-bit Plug-in</string>
             <!-- 屏幕检测部分 -->
     <string name="screen_test">Screen Test</string>
     <string name="screen_broken">LCD Test</string>
@@ -879,5 +890,51 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="install_64bit_tip">PS: You can enable and switch 64-bit test in the menu.</string>
     <string name="push_on">Receive push </string>
     <string name="push_off">Disable push </string>
-
+    
+    <string name="screen_huaidian">LCD Test</string>
+    <string name="screen_huijie">Grayscale Test</string>
+    <string name="screen_caitiao">Color Bar Test</string>
+    <string name="screen_duodian">Multi-Touch Test</string>
+    <string name="screen_entry_title">Screen Test</string>
+    
+    <string name="screen_huaidian_d">Testing screen dead pixel，light or dark point under the pure color pattern</string>
+    <string name="screen_huijie_d">Testing visual effect by a multi-level brightness</string>
+    <string name="screen_caitiao_d">Testing color brightness，tones and color saturation</string>
+    <string name="screen_duodian_d">Testing maximum touch point of screen supported</string>
+    
+    
+    <string name="grey_0">Grayscale Test：Grayscale</string>
+    <string name="grey_1">Grayscale Test：level 8（Vertical）</string>
+    <string name="grey_2">Grayscale Test：level 8（Level）</string>
+    <string name="grey_3">Grayscale Test：level 16（Vertical）</string>
+    <string name="grey_4">Grayscale Test：level 16（Level）</string>
+    <string name="grey_5">Grayscale Test：level 32（Vertical）</string>
+    <string name="grey_6">Grayscale Test：level 32（Level）</string>
+    <string name="grey_7">Grayscale Test：level 64（Vertical）</string>
+    <string name="grey_8">Grayscale Test：level 64（Level）</string>
+    <string name="grey_9">Grayscale Test：level 256（Vertical）</string>
+    <string name="grey_10">Grayscale Test：level 256（Level）</string>
+    <string name="grey_11">Dark order test picture 1</string>
+    <string name="grey_12">Dark order test picture 2</string>
+    <string name="grey_13">Bright bands test picture</string>
+    <string name="grey_14">Color gradient：R</string>
+    <string name="grey_15">Color gradient：G</string>
+    <string name="grey_16">Color gradient：B</string>
+    <string name="grey_17">Color gradient：level 16 Vertical（R）</string>
+    <string name="grey_18">Color gradient：level 32 Vertical（R）</string>
+    <string name="grey_19">Color gradient：level 256 Vertical（R）</string>
+    <string name="grey_20">Color gradient：level 16 Vertical（G）</string>
+    <string name="grey_21">Color gradient：level 32 Vertical（G）</string>
+    <string name="grey_22">Color gradient：level 256 Vertical（G）</string>
+    <string name="grey_23">Color gradient：level 16 Vertical（B）</string>
+    <string name="grey_24">Color gradient：level 32 Vertical（B）</string>
+    <string name="grey_25">Color gradient：level 256 Vertical（B）\nTest finished,exit by click.</string>
+    <string name="color_1">Color Bar(Full Range VGA)</string>
+    <string name="color_2">Color Bar and Gray Level (Full Range VGA)</string>
+    <string name="color_3">Color Bar(ITU.RBT.601,100%)</string>
+    <string name="color_4">Color Bar(ITU.RBT.601,75%)</string>
+    <string name="color_5">Color Bar(ITU_RBT.709,100%)</string>
+    <string name="color_6">Color Bar(ITU_RBT.709,75%)</string>
+    <string name="color_7">Color Bar(SMPTE)</string>
+    <string name="color_8">Color Bar(SMPTE HD) \nTest finished,exit by click.</string>
 </resources>

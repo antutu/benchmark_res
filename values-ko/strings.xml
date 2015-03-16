@@ -316,7 +316,6 @@
     <string name="authenticated">AnTuTu에 의해 증명됬습니다</string>
     <string name="contact_certification">support@antutu.com</string>
     <string name="camera">카메라:</string>
-    <string name="camera_front">전면 카메라:</string>
     <string name="mega_pixel">mega pixel</string>
     <string name="detail_scores">점수 세부사항</string>
     <string name="total">합계:</string>

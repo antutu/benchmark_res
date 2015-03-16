@@ -455,6 +455,10 @@
     <string name="clear_optimze_performance">安裝獵豹清理大師，優化系統綜合性能</string>
     <string name="clear_performance_btn">性能優化</string>
 
+    <string name="shortcut_name">性能加速</string>
+    <string name="shortcut_result_pre">設備性能</string>
+    <string name="shortcut_result_percent">已加速 %1$d%%</string>
+    <string name="shortcut_result_ok">已達到最佳狀態</string>
     <string name="sleep">休眠</string>
     <string name="no_use">未使用</string>
     <string name="bat_leve">電量</string>
@@ -626,7 +630,15 @@
     <string name="multi_task_desp">模擬多個後臺應用同時運行及切換的性能表現，該性能對系統流暢度影響較大。</string>
     <string name="db_desp">測試應用對數據庫讀取、寫入的性能，該性能受其它硬件性能和系統優化決定。</string>
     <string name="storage_desp">測試應用對內置存儲讀取、寫入操作的性能，該性能影響照片、視頻及大型遊戲資源加載速度。</string>
-    
+
+    <string name="need_download3d_title">安裝3D資源插件</string>
+    <string name="need_download3d_content">當前安兔兔評測為簡化版。不包含3D圖形資源，進行完整測試，必須安裝3D資源插件。</string>
+    <string name="exist">退出</string>
+    <string name="install_and_test">安裝並測試</string>
+    <string name="front_download_title">正在下載%1$s</string>
+    <string name="front_download_hide_window">隱藏窗口</string>
+    <string name="a3d_res">3D插件</string>
+    <string name="cpu_64bit_res">64位插件</string>
 
     <string name="bit64_install">開啟64位</string>
     <string name="bit64_enable">切換到64位</string>
@@ -640,5 +652,53 @@
     
     <string name="push_on">接收消息</string>
     <string name="push_off">禁用消息</string>
+    
+    <string name="screen_huaidian">屏幕壞點測試</string>
+    <string name="screen_huijie">灰階測試</string>
+    <string name="screen_caitiao">彩條測試</string>
+    <string name="screen_duodian">多點觸控測試</string>
+    <string name="screen_entry_title">屏幕測試</string>
+    
+    <string name="screen_huaidian_d">在純色模式下觀察屏幕上是否有壞點、亮點和暗點</string>
+    <string name="screen_huijie_d">用多層級亮度方式檢測屏幕呈現畫面的細膩度</string>
+    <string name="screen_caitiao_d">檢測屏幕各種彩色的亮度、色調和色飽和度</string>
+    <string name="screen_duodian_d">檢測屏幕最多支持的觸控點數</string>
+    
+    <string name="grey_0">灰階測試：灰階</string>
+    <string name="grey_1">灰階測試：8级（垂直）</string>
+    <string name="grey_2">灰階測試：8级（水平）</string>
+    <string name="grey_3">灰階測試：16级（垂直）</string>
+    <string name="grey_4">灰階測試：16级（水平）</string>
+    <string name="grey_5">灰階測試：32级（垂直）</string>
+    <string name="grey_6">灰階測試：32级（水平）</string>
+    <string name="grey_7">灰階測試：64级（垂直）</string>
+    <string name="grey_8">灰階測試：64级（水平）</string>
+    <string name="grey_9">灰階測試：256级（垂直）</string>
+    <string name="grey_10">灰階測試：256级（水平）</string>
+    <string name="grey_11">暗階測試圖1</string>
+    <string name="grey_12">暗階測試圖2</string>
+    <string name="grey_13">亮階測試圖</string>
+    <string name="grey_14">彩色梯度：紅</string>
+    <string name="grey_15">彩色梯度：綠</string>
+    <string name="grey_16">彩色梯度：藍</string>
+    <string name="grey_17">彩色梯度：16级垂直（紅）</string>
+    <string name="grey_18">彩色梯度：32级垂直（紅）</string>
+    <string name="grey_19">彩色梯度：256级垂直（紅）</string>
+    <string name="grey_20">彩色梯度：16级垂直（绿）</string>
+    <string name="grey_21">彩色梯度：32级垂直（绿）</string>
+    <string name="grey_22">彩色梯度：256级垂直（绿）</string>
+    <string name="grey_23">彩色梯度：16级垂直（藍）</string>
+    <string name="grey_24">彩色梯度：32级垂直（藍）</string>
+    <string name="grey_25">彩色梯度：256级垂直（藍）\n 測試完成，點擊退出。</string>
+    	
+    <string name="color_1">彩條(VAG全範圍)</string>
+    <string name="color_2">彩條、灰階(VGA全範圍)</string>
+    <string name="color_3">彩條(ITU-R BT.601,100%)</string>
+    <string name="color_4">彩條(ITU-R BT.601,75%)</string>
+    <string name="color_5">彩條(ITU-R BT.709,100%)</string>
+    <string name="color_6">彩條(ITU-R BT.709,75%)</string>
+    <string name="color_7">彩條(SMPTE)</string>
+    <string name="color_8">彩條(SMPTE HD) \n 測試完成，點擊退出。</string>
+    
     
 </resources>

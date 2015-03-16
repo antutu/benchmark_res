@@ -477,7 +477,7 @@ Povoľte 64-bitový test pre získanie lepšieho výkonu."</string>
     <string name="list_recent">Naposledy aktualizované:</string>
     <string name="list_refreshing">Aktualizácia…</string>
     <string name="list_songkai">Uvoľnite pre aktualizáciu</string>
-    <string name="load_fail">"Nepodarilo sa načítať dáta!
+    <string name="load_fail">"Nepodarilo sa načítať dáta!
 
 Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="load_photo_failed">Nepodarilo sa načítať fotografiu</string>
@@ -665,7 +665,6 @@ Prosím, skontrolujte vaše sieťové pripojenie."</string>
     <string name="search_average_score">Priemer</string>
     <string name="search_desc">Hodnotenia</string>
     <string name="search_hint">Zadajte názov zariadenia alebo model</string>
-    <string name="search_title">Výsledky hľadania</string>
     <string name="search_no_result">Nenašli sa žiadne výsledky</string>
     <string name="search_title">Výsledky hľadania</string>
     <string name="searching">Hľadanie…</string>
