@@ -17,7 +17,7 @@
     <string name="about">关于</string>
     <string name="feedback">反馈</string>
     <string name="feedback_hint">请告诉我们您的建议或意见，我们会关注并处理。</string>
-    <string name="feedback_contact_hint">请留下您的邮箱或QQ，便于我们与您沟通和联系。</string>
+    <string name="feedback_contact_hint">请留下您的邮箱或QQ</string>
     <string name="feedback_content">内容</string>
     <string name="feedback_contact">邮箱/QQ</string>
     <string name="feedback_successful">已提交，感谢您的反馈！</string>
@@ -28,7 +28,13 @@
     <string name="feedback_purchase_price">购买价格</string>
     <string name="feedback_purchase_choose">(选填)</string>
     <string name="initializing">正在初始化&#8230;</string>
-    
+    <string name="contact_not_be_null">请填写联系方式</string>
+    <string name="content_not_be_null">请填写内容</string>
+    <string name="please_input_language">请填写语言</string>
+    <string name="localization_content_hint">语言</string>
+    <string name="language">语言</string>
+    <string name="contact">联系方式</string>
+
     <string name="login">登 录</string>
     <string name="regist">注 册</string>
     <string name="save">保 存</string>
@@ -132,7 +138,11 @@
     <string name="dvm">设备型号</string>
     <string name="info_net">网络</string>
     <string name="basic_info">基本信息</string>
-    <string name="contact_info">技术支持:   support@antutu.com</string>
+    <string name="contact_info">技术支持/合作: support@antutu.com</string>
+    <string name="check_update">检查更新</string>
+    <string name="update_version">V6</string>
+    <string name="abenckmark_rules"><a href="http://www.antutu.com/antutubenchmarkclause.htm" >安兔兔服务条款</a></string>
+    <string name="abenckmark_websize">http://www.antutu.com</string>
     <string name="about_info">安兔兔实验室成立于2010年，由一群热爱手机并追求技术的资深人员组成，我们的使命是为用户开发易用、稳定、精准的硬件类应用。安兔兔评测包括英语、俄语、日语、韩语、波兰语、意大利语和捷克语，它能发挥出最新硬件的性能，现在，在全球有超过100,000,000的用户使用着安兔兔，我们是一个用户的标准。 </string>
     <string name="no_support_cpu">安兔兔评测不再支持您的设备，您的CPU不支持v7a指令集！</string>
     <string name="no_support_gpu">您的设备不支持 OpenGL ES 3.0！</string>
@@ -143,7 +153,7 @@
     <string name="download_market">从电子市场下载</string>
     <string name="download_website">直接从网站下载</string>
     <string name="rank_list">Top 20</string>
-    <string name="about_copyright">&#169; 2010 &#8211; 2015 安兔兔版权所有</string>
+    <string name="about_copyright">Copyright &#169; 2010 &#8211; 2015 安兔兔版权所有</string>
     <string name="quit_desc">退出安兔兔评测?</string>
     <string name="tap_twice_to_exit">再按一次退出安兔兔程序</string>
     <string name="prompt_rank_title">分数错误！</string>
@@ -169,7 +179,7 @@
     <string name="Testing">测试中，请稍候&#8230;</string>
     <string name="submit_wait">正在提交分数，请等待&#8230;</string>
     <string name="please_wait">请等待&#8230;</string>
-    <string name="Testing_info">测试可能需要几分钟</string>
+    <string name="Testing_info">测试需要几分钟，请耐心等待&#8230;</string>
     <string name="Testing_multitask">正在测试多任务处理性能&#8230;</string>
     <string name="Testing_renderscript">正在测试Renderscript性能&#8230;</string>
     <string name="Testing_dalvik">正在测试安卓运行环境性能&#8230;</string>
@@ -259,7 +269,7 @@
     <string name="menu_profile">用户中心</string>
     <string name="invalid_username">用户名和密码不匹配</string>
     <string name="update">检测更新</string>
-    <string name="check_update">正在检查更新&#8230;</string>
+    <string name="check_update_now">正在检查更新&#8230;</string>
     <string name="donwload_update">正在下载新版本&#8230;</string>
     <string name="prompt_new">发现新版本可用</string>
     <string name="prompt_download">是否立即下载新版本?</string>
@@ -363,10 +373,11 @@
     <string name="no_history">没有发现历史记录</string>
     <string name="max_score">历史记录数量</string>
     <string name="chart_all">热门机型</string>
-    <string name="tab_device">信息</string>
+    <string name="tab_device">信 息</string>
     <string name="tab_bbs">评论</string>
     <string name="appearance">外观:</string>
     <string name="submit">提交</string>
+    <string name="send">发送</string>
     <string name="ratings">User ratings</string>
     <string name="certification">认证</string>
     <string name="authenticated">安兔兔认证</string>
@@ -622,7 +633,7 @@
     <string name="battery_test">硬件检测</string>
     <string name="power_test_title">电池测试</string>
     <string name="yanji_test_title">安兔兔验机</string>
-    <string name="html5_test">HTML5测试</string>
+    <string name="html5_test">HTML5 测试</string>
     <string name="title_64bit_test">安兔兔32/64位CPU测试</string>
     <string name="test_64bit_name">32/64位CPU测试</string>
     <string name="test_64bit">64位CPU测试</string>
@@ -653,21 +664,23 @@
     <string name="policy_verify_tip3">注意: 请不要针对安兔兔超频，因为这不代表普通应用的性能</string>
     <string name="policy_verify_tip4">我们不理解你的系统时间为什么会与服务器不一致</string>
     <string name="officer_invalid_signature">警告: 当前系统存在一个非法的安兔兔验机，请重新下载正版</string>
-    <string name="download_officer_warning">现在将帮助你下载新版本安兔兔验机，如果发现没有安装、安装失败，甚至是没有反应，你都应该怀疑当前设备的可靠性。</string>
+    <string name="download_officer_warning">完成验机流程需要下载安兔兔验机</string>
+    <string name="download_officer_3g_warning">需要下载安兔兔验机，当前不是WIFI环境，是否下载安装</string>
 
-    <string name="benchmark_clause">安兔兔评测测试条款</string>
     <string name="need_download3d_title">安装3D资源插件</string>
-    <string name="need_download3d_content">当前安兔兔评测为简化版，不包含3D图形资源，进行完整测试，必须安装3D资源插件。</string>
+    <string name="need_download3d_content">为保证下载安装速度，建议选择应用市场安装</string>
+    <string name="need_download3d_content_not_wifi">为保证下载安装速度，建议选择应用市场安装,当前不是WIFI环境，是否继续下载</string>
     <string name="exist">退出</string>
-    <string name="install_and_test">安装并测试</string>
+    <string name="install_and_test">下载并安装</string>
+    <string name="market_download">应用市场下载</string>
     <string name="front_download_title">正在下载%1$s</string>
     <string name="front_download_hide_window">隐藏窗口</string>
     <string name="a3d_res">3D插件</string>
     <string name="cpu_64bit_res">64位插件</string>
     
                 <!-- 屏幕检测部分  -->
-    <string name = "screen_test">屏幕检测</string>
-    <string name ="screen_broken">屏幕坏点测试</string>
+    <string name="screen_test">屏幕检测</string>
+    <string name="screen_broken">屏幕坏点测试</string>
     <string name="screen_finish">屏幕检测完毕，正在退出&#8230;</string>
     <string name="multi_touch_page">多点触控测试</string>
    	<string name="back">返回</string>
@@ -746,7 +759,170 @@
     <string name="color_6">彩条(ITU-R BT.709,75%)</string>
     <string name="color_7">彩条(SMPTE)</string>
     <string name="color_8">彩条(SMPTE HD)\n测试完成,点击退出。</string>
+
+
+    <!-- 网络测速-->
+    <string name="equal_net_note">相当于</string>
+    <string name="net_note">宽带</string>
+    <string name="download_note">下载:</string>
+    <string name="upload_note">上传:</string>
+    <string name="no_net_note">请连接网络后测试</string>
+    <string name="testing_note">正在测试…</string>
+    <string name="testing_note_two">正在测试</string>
+    <string name="net_type_note">网络类别：</string>
+    <string name="city_note">城市：</string>
+    <string name="out_netip_note">外网IP：</string>
+    <string name="inner_netip_note">内部IP：</string>
+    <string name="ping_time_note">Ping: </string>
+    <string name="netspeed_test_note">网络测速</string>
+    <string name="unit_mb">MB</string>
+    <string name="unit_kb">kB</string>
+    <string name="more_note">更多</string>
+    <string name="netspeed_ping_time_note">网络响应时间：</string>
+    <string name="netspeed_download_speed_note">下载速度：</string>
+    <string name="netspeed_upload_speed_note">上传速度：</string>
+    <string name="netspeed_ip_inner_note">内网IP：</string>
+    <string name="netspeed_ip_out_note">外网IP：</string>
+    <string name="netspeed_no_test">未测试</string>
+    <string name="netspeed_start_test_speed_note">开始测速</string>
+    <string name="netspeed_test_result_title_note">安兔兔网络测速结果</string>
+    <string name="speed_result_chat_note">收发信息 流畅</string>
+    <string name="speed_result_game_note">网络游戏 流畅</string>
+    <string name="speed_result_internet_note">浏览网页 流畅</string>
+    <string name="speed_result_video_note">播放视频 流畅</string>
+    <string name="speed_result_netinfo_note">网络名称:</string>
+    <string name="speed_result_deviceinfo_note">设备型号:</string>
+    <string name="speed_result_share_note">分享</string>
+    <string name="speed_result_message_failed_note">收发信息 延迟</string>
+    <string name="internet_failed_note">浏览网页 缓慢</string>
+    <string name="game_failed_note">网络游戏 卡顿</string>
+    <string name="video_failed_note">网络视频 卡顿</string>
+    <string name="speedtest_exception_note">网络异常，测试中断</string>
+    <string name="speedtest_no_net_note">无网络</string>
+    <string name="speedtest_nonet_setting_note">无可用网络，请检查网络设置</string>
+    <string name="speed_test_exit_note">再按一次退出应用</string>
+    <string name="speed_unit_kbs">KB/s</string>
+    <string name="speedtest_unknow_note">未知</string>
+    <string name="speedtest_bohao_note">拨号</string>
+    <string name="speedtest_zhuanxian_note">专线</string>
+    <string name="speedtest_wait_test_note">等待测试</string>
+
+    <!-- V6 -->
+
     
-    
-    
-</resources>
+    <string name="connect">联系方式</string>
+    <string name="your_suggest">您的建议</string>
+    <!--SlideMenu begin-->
+    <string name="more_benckmark">更多测试</string>
+    <string name="other">其他</string>
+    <string name="recommend_tofriend">推荐给朋友</string>
+    <string name="localization">Localization</string>
+    <string name="auto_download_apk">自动下载安装包</string>
+    <string name="auto_download_on_wifi">链接WIFI后自动预先下载升级包</string>
+    <string name="quiet_dialog_title">有新的更新</string>
+    <string name="quiet_dialog_content">安装包已经下载完成，是否安装更新？</string>
+    <string name="receive_message_push">接收消息推送</string>
+    <string name="recommend_news">精选资讯新闻推荐</string>
+    <!--SlideMenu end-->
+
+    <string name="BID_FFT">FFT 运算</string>
+    <string name="BID_GEMM">GEMM 运算</string>
+    <string name="BID_MAP">MAP 运算</string>
+    <string name="BID_HASH">Hash 校验</string>
+    <string name="BID_RAM_Speed">RAM 速度</string>
+    <string name="BID_RAM_Access">RAM 随机访问</string>
+    <string name="BID_PNG_Decode">PNG 图像解码</string>
+    <string name="BID_IMG_Decode">JPG 图像解码</string>
+    <string name="BID_Secure">信息安全</string>
+    <string name="BID_XML">XML数据处理</string>
+    <string name="BID_Json">JSON数据处理</string>
+    <string name="BID_Storage">存储器 I/O</string>
+    <string name="BID_Database">数据库 I/O</string>
+    <string name="BID_RandomIO">随机存取 I/O </string>
+    <string name="BID_ChineseChess">中国象棋游戏</string>
+    <string name="BID_Chess">国际象棋游戏</string>
+    <string name="BID_Gobang">五子棋游戏</string>
+    <string name="BID_IMG_Fisheye">图像处理 Fisheye</string>
+    <string name="BID_IMG_Blur">图像处理 Blur</string>
+    <string name="BID_MultiThread">多线程</string>
+    <string name="BID_MultiTask">多任务</string>
+    <string name="BID_2D_Physics">2D 物理模拟</string>
+    <string name="BID_3D_Physics">3D 物理模拟</string>
+    <string name="BID_3D_Garden">《花园》</string>
+    <string name="BID_3D_Marooned">《孤立》</string>
+
+    <string name="TID_RAM">RAM</string>
+    <string name="TID_CPU">CPU</string>
+    <string name="TID_UX">UX</string>
+    <string name="TID_3D">3D</string>
+
+    <string name="SID_RAM">RAM</string>
+    <string name="SID_CPU_MATH">CPU 算数运算</string>
+    <string name="SID_CPU_APP">CPU 常用算法</string>
+    <string name="SID_CPU_MULTI">CPU 多核性能</string>
+    <string name="SID_UX_SEC">UX 数据安全</string>
+    <string name="SID_UX_DATA">UX 数据处理</string>
+    <string name="SID_UX_GAME">UX 策略游戏</string>
+    <string name="SID_UX_IMG">UX 图像处理</string>
+    <string name="SID_UX_IO">UX I/O 性能</string>
+    <string name="SID_3D_GARDEN">3D《花园》</string>
+    <string name="SID_3D_MAROONED">3D《孤立》</string>
+    <string name="SID_ALL">总分</string>
+
+    <string name="TID_3D_INFO">通过2个不同的3D场景，测试出GPU的游戏性能和极限性能</string>
+    <string name="TID_UX_INFO">通过数据安全，数据处理，图像处理，I/O性能等方面综合评价设备的性能</string>
+    <string name="TID_CPU_INFO">通过算数运算，常用算法，多核性能测试全面的评价CPU的性能</string>
+    <string name="TID_RAM_INFO">通过读写速度和随机访问速度，评价设备的RAM性能</string>
+
+    <string name="tab_news">动 态</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">点击刷新</string>
+    <string name="pull_to_refresh_update_time_label" translatable="false">上次更新时间 </string>
+    <string name="pull_to_refresh_load_label" translatable="false">上拉加载更多</string>
+    <string name="load_mode_label" translatable="false">加载更多</string>
+
+    <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_label">松开后刷新</string>
+    <string name="pull_to_refresh_refreshing_label">刷新\u2026</string>
+
+    <string name="pull_to_refresh_footer_release_label">松开后加载</string>
+    <string name="pull_to_refresh_footer_pull_label">上拉加载更多</string>
+    <string name="pull_to_refresh_footer_refreshing_label">加载中\u2026</string>
+
+    <string name="verify_phone_test">鉴别真伪测试</string>
+    <string name="suggest_feedback">意见反馈</string>
+
+    <string name="permissions_waring_title">No Permissions</string>
+    <string name="permissions_waring_info">Please allow the permissions we need for test</string>
+
+    <string name="device_title">设备：</string>
+    <string name="score_title">得分：</string>
+    <string name="anti_spam_text">防作弊，扫码看结果</string>
+
+    <string name="score_3d_property">3D性能</string>
+    <string name="score_ux_property">UX性能</string>
+    <string name="score_cpu_property">CPU性能</string>
+    <string name="score_ram_property">RAM性能</string>
+    <string name="not_test">未测试</string>
+    <string name="try_again">再试一次</string>
+
+    <string name="share_all_title">下载安兔兔v6</string>
+    <string name="share_all_text">安兔兔6.0下载 http://soft.antutu.com</string>
+    <string name="suggest_apps">热门推荐</string>
+    <string name="now_wifi_can_download">当前为WiFi，请放心下载</string>
+    <string name="not_have_market">您未安装应用市场软件</string>
+    <string name="title_share_news">安兔兔资讯信息</string>
+    <string name="please_choose_app">请选择应用</string>
+    <string name="now_downloading">正在下载</string>
+
+    <string name="unsupported">不支持</string>
+    <string name="not_have_more">已经到最后了</string>
+    <string name="qrcode_has_created">二维码已生成</string>
+    <string name="qrcode_refresh_success">二维码刷新成功</string>
+
+    <string name="continue_download">继续下载</string>
+    <string name="cancel_download">取消下载</string>
+    <string name="antutu_prompt">安兔兔提示</string>
+	<string name="a3d_test">3D 评测</string>
+    <string name="cancel_download_canot_test">如果取消下载，将不能完成测试流程</string>
+    <string name="downloading_3d_plugin_tips">下载任务中，待下载完成并安装才能开始测试流程</string>
+    <string name="download_3d_plugin_tips_stoped">下载已停止，须完成下载并安装才能开始测试流程</string></resources>

@@ -234,7 +234,7 @@
     <string name="menu_profile">用戶中心</string>
     <string name="invalid_username">用戶名和密碼不匹配</string>
     <string name="update">檢測更新</string>
-    <string name="check_update">正在檢查更新&#8230;</string>
+    <string name="check_update_now">正在檢查更新&#8230;</string>
     <string name="donwload_update">正在下載新版本&#8230;</string>
     <string name="prompt_new">發現新版本可用</string>
     <string name="prompt_download">是否立即下載新版本?</string>
@@ -567,7 +567,7 @@
     <string name="Testing_int_single">正在測試單線程 CPU 整數運算&#8230;</string>
     <string name="Testing_float_single">正在測試單線程 CPU 浮點運算&#8230;</string>
 
-    <string name="html5_test">HTML5測試</string>
+    <string name="html5_test">HTML5 測試</string>
     <string name="video_test">視頻測試</string>
     <string name="video_test_name">安兔兔視頻測試</string>
     <string name="battery_test">硬件檢測</string>
@@ -604,7 +604,8 @@
     <string name="policy_verify_tip3">注意: 請不要針對安兔兔超頻，因為這不代表普通App的性能</string>
     <string name="policy_verify_tip4">我們無法理解你的系統時間為什麼會與伺服器時間不一致</string>
     <string name="officer_invalid_signature">警告: 當前系統存在一個非法的安兔兔驗機App，請重新下載正版</string>
-    <string name="download_officer_warning">現在將幫助你下載新版本安兔兔驗機App，如果發現沒有安裝、安裝失敗，甚至是沒有反應，你都應該懷疑當前設備的可靠性。</string>
+    <string name="download_officer_warning">完成驗機流程需要下載安兔兔驗機</string>
+    <string name="download_officer_3g_warning">需要下載安兔兔驗機，當前不是WIFI環境，是否下載安裝</string>
 
     <string name="benchmark_clause">安兔兔評測測試條款</string>
 
@@ -632,9 +633,11 @@
     <string name="storage_desp">測試應用對內置存儲讀取、寫入操作的性能，該性能影響照片、視頻及大型遊戲資源加載速度。</string>
 
     <string name="need_download3d_title">安裝3D資源插件</string>
-    <string name="need_download3d_content">當前安兔兔評測為簡化版。不包含3D圖形資源，進行完整測試，必須安裝3D資源插件。</string>
+    <string name="need_download3d_content">為保證下載安裝速度，建議選擇應用市場安裝</string>
+    <string name="need_download3d_content_not_wifi">為保證下載安裝速度，建議選擇應用市場安裝,當前不是WIFI環境，是否繼續下載</string>
     <string name="exist">退出</string>
-    <string name="install_and_test">安裝並測試</string>
+    <string name="install_and_test">下載並安裝</string>
+    <string name="market_download">應用市場下載</string>
     <string name="front_download_title">正在下載%1$s</string>
     <string name="front_download_hide_window">隱藏窗口</string>
     <string name="a3d_res">3D插件</string>
@@ -699,6 +702,111 @@
     <string name="color_6">彩條(ITU-R BT.709,75%)</string>
     <string name="color_7">彩條(SMPTE)</string>
     <string name="color_8">彩條(SMPTE HD) \n 測試完成，點擊退出。</string>
-    
-    
+
+    <!-- V6 -->
+
+    <string name="connect">聯系方式</string>
+    <string name="your_suggest">您的建議</string>
+    <!--SlideMenu begin-->
+    <string name="more_benckmark">更多測試</string>
+    <string name="other">其他</string>
+    <string name="recommend_tofriend">推薦給朋友</string>
+    <string name="localization">Localization</string>
+    <string name="auto_download_apk">自動下載安裝包</string>
+    <string name="auto_download_on_wifi">鏈接WIFI後自動預先下載升級包</string>
+    <string name="quiet_dialog_title">有新的更新</string>
+    <string name="quiet_dialog_content">安裝包已經下載完成，是否安裝更新？</string>
+    <string name="receive_message_push">接收消息推送</string>
+    <string name="recommend_news">精選資訊新聞推薦</string>
+    <!--SlideMenu end-->
+
+    <string name="BID_FFT">FFT 運算</string>
+    <string name="BID_GEMM">GEMM 運算</string>
+    <string name="BID_MAP">MAP 運算</string>
+    <string name="BID_HASH">Hash 校驗</string>
+    <string name="BID_RAM_Speed">RAM 速度</string>
+    <string name="BID_RAM_Access">RAM 隨機訪問</string>
+    <string name="BID_PNG_Decode">PNG 圖像解碼</string>
+    <string name="BID_IMG_Decode">JPG 圖像解碼</string>
+    <string name="BID_Secure">信息安全</string>
+    <string name="BID_XML">XML數據處理</string>
+    <string name="BID_Json">JSON數據處理</string>
+    <string name="BID_Storage">存儲器 I/O</string>
+    <string name="BID_Database">數據庫 I/O</string>
+    <string name="BID_RandomIO">隨機存取 I/O </string>
+    <string name="BID_ChineseChess">中國象棋遊戲</string>
+    <string name="BID_Chess">國際象棋遊戲</string>
+    <string name="BID_Gobang">五子棋遊戲</string>
+    <string name="BID_IMG_Fisheye">圖像處理 Fisheye</string>
+    <string name="BID_IMG_Blur">圖像處理 Blur</string>
+    <string name="BID_MultiThread">多線程</string>
+    <string name="BID_MultiTask">多任務</string>
+    <string name="BID_2D_Physics">2D 物理模擬</string>
+    <string name="BID_3D_Physics">3D 物理模擬</string>
+    <string name="BID_3D_Garden">《花園》</string>
+    <string name="BID_3D_Marooned">《孤立》</string>
+
+    <string name="TID_RAM">RAM</string>
+    <string name="TID_CPU">CPU</string>
+    <string name="TID_UX">UX</string>
+    <string name="TID_3D">3D</string>
+
+    <string name="SID_RAM">RAM</string>
+    <string name="SID_CPU_MATH">CPU 算數運算</string>
+    <string name="SID_CPU_APP">CPU 常用算法</string>
+    <string name="SID_CPU_MULTI">CPU 多核性能</string>
+    <string name="SID_UX_SEC">UX 數據安全</string>
+    <string name="SID_UX_DATA">UX 數據處理</string>
+    <string name="SID_UX_GAME">UX 策略遊戲</string>
+    <string name="SID_UX_IMG">UX 圖像處理</string>
+    <string name="SID_UX_IO">UX I/O 性能</string>
+    <string name="SID_3D_GARDEN">3D《花園》</string>
+    <string name="SID_3D_MAROONED">3D《孤立》</string>
+    <string name="SID_ALL">總分</string>
+
+    <string name="TID_3D_INFO">通過2個不同的3D場景，測試出GPU的遊戲性能和極限性能</string>
+    <string name="TID_UX_INFO">通過數據安全，數據處理，圖像處理，I/O性能等方面綜合評價設備的性能</string>
+    <string name="TID_CPU_INFO">通過算數運算，常用算法，多核性能測試全面的評價CPU的性能</string>
+    <string name="TID_RAM_INFO">通過讀寫速度和隨機訪問速度，評價設備的RAM性能</string>
+
+    <string name="tab_news">動 態</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">點擊刷新</string>
+    <string name="pull_to_refresh_update_time_label" translatable="false">上次更新時間 </string>
+    <string name="pull_to_refresh_load_label" translatable="false">上拉加載更多</string>
+    <string name="load_mode_label" translatable="false">加載更多</string>
+
+    <string name="pull_to_refresh_pull_label">下拉刷新</string>
+    <string name="pull_to_refresh_release_label">松開後刷新</string>
+    <string name="pull_to_refresh_refreshing_label">刷新\u2026</string>
+
+    <string name="pull_to_refresh_footer_release_label">松開後加載</string>
+    <string name="pull_to_refresh_footer_pull_label">上拉加載更多</string>
+    <string name="pull_to_refresh_footer_refreshing_label">加載中\u2026</string>
+
+    <string name="verify_phone_test">鑒別真偽測試</string>
+    <string name="suggest_feedback">意見反饋</string>
+
+    <string name="permissions_waring_title">No Permissions</string>
+    <string name="permissions_waring_info">Please allow the permissions we need for test</string>
+
+    <string name="device_title">設備：</string>
+    <string name="score_title">得分：</string>
+    <string name="anti_spam_text">防作弊，掃碼看結果</string>
+
+    <string name="score_3d_property">3D性能</string>
+    <string name="score_ux_property">UX性能</string>
+    <string name="score_cpu_property">CPU性能</string>
+    <string name="score_ram_property">RAM性能</string>
+    <string name="not_test">未測試</string>
+    <string name="try_again">再試壹次</string>
+
+    <string name="title_share_news">安兔兔資訊信息</string>
+    <string name="share_all_title">下載安兔兔v6</string>
+    <string name="share_all_text">安兔兔6.0下載 http://soft.antutu.com</string>
+    <string name="suggest_apps">熱門推薦</string>
+    <string name="now_wifi_can_download">當前為WiFi，請放心下載</string>
+    <string name="not_have_market">您未安裝應用市場軟件</string>
+
+    <string name="unsupported">不支援</string>
+    <string name="a3d_test">3D 評測</string>
 </resources>

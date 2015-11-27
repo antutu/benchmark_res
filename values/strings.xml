@@ -28,7 +28,7 @@
     <string name="btn_detail">Details</string>
     <string name="continue_test">Continue</string>
     <string name="stop_str">STOP</string>
-    <string name="Phone">Phone model:</string>
+    <string name="Phone">Device model:</string>
     <string name="System">Android version:</string>
     <string name="RomInfo">Build number:</string>
     <string name="CPU">CPU model:</string>
@@ -40,7 +40,7 @@
     <string name="Testing">Testing, please wait&#8230;</string>
     <string name="submit_wait">Uploading scores. Please wait&#8230;</string>
     <string name="please_wait">Please wait&#8230;</string>
-    <string name="Testing_info">Test may take you several minutes</string>
+    <string name="Testing_info">Test may take you several minutes&#8230;</string>
     <string name="Testing_ram">Testing RAM speed&#8230;</string>
     <string name="Testing_mem">Testing RAM performance&#8230;</string>
     <string name="Testing_int">Testing CPU integer performance&#8230;</string>
@@ -233,7 +233,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="save">Save</string>
     <string name="invalid_username">username and password doesn\'t match</string>
     <string name="update">Check Update</string>
-    <string name="check_update">Checking update&#8230;</string>
+    <string name="check_update_now">Checking update&#8230;</string>
     <string name="donwload_update">Downloading new version&#8230;</string>
     <string name="prompt_new">A new version is available</string>
     <string name="prompt_download">Download the new version now?</string>
@@ -847,13 +847,16 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="policy_verify_tip3">Note: Don\'t for AnTuTu overclocking, because it doesn\'t represent the performance of the common application.</string>
     <string name="policy_verify_tip4">Warning: why your device time isn\'t consistent with the server</string>
     <string name="officer_invalid_signature">Warning: The system has an illegal AnTuTu Officer, please download again.</string>
-    <string name="download_officer_warning">Now will help you to download the new version AnTuTu Officer, if you found that it is not installed, installation failure, or no reaction, you should doubt the reliability of the device.</string>
+    <string name="download_officer_warning">Now will help you to download the AnTuTu Officer</string>
+    <string name="download_officer_3g_warning">Need to download the AnTuTu Officer ，The current is not WIFI environment, whether to download and install</string>
 
     <string name="benchmark_clause">The AnTuTu Benchmark Clause</string>
     <string name="need_download3d_title">Install 3D resources</string>
-    <string name="need_download3d_content">The current version is the simplified version without 3D graphic resources. Please install the 3D resource before run the complete testing.</string>
+    <string name="need_download3d_content">In order to keep the download speed, it is recommended that the option market</string>
+    <string name="need_download3d_content_not_wifi">In order to keep the download speed, it is recommended that the option market.The current is not WIFI environment, are you sure you want to continue to download.</string>
     <string name="exist">Exit</string>
-    <string name="install_and_test">Install&amp;Test</string>
+    <string name="install_and_test">Download&amp;Install</string>
+    <string name="market_download">AppMarket Download</string>
     <string name="front_download_title">Downloading %1$s</string>
     <string name="front_download_hide_window">Hide the window</string>
     <string name="cpu_64bit_res">64-bit Plug-in</string>
@@ -937,4 +940,179 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="color_6">Color Bar(ITU_RBT.709,75%)</string>
     <string name="color_7">Color Bar(SMPTE)</string>
     <string name="color_8">Color Bar(SMPTE HD) \nTest finished,exit by click.</string>
-</resources>
+
+
+    <!-- 网络测速-->
+    <string name="equal_net_note">相当于</string>
+    <string name="net_note">宽带</string>
+    <string name="download_note">下载:</string>
+    <string name="upload_note">上传:</string>
+    <string name="no_net_note">请连接网络后测试</string>
+    <string name="testing_note">正在测试…</string>
+    <string name="testing_note_two">正在测试</string>
+    <string name="net_type_note">网络类别：</string>
+    <string name="city_note">城市：</string>
+    <string name="out_netip_note">外网IP：</string>
+    <string name="inner_netip_note">内部IP：</string>
+    <string name="ping_time_note">Ping: </string>
+    <string name="netspeed_test_note">NetSpeed</string>
+    <string name="unit_mb">MB</string>
+    <string name="unit_kb">kB</string>
+    <string name="more_note">更多</string>
+    <string name="netspeed_ping_time_note">网络响应时间：</string>
+    <string name="netspeed_download_speed_note">下载速度：</string>
+    <string name="netspeed_upload_speed_note">上传速度：</string>
+    <string name="netspeed_ip_inner_note">内网IP：</string>
+    <string name="netspeed_ip_out_note">外网IP：</string>
+    <string name="netspeed_no_test">未测试</string>
+    <string name="netspeed_start_test_speed_note">开始测速</string>
+    <string name="netspeed_test_result_title_note">安兔兔网络测速结果</string>
+    <string name="speed_result_chat_note">收发信息 流畅</string>
+    <string name="speed_result_game_note">网络游戏 流畅</string>
+    <string name="speed_result_internet_note">浏览网页 流畅</string>
+    <string name="speed_result_video_note">播放视频 流畅</string>
+    <string name="speed_result_netinfo_note">网络名称:</string>
+    <string name="speed_result_deviceinfo_note">设备型号:</string>
+    <string name="speed_result_share_note">分享</string>
+    <string name="speed_result_message_failed_note">收发信息 延迟</string>
+    <string name="internet_failed_note">浏览网页 缓慢</string>
+    <string name="game_failed_note">网络游戏 卡顿</string>
+    <string name="video_failed_note">网络视频 卡顿</string>
+    <string name="speedtest_exception_note">网络异常，测试中断</string>
+    <string name="speedtest_no_net_note">无网络</string>
+    <string name="speedtest_nonet_setting_note">无可用网络，请检查网络设置</string>
+    <string name="speed_test_exit_note">再按一次退出应用</string>
+    <string name="speed_unit_kbs">KB/s</string>
+    <string name="speedtest_unknow_note">未知</string>
+    <string name="speedtest_bohao_note">拨号</string>
+    <string name="speedtest_zhuanxian_note">专线</string>
+    <string name="speedtest_wait_test_note">等待测试</string>
+
+    <!-- V6 -->
+
+    <string name="cleanup">Cleaning up</string>
+
+
+    <!--SlideMenu begin-->
+    <string name="more_benckmark">More Test</string>
+    <string name="Test">Test</string>
+    <string name="recommend_tofriend">Share</string>
+    <string name="localization">Localization</string>
+    <string name="auto_download_apk">Download apk automatically</string>
+    <string name="auto_download_on_wifi">preload update apk automatic when wifi connected</string>
+    <string name="quiet_dialog_title">New update available</string>
+    <string name="quiet_dialog_content">Download completes.Install this new version？</string>
+    <string name="receive_message_push"> Accept push information</string>
+    <string name="recommend_news">Hot news</string>
+    <!--SlideMenu end-->
+    
+    <string name="prepare_for">Preparing for Next Test</string>
+    <string name="BID_FFT">FFT operation</string>
+    <string name="BID_GEMM">GEMM operation</string>
+    <string name="BID_MAP">MAP operation</string>
+    <string name="BID_HASH">Hash checksum</string>
+    <string name="BID_RAM_Speed">RAM Speed</string>
+    <string name="BID_RAM_Access">RAM Random Access</string>
+    <string name="BID_PNG_Decode">Image Decode PNG</string>
+    <string name="BID_IMG_Decode">Image Decode JPG</string>
+    <string name="BID_Secure">Secure Message</string>
+    <string name="BID_XML">Parsing XML</string>
+    <string name="BID_Json">Parsing JSON</string>
+    <string name="BID_Storage">Storage I/O</string>
+    <string name="BID_Database">Database I/O</string>
+    <string name="BID_RandomIO">Random Access I/O</string>
+    <string name="BID_ChineseChess">Strategy games Chinese Chess</string>
+    <string name="BID_Chess">Strategy games Chess</string>
+    <string name="BID_Gobang">Strategy games Gobang</string>
+    <string name="BID_IMG_Fisheye">Image processing Fisheye</string>
+    <string name="BID_IMG_Blur">Image processing Blur</string>
+    <string name="BID_MultiThread">Multi-threading</string>
+    <string name="BID_MultiTask">Multi-task</string>
+    <string name="BID_2D_Physics">2D Physics engine</string>
+    <string name="BID_3D_Physics">3D Physics engine</string>
+    <string name="BID_3D_Garden">Garden scene</string>
+    <string name="BID_3D_Marooned">Marooned scene</string>
+
+    <string name="TID_RAM">RAM</string>
+    <string name="TID_CPU">CPU</string>
+    <string name="TID_UX">UX</string>
+    <string name="TID_3D">3D</string>
+
+    <string name="SID_RAM">RAM Score</string>
+    <string name="SID_CPU_MATH">CPU Mathematics</string>
+    <string name="SID_CPU_APP">CPU Common Use</string>
+    <string name="SID_CPU_MULTI">CPU Multi-Core</string>
+    <string name="SID_UX_SEC">UX Data Secure</string>
+    <string name="SID_UX_DATA">UX Data process</string>
+    <string name="SID_UX_GAME">UX Strategy games</string>
+    <string name="SID_UX_IMG">UX Image process</string>
+    <string name="SID_UX_IO">UX I/O performance</string>
+    <string name="SID_3D_GARDEN">3D [Garden]</string>
+    <string name="SID_3D_MAROONED">3D [Marooned]</string>
+    <string name="SID_ALL">Total Score</string>
+
+    <string name="TID_3D_INFO">3D game performance</string>
+    <string name="TID_UX_INFO">User Experience performance</string>
+    <string name="TID_CPU_INFO">CPU performance</string>
+    <string name="TID_RAM_INFO">RAM performance</string>
+
+    <string name="tab_news">News</string>
+    <string name="pull_to_refresh_tap_label" translatable="false">Click to refresh</string>
+    <string name="pull_to_refresh_update_time_label" translatable="false">last update time </string>
+    <string name="pull_to_refresh_load_label" translatable="false">pull-up to load more info</string>
+    <string name="load_mode_label" translatable="false">loading more</string>
+
+    <string name="pull_to_refresh_pull_label">pull-down to refresh</string>
+    <string name="pull_to_refresh_release_label">release to refresh</string>
+    <string name="pull_to_refresh_refreshing_label">refresh\u2026</string>
+
+    <string name="pull_to_refresh_footer_release_label">release to load more info</string>
+    <string name="pull_to_refresh_footer_pull_label">pull-up to load more info</string>
+    <string name="pull_to_refresh_footer_refreshing_label">Loading</string>
+
+    <string name="verify_phone_test">Verify your phone</string>
+    <string name="suggest_feedback">Feedback</string>
+
+    <string name="permissions_waring_title">No Permissions</string>
+    <string name="permissions_waring_info">Please allow the permissions we need for test</string>
+
+    <string name="device_title">Device：</string>
+    <string name="score_title">Score：</string>
+    <string name="anti_spam_text">QRCode of result</string>
+
+    <string name="score_3d_property">3D</string>
+    <string name="score_ux_property">UX</string>
+    <string name="score_cpu_property">CPU</string>
+    <string name="score_ram_property">RAM</string>
+    <string name="not_test">Untested</string>
+
+    <string name="connect">Contact</string>
+    <string name="your_suggest">Your Suggestions</string>
+
+    <string name="try_again">Try one more time</string>
+
+    <string name="share_all_title">Download AntutuBenchMark v6</string>
+    <string name="share_all_text">Download AntutuBenchMark v6 https://play.google.com/store/apps/details?id=com.antutu.ABenchMark</string>
+    <string name="suggest_apps">Recommended for you</string>
+    <string name="now_wifi_can_download">Wifi connection is available. Please feel free to download</string>
+
+    <string name="not_have_market">You do not install application software market</string>
+    <string name="title_share_news">AntutuBenchmark News</string>
+    <string name="please_choose_app">please choose apps</string>
+    <string name="now_downloading">Downloading</string>
+    <string name="unsupported">Unsupported</string>
+
+    <string name="abenckmark_rules"><a href="http://www.antutu.com/antutubenchmarkclause.htm" >AnTuTu Benchmark Terms of Service</a></string>
+    <string name="not_have_more">Is the last page</string>
+    <string name="qrcode_has_created">QRcode has been generated</string>
+    <string name="qrcode_refresh_success">QRcode has been refreshed</string>
+
+    <string name="continue_download">Continue</string>
+    <string name="cancel_download">Cancel</string>
+    <string name="antutu_prompt">Antutu Prompt</string>
+	<string name="cancel_download_canot_test">If cancel the download, will not be able to test</string>
+    <string name="downloading_3d_plugin_tips">Downloading the 3D-plugin</string>
+    <string name="download_3d_plugin_tips_stoped">Download 3D-Plugin stoped</string>
+    <string name="a3d_test">3D Benchmark</string></resources>
+
+
