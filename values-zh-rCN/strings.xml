@@ -925,4 +925,6 @@
 	<string name="a3d_test">3D 评测</string>
     <string name="cancel_download_canot_test">如果取消下载，将不能完成测试流程</string>
     <string name="downloading_3d_plugin_tips">下载任务中，待下载完成并安装才能开始测试流程</string>
-    <string name="download_3d_plugin_tips_stoped">下载已停止，须完成下载并安装才能开始测试流程</string></resources>
+    <string name="download_3d_plugin_tips_stoped">下载已停止，须完成下载并安装才能开始测试流程</string>
+
+</resources>

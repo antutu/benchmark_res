@@ -1113,6 +1113,6 @@ Users can easily know the stability to CPU of devices through the varying trend 
 	<string name="cancel_download_canot_test">If cancel the download, will not be able to test</string>
     <string name="downloading_3d_plugin_tips">Downloading the 3D-plugin</string>
     <string name="download_3d_plugin_tips_stoped">Download 3D-Plugin stoped</string>
-    <string name="a3d_test">3D Benchmark</string></resources>
+    <string name="a3d_test">3D Benchmark</string>
 
-
+</resources>
