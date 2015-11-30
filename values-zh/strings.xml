@@ -810,4 +810,5 @@
     <string name="unsupported">不支援</string>
     <string name="a3d_test">3D 評測</string>
 
+    <string name="submit_email">發送郵件</string>
 </resources>
