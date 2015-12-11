@@ -1,144 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_id">1403394553272360</string>
-    <string name="app_name_sort">AnTuTu Benchmark</string>
     <string name="app_name">AnTuTu Benchmark</string>
-    <string name="prompt">Exit AnTuTu Benchmark</string>
     <string name="about">About</string>
     <string name="feedback">Feedback</string>
     <string name="feedback_hint">If you have any question or suggestion,please feel free to tell us. </string>
     <string name="feedback_contact_hint">Your email address </string>
-    <string name="feedback_content">Content</string>
-    <string name="feedback_contact">Email</string>
     <string name="guest">My name</string>
     <string name="about_copyright">Copyright &#169; 2010 &#8211; 2015 AnTuTu. All Rights Reserved.</string>
-    <string name="quit_desc">Exit AnTutu Benchmark ?</string>
     <string name="tap_twice_to_exit">Tap again to exit AnTutu Benchmark</string>
-    <string name="prompt_rank_title">Wrong score (s)!</string>
-    <string name="prompt_rank">Please run full test at first!</string>
+    <string name="prompt_rank">Please run full test at first</string>
     <string name="prompt_net">Network connection is unavailable!</string>
-    <string name="warning">Attention</string>
-    <string name="sd_desc">Your need at least 500 MB free space to run SD card speed test!</string>
     <string name="cancel">Cancel</string>
     <string name="confirm">OK</string>
-    <string name="skip">Skip</string>
     <string name="start_str">Test</string>
-    <string name="full_test">Full Test</string>
-    <string name="show_scores">Share</string>
-    <string name="btn_detail">Details</string>
     <string name="continue_test">Continue</string>
     <string name="stop_str">STOP</string>
-    <string name="Phone">Device model:</string>
-    <string name="System">Android version:</string>
-    <string name="RomInfo">Build number:</string>
-    <string name="CPU">CPU model:</string>
-    <string name="SDCard">SD card size (available/total):</string>
-    <string name="MemSize">Memory size (available/total):</string>
-    <string name="RAMSize">RAM size (available/total):</string>
-    <string name="Frequency">CPU frequency:</string>
     <string name="Untested">Untested</string>
     <string name="Testing">Testing, please wait&#8230;</string>
-    <string name="submit_wait">Uploading scores. Please wait&#8230;</string>
     <string name="please_wait">Please wait&#8230;</string>
-    <string name="Testing_info">Test may take you several minutes&#8230;</string>
-    <string name="Testing_ram">Testing RAM speed&#8230;</string>
-    <string name="Testing_mem">Testing RAM performance&#8230;</string>
-    <string name="Testing_int">Testing CPU integer performance&#8230;</string>
-    <string name="Testing_float">Testing CPU float performance&#8230;</string>
-    <string name="Testing_2d">Testing 2D graphics performance&#8230;</string>
-    <string name="Testing_3d">Testing 3D graphics performance&#8230;</string>
-    <string name="Testing_db">Testing Database I/O performance&#8230;</string>
-    <string name="Testing_st">Testing Storage I/O performance&#8230;</string>
-    <string name="Testing_cancle">Test is terminated</string>
-    <string name="Testing_finish">Test is complete</string>
+    <string name="Testing_info">Testing may take you several minutes&#8230;</string>
     <string name="Testing_optimize_mem">Optimize memory to make benchmark more accurate</string>
-    <string name="optimize_mem_complete">Successfully freed %1$dM memory, Current available memory is %2$dM</string>
-    <string name="optimize_mem_in_progress">Optimizing Memory…</string>
-    <string name="testing_description"></string>
-    <string name="stability_test_description">Antutu Stability Test, shows performance benchmarking scores to CPU component and changes in temperature of battery with direct and easy-to-know graph. 
-Users can easily know the stability to CPU of devices through the varying trend of temperature and scores during testing period.</string>
     <string name="warning_temperature_high">The device temperature is too high. Please test again after cooling the device. Continue testing may cause the system to restart or shut down.</string>
 
-    <string name="testing_runtime_item">UX (Multitask、Runtime)</string>
-    <string name="testing_cpu_item">CPU (CPU integer、float-point)</string>
-    <string name="testing_ram_item">RAM (RAM Operation、RAM Speed)</string>
-    <string name="testing_gpu_item">GPU (2D graphics、3D graphics)</string>
-    <string name="testing_io_item">IO (Storage I/0、Database I/0)</string>
-    
-    
-    <string name="tab_scores">Scores</string>
+
+
     <string name="tab_test">Test</string>
     <string name="tab_rank">Ranking</string>
-    <string name="tab_sysinfo">System Info</string>
-    <string name="info_mem">RAM Operation:</string>
-    <string name="info_ram">RAM Speed:</string>
-    <string name="info_int">CPU integer:</string>
-    <string name="info_float">CPU float-point:</string>
-    <string name="info_2D">2D graphics:</string>
-    <string name="info_3D">3D graphics:</string>
-    <string name="info_DB">Database I/O:</string>
-    <string name="info_ST">Storage I/O:</string>
-    <string name="info_multitask">Multitask:</string>
-    <string name="info_dalvik">Runtime:</string>
-    <string name="info_renderscript">Renderscript:</string>
-    <string name="info_date">Date:</string>
-    <string name="info_total">Total score:</string>
-    <string name="info_SDW">Storage I/O:</string>
-    <string name="srt_chart">Score Chart</string>
     <string name="my_device_prefix">My&#160;</string>
     <string name="my_device">My Device</string>
-    <string name="btn_overclock">Over Clock</string>
-    <string name="btn_rankweb">Web Site</string>
-    <string name="btn_rank">Submit Scores</string>
-    <string name="cur_rank">My Ranking</string>
-    <string name="similar_rank">Similar Ranking</string>
-    <string name="world_rank">Global Ranking</string>
-    <string name="rank_format">NO.%sW+</string>
-    <string name="rank_unknow">Submit Scores</string>
-    <string name="test_offline_reg">Offline Test</string>
-    <string name="device_performance_desp">Performance Explanation</string>
-    <string name="performance_description">Performance</string>
-    <string name="game_feature_title">Game Performance</string>
-    <string name="total_feature_title">General Performance</string>
-    <string name="power_feature_title">Battery Performance</string>
-    <string name="dev_info_title">My Device</string>
-    <string name="ranking_info_scores">Scores:%d</string>
-    <string name="info_complete_test">Complete test to check your global ranking</string>
-    <string name="info_complete_submit">Submit scores to check your world ranking</string>
-    <string name="create_account">create new account</string>
-    <string name="nodata">Network error,no data update</string>
-    <string name="regist">Register</string>
     <string name="size_panel">inch</string>
-    <string name="errcode_success">Share Successfully</string>
-    <string name="errcode_cancel">Share Canceled</string>
-    <string name="errcode_deny">Share Denied</string>
-    <string name="errcode_unknown">Share Unknown</string>
-    <string name="errcode_failed">Share Failed</string>
-    <string name="photo_post">Post Photo</string>
-    <string name="success">Success</string>
-    <string name="successfully_posted_post">Post Successfully</string>
-    <string name="error">Error</string>
-    <string name="cancelled">Cancelled</string>
-    <string name="permission_not_granted">Permission Not Granted</string>
-    <string name="status_update">Update Status</string>
-    <string name="login_failed_dialog_title">Login Information</string>
-    <string name="login_suc">Login Successfully</string>
-    <string name="reg_suc">Registered Successfully</string>
     <string name="net_unvalid">Network connection is unavailable</string>
-    <string name="later_reg">The registration will be finished when network is available.</string>
-    <string name="later_reg_failed">Offline registeration failed.</string>
     <string name="req_failed">Request failed.Try again later.</string>
-    <string name="share_content_repeat">share failed: duplicated</string>
-    <string name="share_content_retry">share failed, please try again</string>
-    <string name="share_suc">share success</string>
-    <string name="share_failed">share failed</string>
-    <string name="login_and_share">login and share</string>
-    <string name="no_wechat">Wechat not found</string>
-    <string name="get_info_failed">Get home page information failed</string>
-    <string name="yanji">AnTuTu Officer</string>
-    <string name="slidemenu_more_tools">More Tools</string>
-    <string name="start_verify">Start</string>
-    <string name="verify_over">Checking Completed</string>
     <string name="open_clear">Install Clean Master</string>
     <string name="clear">Clean</string>
     <string name="clear_complete">OK</string>
@@ -147,24 +39,8 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="garbage_size">(%s)</string>
     <string name="download_in_progress">Downloading %s%%&#8230;</string>
     <string name="clean_master">Clean Master</string>
-    <string name="clear_home_page">Click to boost memory </string>
-    <string name="clear_speedup_desp">Install Clean Master to optimize memory.</string>
-    <string name="ram_speedup_complete">Memory Boosted</string>
-    <string name="ram_speedup_ok">Memory Usage is already optimized</string>
-    <string name="clear_optimze_performance">Optimize system performance after installing Clean Master.</string>
-    <string name="clear_performance_btn">Optimize</string>
     <string name="c_info_total">Total Score</string>
-    <string name="c_info_dalvik">Runtime</string>
-    <string name="c_info_multitask">Multitask</string>
-    <string name="c_info_int">CPU Integer</string>
-    <string name="c_info_float">CPU Float-point</string>
-    <string name="c_info_ram">RAM Speed</string>
-    <string name="c_info_mem">RAM Operation</string>
-    <string name="c_info_2D">2D Graphics</string>
-    <string name="c_info_3D">3D Graphics</string>
-    <string name="c_info_DB">Database I/O</string>
-    <string name="c_info_ST">Storage I/O</string>
-    
+
     <string name="basic_info">Basic Info</string>
     <string name="storage">Storage</string>
     <string name="display">Display</string>
@@ -177,489 +53,120 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="info_cpu">CPU</string>
     <string name="dvm">Device Model</string>
     <string name="info_net">Network</string>
-    
+
     <string name="list_songkai">Release to refresh</string>
     <string name="list_last">Last Update</string>
     <string name="list_drag">Drag to refresh</string>
     <string name="list_refreshing">Refreshing&#8230;</string>
     <string name="list_recent">Last Updated:</string>
-    
+
     <string name="invalid_args">registry params error</string>
     <string name="user_exist">user name already exist</string>
     <string name="user_not_exist">The email does not exist</string>
     <string name="email_exist">The email existes</string>
     <string name="username_illeagl">Email and password does not match</string>
     <string name="email_illeagl">Email address error</string>
-    <string name="invalid_nk_name">Nick name error</string>
     <string name="cmp_result">Details</string>
     <string name="server_error">Server error</string>
-    
-    <string name="request_full_test">Complete a full test</string>
-    <string name="score_god">Oh! My God!</string>
-    <string name="score_monster">WOW! Monster!</string>
-    <string name="score_amazing">Amazing</string>
-    <string name="score_great">Great</string>
-    <string name="score_good_job">Good Job</string>
-    <string name="score_good">Good</string>
-    <string name="score_haha">Not too bad</string>
+
     <string name="score_tried">Really tried</string>
-    
-    <string name="device_level_6">You are the one</string>
-    <string name="device_level_5">You have the best device</string>
-    <string name="device_level_4">More tests, more confidence</string>
-    <string name="device_level_3">Test for courage</string>
-    <string name="device_level_2">Try Benchmark</string>
-    <string name="device_level_1">Make an effort</string>
-    <string name="start_test">Start</string>
-    
-    <string name="nickname_null">Nick name can not be empty</string>
-    <string name="nickname_invalid">Nick name is too long</string>
-    <string name="nickname_nomore">The Nickname length should be within 20 characters</string>
+
+
     <string name="email_null">Email can not be empty</string>
     <string name="email_format_wrong">Mailbox format error</string>
-    <string name="pwd_null">Please input password</string>
-    <string name="confirm_null">Please confirm password</string>
-    <string name="consist_pwd">The passwords you inputted is inconformity</string>
-    <string name="new_single_medal_title">Congratulations, you have a new medal!</string>
-    <string name="new_medals_title">Congratulations, you have new medals! (%1$d/%2$d)</string>
-    <string name="pwd_length_error">Password length should in 6&#8211;14 characters</string>
-    <string name="load_photo_failed">Failed to load photo</string>
-    
+
     <string name="feedback_successful">Submitted.Thanks for your feedback.</string>
-    <string name="feedbacksubmit">Submit</string>
-    <string name="feedback_note">Feedback</string>
-    
-    <string name="menu_profile">User Profile</string>
-    <string name="save">Save</string>
+
     <string name="invalid_username">username and password doesn\'t match</string>
-    <string name="update">Check Update</string>
     <string name="check_update_now">Checking update&#8230;</string>
-    <string name="donwload_update">Downloading new version&#8230;</string>
-    <string name="prompt_new">A new version is available</string>
     <string name="prompt_download">Download the new version now?</string>
-    <string name="comment">Comment your device:</string>
-    <string name="comment_info">Photo and nickname will be displayed in the ranking. Leave your email so we can contact you.</string>
     <string name="setting">Settings</string>
-    <string name="app_setting">Options</string>
-    <string name="auto_update">Auto check update</string>
-    <string name="auto_update_info">Checking update on startup</string>
-    <string name="show_comment">Personal Settings</string>
-    <string name="show_comment_info">Edit your photo, information and comment</string>
-    <string name="show_chart">Auto show bar chart</string>
-    <string name="show_chart_info">Show bar chart after completed benchmark</string>
     <string name="loading">Loading&#8230;</string>
     <string name="load_fail">Failed to load data!\n\nPlease check your network connection.</string>
     <string name="network_error">Please check your network connection</string>
-    <string name="search_again">Search Again</string>
-    <string name="search_desc">Rankings</string>
     <string name="search_hint">Enter device name or model</string>
-    <string name="detail_title">Details - AnTuTu Benchmark</string>
-    <string name="search_title">Search Results</string>
     <string name="search_average_score">Average</string>
     <string name="search_no_result">No results found</string>
-    <string name="search_hot_phone">POPULAR PHONE</string>
     <string name="pk">PK</string>
     <string name="searching">Searching&#8230;</string>
-    <string name="comment_user">User comment</string>
-    <string name="comment_no">No comment</string>
-    <string name="submit_error">Failed to submit scores. Please try again later!</string>
     <string name="update_uptodate">This version is up-to-date</string>
-    <string name="rank_all">Top list</string>
-    <string name="rank_model">Top Models</string>
-    <string name="rank_my">My Device</string>
-    <string name="crossrange">Ranking List</string>
-    <string name="rank_list">Top 20</string>
-    <string name="defaults">Default (all)</string>
-    <string name="custom">Custom</string>
-    <string name="test_cpu_mem">CPU and memory</string>
-    <string name="test_2d">2D graphics</string>
-    <string name="test_3d">3D graphics</string>
-    <string name="test_db">Database IO</string>
-    <string name="test_st">Storage IO</string>
     <string name="search">Search</string>
-    <string name="close">Close</string>
-    <string name="check_update_dec">Check update now</string>
-    <string name="change_photo">Change Photo</string>
     <string name="take_photo">Take photo</string>
-    <string name="pick_photo">Select photo from gallery</string>
-    <string name="name">Nickname</string>
-    <string name="email">Email address</string>
-    <string name="password">Password</string>
-    <string name="confirm_password">Confirm password</string>
-    <string name="show_submit">Show this before submitting</string>
-    <string name="backup_restore">Backup and Restore</string>
-    <string name="backup_files">Backup settings and data</string>
-    <string name="backup_files_dec">Backup settings and data to SD card</string>
-    <string name="restore_files">Restore settings and data</string>
-    <string name="restore_files_dec">Restore settings and data from SD card</string>
-    <string name="backup_warning">Backup settings and data? Any existing data will be overwritten.</string>
-    <string name="restore_warning">Restore settings and data? AnTuTu Benchmark requires restart to finish.</string>
-    <string name="backup_succeed">Backup Completed!</string>
-    <string name="restore_succeed">Restore Completed!</string>
-    <string name="more_detail">Show more details</string>
-    <string name="expand_all">Expand all</string>
-    <string name="collapse_all">Collapse all</string>
-    <string name="sign">Register&amp;Commit scores</string>
-    <string name="netstate">Network Status</string>
-    <string name="setnetwork">Set Network</string>
-    <string name="ok">OK</string>
-    <string name="login">Log In</string>
-    <string name="logout">Log Out</string>
     <string name="support">Support</string>
     <string name="nonsupport">Not Supported</string>
-    <string name="logout_dialog_message">"Are you sure to log out?"</string>
-    <string name="text_mem">RAM</string>
-    <string name="text_cpu">CPU</string>
-    <string name="text_cpu_multithread">CPU (multi-thread)</string>
-    <string name="text_gpu">GPU</string>
-    <string name="text_io">IO</string>
-    <string name="text_ue">UX</string>
-    <string name="text_memo">RAM Operation</string>
-    <string name="text_ram">RAM Speed</string>
-    <string name="text_mt">Multitask</string>
-    <string name="text_vm">Runtime</string>
-    <string name="text_int">CPU integer</string>
-    <string name="text_float">CPU float-point</string>
-    <string name="text_2d">2D graphics</string>
-    <string name="text_3d">3D graphics</string>
-    <string name="text_db">Database I/O</string>
-    <string name="text_st">Storage I/O</string>
-    <string name="resolution">Screen resolution:</string>
-    <string name="cpu_hardware">CPU hardware:</string>
-    <string name="gpu_vendor">GPU vendor:</string>
-    <string name="gpu_renderer">GPU renderer:</string>
-    <string name="gpu_version">GPU version (OpenGL):</string>
-    <string name="brand">Brand:</string>
-    <string name="auto_language">* System language</string>
-    <string name="location">Location:</string>
-    <string name="gpu_supplier">Supplier</string>
-    <string name="size">Size</string>
-    <string name="material">Material</string>
-    <string name="multi_touch">Multi-touch</string>
-    <string name="recommend">Apps</string>
-    <string name="sel_sdcard_path">Choose SD card</string>
-    <string name="kernel">Kernel:</string>
-    <string name="SDCardEx">External SD card size (available/total):</string>
-    <string name="powersaver">Battery Saver</string>
-    <string name="translate">www.antutu.com</string>
-    <string name="info_battery">Battery life</string>
-    <string name="test_battery">Test battery now!</string>
-    <string name="old_version">This score is out of date, please test again!</string>
-    <string name="history">History</string>
-    <string name="history_title">History</string>
-    <string name="no_history">No history found</string>
-    <string name="max_score">Number of Saved History</string>
-    <string name="max_score_info">Max number to saved history scores</string>
-    <string name="chart_all">Bar Chart</string>
-    <string name="chart_list">List chart</string>
-    <string name="chart_phone">Phone</string>
-    <string name="chart_pad">Pad</string>
     <string name="reload">Reload</string>
     <string name="tab_device">Info</string>
-    <string name="tab_bbs">Comments</string>
-    <string name="mobile_info">Mobile Info</string>
-    <string name="mobile_pk">Mobile Comparison</string>
-    <string name="cost_performance">Cost-performance:</string>
-    <string name="usability">Usability:</string>
-    <string name="quality">Quality:</string>
-    <string name="appearance">Appearance:</string>
-    <string name="service">After service:</string>
     <string name="submit">Submit</string>
-    <string name="ratings">User ratings</string>
-    <string name="certification">Authenticated</string>
-    <string name="authenticated">Authenticated by AnTuTu</string>
-    <string name="contact_certification">support@antutu.com</string>
     <string name="camera">Camera:</string>
-    <string name="camera_front">Front camera:</string>
     <string name="mega_pixel">mega pixel</string>
-    <string name="detail_scores">Detailed Scores</string>
-    <string name="total">Total:</string>
-    <string name="submit_to_manufacturer">Forward ratings to manufacturer</string>
-    <string name="submit_success">Submit completed!</string>
-    <string name="share">Share</string>
-    <string name="test_verify_title">Network Verify</string>
-    <string name="test_verify">Verify score by network time</string>
-    <string name="verify_fail">Verify by network time interval failed! Please check your network connection!</string>
-    <string name="auto_bench">Auto benchmark will begain after 10 seconds!</string>
-    <string name="auto_exit">App will exit after 20 seconds!</string>
     <string name="donwload_plugin">Downloading, please wait&#8230;</string>
-    <string name="install_plugin">Installing, please wait&#8230;</string>
-    <string name="cancle_plugin">The plugin is necessary for benchmark! Cancel it anyway?</string>
-    <string name="cancle_download">Cancel the download</string>
-    <string name="compare_title">Compare - AnTuTu Benchmark</string>
-    <string name="compare">PK</string>
-    <string name="compare_pk">Compare</string>
-    <string name="custom_test">Custom Test</string>
     <string name="test_again">Test Again</string>
-    <string name="tab_pk">Compare</string>
-    <string name="antutu_version">Benchmark by AnTuTu v3</string>
-    <string name="tab_main_test">Test</string>
-    <string name="tab_main_rank">Chart</string>
-    <string name="tab_main_info">Info</string>
-    <string name="tab_main_bbs">Forum</string>
-    <string name="initializing">Initializing&#8230;</string>
-    <string name="stability">Stability</string>
-    <string name="stability_title">Stability Result</string>
     <string name="stability_test">Stability Test</string>
-    <string name="stability_info">Stability Chart</string>
-    <string name="stability_info2">Test stability of the system</string>
-    <string name="stability_temp">Temperature Chart</string>
-    <string name="stability_msg">Testing System stability&#8230;</string>
-    <string name="stability_run">Please run stability test at first</string>
-    <string name="stability_figure">The smaller changes to the curve reflect better stability</string>
-    <string name="check_scores">Check scores</string>
-    <string name="density_dpi">Screen density</string>
-    <string name="battery_save">Save your battery life</string>
-    <string name="rating">3D Rating</string>
-    <string name="rating_info">Professional 3D graphics test</string>
-    <string name="axverify">AnTuTu Device Validator</string>
-    <string name="axverify_info">Validate your device</string>
-    <string name="density">Density</string>
     <string name="always_finish_title">\"Don\'t keep activities\" ON</string>
     <string name="always_finish_info">Please unchecked the \"Don\'t keep activities\" in Developer Options</string>
-    <string name="downloading">Downloading, please wait&#8230;</string>
-    <string name="cancle_download_info">Cancel downloading anyway?</string>
-    <string name="always_portrait">Always Portrait</string>
-    <string name="bench_stop">Stopping the test&#8230;</string>
-    <string name="api_version">Android SDK version:</string>
     <string name="device">Device(Mobile Phone)</string>
-    <string name="device_xinghao">Device(Phone) Model</string>
-    <string name="machine_code">Machine Code</string>
-    <string name="brand_">Brand</string>
-    <string name="os">OS</string>
-    <string name="version">Version</string>
-    <string name="kernel_">Kernel</string>
-    <string name="cpu_xinghao">Model</string>
-    <string name="cpu_hexin">Core Count</string>
-    <string name="rate">Rate</string>
-    <string name="surface">Surface</string>
-    <string name="weight">Weight</string>
-    <string name="specifications">Specifications</string>
-    <string name="color">Color</string>
-    <string name="transfer">Transfer</string>
-    <string name="gps">GPS</string>
-    <string name="wifi">WIFI</string>
-    <string name="bluetooth">Bluetooth</string>
-    <string name="storager">Storager</string>
-    <string name="machine_mem">Local Memory</string>
-    <string name="capacity">Capacity</string>
-    <string name="cpu">CPU</string>
-    <string name="memory">Memory</string>
-    <string name="ram">RAM</string>
-    <string name="internet">Network</string>
-    <string name="net_mode">Mode</string>
-    <string name="front">Front</string>
-    <string name="behind">Behind</string>
-    <string name="view_capture">Video capture</string>
-    <string name="photograph">Photograph</string>
-    <string name="sensor">Sensor</string>
     <string name="other">Others</string>
-    <string name="orientation">Orientation sensor</string>
-    <string name="gravity_sensor">Gravity sensor</string>
-    <string name="accelerated_speed">Accelerated speed</string>
-    <string name="light_sensor">Light sensor</string>
-    <string name="electronic_compass">Electronic compass</string>
-    <string name="distance_sensors">Distance sensors</string>
-    <string name="gyro_sensors">Gyro sensors</string>
-    <string name="temperature_sensor">Temperature Sensor</string>
-    <string name="pressure_sensors">Pressure Sensors</string>
-    <string name="test_in_progress">Testing&#8230;</string>
-    <string name="gles3">OpenGL ES 3.0</string>
-    <string name="Testing_multitask">Testing Multitask performance&#8230;</string>
-    <string name="Testing_renderscript">Testing Renderscript performance&#8230;</string>
-    <string name="Testing_dalvik">Testing Runtime performance&#8230;</string>
-    <string name="usr_photo">Avatar</string>
-    <string name="usr_nickname">Nickname</string>
-    <string name="usr_level">Level</string>
-    <string name="usr_gender">Gender</string>
-    <string name="usr_region">Region</string>
-    <string name="usr_award">Medals</string>
-    <string name="usr_award_details">Medals Introduction</string>
-    <string name="usr_change_name_title">Change Nickname</string>
-    <string name="usr_modify_pwd">Modify Password</string>
-    <string name="old_pwd">Old Password</string>
-    <string name="new_pwd">New Password</string>
-    <string name="confirm_new_password">Confirm new password</string>
-    <string name="info_notset">Not Set</string>
-    <string name="info_nothave">Not Have</string>
-    <string name="info_get_medals_tip">How to get medals? Please check</string>
-    <string name="info_no_medal">You have no medals&#8230;</string>
-    <string name="info_get_more_medals_tip">How to get more medals? Please click</string>
-    <string name="error_old_pwd_empty">Please enter current password.</string>
-    <string name="error_new_pwd_empty">Please enter new password.</string>
-    <string name="error_repeat_pwd_empty">Please retype the new password</string>
-    <string name="error_pwd_not_consistent">New password not match</string>
-    <string name="error_not_match">The current password and Email can’t match</string>
-    <string name="error_pwd_max_len">Password length should in 6&#8211;14 characters</string>
-    <string name="error_need_login">Please login at first.</string>
-    <string name="hint_max_name">No more than 20 characters.</string>
-    <string name="password_modify_success">Changes saved</string>
     <string name="infomation_modify_success">Changes saved</string>
-    <string name="hint_login">Login and win more awards</string>
-    	<string name="ke">g</string>
-    
-    <string name="title_activity_main">Main Activity</string>
-    <string name="go_to_fragment">go to fragment</string>
-    <string name="container">press button to show fragment</string>
-    <string name="chat_setting_btn">chat setting</string>
-    <string name="setting_btn">setting</string>
-    <string name="setting_edit_topic_title">Edit Topic</string>
-    <string name="setting_edit_topic_not_set">not set</string>
-    <string name="setting_notifications_title">Notifications</string>
-    <string name="setting_clear_history">Clean Chat History</string>
-    <string name="setting_quit">Quit</string>
-    <string name="setting_edit_topic_dialog_title">Edit Topic</string>
-    <string name="setting_edit_topic_dialog_hint">enter a new name</string>
-    <string name="setting_quit_dialog_msg">quit?</string>
-    <string name="setting_clear_dialog_msg">clear?</string>
-    <string name="share_wechat">WeChat</string>
-    <string name="share_weibo">WeiBo</string>
-    <string name="share_facebook">FaceBook</string>
-    <string name="share_twitter">Twitter</string>
-    <string name="facebook_canceled">operation cancelled</string>
-    <string name="yes">yes</string>
-    <string name="no">no</string>
-    <string name="changing_fragments">Changing Fragments</string>
-    <string name="no_support_cpu">AnTuTu Benchmark has no longer supported the old CPU which without v7a!</string>
-    <string name="no_support_gpu">Your device not support OpenGL ES 3.0!</string>
-    <string name="no_support_preview_gpu">Preview copy dose not support this plugin. Please wait for the final version</string>
-    <string name="need_download_es20">Download 3DRating for OpenGL ES 2.0?</string>
-    <string name="need_download_es30">Download 3DRating for OpenGL ES 3.0?</string>
-	<string name="need_download_yanji">Download Antutu Device Validator?</string>
-    
+    <string name="ke">g</string>
+
+
     <string name="download_market">Download from Google Play</string>
     <string name="download_website">Download from Website</string>
-    
-    <string name="antutu_3d_rating">AnTuTu 3DRating Benchmark</string>
-    <string name="gles2">OpenGL ES 2.0</string>
-    
-    <string name="no_support_sdk">Your device\'s android system is too old to run this test!</string>
-    
-    <string name="gles2_test">OpenGL ES 2.0 Test</string>
-    <string name="gles2_test_description">Know keeper to smart phones/tablets in real gaming performance</string>
-    <string name="gles3_test">OpenGL ES 3.0 Test</string>
+
+
+
 
     <string name="open">Open</string>
     <string name="download">Download</string>
     <string name="download_stop">Stop download now?</string>
     <string name="download_stop_info">You will lose all the downloaded data. Are you sure for this operation?</string>
     <string name="stop">Stop</string>
-	<string name="continue2">Continue</string>
+    <string name="continue2">Continue</string>
     <string name="continue_mobile_info">Starting Downloads %1$s \nCurrently using a mobile network, may cause traffic costs.</string>
-	
-    <string name="need_update_3drating">A new version of 3DRating is available!</string>
-	
-    <string name="not_enough_space">Need at least %1$sM free space to do Storage test!</string>
-    
-    <string name="about_info">Founded in 2010 and composed of some senior technicians who have deep love for moble technology, Antutu Labs concentrates on delivering simple and accurate smart device benchmarking app. Our mission is to develop useful software which can make people have deep understanding to their mobile devices. AnTuTu Benchmark supports more ten languages including English, Russian, Japanese, Korean, Poland, Italian, Czech and so on. Nowadays, over 100,000,000 users used Antutu Benchmark. Antutu Benchmark has became a benchmark standard to mobile device users.</string>
-    
-	<string name="contact_info">Support: support@antutu.com</string>
-	<string name="changelog_title">Change Log</string>
-	<string name="help_localization">I want to help on tranlating Antutu to my language!</string>
-	<string name="about_facebook">Like Us</string>
-    <string name="about_twitter">Follow Us</string>
-    <string name="about_changelog">Change Log</string>
-    <string name="about_help_us">Help Us Localize</string>
-    <string name="about_contribute_thanks">Thanks all volunteers for their great contributions:</string>
-    <string name="about_contribute_author"></string>
-    <string name="no_email_app">This app requires an Email app to send e-mail. Please install one and try again.</string>
-    
-    <string name="attention">Attention</string>
-    <string name="bench_error">Benchmarking has stopped unexpectedly. Please try again!</string>
-    <string name="sd_full">Insufficient SD card space!</string>
-    
-    <string name="score_cpu_prefix">CPU:&#160;</string>
-    <string name="score_cpu_float_800">Poor, Can not run large apps smoothly.&#160;</string>
-    <string name="score_cpu_float_1500">General, Supports most apps.&#160;</string>
-    <string name="score_cpu_float_3000">Good, Supports large apps and multitasking.&#160;</string>
-    <string name="score_cpu_float_5000">Excellent, Supports large apps with excellent multitasking.&#160;</string>
-    
-    <string name="score_ram_preflix">RAM:&#160;</string>
-    <string name="score_ram_800">Poor,&#160;</string>
-    <string name="score_ram_2000">General,&#160;</string>
-    <string name="score_ram_3000">Good,&#160;</string>
-    <string name="score_ram_5000">Excellent,&#160;</string>
-    
-    <string name="score_gpu_2d_preflix">2D graphics:&#160;</string>
-    <string name="score_gpu_2d_500">Poor,&#160;</string>
-    <string name="score_gpu_2d_1000">General,&#160;</string>
-    <string name="score_gpu_2d_1500">Good,&#160;</string>
-    <string name="score_gpu_2d_3000">Excellent,&#160;</string>
-    
-    <string name="score_gpu_3d_preflix">3D graphics:&#160;</string>
-    <string name="score_gpu_3d_1200">Poor, Cannot fluently support many games.</string>
-    <string name="score_gpu_3d_3000">General, Supports most games on it.</string>
-    <string name="score_gpu_3d_5000">Good, Fluently support most games.</string>
-    <string name="score_gpu_3d_10000">Excellent, Fluently support large mobile games.</string>
 
-    <string name="shortcut_name">Antutu Boost</string>
-    <string name="shortcut_result_pre">Speed up&#160;</string>
-    <string name="shortcut_result_percent">%1$d%%</string>
-    <string name="shortcut_result_ok">Best status</string>
+
+
+
+    <string name="contact_info">Support: support@antutu.com</string>
+    <string name="help_localization">I want to help on tranlating Antutu to my language!</string>
+    <string name="no_email_app">This app requires an Email app to send e-mail. Please install one and try again.</string>
+
+    <string name="attention">Attention</string>
+
+
+
+
+
     <string name="download_format">Downloading %s, please wait&#8230;</string>
     <string name="root_already">Yes</string>
     <string name="no_root">No</string>
 
     <string name="try_now">Try Now</string>
-    <string name="warm_tip">Warm tip</string>
     <string name="sec_app_tip">Warm tip: You are running security apps. These apps may affect the benchmark results or cause crash. We recommend you to turn off them during the test:</string>
     <string name="sleep">Sleep</string>
-    <string name="no_use">No used</string>
-	<string name="bat_leve">Battery leve</string>
-	<string name="temp_leve">Temperature leve</string>
-	
-	<string name="more_cpu_info">More CPU Information</string>
-	<string name="cpu_detail_page_name">Name</string>
-	<string name="model">Model</string>
-	<string name="core_count">Cores</string>
-	<string name="cpu_model">Architecture</string>
-	<string name="cpu_fre">Frequency</string>
-	<string name="cpu_core_fre">CPU Core Frequency</string>
+
+    <string name="more_cpu_info">More CPU Information</string>
+    <string name="model">Model</string>
+    <string name="core_count">Cores</string>
+    <string name="cpu_model">Architecture</string>
+    <string name="cpu_fre">Frequency</string>
     <string name="cpu_detail_info">CPU Information</string>
     <string name="cpu_detail_load">CPU Load</string>
     <string name="super_user_quality">Have root access</string>
 
-    <string name="app_tester_name">AnTuTu Tester</string>
     <string name="power_test_title">Battery Test</string>
-    <string name="tester_download_desp"></string>
-	<string name="battery_level_pre">%d%%</string>
-	<string name="battery_temprature_pre">%d°C</string>
-	<string name="mem_usage_pre">%d%%</string>
-	<string name="cpu_usage_pre">%d%%</string>	
-	<string name="widget_battery">Battery Level</string>
-	<string name="widget_memory">RAM Usage</string>
-	<string name="widget_cpu">CPU Load</string>
-	
+
     <string name="root_page_title">Root权限说明</string>
 
-    <string name="verify_device">Device Model:&#160;</string>
-    <string name="verify_code">Verify Code:&#160;</string>
-    <string name="fine_mobile_note">Authentic Products</string>
-    <string name="fake_mobile_note">Fake Products</string>
-    <string name="unknow_mobile_note">Unknow Products</string>
-    <string name="verify_feedback">If you have questions, please feel free to contact AnTuTu.</string>
-    <string name="feedback_us">Contact AnTuTu</string>
 
     <string name="verify_need_test">You need run full test before validate, run it now?</string>
-    <string name="data_send_failed">Request failed</string>
-    
+
     <string name="net_work_error_try">Network error. Please try later</string>
-        
-    <string name="exist_title">Notice</string>
-    <string name="logout_description">Sure to exit the program?</string>
+
     <string name="html5_test">HTML5 Test</string>
-    <string name="rating_title">Love Antutu Benchmark</string>
-    <string name="bit32_64_test">32/64bit Test</string>
     <string name="battery_test">Battery Test</string>
     <string name="video_test">Video Test</string>
-    <string name="validator_test">Validator</string>
     <string name="video_test_name">AnTuTu Video Tester</string>
-    <string name="download_video_test">下载视频测试安装包即可开始视频测试.</string>
-    <string name="rating_content">You’re successfully run a benchmark and got %1$s scores. Is this worth 5-stars?</string>
-    <string name="rating_cancel">NOT NOW</string>
-    <string name="rating_confirm">RATE 5 STARS</string>
-    <string name="message_center">Message Center</string>
-    <string name="no_new_message">No new message</string>
     <string name="update_title">Update Highlights</string>
     <string name="update_summary">1.Checking and display whether NFC is supported.\n2.Optimize search module.</string>
     <string name="update_content">1.Checking and display whether NFC is supported.\n2.Optimize search module.</string>
@@ -667,61 +174,9 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="faq_summary">Why not support our country\'s language?</string>
     <string name="faq_content">1.Why not support our country\'s language?\n\nAntutu benchmark now supports 13 languages including Chinese, English, Korea, Slovak, Turkish, Russia, Ukrainian, Polish, Portuguese, Hungarian, Indonesian, Vietnamese, Japanese. Antutu labs really appreciate all the volunteers for their help during the localization. We are accelerating the products optimization and we welcome more volunteers to help us to do the localization. Thank you.</string>
 
-    <string name="Austria_AT">Austria (AT)</string>
-    <string name="Australia_AU">Australia (AU)</string>
-    <string name="Bulgaria_BG">Bulgaria (BG)</string>
-    <string name="Egypt_EG">Egypt (EG)</string>
-    <string name="Israel_IL">Israel (IL)</string>
-    <string name="Spain_ES">Spain (ES)</string>
-    <string name="Czech_Republic_CZ">Czech Republic (CZ)</string>
-    <string name="Denmark_DK">Denmark (DK)</string>
-    <string name="Switzerland_CH">Switzerland (CH)</string>
-    <string name="Germany_DE">Germany (DE)</string>
-    <string name="Liechtenstein_LI">Liechtenstein (LI)</string>
-    <string name="Greece_GR">Greece (GR)</string>
-    <string name="Canada_CA">Canada (CA)</string>
-    <string name="Britain_GB">Britain (GB)</string>
-    <string name="Ireland_IE">Ireland (IE)</string>
-    <string name="India_IN">India (IN)</string>
-    <string name="New_Zealand_NZ">New Zealand (NZ)</string>
-    <string name="SingaporeSG">Singapore(SG)</string>
-    <string name="United_States_US">United States (US)</string>
-    <string name="South_Africa_ZA">South Africa (ZA)</string>
-    <string name="Finland_FI">Finland (FI)</string>
-    <string name="France_FR">France (FR)</string>
-    <string name="Croatia_HR">Croatia (HR)</string>
-    <string name="Hungary_HU">Hungary (HU)</string>
-    <string name="Indonesia_ID">Indonesia (ID)</string>
-    <string name="Italy_IT">Italy (IT)</string>
-    <string name="Japan_JP">Japan (JP)</string>
-    <string name="Korean_KR">Korean (KR)</string>
-    <string name="Lithuania_LT">Lithuania (LT)</string>
-    <string name="Latvia_LV">Latvia (LV)</string>
-    <string name="Norway_NO">Norway (NO)</string>
-    <string name="Belgium_BE">Belgium (BE)</string>
-    <string name="Netherlands_NL">Netherlands (NL)</string>
-    <string name="Brazil_BR">Brazil (BR)</string>
-    <string name="Poland_PL">Poland (PL)</string>
-    <string name="Portugal_PT">Portugal (PT)</string>
-    <string name="Romania_RO">Romania (RO)</string>
-    <string name="Russia_RU">Russia (RU)</string>
-    <string name="Slovakia_SK">Slovakia (SK)</string>
-    <string name="Slovenia_SI">Slovenia (SI)</string>
-    <string name="Serbian_RS">Serbian (RS)</string>
-    <string name="Sweden_SE">Sweden (SE)</string>
-    <string name="Thailand_TH">Thailand (TH)</string>
-    <string name="Philippines_PH">Philippines (PH)</string>
-    <string name="Turkey_TR">Turkey (TR)</string>
-    <string name="Ukraine_UA">Ukraine (UA)</string>
-    <string name="Vietnam_VN">Vietnam (VN)</string>
-    <string name="Hong_Kong_HK">Hong Kong (HK)</string>
-    <string name="Taiwan_TW">Taiwan (TW)</string>
-    <string name="PRC_CN">中华人民共和国 (CN)</string>
 
     <string name="Male">Male</string>
     <string name="Female">Female</string>
-    <string name="SinaWB">Sina Weibo</string>
-    <string name="TencentWB">Tencent Weibo</string>
 
     <string name="Brand">Brand</string>
     <string name="Model">Model</string>
@@ -776,67 +231,40 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="Photograph">Photograph</string>
     <string name="Sensor">Sensor</string>
 
-    <string name="Direction_Sensor">Direction</string>
-    <string name="G_Sensor">G-Sensor</string>
     <string name="Acceleration_Sensor">Acceleration</string>
-    <string name="Light_Sensor">Light</string>
-    <string name="E_Compass">E-Compass</string>
-    <string name="Proximity_Sensor">Proximity</string>
-    <string name="Gyro_Sensor">Gyro</string>
-    <string name="Temperature_Sensor">Temperature</string>
-    <string name="Pressure_Sensor">Pressure</string>
     <string name="Ambient_Temperature_Sensor">Ambient Temperature</string>
-    <string name="Relative_Humidity_Sensor">Relative Humidity</string>
-    <string name="Linear_Acceleration_Sensor">Linear Acceleration</string>
-    <string name="Rotation_Vector_Sensor">Rotation Vector</string>
+    <string name="Game_rotation_vector">Game Ratation Vector</string>
+    <string name="Geomagnetic">Geomagnetic Rotation Vector</string>
+    <string name="Gravity">Gravity</string>
+    <string name="Gyroscope">Gyroscope</string>
+    <string name="Gyroscope_uncalibrated">Gyroscope Uncalibrated</string>
+    <string name="Heart_rate">Heart rate</string>
+    <string name="Light">Light Sensor</string>
+    <string name="Linear_acceleration">Linear Acceleration</string>
+    <string name="Magnetic_field">Magnetic Field</string>
+    <string name="Magnetic_field_uncalibrated">Magnetic Field Uncalibrated</string>
+    <string name="Orientation">Orientation</string>
+    <string name="Pressure">Pressure</string>
+    <string name="Proximity">Proximity</string>
+    <string name="Relative_humidity">Relative Humidity</string>
+    <string name="Rotation_vector">Rotation Vector</string>
+    <string name="Significant_motion">Significant Motion</string>
+    <string name="Step_counter">Step Counter</string>
+    <string name="Step_detector">Step Detector</string>
 
-    <string name="Have_root_access">Have root access</string>
-    <string name="Ad_Banners">Ad Banners</string>
-    <string name="title_activity_more_tools">MoreToolsActivity</string>
-    <string name="action_settings">Settings</string>
 
-    <string name="c_info_int_single">Single-thread Integer</string>
-    <string name="c_info_float_single">Single-thread Float</string>
 
-    <string name="info_ints">Single-thread integer:</string>
-    <string name="info_floats">Single-thread float-point:</string>
 
-    <string name="Testing_int_single">Testing Single thread integer performance&#8230;</string>
-    <string name="Testing_float_single">Testing Single thread float performance&#8230;</string>
 
-    <string name="a3d_res">3D Plug-in</string>
     <string name="a3d_wait">Please wait for AnTuTu 3D Plug-in install</string>
-    <string name="a3d_success">AnTuTu 3D Plug-in successfully installed</string>
     <string name="a3d_download">Start downloading AnTuTu 3D Plug-in&#8230;</string>
-    <string name="a3d_install">Start installing AnTuTu 3D Plug-in&#8230;</string>
-    <string name="not_art">The 3D test not support ART runtime now, Please use Dalvik or wait for new version</string>
-    <string name="not_checkjni">Please set CheckJNI OFF to run 3D test!</string>
 
     <string name="yanji_test_title">AnTuTu Device Validator</string>
-    <string name="title_64bit_test">AnTuTu 32/64bit CPU Test</string>
     <string name="test_64bit_name">32/64bit CPU Test</string>
-    <string name="test_64bit">64bit CPU Test</string>
-    <string name="test_32bit">32bit CPU Test</string>
-    <string name="title_64bit">64 bit</string>
-    <string name="title_32bit">32 bit</string>
-    <string name="c_Prepare">Preparing to test</string>
-    <string name="c_Cleanup">Save the results and cleanup</string>
-    <string name="c_StringSort">String Sort</string>
-    <string name="c_Fourier">Fourier Series</string>
-    <string name="c_Huffman">Huffman Encode</string>
-    <string name="c_LU">Linear Equations</string>
-    <string name="c_AES">AES Encryption</string>
-    <string name="c_PNG">PNG Encode</string>
-    <string name="not_support">N/A</string>
-    <string name="multi_thread">Multi-thread&#160;</string>
-    <string name="c_info_total_st">Single-thread Test</string>
-    <string name="c_info_total_mt">Multi-thread Test</string>
-    <string name="need_v41">Only support Android 4.1 and above</string>
 
     <string name="bit32">32-bit</string>
     <string name="bit64">64-bit</string>
 
-    <string name="text_cpu_single">CPU (single thread)</string>
     <string name="CPU_Type">Type</string>
     <string name="verify_info">The score not been verified by AnTuTu! Please check your network connection!</string>
     <string name="verify_not">Non-verified</string>
@@ -850,62 +278,35 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="download_officer_warning">Now will help you to download the AnTuTu Officer</string>
     <string name="download_officer_3g_warning">Need to download the AnTuTu Officer ，The current is not WIFI environment, whether to download and install</string>
 
-    <string name="benchmark_clause">The AnTuTu Benchmark Clause</string>
     <string name="need_download3d_title">Install 3D resources</string>
     <string name="need_download3d_content">In order to keep the download speed, it is recommended that the option market</string>
     <string name="need_download3d_content_not_wifi">In order to keep the download speed, it is recommended that the option market.The current is not WIFI environment, are you sure you want to continue to download.</string>
-    <string name="exist">Exit</string>
     <string name="install_and_test">Download&amp;Install</string>
     <string name="market_download">AppMarket Download</string>
-    <string name="front_download_title">Downloading %1$s</string>
-    <string name="front_download_hide_window">Hide the window</string>
-    <string name="cpu_64bit_res">64-bit Plug-in</string>
-            <!-- 屏幕检测部分 -->
+    <!-- 屏幕检测部分 -->
     <string name="screen_test">Screen Test</string>
-    <string name="screen_broken">LCD Test</string>
     <string name="screen_finish">LCD testing is completed, exiting&#8230;</string>
     <string name="multi_touch_page">Multi-Touch Test</string>
     <string name="touch_me">Touch Me</string>
 
-    <string name="not_certification_title">What is not verify</string>
-    <string name="not_certification_content">There are three possible reason:\n1.No network connection during testing.\n2.Manufacturer changed system timer to cheat!\n3.AnTuTu\'s network connection has been blocked by system or software.</string>
 
     <!-- benchamark description -->
-    <string name="runtime_desp">Android virtual machine is the majority of application  run mode, represent the overall performance.</string>
-    <string name="cpu_single_thread_int_desp">The highest integer performance of the single core of CPU, a lot of apps only can use one CPU core.</string>
-    <string name="cpu_single_thread_float_desp">The highest float performance of the single core of CPU, a lot of apps only can use one CPU core.</string>
-    <string name="cpu_int_desp">The highest integer performance of the entire CPU, integer arithmetic are used in the encrypting, compression/decompression etc.</string>
-    <string name="cpu_float_desp">The highest float performance of the entire CPU, float  arithmetic are used in the image-processing, audio decoding etc.</string>
-    <string name="ram_performance_desp">RAM speed performance, test the highest speed that apps read and write in RAM.</string>
-    <string name="ram_speed_desp">RAM operation performance, test the highest performance that apps do operations in RAM.</string>
-    <string name="multi_task_desp">Multi task performance, simulation multiple background apps running and switch etc.</string>
-    <string name="db_desp">Database I/O performance, test the database query, add, delete operational performance.</string>
-    <string name="storage_desp">Storage I/O performance, test the performance of read and write in internal storage.</string>
 
-    <string name="bit64_install">Enable 64-bit</string>
-    <string name="bit64_enable">Switch to 64-bit</string>
-    <string name="bit64_disable">Switch to 32-bit</string>
 
-    <string name="bit64_enabled">AnTuTu have successfully switch to 64-bit test mode.</string>
-    <string name="bit64_disabled">AnTuTu have successfully switch to 32-bit test mode.</string>
 
-    <string name="install_64bit">The current device running an 64-bit system.\n\nEnable 64-bit test may get better performance.</string>
-    <string name="install_64bit_tip">PS: You can enable and switch 64-bit test in the menu.</string>
-    <string name="push_on">Receive push </string>
-    <string name="push_off">Disable push </string>
-    
+
     <string name="screen_huaidian">LCD Test</string>
     <string name="screen_huijie">Grayscale Test</string>
     <string name="screen_caitiao">Color Bar Test</string>
     <string name="screen_duodian">Multi-Touch Test</string>
     <string name="screen_entry_title">Screen Test</string>
-    
+
     <string name="screen_huaidian_d">Testing screen dead pixel，light or dark point under the pure color pattern</string>
     <string name="screen_huijie_d">Testing visual effect by a multi-level brightness</string>
     <string name="screen_caitiao_d">Testing color brightness，tones and color saturation</string>
     <string name="screen_duodian_d">Testing maximum touch point of screen supported</string>
-    
-    
+
+
     <string name="grey_0">Grayscale Test：Grayscale</string>
     <string name="grey_1">Grayscale Test：level 8（Vertical）</string>
     <string name="grey_2">Grayscale Test：level 8（Level）</string>
@@ -943,62 +344,16 @@ Users can easily know the stability to CPU of devices through the varying trend 
 
 
     <!-- 网络测速-->
-    <string name="equal_net_note">相当于</string>
-    <string name="net_note">宽带</string>
-    <string name="download_note">下载:</string>
-    <string name="upload_note">上传:</string>
-    <string name="no_net_note">请连接网络后测试</string>
-    <string name="testing_note">正在测试…</string>
-    <string name="testing_note_two">正在测试</string>
-    <string name="net_type_note">网络类别：</string>
-    <string name="city_note">城市：</string>
-    <string name="out_netip_note">外网IP：</string>
-    <string name="inner_netip_note">内部IP：</string>
-    <string name="ping_time_note">Ping: </string>
-    <string name="netspeed_test_note">NetSpeed</string>
-    <string name="unit_mb">MB</string>
-    <string name="unit_kb">kB</string>
-    <string name="more_note">更多</string>
-    <string name="netspeed_ping_time_note">网络响应时间：</string>
-    <string name="netspeed_download_speed_note">下载速度：</string>
-    <string name="netspeed_upload_speed_note">上传速度：</string>
-    <string name="netspeed_ip_inner_note">内网IP：</string>
-    <string name="netspeed_ip_out_note">外网IP：</string>
-    <string name="netspeed_no_test">未测试</string>
-    <string name="netspeed_start_test_speed_note">开始测速</string>
-    <string name="netspeed_test_result_title_note">安兔兔网络测速结果</string>
-    <string name="speed_result_chat_note">收发信息 流畅</string>
-    <string name="speed_result_game_note">网络游戏 流畅</string>
-    <string name="speed_result_internet_note">浏览网页 流畅</string>
-    <string name="speed_result_video_note">播放视频 流畅</string>
-    <string name="speed_result_netinfo_note">网络名称:</string>
-    <string name="speed_result_deviceinfo_note">设备型号:</string>
-    <string name="speed_result_share_note">分享</string>
-    <string name="speed_result_message_failed_note">收发信息 延迟</string>
-    <string name="internet_failed_note">浏览网页 缓慢</string>
-    <string name="game_failed_note">网络游戏 卡顿</string>
-    <string name="video_failed_note">网络视频 卡顿</string>
-    <string name="speedtest_exception_note">网络异常，测试中断</string>
-    <string name="speedtest_no_net_note">无网络</string>
-    <string name="speedtest_nonet_setting_note">无可用网络，请检查网络设置</string>
-    <string name="speed_test_exit_note">再按一次退出应用</string>
-    <string name="speed_unit_kbs">KB/s</string>
-    <string name="speedtest_unknow_note">未知</string>
-    <string name="speedtest_bohao_note">拨号</string>
-    <string name="speedtest_zhuanxian_note">专线</string>
-    <string name="speedtest_wait_test_note">等待测试</string>
 
     <!-- V6 -->
 
     <string name="abenckmark_websize">http://www.antutu.com</string>
     <string name="check_update">Check update</string>
     <string name="update_version">V6</string>
-    <string name="cleanup">Cleaning up</string>
 
 
     <!--SlideMenu begin-->
     <string name="more_benckmark">More Test</string>
-    <string name="Test">Test</string>
     <string name="recommend_tofriend">Share</string>
     <string name="localization">Localization</string>
     <string name="auto_download_apk">Download apk automatically</string>
@@ -1008,8 +363,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="receive_message_push"> Accept push information</string>
     <string name="recommend_news">Hot news</string>
     <!--SlideMenu end-->
-    
-    <string name="prepare_for">Preparing for Next Test</string>
+
     <string name="BID_FFT">FFT operation</string>
     <string name="BID_GEMM">GEMM operation</string>
     <string name="BID_MAP">MAP operation</string>
@@ -1060,10 +414,6 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="TID_RAM_INFO">RAM performance</string>
 
     <string name="tab_news">News</string>
-    <string name="pull_to_refresh_tap_label" translatable="false">Click to refresh</string>
-    <string name="pull_to_refresh_update_time_label" translatable="false">last update time </string>
-    <string name="pull_to_refresh_load_label" translatable="false">pull-up to load more info</string>
-    <string name="load_mode_label" translatable="false">loading more</string>
 
     <string name="pull_to_refresh_pull_label">pull-down to refresh</string>
     <string name="pull_to_refresh_release_label">release to refresh</string>
@@ -1073,7 +423,7 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="pull_to_refresh_footer_pull_label">pull-up to load more info</string>
     <string name="pull_to_refresh_footer_refreshing_label">Loading</string>
 
-    <string name="verify_phone_test">Verify your phone</string>
+    <string name="verify_phone_test">AnTuTu Officer</string>
     <string name="suggest_feedback">Feedback</string>
 
     <string name="permissions_waring_title">No Permissions</string>
@@ -1092,10 +442,9 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="connect">Contact</string>
     <string name="your_suggest">Your Suggestions</string>
 
-    <string name="try_again">Try one more time</string>
 
-    <string name="share_all_title">Download AntutuBenchMark v6</string>
-    <string name="share_all_text">Download AntutuBenchMark v6 https://play.google.com/store/apps/details?id=com.antutu.ABenchMark</string>
+    <string name="share_all_title">Download Antutu BenchMark v6</string>
+    <string name="share_all_text">Download Antutu BenchMark v6 https://play.google.com/store/apps/details?id=com.antutu.ABenchMark</string>
     <string name="suggest_apps">Recommended for you</string>
     <string name="now_wifi_can_download">Wifi connection is available. Please feel free to download</string>
 
@@ -1105,15 +454,15 @@ Users can easily know the stability to CPU of devices through the varying trend 
     <string name="now_downloading">Downloading</string>
     <string name="unsupported">Unsupported</string>
 
-    <string name="abenckmark_rules"><a href="http://www.antutu.com/antutubenchmarkclause.htm" >AnTuTu Benchmark Terms of Service</a></string>
-    <string name="not_have_more">Is the last page</string>
+    <string name="abenckmark_rules"><a href="http://www.antutu.com/antutubenchmarkclause.htm">AnTuTu Benchmark Terms of Service</a></string>
+    <string name="not_have_more">Last page</string>
     <string name="qrcode_has_created">QRcode has been generated</string>
     <string name="qrcode_refresh_success">QRcode has been refreshed</string>
 
     <string name="continue_download">Continue</string>
     <string name="cancel_download">Cancel</string>
     <string name="antutu_prompt">Antutu Prompt</string>
-	<string name="cancel_download_canot_test">If cancel the download, will not be able to test</string>
+    <string name="cancel_download_canot_test">You could not run the test if cancel the downloading.</string>
     <string name="downloading_3d_plugin_tips">Downloading the 3D-plugin</string>
     <string name="download_3d_plugin_tips_stoped">Download 3D-Plugin stoped</string>
     <string name="a3d_test">3D Benchmark</string>
@@ -1122,5 +471,21 @@ Users can easily know the stability to CPU of devices through the varying trend 
 
     <string name="submit_email">Send email</string>
     <string name="feedback_msg">Feedback Message:</string>
+    <string name="need_download_3dplugin">Need to download the 3D-Plugin</string>
+    <string name="todownload">Download</string>
+    <string name="gp_download_3dplugin">Download from the Google Play Store</string>
+
+    <string name="please_input_language">Please input language</string>
+    <string name="language">Language</string>
+    <string name="send">Send</string>
+    <string name="share_compare_text">, Evaluate your phone! http://soft.antutu.com</string>
+
+    <!-- 友盟打点使用 -->
+    <string name="home">主页</string>
+    <string name="info">资讯页</string>
+    <string name="article_title">文章标题</string>
+    <string name="article_url">文章标题</string>
+    <string name="article_from_page">来源页面</string>
+    <string name="isopen">是否是打开的</string>
 </resources>
 
