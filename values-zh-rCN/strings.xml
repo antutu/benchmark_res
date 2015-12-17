@@ -4,6 +4,7 @@
     <string name="app_name">安兔兔评测</string>
     <string name="guest">我的名字</string>
     <string name="start_str">开始测试</string>
+    <string name="install_and_test">安装并测试</string>
     <string name="tab_test">测 试</string>
     <string name="tab_rank">排 行</string>
     <string name="setting">设置</string>
@@ -255,9 +256,9 @@
     <string name="download_officer_3g_warning">需要下载安兔兔验机，当前不是WIFI环境，是否下载安装</string>
 
     <string name="need_download3d_title">安装3D资源插件</string>
-    <string name="need_download3d_content">为保证下载安装速度，建议选择应用市场安装</string>
-    <string name="need_download3d_content_not_wifi">为保证下载安装速度，建议选择应用市场安装,当前不是WIFI环境，是否继续下载</string>
-    <string name="install_and_test">下载并安装</string>
+    <string name="need_download3d_content">开启测试，须下载并安装3D插件</string>
+    <string name="need_download3d_content_not_wifi">开启测试，须下载并安装3D插件，是否继续下载</string>
+    <string name="download_and_install">下载并安装</string>
     <string name="market_download">应用市场下载</string>
 
     <!-- 屏幕检测部分  -->
@@ -436,7 +437,7 @@
     <string name="a3d_test">3D 评测</string>
     <string name="cancel_download_canot_test">如果取消下载，将不能完成测试流程</string>
     <string name="downloading_3d_plugin_tips">下载任务中，待下载完成并安装才能开始测试流程</string>
-    <string name="download_3d_plugin_tips_stoped">下载已停止，须完成下载并安装才能开始测试流程</string>
+    <string name="download_3d_plugin_tips_finished">下载已完成，点击<b>安装并开始测试</b></string>
     <string name="officer_isdownloading">安兔兔验机正在下载</string>
     <string name="t3dplugin_isdownloading">3D插件正在下载</string>
 
@@ -446,4 +447,8 @@
     <string name="todownload">去下载</string>
 
     <string name="gp_download_3dplugin">去应用商店下载</string>
+    <string name="not_wifi_environment">您当前不是WIFI网络环境</string>
+    <string name="downloading">下载中%1$d%%</string>
+    <string name="canceled_download">下载已取消</string>
+    <string name="email">邮箱</string>
 </resources>

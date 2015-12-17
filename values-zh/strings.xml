@@ -4,6 +4,7 @@
     <string name="app_name">安兔兔評測</string>
     <string name="guest">我的名字</string>
     <string name="start_str">開始測試</string>
+    <string name="install_and_test">安裝并測試</string>
     <string name="tab_test">測 試</string>
     <string name="tab_rank">排 行</string>
     <string name="setting">設置</string>
@@ -232,9 +233,9 @@
     <!-- benchamark description -->
 
     <string name="need_download3d_title">安裝3D資源插件</string>
-    <string name="need_download3d_content">為保證下載安裝速度，建議選擇應用市場安裝</string>
-    <string name="need_download3d_content_not_wifi">為保證下載安裝速度，建議選擇應用市場安裝,當前不是WIFI環境，是否繼續下載</string>
-    <string name="install_and_test">下載並安裝</string>
+    <string name="need_download3d_content">開啟測試，須下載並安裝3D插件</string>
+    <string name="need_download3d_content_not_wifi">開啟測試，須下載並安裝3D插件，是否繼續下載</string>
+    <string name="download_and_install">下載並安裝</string>
     <string name="market_download">應用市場下載</string>
 
 
@@ -394,4 +395,7 @@
     <string name="todownload">去下載</string>
     <string name="gp_download_3dplugin">去應用商店下載</string>
     <string name="share_compare_text">，不服跑個分！http://soft.antutu.com</string>
+    <string name="not_wifi_environment">您當前不是WIFI網絡環境</string>
+    <string name="downloading">下載中%1$d%%</string>
+    <string name="canceled_download">下載已取消</string>
 </resources>
