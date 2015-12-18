@@ -235,8 +235,8 @@
     <string name="need_download3d_title">安裝3D資源插件</string>
     <string name="need_download3d_content">開啟測試，須下載並安裝3D插件</string>
     <string name="need_download3d_content_not_wifi">開啟測試，須下載並安裝3D插件，是否繼續下載</string>
-    <string name="download_and_install">下載並安裝</string>
-    <string name="market_download">應用市場下載</string>
+    <string name="download_and_install">下載並測試</string>
+    <string name="market_download">應用市場安裝</string>
 
 
 
@@ -398,4 +398,7 @@
     <string name="not_wifi_environment">您當前不是WIFI網絡環境</string>
     <string name="downloading">下載中%1$d%%</string>
     <string name="canceled_download">下載已取消</string>
+
+    <string name="download_and_install_to_test">下載安裝才能開啟測試流程</string>
+
 </resources>

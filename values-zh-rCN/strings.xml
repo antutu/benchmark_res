@@ -258,8 +258,8 @@
     <string name="need_download3d_title">安装3D资源插件</string>
     <string name="need_download3d_content">开启测试，须下载并安装3D插件</string>
     <string name="need_download3d_content_not_wifi">开启测试，须下载并安装3D插件，是否继续下载</string>
-    <string name="download_and_install">下载并安装</string>
-    <string name="market_download">应用市场下载</string>
+    <string name="download_and_install">下载并测试</string>
+    <string name="market_download">应用市场安装</string>
 
     <!-- 屏幕检测部分  -->
     <string name="screen_test">屏幕检测</string>
@@ -451,4 +451,5 @@
     <string name="downloading">下载中%1$d%%</string>
     <string name="canceled_download">下载已取消</string>
     <string name="email">邮箱</string>
+    <string name="download_and_install_to_test">下载安装才能开启测试流程</string>
 </resources>

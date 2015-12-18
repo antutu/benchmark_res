@@ -282,7 +282,7 @@
     <string name="need_download3d_title">Install 3D resources</string>
     <string name="need_download3d_content">Start test,you must download and install the 3D-plugin</string>
     <string name="need_download3d_content_not_wifi">Start test,you must download and install the 3D-plugin,continue to download</string>
-    <string name="download_and_install">Download&amp;Install</string>
+    <string name="download_and_install">Download&amp;Test</string>
     <string name="market_download">AppMarket Download</string>
     <!-- 屏幕检测部分 -->
     <string name="screen_test">Screen Test</string>
@@ -481,17 +481,19 @@
     <string name="send">Send</string>
     <string name="share_compare_text">, Evaluate your phone! http://soft.antutu.com</string>
     <string name="not_wifi_environment">You currently is not WIFI network environment</string>
-    <string name="downloading">Downloading%1$d%%</string>
+    <string name="downloading">%1$d%%</string>
     <string name="canceled_download">download cancelled</string>
     <string name="email">email</string>
+    <string name="download_and_install_to_test">Please download and install to start test</string>
 
-    <!-- 友盟打点使用 -->
+    <!-- 友盟打点使用，不翻译 -->
     <string name="home">主页</string>
     <string name="info">资讯页</string>
     <string name="article_title">文章标题</string>
     <string name="article_url">文章标题</string>
     <string name="article_from_page">来源页面</string>
     <string name="isopen">是否是打开的</string>
+    <string name="network_env">网络环境</string>
 
 </resources>
 
